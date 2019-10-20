@@ -1,8 +1,8 @@
----
-name: Pull request
-about: Pull request
-title: 'Adds new repository [owner/repository]'
----
+<!-- 
+The title of the PR should be:
+
+Adds new repository [owner/repository]
+  -->
 
 Before you submit a pull request, please make sure you have to following:
 
