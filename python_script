@@ -1,1 +1,5 @@
-[]
+[
+  "bieniu/ha-shellies-discovery",
+  "bieniu/ha-thermostat-update",
+  "mf-social/ps-date-countdown"
+]
