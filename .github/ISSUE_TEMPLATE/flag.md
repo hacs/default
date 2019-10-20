@@ -4,7 +4,6 @@ about: Flagging of content shown
 title: ''
 labels: flag
 assignees: ludeeus
-
 ---
 
 <!-- Learn how to submit an issue here https://hacs.xyz/docs/issues -->

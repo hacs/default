@@ -1,3 +1,9 @@
+---
+name: Pull request
+about: Pull request
+title: 'Adds new repository [owner/repository]'
+---
+
 Before you submit a pull request, please make sure you have to following:
 
 - [ ] You are submitting only 1 repository.
