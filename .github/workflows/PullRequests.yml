@@ -13,7 +13,7 @@ jobs:
         run: |
             jq --raw-output "." "appdaemon"
             jq --raw-output "." "blacklist"
-            jq --raw-output "." "integrations"
+            jq --raw-output "." "integration"
             jq --raw-output "." "plugin"
             jq --raw-output "." "python_script"
             jq --raw-output "." "theme"
