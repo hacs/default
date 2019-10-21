@@ -1,5 +1,5 @@
-name: Push
-on: push
+name: Lint
+on: [push, pull_request]
 
 jobs:
   push:
@@ -15,7 +15,3 @@ jobs:
             jq --raw-output "." "plugin"
             jq --raw-output "." "python_script"
             jq --raw-output "." "theme"
-      - uses: hacs/actions@master
-        name: "Running HACS Actions"
-        with:
-          github-token: "${{ secrets.GITHUB_TOKEN }}"
