@@ -1,10 +1,8 @@
-name: Pull request
-on:
-  pull_request:
-    types: [labeled, opened, synchronize, reopened, closed]
+name: Push
+on: push
 
 jobs:
-  pull_request:
+  push:
     name: Actions
     runs-on: ubuntu-latest
     steps:
