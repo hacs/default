@@ -49,6 +49,7 @@
   "pilotak/homeassistant-attributes",
   "pilotak/homeassistant-mikrotik",
   "safepay/sensor.fronius",
+  "custom-components/hacs",
   "safepay/sensor.willyweather",
   "RobHofmann/HomeAssistant-PhilipsAndroid2014",
   "twrecked/hass-aarlo",
