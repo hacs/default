@@ -26,6 +26,8 @@
   "custom-components/blueprint",
   "custom-components/information",
   "ljmerza/waze-card",
+  "Michsior14/ha-kaiterra",
+  "Michsior14/ha-laser-egg",
   "custom-components/custom_updater",
   "boralyl/hass-smartthinq",
   "amaximus/bkk_stop_card",
