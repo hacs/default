@@ -26,6 +26,7 @@
   "custom-components/blueprint",
   "custom-components/information",
   "ljmerza/waze-card",
+  "shaonianzhentan/ha-cloud-music",
   "Michsior14/ha-kaiterra",
   "Michsior14/ha-laser-egg",
   "custom-components/custom_updater",
