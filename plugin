@@ -62,5 +62,6 @@
   "r-renato/hass-xiaomi-mi-flora-and-flower-care",
   "r-renato/ha-card-waze-travel-time",
   "azuwis/zigbee2mqtt-networkmap",
-  "bokub/rgb-light-card"
+  "bokub/rgb-light-card",
+  "PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card"
 ]
