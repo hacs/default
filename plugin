@@ -63,5 +63,6 @@
   "r-renato/ha-card-waze-travel-time",
   "azuwis/zigbee2mqtt-networkmap",
   "bokub/rgb-light-card",
-  "PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card"
+  "PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card",
+  "royto/logbook-card"
 ]
