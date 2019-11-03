@@ -65,5 +65,6 @@
   "bokub/rgb-light-card",
   "PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card",
   "royto/logbook-card",
-  "iantrich/restriction-card"
+  "iantrich/restriction-card",
+  "iantrich/roku-card"
 ]
