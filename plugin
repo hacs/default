@@ -67,5 +67,6 @@
   "royto/logbook-card",
   "iantrich/restriction-card",
   "iantrich/roku-card",
-  "iantrich/radial-menu"
+  "iantrich/radial-menu",
+  "iantrich/config-template-card",
 ]
