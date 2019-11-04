@@ -66,5 +66,6 @@
   "PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card",
   "royto/logbook-card",
   "iantrich/restriction-card",
-  "iantrich/roku-card"
+  "iantrich/roku-card",
+  "iantrich/radial-menu"
 ]
