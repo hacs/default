@@ -1,4 +1,5 @@
 [
+"au190/au190_thermostat_card"
   "maykar/compact-custom-header",
   "maykar/lovelace-swipe-navigation",
   "peternijssen/lovelace-postnl-card",
