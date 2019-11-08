@@ -1,7 +1,4 @@
 [
-  "au190/au190_thermostat_card",
-  "au190/au190_lock_entity",
-  "au190/au190_bkk_stop_card",
   "maykar/compact-custom-header",
   "maykar/lovelace-swipe-navigation",
   "peternijssen/lovelace-postnl-card",
