@@ -71,5 +71,6 @@
   "iantrich/roku-card",
   "iantrich/radial-menu",
   "iantrich/config-template-card",
-  "iantrich/podcast-card"
+  "iantrich/podcast-card",
+  "iantrich/aftership-card"
 ]
