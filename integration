@@ -131,6 +131,6 @@
   "exKAjFASH/media_player.elkoep_lara",
   "herikw/home-assistant-custom-components",
   "djbulsink/panasonic_ac",
-  "ptimatth/GeorideHA",
-  "Cyr-ius/hass-livebox-component"
+  "Cyr-ius/hass-livebox-component",
+  "ptimatth/GeorideHA"
 ]
