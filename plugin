@@ -72,5 +72,6 @@
   "iantrich/radial-menu",
   "iantrich/config-template-card",
   "iantrich/podcast-card",
-  "iantrich/aftership-card"
+  "iantrich/aftership-card",
+  "hasl-platform/lovelace-hasl-departure-card"
 ]
