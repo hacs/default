@@ -16,6 +16,7 @@
   "thomasloven/lovelace-gui-sandbox",
   "thomasloven/lovelace-card-tools",
   "thomasloven/lovelace-auto-entities",
+  "thomasloven/lovelace-layout-card",
   "isabellaalstrom/krisinfo-card",
   "tcarlsen/lovelace-light-with-profiles",
   "atomic7777/atomic_calendar",
