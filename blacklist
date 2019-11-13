@@ -14,6 +14,7 @@
   "custom-cards/timer-card",
   "custom-cards/camera-card",
   "custom-cards/marquee-state-element",
+  "custom-cards/monster-card",
   "custom-components/lists",
   "custom-components/custom_components",
   "custom-components/custom_cards",
