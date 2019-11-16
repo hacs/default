@@ -10,5 +10,6 @@
   "bieniu/ha-ad-airly",
   "bieniu/ha-ad-thermostats-update",
   "ludeeus/ad-watchdog",
-  "eifinger/appdaemon-deconz-xiaomi-button"
+  "eifinger/appdaemon-deconz-xiaomi-button",
+  "xaviml/z2m_ikea_controller"
 ]
