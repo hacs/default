@@ -77,5 +77,6 @@
   "iantrich/aftership-card",
   "hasl-platform/lovelace-hasl-departure-card",
   "hasl-platform/lovelace-hasl-traffic-status-card",
-  "fineemb/lovelace-remote-card"
+  "fineemb/lovelace-remote-card",
+  "fineemb/Lovelace-fan-xiaomi"
 ]
