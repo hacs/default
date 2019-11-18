@@ -76,5 +76,6 @@
   "iantrich/podcast-card",
   "iantrich/aftership-card",
   "hasl-platform/lovelace-hasl-departure-card",
-  "hasl-platform/lovelace-hasl-traffic-status-card"
+  "hasl-platform/lovelace-hasl-traffic-status-card",
+  "fineemb/lovelace-remote-card"
 ]
