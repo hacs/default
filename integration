@@ -134,5 +134,6 @@
   "djbulsink/panasonic_ac",
   "ptimatth/GeorideHA",
   "freakshock88/hass-populartimes",
-  "shogunxam/Home-Assistant-custom-components-cfr-toscana"
+  "shogunxam/Home-Assistant-custom-components-cfr-toscana",
+  "fineemb/Yeelink-ven-fan"
 ]
