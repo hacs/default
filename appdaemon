@@ -11,5 +11,6 @@
   "bieniu/ha-ad-thermostats-update",
   "ludeeus/ad-watchdog",
   "eifinger/appdaemon-deconz-xiaomi-button",
-  "xaviml/z2m_ikea_controller"
+  "xaviml/z2m_ikea_controller",
+  "ubhits/ad-alexatalkingclock"
 ]
