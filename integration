@@ -144,5 +144,6 @@
   "DarkSir23/sensor.mylar",
   "zachowj/hass-node-red",
   "jcwillox/hass-auto-backup",
-  "pinkywafer/Calendarific"
+  "pinkywafer/Calendarific",
+  "DavidMStraub/homeassistant-homeconnect"
 ]
