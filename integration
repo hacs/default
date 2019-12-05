@@ -136,5 +136,6 @@
   "freakshock88/hass-populartimes",
   "shogunxam/Home-Assistant-custom-components-cfr-toscana",
   "fineemb/Yeelink-ven-fan",
-  "gcobb321/icloud3"
+  "gcobb321/icloud3",
+  "remco770/garbage-bar-homeassistant"
 ]
