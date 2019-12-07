@@ -42,6 +42,7 @@
   "basschipper/homeassistant-generic-hygrostat",
   "claudegel/sinope-1",
   "claudegel/sinope-gt125",
+  "claudegel/sinope-130",
   "tybritten/ical-sensor-homeassistant",
   "Martinvdm/garbage-nissewaard-homeassistant",
   "RobHofmann/HomeAssistant-GreeClimateComponent",
@@ -137,5 +138,7 @@
   "shogunxam/Home-Assistant-custom-components-cfr-toscana",
   "fineemb/Yeelink-ven-fan",
   "gcobb321/icloud3",
+  "remco770/garbage-bar-homeassistant",
+  "tomaae/homeassistant-mikrotik_router"
   "DarkSir23/sensor.mylar"
 ]
