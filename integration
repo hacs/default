@@ -140,5 +140,6 @@
   "fineemb/Yeelink-ven-fan",
   "gcobb321/icloud3",
   "remco770/garbage-bar-homeassistant",
-  "tomaae/homeassistant-mikrotik_router"
+  "tomaae/homeassistant-mikrotik_router",
+  "jcwillox/hass-auto-backup"
 ]
