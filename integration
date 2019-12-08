@@ -54,6 +54,7 @@
   "pilotak/homeassistant-mikrotik",
   "safepay/sensor.fronius",
   "safepay/sensor.willyweather",
+  "safepay/cover.hd_powerview",
   "RobHofmann/HomeAssistant-PhilipsAndroid2014",
   "twrecked/hass-aarlo",
   "mlowijs/HomeAssistant-TeslaCustomComponent",
@@ -139,6 +140,8 @@
   "fineemb/Yeelink-ven-fan",
   "gcobb321/icloud3",
   "remco770/garbage-bar-homeassistant",
-  "tomaae/homeassistant-mikrotik_router",
-  "DarkSir23/sensor.mylar"
+  "tomaae/homeassistant-mikrotik_router"
+  "DarkSir23/sensor.mylar",
+  "zachowj/hass-node-red",
+  "jcwillox/hass-auto-backup"
 ]
