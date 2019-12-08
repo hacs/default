@@ -141,6 +141,7 @@
   "gcobb321/icloud3",
   "remco770/garbage-bar-homeassistant",
   "tomaae/homeassistant-mikrotik_router",
+  "DarkSir23/sensor.mylar",
   "zachowj/hass-node-red",
   "jcwillox/hass-auto-backup"
 ]
