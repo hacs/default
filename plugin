@@ -76,6 +76,7 @@
   "iantrich/podcast-card",
   "iantrich/aftership-card",
   "hasl-platform/lovelace-hasl-departure-card",
-  "hasl-platform/lovelace-hasl-traffic-status-card"
+  "hasl-platform/lovelace-hasl-traffic-status-card",
+  "xMrVizzy/button-toolbar",
   "fineemb/lovelace-fan-xiaomi"
 ]
