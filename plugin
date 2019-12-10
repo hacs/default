@@ -18,6 +18,7 @@
   "thomasloven/lovelace-auto-entities",
   "thomasloven/lovelace-layout-card",
   "thomasloven/lovelace-more-info-card",
+  "thomasloven/lovelace-state-switch",
   "isabellaalstrom/krisinfo-card",
   "tcarlsen/lovelace-light-with-profiles",
   "atomic7777/atomic_calendar",
