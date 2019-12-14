@@ -8,6 +8,9 @@ jobs:
     steps:
       - uses: actions/checkout@v1
 
+      - name: Changed Files Exporter
+        uses: futuratrepadeira/changed-files@v3.0.0
+
       - name: Validate appdaemon
         run: jq --raw-output "." "appdaemon"
 
