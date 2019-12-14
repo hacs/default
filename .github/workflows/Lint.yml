@@ -8,11 +8,23 @@ jobs:
     steps:
       - uses: actions/checkout@v1
 
-      - name: Changed Files Exporter
-        id: files
-        uses: futuratrepadeira/changed-files@v3.0.0
-        with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Validate appdaemon
+        run: jq --raw-output "." "appdaemon"
 
-      - name: Validate changed file
-        run: jq --raw-output "." "${{ steps.files.outputs.files_updated[0].file }}"
+      - name: Validate blacklist
+        run: jq --raw-output "." "blacklist"
+
+      - name: Validate critical
+        run: jq --raw-output "." "critical"
+
+      - name: Validate integration
+        run: jq --raw-output "." "integration"
+
+      - name: Validate plugin
+        run: jq --raw-output "." "plugin"
+
+      - name: Validate python_script
+        run: jq --raw-output "." "python_script"
+
+      - name: Validate theme
+        run: jq --raw-output "." "theme"
