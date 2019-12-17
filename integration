@@ -146,5 +146,6 @@
   "jcwillox/hass-auto-backup",
   "briis/mbweather",
   "pinkywafer/Calendarific",
-  "DavidMStraub/homeassistant-homeconnect"
+  "DavidMStraub/homeassistant-homeconnect",
+  "briis/smartweather"
 ]
