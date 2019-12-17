@@ -28,6 +28,7 @@
   "au190/au190_bkk_stop_card",
   "custom-cards/tracker-card",
   "custom-components/blueprint",
+  "bieniu/ha-ad-airly",
   "custom-components/information",
   "ljmerza/waze-card",
   "shaonianzhentan/ha-cloud-music",
