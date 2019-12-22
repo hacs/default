@@ -148,5 +148,6 @@
   "briis/mbweather",
   "pinkywafer/Calendarific",
   "DavidMStraub/homeassistant-homeconnect",
-  "briis/smartweather"
+  "briis/smartweather",
+  "thevoltagesource/LennoxiComfort"
 ]
