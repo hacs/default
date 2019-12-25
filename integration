@@ -149,5 +149,10 @@
   "pinkywafer/Calendarific",
   "DavidMStraub/homeassistant-homeconnect",
   "briis/smartweather",
-  "thevoltagesource/LennoxiComfort"
+  "thevoltagesource/LennoxiComfort",
+  "rsnodgrass/hass-adtpulse",
+  "rsnodgrass/hass-flo-water",
+  "rsnodgrass/hass-lunos",
+  "rsnodgrass/hass-poolmath",
+  "rsnodgrass/hass-sensorpush"
 ]
