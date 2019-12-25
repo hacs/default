@@ -156,5 +156,6 @@
   "cyberjunky/home-assistant-p2000",
   "cyberjunky/home-assistant-arpscan_tracker",
   "cyberjunky/home-assistant-plugwise",
-  "cyberjunky/home-assistant-hvcgroep"
+  "cyberjunky/home-assistant-hvcgroep",
+  "cyberjunky/home-assistant-ttn_gateway"
 ]
