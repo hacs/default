@@ -150,6 +150,7 @@
   "DavidMStraub/homeassistant-homeconnect",
   "briis/smartweather",
   "thevoltagesource/LennoxiComfort",
+  "cyberjunky/home-assistant-ttn_gateway",
   "cyberjunky/home-assistant-hvcgroep",
   "cyberjunky/home-assistant-plugwise",
   "cyberjunky/home-assistant-arpscan_tracker",
