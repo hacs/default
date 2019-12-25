@@ -152,5 +152,6 @@
   "thevoltagesource/LennoxiComfort",
   "cyberjunky/home-assistant-toon_climate",
   "cyberjunky/home-assistant-toon_smartmeter",
-  "cyberjunky/home-assistant-toon_boilerstatus"
+  "cyberjunky/home-assistant-toon_boilerstatus",
+  "cyberjunky/home-assistant-p2000"
 ]
