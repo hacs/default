@@ -157,5 +157,6 @@
   "cyberjunky/home-assistant-arpscan_tracker",
   "cyberjunky/home-assistant-plugwise",
   "cyberjunky/home-assistant-hvcgroep",
-  "cyberjunky/home-assistant-ttn_gateway"
+  "cyberjunky/home-assistant-ttn_gateway",
+  "cyberjunky/home-assistant-google_fit"
 ]
