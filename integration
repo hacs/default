@@ -154,5 +154,6 @@
   "cyberjunky/home-assistant-toon_smartmeter",
   "cyberjunky/home-assistant-toon_boilerstatus",
   "cyberjunky/home-assistant-p2000",
-  "cyberjunky/home-assistant-arpscan_tracker"
+  "cyberjunky/home-assistant-arpscan_tracker",
+  "cyberjunky/home-assistant-plugwise"
 ]
