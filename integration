@@ -149,5 +149,6 @@
   "pinkywafer/Calendarific",
   "DavidMStraub/homeassistant-homeconnect",
   "briis/smartweather",
-  "thevoltagesource/LennoxiComfort"
+  "thevoltagesource/LennoxiComfort",
+  "cyberjunky/home-assistant-toon_climate"
 ]
