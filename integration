@@ -150,5 +150,13 @@
   "DavidMStraub/homeassistant-homeconnect",
   "briis/smartweather",
   "thevoltagesource/LennoxiComfort",
-  "cyberjunky/home-assistant-google_fit"
+  "cyberjunky/home-assistant-google_fit",
+  "cyberjunky/home-assistant-ttn_gateway",
+  "cyberjunky/home-assistant-hvcgroep",
+  "cyberjunky/home-assistant-plugwise",
+  "cyberjunky/home-assistant-arpscan_tracker",
+  "cyberjunky/home-assistant-p2000",
+  "cyberjunky/home-assistant-toon_boilerstatus",
+  "cyberjunky/home-assistant-toon_smartmeter",
+  "cyberjunky/home-assistant-toon_climate"
 ]
