@@ -160,5 +160,6 @@
   "cyberjunky/home-assistant-toon_climate",
   "rsnodgrass/hass-adtpulse",
   "rsnodgrass/hass-flo-water",
+  "Cyr-ius/hass-livebox-component",
   "rsnodgrass/hass-sensorpush"
 ]
