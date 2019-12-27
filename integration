@@ -158,5 +158,6 @@
   "cyberjunky/home-assistant-toon_boilerstatus",
   "cyberjunky/home-assistant-toon_smartmeter",
   "cyberjunky/home-assistant-toon_climate,
+  "rsnodgrass/hass-adtpulse",
   "rsnodgrass/hass-flo-water"
 ]
