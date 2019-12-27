@@ -162,5 +162,6 @@
   "rsnodgrass/hass-flo-water",
   "Cyr-ius/hass-cozytouch",
   "Cyr-ius/hass-livebox-component",
-  "rsnodgrass/hass-sensorpush"
+  "rsnodgrass/hass-sensorpush",
+  "arjenvrh/audi_connect_ha"
 ]
