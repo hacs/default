@@ -159,5 +159,6 @@
   "cyberjunky/home-assistant-toon_smartmeter",
   "cyberjunky/home-assistant-toon_climate",
   "rsnodgrass/hass-adtpulse",
-  "rsnodgrass/hass-flo-water"
+  "rsnodgrass/hass-flo-water",
+  "rsnodgrass/hass-sensorpush"
 ]
