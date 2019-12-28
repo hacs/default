@@ -14,5 +14,6 @@
   "eifinger/appdaemon-deconz-xiaomi-button",
   "xaviml/z2m_ikea_controller",
   "UbhiTS/ad-alexatalkingclock",
-  "Burningstone91/Hue_Dimmer_Deconz"
+  "Burningstone91/Hue_Dimmer_Deconz",
+  "jmarsik/ad-eurotronic-trv-valvepos"
 ]
