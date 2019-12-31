@@ -164,5 +164,6 @@
   "Cyr-ius/hass-livebox-component",
   "rsnodgrass/hass-sensorpush",
   "bacco007/sensor.waternsw",
-  "dr1rrb/ha-twinkly"
+  "dr1rrb/ha-twinkly",
+  "briis/unifiprotect"
 ]
