@@ -163,5 +163,6 @@
   "Cyr-ius/hass-cozytouch",
   "Cyr-ius/hass-livebox-component",
   "rsnodgrass/hass-sensorpush",
-  "bacco007/sensor.waternsw"
+  "bacco007/sensor.waternsw",
+  "briis/unifiprotect"
 ]
