@@ -81,6 +81,7 @@
   "jxlarrea/ha-emfitqs",
   "PiotrMachowski/Home-Assistant-custom-components-Google-Keep",
   "burnnat/media_player.screenly",
+  "burnnat/ha-polar",
   "snarky-snark/home-assistant-variables",
   "LordBoos/discord_game",
   "dlashua/templatebinarysensor",
