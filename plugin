@@ -19,6 +19,7 @@
   "thomasloven/lovelace-layout-card",
   "thomasloven/lovelace-more-info-card",
   "thomasloven/lovelace-state-switch",
+  "thomasloven/lovelace-template-entity-row",
   "isabellaalstrom/krisinfo-card",
   "tcarlsen/lovelace-light-with-profiles",
   "atomic7777/atomic_calendar",
