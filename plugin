@@ -80,5 +80,7 @@
   "hasl-platform/lovelace-hasl-traffic-status-card",
   "xMrVizzy/button-toolbar",
   "fineemb/lovelace-fan-xiaomi",
-  "Anonym-tsk/lovelace-starline-card"
+  "Anonym-tsk/lovelace-starline-card",
+  "dcramer/lovelace-nextbus-card",
+  "ikaruswill/lovelace-fan-xiaomi"
 ]
