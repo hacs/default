@@ -165,6 +165,7 @@
   "Cyr-ius/hass-cozytouch",
   "Cyr-ius/hass-livebox-component",
   "rsnodgrass/hass-sensorpush",
+  "arjenvrh/audi_connect_ha",
   "bacco007/sensor.waternsw",
   "dr1rrb/ha-twinkly",
   "briis/unifiprotect"
