@@ -168,5 +168,6 @@
   "arjenvrh/audi_connect_ha",
   "bacco007/sensor.waternsw",
   "dr1rrb/ha-twinkly",
-  "briis/unifiprotect"
+  "briis/unifiprotect",
+  "5high/homeassistant-konke"
 ]
