@@ -6,6 +6,7 @@
   "apop880/config-check",
   "benleb/ad-automoli",
   "benleb/ad-ench",
+  "benleb/ad-ench-ad3",
   "benleb/ad-healthcheck",
   "benleb/ad-notifreeze",
   "bieniu/ha-ad-airly",
