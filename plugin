@@ -19,6 +19,7 @@
   "thomasloven/lovelace-layout-card",
   "thomasloven/lovelace-more-info-card",
   "thomasloven/lovelace-state-switch",
+  "thomasloven/lovelace-template-entity-row",
   "isabellaalstrom/krisinfo-card",
   "tcarlsen/lovelace-light-with-profiles",
   "atomic7777/atomic_calendar",
@@ -81,5 +82,7 @@
   "xMrVizzy/button-toolbar",
   "fineemb/lovelace-fan-xiaomi",
   "Anonym-tsk/lovelace-starline-card",
-  "finity69x2/light-brightness-preset-row"
+  "finity69x2/light-brightness-preset-row",
+  "dcramer/lovelace-nextbus-card",
+  "ikaruswill/lovelace-fan-xiaomi"
 ]

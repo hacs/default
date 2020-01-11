@@ -81,6 +81,8 @@
   "jxlarrea/ha-emfitqs",
   "PiotrMachowski/Home-Assistant-custom-components-Google-Keep",
   "burnnat/media_player.screenly",
+  "burnnat/ha-hdhomerun",
+  "burnnat/ha-polar",
   "snarky-snark/home-assistant-variables",
   "LordBoos/discord_game",
   "dlashua/templatebinarysensor",
@@ -163,7 +165,9 @@
   "Cyr-ius/hass-cozytouch",
   "Cyr-ius/hass-livebox-component",
   "rsnodgrass/hass-sensorpush",
+  "arjenvrh/audi_connect_ha",
   "bacco007/sensor.waternsw",
   "dr1rrb/ha-twinkly",
-  "briis/unifiprotect"
+  "briis/unifiprotect",
+  "PTST/O365Calendar-HomeAssistant"
 ]
