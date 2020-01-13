@@ -169,5 +169,6 @@
   "bacco007/sensor.waternsw",
   "dr1rrb/ha-twinkly",
   "briis/unifiprotect",
-  "PTST/O365Calendar-HomeAssistant"
+  "PTST/O365Calendar-HomeAssistant",
+  "kodi1/tvh_rec"
 ]
