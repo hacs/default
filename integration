@@ -169,6 +169,7 @@
   "bacco007/sensor.waternsw",
   "dr1rrb/ha-twinkly",
   "briis/unifiprotect",
+  "ReneNulschDE/mbapipy",
   "shutupflanders/sensor.moneydashboard",
   "PTST/O365Calendar-HomeAssistant"
 ]
