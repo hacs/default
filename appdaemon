@@ -6,6 +6,7 @@
   "apop880/config-check",
   "benleb/ad-automoli",
   "benleb/ad-ench",
+  "benleb/ad-ench-ad3",
   "benleb/ad-healthcheck",
   "benleb/ad-notifreeze",
   "bieniu/ha-ad-airly",
@@ -15,5 +16,7 @@
   "xaviml/z2m_ikea_controller",
   "UbhiTS/ad-alexatalkingclock",
   "Burningstone91/Hue_Dimmer_Deconz",
-  "jmarsik/ad-eurotronic-trv-valvepos"
+  "jmarsik/ad-eurotronic-trv-valvepos",
+  "Petro31/IlluminateDoor",
+  "Petro31/ad_monitor_events"
 ]
