@@ -178,5 +178,6 @@
   "kodi1/darksky_m",
   "ReneNulschDE/mbapipy",
   "shutupflanders/sensor.moneydashboard",
-  "PTST/O365Calendar-HomeAssistant"
+  "PTST/O365Calendar-HomeAssistant",
+  "sebr/bhyve-home-assistant"
 ]
