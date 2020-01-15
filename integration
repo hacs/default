@@ -181,5 +181,6 @@
   "PTST/O365Calendar-HomeAssistant",
   "JAAlperin/hass-bardolph",
   "sebr/bhyve-home-assistant",
-  "vinteo/hass-opensprinkler"
+  "vinteo/hass-opensprinkler",
+  "so3n/HA_harmony_climate_component"
 ]
