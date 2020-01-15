@@ -169,6 +169,13 @@
   "bacco007/sensor.waternsw",
   "dr1rrb/ha-twinkly",
   "briis/unifiprotect",
-  "PTST/O365Calendar-HomeAssistant",
   "kodi1/songpal_m"
+  "kodi1/meteoalarm",
+  "Sholofly/ZiggoNext",
+  "kodi1/tvh_rec",
+  "kodi1/esp_wd",
+  "kodi1/darksky_m",
+  "ReneNulschDE/mbapipy",
+  "shutupflanders/sensor.moneydashboard",
+  "PTST/O365Calendar-HomeAssistant"
 ]
