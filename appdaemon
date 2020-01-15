@@ -18,5 +18,6 @@
   "Burningstone91/Hue_Dimmer_Deconz",
   "jmarsik/ad-eurotronic-trv-valvepos",
   "Petro31/IlluminateDoor",
-  "Petro31/ad_monitor_events"
+  "Petro31/ad_monitor_events",
+  "simonhq/Clean-GTFS" 
 ]
