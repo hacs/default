@@ -51,5 +51,6 @@
   "home-assistant-community-themes/theme-request",
   "home-assistant-community-themes/template",
   "eifinger/here_travel_time",
-  "maykar/compact-custom-header"
+  "maykar/compact-custom-header",
+  "xaviml/z2m_ikea_controller"
 ]
