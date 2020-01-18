@@ -182,5 +182,6 @@
   "JAAlperin/hass-bardolph",
   "sebr/bhyve-home-assistant",
   "vinteo/hass-opensprinkler",
-  "so3n/HA_harmony_climate_component"
+  "so3n/HA_harmony_climate_component",
+  "dlarrick/hass-kumo"
 ]
