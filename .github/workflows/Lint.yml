@@ -28,3 +28,6 @@ jobs:
 
       - name: Validate theme
         run: jq --raw-output "." "theme"
+
+      - name: Validate removed
+        run: jq --raw-output "." "removed"

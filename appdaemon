@@ -19,5 +19,6 @@
   "jmarsik/ad-eurotronic-trv-valvepos",
   "Petro31/IlluminateDoor",
   "Petro31/ad_monitor_events",
-  "simonhq/Clean-GTFS" 
+  "simonhq/Clean-GTFS",
+  "Petro31/ad_people_tracker"
 ]
