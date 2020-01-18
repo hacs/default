@@ -20,5 +20,7 @@
   "Petro31/IlluminateDoor",
   "Petro31/ad_monitor_events",
   "simonhq/Clean-GTFS",
-  "so3n/Bring-Back-group.all_x"
+  "so3n/Bring-Back-group.all_x",
+  "AaronDavidSchneider/SonosAlarmAutomation",
+  "Petro31/ad_people_tracker"
 ]
