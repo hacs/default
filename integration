@@ -182,6 +182,7 @@
   "JAAlperin/hass-bardolph",
   "sebr/bhyve-home-assistant",
   "vinteo/hass-opensprinkler",
+  "AaronDavidSchneider/SonosAlarm",
   "so3n/HA_harmony_climate_component",
   "dlarrick/hass-kumo"
 ]
