@@ -184,5 +184,6 @@
   "vinteo/hass-opensprinkler",
   "AaronDavidSchneider/SonosAlarm",
   "so3n/HA_harmony_climate_component",
-  "dlarrick/hass-kumo"
+  "dlarrick/hass-kumo",
+  "cgarwood/homeassistant-zwave_mqtt"
 ]
