@@ -83,6 +83,7 @@
   "burnnat/media_player.screenly",
   "burnnat/ha-hdhomerun",
   "burnnat/ha-polar",
+  "burnnat/ha-fitness-push",
   "snarky-snark/home-assistant-variables",
   "LordBoos/discord_game",
   "dlashua/templatebinarysensor",
