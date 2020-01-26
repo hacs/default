@@ -187,5 +187,6 @@
   "AaronDavidSchneider/SonosAlarm",
   "so3n/HA_harmony_climate_component",
   "dlarrick/hass-kumo",
+  "cgarwood/homeassistant-zwave_mqtt",
   "Armaell/home-assistant-custom-icons-loader"
 ]
