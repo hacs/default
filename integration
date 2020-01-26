@@ -186,5 +186,6 @@
   "vinteo/hass-opensprinkler",
   "AaronDavidSchneider/SonosAlarm",
   "so3n/HA_harmony_climate_component",
-  "dlarrick/hass-kumo"
+  "dlarrick/hass-kumo",
+  "Armaell/home-assistant-custom-icons-loader"
 ]
