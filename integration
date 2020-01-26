@@ -1,5 +1,4 @@
 [
-  "basnijholt/media_player.kef",
   "lindell/home-assistant-tv4-play",
   "slesinger/HomeAssistant-BMR",
   "daenny/climate_group",
@@ -83,6 +82,7 @@
   "burnnat/media_player.screenly",
   "burnnat/ha-hdhomerun",
   "burnnat/ha-polar",
+  "burnnat/ha-fitness-push",
   "snarky-snark/home-assistant-variables",
   "LordBoos/discord_game",
   "dlashua/templatebinarysensor",
@@ -107,6 +107,7 @@
   "Limych/ha-average",
   "Limych/ha-beward",
   "Limych/ha-car_wash",
+  "Limych/ha-iaquk",
   "Limych/ha-gismeteo",
   "Limych/media_player.linkplay",
   "tmonck/clean_up_snapshots",
@@ -169,6 +170,8 @@
   "bacco007/sensor.waternsw",
   "dr1rrb/ha-twinkly",
   "briis/unifiprotect",
+  "5high/konke",
+  "5high/phicomm-dc1-homeassistant",
   "AdamNaj/linksys_velop",
   "kodi1/songpal_m",
   "kodi1/meteoalarm",
@@ -176,6 +179,7 @@
   "kodi1/tvh_rec",
   "kodi1/esp_wd",
   "kodi1/darksky_m",
+  "amelchio/logbook_cache",
   "ReneNulschDE/mbapipy",
   "shutupflanders/sensor.moneydashboard",
   "PTST/O365Calendar-HomeAssistant",
@@ -185,5 +189,7 @@
   "AaronDavidSchneider/SonosAlarm",
   "so3n/HA_harmony_climate_component",
   "dlarrick/hass-kumo",
-  "ryanmac8/Home-Assistant-Marta"
+  "ryanmac8/Home-Assistant-Marta",
+  "cgarwood/homeassistant-zwave_mqtt",
+  "Armaell/home-assistant-custom-icons-loader"
 ]

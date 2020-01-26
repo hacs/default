@@ -23,5 +23,10 @@
   "so3n/Bring-Back-group.all_x",
   "AaronDavidSchneider/SonosAlarmAutomation",
   "Petro31/ad_people_tracker",
-  "Petro31/ad_group_all"
+  "Petro31/ad_group_all",
+  "Petro31/ad_multizone_media_control",
+  "Petro31/ad_convert_media_volume",
+  "vash3d/nethassmo",
+  "so3n/Appdaemon-Xiaomi-Smart-Button",
+  "so3n/Appdaemon-Xiaomi-Doorbell"
 ]
