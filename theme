@@ -1,5 +1,6 @@
 [
   "basnijholt/lovelace-ios-dark-mode-theme",
+  "basnijholt/lovelace-ios-light-mode-theme",
   "seangreen2/slate_theme",
   "bbbenji/synthwave-hass",
   "naofireblade/clear-theme",
@@ -10,11 +11,13 @@
   "aFFekopp/dark_teal",
   "arsaboo/oxford_blue_theme",
   "aFFekopp/noctis", 
+  "chaptergy/noctis-grey",
   "am80l/sundown",
   "JuanMTech/google_dark_theme",
   "JuanMTech/google_light_theme",
   "fi-sch/ux_goodie_theme",
   "JuanMTech/amoled_blue",
   "78wesley/Darkish-Theme",
-  "sinclairpaul/ha_purple_theme"
+  "sinclairpaul/ha_purple_theme",
+  "houtknots/UglyChristmas-Theme"
 ]
