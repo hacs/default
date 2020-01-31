@@ -73,6 +73,7 @@
   "heinoldenhuis/home_assistant_area_waste",
   "heinoldenhuis/home_assistant_omnik_solar",
   "herikw/home-assistant-custom-components",
+  "heyajohnny/afvalinfo",
   "isabellaalstrom/sensor.krisinformation",
   "JayBlackedOut/hass-nhlapi",
   "jcwillox/hass-auto-backup",
@@ -118,6 +119,7 @@
   "mudape/iphonedetect",
   "nstrelow/ha_philips_android_tv",
   "Paul-dH/Home-Assisant-Sensor-OvApi",
+  "peetereczek/ztm",
   "pilotak/homeassistant-attributes",
   "pilotak/homeassistant-clientraw",
   "pilotak/homeassistant-mikrotik",
@@ -190,5 +192,6 @@
   "xMrVizzy/Minecraft-Version",
   "xMrVizzy/Philips-AirPurifier",
   "zachowj/hass-node-red",
-  "AaronDavidSchneider/SonosAlarm"
+  "AaronDavidSchneider/SonosAlarm",
+  "elad-bar/ha-blueiris"
 ]
