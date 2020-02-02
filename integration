@@ -13,6 +13,7 @@
   "Armaell/home-assistant-custom-icons-loader",
   "asantaga/lightwaverf_HA_EnergySensor",
   "asantaga/wiserHomeAssistantPlatform",
+  "bacco007/sensor.opennem",
   "bacco007/sensor.waternsw",
   "basschipper/homeassistant-generic-hygrostat",
   "bertbert72/HomeAssistant_VirginTivo",
