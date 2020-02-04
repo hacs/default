@@ -188,6 +188,7 @@
   "tmechen/ber_status",
   "tmonck/clean_up_snapshots",
   "tomaae/homeassistant-mikrotik_router",
+  "tuxuser/abfallapi_regioit_ha",
   "twrecked/hass-momentary",
   "twrecked/hass-aarlo",
   "tybritten/ical-sensor-homeassistant",
