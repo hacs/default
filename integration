@@ -122,7 +122,7 @@
   "Mofeywalker/openmensa-hass-component",
   "mudape/iphonedetect",
   "nstrelow/ha_philips_android_tv",
-  "ntilley905/faasensor",
+  "ntilley905/faastatus",
   "Paul-dH/Home-Assisant-Sensor-OvApi",
   "peetereczek/ztm",
   "pilotak/homeassistant-attributes",
