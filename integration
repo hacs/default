@@ -66,6 +66,8 @@
   "edenhaus/ha-prosenic",
   "eifinger/open_route_service",
   "elad-bar/ha-blueiris",
+  "elad-bar/ha-dahuavto",
+  "elad-bar/ha-hpprinter",
   "exKAjFASH/media_player.elkoep_lara",
   "fineemb/Xiaomi-Smart-Multipurpose-Kettle",
   "fineemb/Yeelink-ven-fan",
@@ -165,6 +167,7 @@
   "rsnodgrass/hass-sensorpush",
   "rt400/School-Vacation",
   "ryanmac8/Home-Assistant-Marta",
+  "ryannazaretian/hacs-nexia-climate-integration",
   "safepay/cover.hd_powerview",
   "safepay/sensor.fronius",
   "safepay/sensor.willyweather",
@@ -200,8 +203,5 @@
   "xirixiz/Home-Assistant-Sensor-Afvalwijzer",
   "xMrVizzy/Minecraft-Version",
   "xMrVizzy/Philips-AirPurifier",
-  "zachowj/hass-node-red",
-  "elad-bar/ha-hpprinter",
-  "elad-bar/ha-dahuavto",
-  "ryannazaretian/hacs-nexia-climate-integration"
+  "zachowj/hass-node-red"
 ]
