@@ -145,6 +145,7 @@
   "pippyn/Home-Assistant-Sensor-Afvalbeheer",
   "pippyn/Home-Assistant-Sensor-Groningen-Afvalwijzer",
   "pippyn/Home-Assistant-Sensor-Ophaalkalender",
+  "Pouzor/freebox_player",
   "ptimatth/GeorideHA",
   "PTST/O365Calendar-HomeAssistant",
   "r-renato/hass-xiaomi-mi-flora-and-flower-care",
