@@ -1,6 +1,7 @@
 [
   "5high/konke",
   "5high/phicomm-dc1-homeassistant",
+  "AaronDavidSchneider/SonosAlarm",
   "AdamNaj/linksys_velop",
   "akasma74/Hass-Custom-Alarm",
   "albertogeniola/meross-homeassistant",
@@ -201,6 +202,5 @@
   "xirixiz/Home-Assistant-Sensor-Afvalwijzer",
   "xMrVizzy/Minecraft-Version",
   "xMrVizzy/Philips-AirPurifier",
-  "zachowj/hass-node-red",
-  "AaronDavidSchneider/SonosAlarm"
+  "zachowj/hass-node-red"
 ]
