@@ -78,6 +78,7 @@
   "heinoldenhuis/home_assistant_omnik_solar",
   "herikw/home-assistant-custom-components",
   "heyajohnny/afvalinfo",
+  "Home-Is-Where-You-Hang-Your-Hack/sensor.goveetemp_bt_hci",
   "isabellaalstrom/sensor.krisinformation",
   "JayBlackedOut/hass-nhlapi",
   "jcwillox/hass-auto-backup",
