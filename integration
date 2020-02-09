@@ -1,7 +1,6 @@
 [
   "5high/konke",
   "5high/phicomm-dc1-homeassistant",
-  "AaronDavidSchneider/SonosAlarm",
   "AdamNaj/linksys_velop",
   "akasma74/Hass-Custom-Alarm",
   "albertogeniola/meross-homeassistant",
@@ -66,10 +65,12 @@
   "edenhaus/ha-prosenic",
   "eifinger/open_route_service",
   "elad-bar/ha-blueiris",
+  "elad-bar/ha-dahuavto",
+  "elad-bar/ha-hpprinter",
   "exKAjFASH/media_player.elkoep_lara",
+  "fineemb/Smartmi-smart-heater",
   "fineemb/Xiaomi-Smart-Multipurpose-Kettle",
   "fineemb/Yeelink-ven-fan",
-  "fineemb/Smartmi-smart-heater",
   "fondberg/spotcast",
   "freakshock88/hass-populartimes",
   "gcobb321/icloud3",
@@ -201,6 +202,5 @@
   "xMrVizzy/Minecraft-Version",
   "xMrVizzy/Philips-AirPurifier",
   "zachowj/hass-node-red",
-  "elad-bar/ha-hpprinter",
-  "elad-bar/ha-dahuavto"
+  "AaronDavidSchneider/SonosAlarm"
 ]
