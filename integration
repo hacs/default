@@ -66,8 +66,6 @@
   "edenhaus/ha-prosenic",
   "eifinger/open_route_service",
   "elad-bar/ha-blueiris",
-  "elad-bar/ha-dahuavto",
-  "elad-bar/ha-hpprinter",
   "exKAjFASH/media_player.elkoep_lara",
   "fineemb/Xiaomi-Smart-Multipurpose-Kettle",
   "fineemb/Yeelink-ven-fan",
@@ -203,5 +201,7 @@
   "xirixiz/Home-Assistant-Sensor-Afvalwijzer",
   "xMrVizzy/Minecraft-Version",
   "xMrVizzy/Philips-AirPurifier",
-  "zachowj/hass-node-red"
+  "zachowj/hass-node-red",
+  "elad-bar/ha-hpprinter",
+  "elad-bar/ha-dahuavto"
 ]
