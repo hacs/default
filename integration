@@ -63,6 +63,7 @@
   "dr1rrb/ha-twinkly",
   "DSorlov/hasl-platform",
   "eavanvalkenburg/sia",
+  "edenhaus/ha-prosenic",
   "eifinger/open_route_service",
   "elad-bar/ha-blueiris",
   "exKAjFASH/media_player.elkoep_lara",
@@ -188,6 +189,7 @@
   "tmechen/ber_status",
   "tmonck/clean_up_snapshots",
   "tomaae/homeassistant-mikrotik_router",
+  "tuxuser/abfallapi_regioit_ha",
   "twrecked/hass-momentary",
   "twrecked/hass-aarlo",
   "tybritten/ical-sensor-homeassistant",
@@ -197,5 +199,6 @@
   "xMrVizzy/Minecraft-Version",
   "xMrVizzy/Philips-AirPurifier",
   "zachowj/hass-node-red",
-  "elad-bar/ha-hpprinter"
+  "elad-bar/ha-hpprinter".
+  "elad-bar/ha-dahuavto"
 ]
