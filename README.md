@@ -14,4 +14,4 @@ If you want to publish your repositories as default in HACS have a look here:
 - [custom-cards](https://github.com/custom-cards) for plugins
 - [home-assistant-community-themes](https://github.com/home-assistant-community-themes) for themes
 
-### [Full list of default repositories](https://hacs.xyz/repositories)
+### [Full list of default repositories](https://hacs.xyz/docs/default_repositories)
