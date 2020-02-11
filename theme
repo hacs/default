@@ -1,11 +1,12 @@
 [
   "78wesley/Darkish-Theme",
   "aFFekopp/dark_teal",
-  "aFFekopp/noctis", 
+  "aFFekopp/noctis",
   "am80l/sundown",
   "arsaboo/oxford_blue_theme",
   "basnijholt/lovelace-ios-dark-mode-theme",
   "basnijholt/lovelace-ios-light-mode-theme",
+  "basnijholt/lovelace-ios-themes",
   "bbbenji/synthwave-hass",
   "chaptergy/noctis-grey",
   "estiens/sweet_pink_hass_theme",
@@ -20,8 +21,8 @@
   "JuanMTech/orange_dark",
   "JuanMTech/orange_light",
   "kethoth/green_slate_theme",
-  "naofireblade/clear-theme-dark",
   "naofireblade/clear-theme",
+  "naofireblade/clear-theme-dark",
   "Poeschl/slate_red",
   "seangreen2/slate_theme",
   "sinclairpaul/ha_purple_theme"
