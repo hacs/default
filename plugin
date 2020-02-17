@@ -89,5 +89,6 @@
   "thomasloven/lovelace-template-entity-row",
   "twrecked/lovelace-hass-aarlo",
   "Villhellm/lovelace-animated-background",
-  "xMrVizzy/button-toolbar"
+  "xMrVizzy/button-toolbar",
+  "ofekashery/vertical-stack-in-card"
 ]
