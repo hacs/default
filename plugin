@@ -59,6 +59,7 @@
   "Mofeywalker/openmensa-lovelace-card",
   "nervetattoo/banner-card",
   "nervetattoo/simple-thermostat",
+  "ofekashery/vertical-stack-in-card"
   "peetereczek/ztm-stop-card",
   "peternijssen/lovelace-postnl-card",
   "PiotrMachowski/Home-Assistant-Lovelace-HTML-Jinja2-Template-card",
@@ -89,6 +90,5 @@
   "thomasloven/lovelace-template-entity-row",
   "twrecked/lovelace-hass-aarlo",
   "Villhellm/lovelace-animated-background",
-  "xMrVizzy/button-toolbar",
-  "ofekashery/vertical-stack-in-card"
+  "xMrVizzy/button-toolbar"
 ]
