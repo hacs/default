@@ -159,6 +159,7 @@
   "ReneNulschDE/mbapipy",
   "rgruebel/ha_zigbee2mqtt_networkmap",
   "roberodin/ha-samsungtv-custom",
+  "jaruba/ha-samsungtv-tizen",
   "RobHofmann/HomeAssistant-GreeClimateComponent",
   "RobHofmann/HomeAssistant-PhilipsAndroid2014",
   "robmarkcole/HASS-amazon-rekognition",
