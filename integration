@@ -198,6 +198,7 @@
   "StyraHem/ShellyForHASS",
   "tefinger/hass-brematic",
   "thevoltagesource/LennoxiComfort",
+  "thibmaek/custom-components/blob/master/vrtnws",
   "thomasloven/hass-browser_mod",
   "thomasloven/hass-favicon",
   "thomasloven/hass-fontawesome",
