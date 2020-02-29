@@ -218,5 +218,6 @@
   "xirixiz/Home-Assistant-Sensor-Afvalwijzer",
   "xMrVizzy/Minecraft-Version",
   "xMrVizzy/Philips-AirPurifier",
-  "zachowj/hass-node-red"
+  "zachowj/hass-node-red",
+  "zha-ng/zha-map"
 ]
