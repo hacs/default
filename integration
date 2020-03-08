@@ -215,6 +215,7 @@
   "tuxuser/abfallapi_regioit_ha",
   "twrecked/hass-momentary",
   "twrecked/hass-aarlo",
+  "twrecked/hass-virtual",
   "tybritten/ical-sensor-homeassistant",
   "vinteo/hass-opensprinkler",
   "walthowd/ha-automower",
