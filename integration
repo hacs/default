@@ -113,6 +113,7 @@
   "kodi1/meteoalarm",
   "kodi1/songpal_m",
   "kodi1/tvh_rec",
+  "KoljaWindeler/ics",
   "kuchel77/diskspace",
   "legrego/homeassistant-elasticsearch",
   "lichtteil/local_luftdaten",
