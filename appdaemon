@@ -15,6 +15,7 @@
   "bieniu/ha-ad-thermostats-update",
   "Burningstone91/Hue_Dimmer_Deconz",
   "eifinger/appdaemon-deconz-xiaomi-button",
+  "haberda/light_automation",
   "haberda/update_lights",
   "jmarsik/ad-eurotronic-trv-valvepos",
   "ludeeus/ad-watchdog",
