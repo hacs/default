@@ -226,6 +226,7 @@
   "twrecked/hass-aarlo",
   "twrecked/hass-virtual",
   "tybritten/ical-sensor-homeassistant",
+  "upsert/lutron-caseta-pro",
   "vinteo/hass-opensprinkler",
   "walthowd/ha-automower",
   "websylv/homeassistant-meteoswiss",
