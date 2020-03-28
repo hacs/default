@@ -1,4 +1,4 @@
 [
-  "hacs/ND-NotifyUpdates",
-  "isabellaalstrom/ND-MotionSnapshot"
+    "hacs/ND-NotifyUpdates",
+    "isabellaalstrom/ND-MotionSnapshot"
 ]

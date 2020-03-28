@@ -1,8 +1,8 @@
 [
-  "bieniu/ha-shellies-discovery",
-  "bieniu/ha-thermostat-update",
-  "kodi1/tracker_merge",
-  "mf-social/ps-date-countdown",
-  "pmazz/ps_hassio_entities",
-  "Santobert/HA-UpdateClimate"
+    "bieniu/ha-shellies-discovery",
+    "bieniu/ha-thermostat-update",
+    "kodi1/tracker_merge",
+    "mf-social/ps-date-countdown",
+    "pmazz/ps_hassio_entities",
+    "Santobert/HA-UpdateClimate"
 ]
