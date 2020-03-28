@@ -35,37 +35,59 @@ for repo in blacklist:
         removed.append({"removal_type": "stale/abandoned", "repository": repo})
 
 
+for repo in appdaemon:
+    repository = github.get_repo(repo)
+    if repository.owner.type == "User":
+        ago = datetime.today() - repository.updated_at
+        if ago.days > 180 and repository.open_issues != 0 and len(list(repo.get_pulls())) != 0:
+            removed_authors.append(repo.owner.login)
+            remove_repo(repo)
+            appdaemon.remove(repo)
+
+for repo in integration:
+    repository = github.get_repo(repo)
+    if repository.owner.type == "User":
+        ago = datetime.today() - repository.updated_at
+        if ago.days > 180 and repository.open_issues != 0 and len(list(repo.get_pulls())) != 0:
+            removed_authors.append(repo.owner.login)
+            remove_repo(repo)
+            integration.remove(repo)
+
 for repo in netdaemon:
     repository = github.get_repo(repo)
     if repository.owner.type == "User":
         ago = datetime.today() - repository.updated_at
-        if ago > (365 / 2) and repository.open_issues != 0 and len(list(repo.get_pulls())) != 0:
+        if ago.days > 180 and repository.open_issues != 0 and len(list(repo.get_pulls())) != 0:
             removed_authors.append(repo.owner.login)
             remove_repo(repo)
             netdaemon.remove(repo)
 
+for repo in plugin:
+    repository = github.get_repo(repo)
+    if repository.owner.type == "User":
+        ago = datetime.today() - repository.updated_at
+        if ago.days > 180 and repository.open_issues != 0 and len(list(repo.get_pulls())) != 0:
+            removed_authors.append(repo.owner.login)
+            remove_repo(repo)
+            plugin.remove(repo)
 
+for repo in python_script:
+    repository = github.get_repo(repo)
+    if repository.owner.type == "User":
+        ago = datetime.today() - repository.updated_at
+        if ago.days > 180 and repository.open_issues != 0 and len(list(repo.get_pulls())) != 0:
+            removed_authors.append(repo.owner.login)
+            remove_repo(repo)
+            python_script.remove(repo)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+for repo in theme:
+    repository = github.get_repo(repo)
+    if repository.owner.type == "User":
+        ago = datetime.today() - repository.updated_at
+        if ago.days > 180 and repository.open_issues != 0 and len(list(repo.get_pulls())) != 0:
+            removed_authors.append(repo.owner.login)
+            remove_repo(repo)
+            theme.remove(repo)
 
 with open("removed", "w") as removed_file:
     removed_file.write(json.dumps(removed, sort_keys=True, indent=4))
