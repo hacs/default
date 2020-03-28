@@ -2,9 +2,10 @@ from github import Github
 from datetime import datetime
 import json
 
-github = Github()
+github = Github("")
 
 removed_authors = []
+removed_orgs = []
 
 with open("removed", "r") as removed_file:
     removed = json.loads(removed_file.read())
@@ -37,57 +38,75 @@ for repo in blacklist:
 
 for repo in appdaemon:
     repository = github.get_repo(repo)
-    if repository.owner.type == "User":
-        ago = datetime.today() - repository.updated_at
-        if ago.days > 180 and repository.open_issues != 0 and len(list(repo.get_pulls())) != 0:
-            removed_authors.append(repo.owner.login)
-            remove_repo(repo)
-            appdaemon.remove(repo)
+    ago = datetime.today() - repository.pushed_at
+    if ago.days > 180 and repository.open_issues != 0 and len(list(repository.get_pulls())) != 0:
+        remove_repo(repo)
+        appdaemon.remove(repo)
+        if repository.owner.type == "User":
+            if repository.owner.login not in removed_authors:
+                removed_authors.append(repository.owner.login)
+        else:
+            removed_orgs.append(repo)
 
 for repo in integration:
     repository = github.get_repo(repo)
-    if repository.owner.type == "User":
-        ago = datetime.today() - repository.updated_at
-        if ago.days > 180 and repository.open_issues != 0 and len(list(repo.get_pulls())) != 0:
-            removed_authors.append(repo.owner.login)
-            remove_repo(repo)
-            integration.remove(repo)
+    ago = datetime.today() - repository.pushed_at
+    if ago.days > 180 and repository.open_issues != 0 and len(list(repository.get_pulls())) != 0:
+        remove_repo(repo)
+        integration.remove(repo)
+        if repository.owner.type == "User":
+            if repository.owner.login not in removed_authors:
+                removed_authors.append(repository.owner.login)
+        else:
+            removed_orgs.append(repo)
 
 for repo in netdaemon:
     repository = github.get_repo(repo)
-    if repository.owner.type == "User":
-        ago = datetime.today() - repository.updated_at
-        if ago.days > 180 and repository.open_issues != 0 and len(list(repo.get_pulls())) != 0:
-            removed_authors.append(repo.owner.login)
-            remove_repo(repo)
-            netdaemon.remove(repo)
+    ago = datetime.today() - repository.pushed_at
+    if ago.days > 180 and repository.open_issues != 0 and len(list(repository.get_pulls())) != 0:
+        remove_repo(repo)
+        netdaemon.remove(repo)
+        if repository.owner.type == "User":
+            if repository.owner.login not in removed_authors:
+                removed_authors.append(repository.owner.login)
+        else:
+            removed_orgs.append(repo)
 
 for repo in plugin:
     repository = github.get_repo(repo)
-    if repository.owner.type == "User":
-        ago = datetime.today() - repository.updated_at
-        if ago.days > 180 and repository.open_issues != 0 and len(list(repo.get_pulls())) != 0:
-            removed_authors.append(repo.owner.login)
-            remove_repo(repo)
-            plugin.remove(repo)
+    ago = datetime.today() - repository.pushed_at
+    if ago.days > 180 and repository.open_issues != 0 and len(list(repository.get_pulls())) != 0:
+        remove_repo(repo)
+        plugin.remove(repo)
+        if repository.owner.type == "User":
+            if repository.owner.login not in removed_authors:
+                removed_authors.append(repository.owner.login)
+        else:
+            removed_orgs.append(repo)
 
 for repo in python_script:
     repository = github.get_repo(repo)
-    if repository.owner.type == "User":
-        ago = datetime.today() - repository.updated_at
-        if ago.days > 180 and repository.open_issues != 0 and len(list(repo.get_pulls())) != 0:
-            removed_authors.append(repo.owner.login)
-            remove_repo(repo)
-            python_script.remove(repo)
+    ago = datetime.today() - repository.pushed_at
+    if ago.days > 180 and repository.open_issues != 0 and len(list(repository.get_pulls())) != 0:
+        remove_repo(repo)
+        python_script.remove(repo)
+        if repository.owner.type == "User":
+            if repository.owner.login not in removed_authors:
+                removed_authors.append(repository.owner.login)
+        else:
+            removed_orgs.append(repo)
 
 for repo in theme:
     repository = github.get_repo(repo)
-    if repository.owner.type == "User":
-        ago = datetime.today() - repository.updated_at
-        if ago.days > 180 and repository.open_issues != 0 and len(list(repo.get_pulls())) != 0:
-            removed_authors.append(repo.owner.login)
-            remove_repo(repo)
-            theme.remove(repo)
+    ago = datetime.today() - repository.pushed_at
+    if ago.days > 180 and repository.open_issues != 0 and len(list(repository.get_pulls())) != 0:
+        remove_repo(repo)
+        theme.remove(repo)
+        if repository.owner.type == "User":
+            if repository.owner.login not in removed_authors:
+                removed_authors.append(repository.owner.login)
+        else:
+            removed_orgs.append(repo)
 
 with open("removed", "w") as removed_file:
     removed_file.write(json.dumps(removed, sort_keys=True, indent=4))
@@ -105,6 +124,15 @@ with open("python_script", "w") as python_script_file:
     python_script_file.write(json.dumps(python_script, sort_keys=True, indent=4))
 with open("theme", "w") as theme_file:
     theme_file.write(json.dumps(theme, sort_keys=True, indent=4))
+
+
+for repo in removed_orgs:
+    repository = github.get_repo(repo)
+    contributors = list(repository.get_contributors())
+    main_contributor = sorted(contributors, key=lambda x: x.contributions, reverse=True)[0]
+    if main_contributor.login not in removed_authors:
+        removed_authors.append(main_contributor.login)
+
 
 with open("output/authors", "w") as authors:
     authors.write(", @".join(removed_authors))
