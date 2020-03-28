@@ -33,7 +33,7 @@ def remove_repo(repo):
 # Make sure the removed list is up to date
 for repo in blacklist:
     if repo not in str(removed):
-        removed.append({"removal_type": "stale/abandoned", "repository": repo})
+        removed.append({"removal_type": "stale", "repository": repo, "link": "https://github.com/hacs/default/pull/299"})
 
 
 for repo in appdaemon:
