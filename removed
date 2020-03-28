@@ -236,5 +236,81 @@
     {
         "removal_type": "blacklist",
         "repository": "xaviml/z2m_ikea_controller"
+    },
+    {
+        "removal_type": "blacklist",
+        "repository": "apop880/Night-Mode"
+    },
+    {
+        "removal_type": "blacklist",
+        "repository": "ludeeus/ad-watchdog"
+    },
+    {
+        "removal_type": "blacklist",
+        "repository": "andersonshatch/midea-ac-py"
+    },
+    {
+        "removal_type": "blacklist",
+        "repository": "asantaga/lightwaverf_HA_EnergySensor"
+    },
+    {
+        "removal_type": "blacklist",
+        "repository": "bramkragten/lyric"
+    },
+    {
+        "removal_type": "blacklist",
+        "repository": "daenny/climate_group"
+    },
+    {
+        "removal_type": "blacklist",
+        "repository": "jihao/colorfulclouds-hass"
+    },
+    {
+        "removal_type": "blacklist",
+        "repository": "jihao/traccar-cn-hass"
+    },
+    {
+        "removal_type": "blacklist",
+        "repository": "jomwells/ambilight-yeelight"
+    },
+    {
+        "removal_type": "blacklist",
+        "repository": "Limych/ha-gismeteo"
+    },
+    {
+        "removal_type": "blacklist",
+        "repository": "mlowijs/HomeAssistant-TeslaCustomComponent"
+    },
+    {
+        "removal_type": "blacklist",
+        "repository": "rdehuyss/homeassistant-custom_components-denkovi"
+    },
+    {
+        "removal_type": "blacklist",
+        "repository": "rgruebel/ha_zigbee2mqtt_networkmap"
+    },
+    {
+        "removal_type": "blacklist",
+        "repository": "RobHofmann/HomeAssistant-PhilipsAndroid2014"
+    },
+    {
+        "removal_type": "blacklist",
+        "repository": "robmarkcole/HASS-Machinebox-Classificationbox"
+    },
+    {
+        "removal_type": "blacklist",
+        "repository": "timvancann/homeassistant-growatt"
+    },
+    {
+        "removal_type": "blacklist",
+        "repository": "tybritten/ical-sensor-homeassistant"
+    },
+    {
+        "removal_type": "blacklist",
+        "repository": "dimagoltsman/content-card-remote-control"
+    },
+    {
+        "removal_type": "blacklist",
+        "repository": "ljmerza/fitbit-card"
     }
 ]

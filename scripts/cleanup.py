@@ -39,7 +39,7 @@ for repo in blacklist:
 for repo in appdaemon:
     repository = github.get_repo(repo)
     ago = datetime.today() - repository.pushed_at
-    if ago.days > 180 and repository.open_issues != 0 and len(list(repository.get_pulls())) != 0:
+    if ago.days > 180 and (repository.open_issues != 0 or len(list(repository.get_pulls())) != 0):
         remove_repo(repo)
         appdaemon.remove(repo)
         if repository.owner.type == "User":
@@ -51,7 +51,7 @@ for repo in appdaemon:
 for repo in integration:
     repository = github.get_repo(repo)
     ago = datetime.today() - repository.pushed_at
-    if ago.days > 180 and repository.open_issues != 0 and len(list(repository.get_pulls())) != 0:
+    if ago.days > 180 and (repository.open_issues != 0 or len(list(repository.get_pulls())) != 0):
         remove_repo(repo)
         integration.remove(repo)
         if repository.owner.type == "User":
@@ -63,7 +63,7 @@ for repo in integration:
 for repo in netdaemon:
     repository = github.get_repo(repo)
     ago = datetime.today() - repository.pushed_at
-    if ago.days > 180 and repository.open_issues != 0 and len(list(repository.get_pulls())) != 0:
+    if ago.days > 180 and (repository.open_issues != 0 or len(list(repository.get_pulls())) != 0):
         remove_repo(repo)
         netdaemon.remove(repo)
         if repository.owner.type == "User":
@@ -75,7 +75,7 @@ for repo in netdaemon:
 for repo in plugin:
     repository = github.get_repo(repo)
     ago = datetime.today() - repository.pushed_at
-    if ago.days > 180 and repository.open_issues != 0 and len(list(repository.get_pulls())) != 0:
+    if ago.days > 180 and (repository.open_issues != 0 or len(list(repository.get_pulls())) != 0):
         remove_repo(repo)
         plugin.remove(repo)
         if repository.owner.type == "User":
@@ -87,7 +87,7 @@ for repo in plugin:
 for repo in python_script:
     repository = github.get_repo(repo)
     ago = datetime.today() - repository.pushed_at
-    if ago.days > 180 and repository.open_issues != 0 and len(list(repository.get_pulls())) != 0:
+    if ago.days > 180 and (repository.open_issues != 0 or len(list(repository.get_pulls())) != 0):
         remove_repo(repo)
         python_script.remove(repo)
         if repository.owner.type == "User":
@@ -99,7 +99,7 @@ for repo in python_script:
 for repo in theme:
     repository = github.get_repo(repo)
     ago = datetime.today() - repository.pushed_at
-    if ago.days > 180 and repository.open_issues != 0 and len(list(repository.get_pulls())) != 0:
+    if ago.days > 180 and (repository.open_issues != 0 or len(list(repository.get_pulls())) != 0):
         remove_repo(repo)
         theme.remove(repo)
         if repository.owner.type == "User":
@@ -113,17 +113,17 @@ with open("removed", "w") as removed_file:
 with open("blacklist", "w") as blacklist_file:
     blacklist_file.write(json.dumps(blacklist, sort_keys=True, indent=4))
 with open("appdaemon", "w") as appdaemon_file:
-    appdaemon_file.write(json.dumps(appdaemon, sort_keys=True, indent=4))
+    appdaemon_file.write(json.dumps(appdaemon, sort_keys=True, indent=2))
 with open("integration", "w") as integration_file:
-    integration_file.write(json.dumps(integration, sort_keys=True, indent=4))
+    integration_file.write(json.dumps(integration, sort_keys=True, indent=2))
 with open("netdaemon", "w") as netdaemon_file:
-    netdaemon_file.write(json.dumps(netdaemon, sort_keys=True, indent=4))
+    netdaemon_file.write(json.dumps(netdaemon, sort_keys=True, indent=2))
 with open("plugin", "w") as plugin_file:
-    plugin_file.write(json.dumps(plugin, sort_keys=True, indent=4))
+    plugin_file.write(json.dumps(plugin, sort_keys=True, indent=2))
 with open("python_script", "w") as python_script_file:
-    python_script_file.write(json.dumps(python_script, sort_keys=True, indent=4))
+    python_script_file.write(json.dumps(python_script, sort_keys=True, indent=2))
 with open("theme", "w") as theme_file:
-    theme_file.write(json.dumps(theme, sort_keys=True, indent=4))
+    theme_file.write(json.dumps(theme, sort_keys=True, indent=2))
 
 
 for repo in removed_orgs:
