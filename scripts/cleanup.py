@@ -19,7 +19,7 @@ def remove_repo(repo):
 
 for category in categories:
     with open(category, "r") as category_file:
-    category_content[category] = json.loads(category_file.read())
+        category_content[category] = json.loads(category_file.read())
 
 with open("removed", "r") as removed_file:
     categories["removed"] = json.loads(removed_file.read())
