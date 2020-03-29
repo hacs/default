@@ -11,7 +11,7 @@ def add_grace(repo):
     if grace.get(repo) is not None:
         grace[repo] = {"until": until.timestamp(), "count": grace[repo]["count"] + 1}
     else:
-        grace[repo] = {"until": until.timestamp(), "count": 0}
+        grace[repo] = {"until": until.timestamp(), "count": 1}
 
     with open("grace.json", "w") as grace_file:
         grace_file.write(json.dumps(grace, indent=2))

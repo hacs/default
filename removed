@@ -236,5 +236,165 @@
     {
         "removal_type": "blacklist",
         "repository": "xaviml/z2m_ikea_controller"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "ludeeus/ad-watchdog",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "bramkragten/lyric",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "jihao/colorfulclouds-hass",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "jihao/traccar-cn-hass",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "mlowijs/HomeAssistant-TeslaCustomComponent",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "rdehuyss/homeassistant-custom_components-denkovi",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "rgruebel/ha_zigbee2mqtt_networkmap",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "RobHofmann/HomeAssistant-PhilipsAndroid2014",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "robmarkcole/HASS-Machinebox-Classificationbox",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "dmulcahey/zha-network-card",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "custom-components/sensor.rpi_power",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "custom-components/sensor.untappd",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "custom-components/sensor.trakt",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "custom-components/sensor.owlintuition",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "custom-components/sensor.kodi_recently_added",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "custom-components/sensor.avanza_stock",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "custom-components/zaptec",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "custom-components/qbo",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "custom-components/healthchecksio",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "custom-components/ups",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "custom-cards/text-element",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "custom-cards/circle-sensor-card",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "custom-cards/state-element",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "custom-cards/dual-gauge-card",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "custom-cards/ext-weblink",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "custom-cards/surveillance-card",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "custom-cards/cover-element",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "custom-cards/text-action-element",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "custom-cards/bignumber-card",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "custom-cards/entity-attributes-card",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "custom-cards/gauge-card",
+        "link": "https://github.com/hacs/default/pull/299"
+    },
+    {
+        "removal_type": "stale",
+        "repository": "custom-cards/plan-coordinates",
+        "link": "https://github.com/hacs/default/pull/299"
     }
 ]

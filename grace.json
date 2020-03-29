@@ -1,18 +1,38 @@
 {
   "daenny/climate_group": {
-    "until": 1590664351.771498,
-    "count": 0
+    "until": 1590666741.408326,
+    "count": 1
   },
   "apop880/Night-Mode": {
-    "until": 1590664537.412124,
-    "count": 0
+    "until": 1590666753.598709,
+    "count": 1
   },
   "timvancann/homeassistant-growatt": {
-    "until": 1590664544.783085,
-    "count": 0
+    "until": 1590666726.484161,
+    "count": 1
   },
   "dimagoltsman/content-card-remote-control": {
     "until": 1590664572.653552,
-    "count": 0
+    "count": 1
+  },
+  "ljmerza/fitbit-card": {
+    "until": 1590666543.109671,
+    "count": 1
+  },
+  "asantaga/lightwaverf_HA_EnergySensor": {
+    "until": 1590666606.794568,
+    "count": 1
+  },
+  "jomwells/ambilight-yeelight": {
+    "until": 1590666634.31867,
+    "count": 1
+  },
+  "Limych/ha-gismeteo": {
+    "until": 1590666679.22803,
+    "count": 1
+  },
+  "tybritten/ical-sensor-homeassistant": {
+    "until": 1590666699.995688,
+    "count": 1
   }
 }
