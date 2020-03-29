@@ -9,4 +9,4 @@ jobs:
       - uses: actions/checkout@v1
 
       - name: Check lists
-        run: python3 script/is_sorted.py
+        run: python3 scripts/is_sorted.py
