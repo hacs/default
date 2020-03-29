@@ -319,11 +319,6 @@
     },
     {
         "removal_type": "stale",
-        "repository": "custom-components/zaptec",
-        "link": "https://github.com/hacs/default/pull/299"
-    },
-    {
-        "removal_type": "stale",
         "repository": "custom-components/qbo",
         "link": "https://github.com/hacs/default/pull/299"
     },

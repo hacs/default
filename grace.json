@@ -34,5 +34,9 @@
   "tybritten/ical-sensor-homeassistant": {
     "until": 1590666699.995688,
     "count": 1
+  },
+  "custom-components/zaptec": {
+    "until": 1590679896.916692,
+    "count": 1
   }
 }

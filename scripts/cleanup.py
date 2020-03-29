@@ -1,8 +1,9 @@
 from github import Github
 from datetime import datetime
 import json
+import os
 
-github = Github("7e5952d70437e129bcb4e1f3de4b51c17a5f1e8c")
+github = Github(os.getenv("GITHUB_TOKEN"))
 
 removed_authors = []
 removed_orgs = []
@@ -75,11 +76,14 @@ for category in categories:
 
 
 for repo in removed_orgs:
-    repository = github.get_repo(repo)
-    contributors = list(repository.get_contributors())
-    main_contributor = sorted(contributors, key=lambda x: x.contributions, reverse=True)[0]
-    if main_contributor.login not in removed_authors:
-        removed_authors.append(main_contributor.login)
+    if repo not in str(removed) or repo not in str(blacklist):
+        repository = github.get_repo(repo)
+        contributors = list(repository.get_contributors())
+        main_contributor = sorted(contributors, key=lambda x: x.contributions, reverse=True)[0]
+        with open("output/orgs", "a") as orgs:
+            orgs.write(f"{repo} - @{main_contributor.login}")
+        if main_contributor.login not in removed_authors:
+            removed_authors.append(main_contributor.login)
 
 
 with open("output/authors", "w") as authors:

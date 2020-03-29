@@ -65,7 +65,6 @@
   "custom-components/switch.hadockermon",
   "custom-components/ups",
   "custom-components/usps_mail",
-  "custom-components/zaptec",
   "dmulcahey/zha-network-card",
   "eifinger/here_travel_time",
   "home-assistant-community-themes/template",
