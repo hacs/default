@@ -1,0 +1,12 @@
+name: Lint [sorted]
+on: [push, pull_request]
+
+jobs:
+  push:
+    name: Make sure lists is sorted
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+
+      - name: Check lists
+        run: python3 scripts/is_sorted.py
