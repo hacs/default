@@ -33,12 +33,14 @@ remove = {
     "repository": repo
 }
 
+orgs = ["custom-cards", "custom-components"]
+
 foundcategory = None
 categorycontent = None
 blacklistcontent = None
 removedcontent = None
 
-for category in ["blacklist", "appdaemon", "integration", "netdaemon", "plugin", "python_script", "theme"]:
+for category in ["appdaemon", "integration", "netdaemon", "plugin", "python_script", "theme"]:
     with open(category, "r") as cat_file:
         content = json.loads(cat_file.read())
         if remove["repository"] in content:
@@ -47,9 +49,10 @@ for category in ["blacklist", "appdaemon", "integration", "netdaemon", "plugin",
             categorycontent = content
             break
 
-if foundcategory is None or foundcategory is None:
-    print(f"Could not find repository {remove['repository']}")
-    exit(1)
+if remove["repository"].split("/")[0] not in orgs:
+    if foundcategory is None or foundcategory is None:
+        print(f"Could not find repository {remove['repository']}")
+        exit(1)
 
 with open("blacklist", "r") as blacklist_file:
     blacklistcontent = json.loads(blacklist_file.read())
@@ -58,9 +61,10 @@ with open("removed", "r") as removed_file:
     removedcontent = json.loads(removed_file.read())
 
 blacklistcontent.append(remove["repository"])
-categorycontent.remove(remove["repository"])
+if remove["repository"].split("/")[0] not in orgs:
+    categorycontent.remove(remove["repository"])
 
-data = {"repository": repo}
+data = {"repository": remove["repository"]}
 if remove["reason"] is not None:
     data["reason"] = remove["reason"]
 if remove["removal_type"] is not None:
@@ -76,5 +80,6 @@ with open("blacklist", "w") as blacklist_file:
 with open("removed", "w") as removed_file:
     removed_file.write(json.dumps(removedcontent, indent=2))
 
-with open(foundcategory, "w") as cat_file:
-    cat_file.write(json.dumps(sorted(categorycontent, key=str.casefold), indent=2))
+if remove["repository"].split("/")[0] not in orgs:
+    with open(foundcategory, "w") as cat_file:
+        cat_file.write(json.dumps(sorted(categorycontent, key=str.casefold), indent=2))
