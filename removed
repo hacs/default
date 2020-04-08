@@ -1,240 +1,246 @@
 [
-    {
-        "link": "https://github.com/hacs/default/pull/2",
-        "reason": "Security issues, known to steal auth tokens.",
-        "removal_type": "critical",
-        "repository": "test/test"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "amaximus/bkk_stop_card"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "au190/au190_bkk_stop_card"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "au190/au190_lock_entity"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "au190/au190_thermostat_card"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "basnijholt/media_player.kef"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "benleb/ad-batterycheck"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "benleb/ad-ench-ad3"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "bieniu/ha-ad-airly"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "Boosik/discord_game"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "boralyl/hass-smartthinq"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-cards/boilerplate-card"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-cards/camera-card"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-cards/custom-card-helpers"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-cards/information"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-cards/marquee-state-element"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-cards/monster-card"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-cards/muuri-grid"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-cards/timer-card"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-cards/tracker-card"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-components/binary_sensor.hadockermon"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-components/blueprint"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-components/camera.multisource"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-components/cloudflare"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-components/complimentr"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-components/custom_cards"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-components/custom_components"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-components/custom_updater"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-components/google_keep"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-components/hassbian_config"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-components/information"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-components/lists"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-components/sensor.ctabustracker"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-components/sensor.custom_aftership"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-components/sensor.custom_cards"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-components/sensor.custom_components"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-components/sensor.geoip"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-components/sensor.launchlibrary"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-components/sensor.ruter"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-components/sensor.syncthing"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-components/sensor.tautulli"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-components/sensor.versions"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-components/sickchill"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-components/switch.hadockermon"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "custom-components/usps_mail"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "eifinger/here_travel_time"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "home-assistant-community-themes/template"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "home-assistant-community-themes/theme-request"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "keatontaylor/alexa_media_player"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "kethoth/green_slate_theme"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "ljmerza/waze-card"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "maykar/compact-custom-header"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "Michsior14/ha-kaiterra"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "Michsior14/ha-laser-egg"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "PTST/O365Calendar-HomeAssistant"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "Rocka84/dual-gauge-card"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "shaonianzhentan/ha-cloud-music"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "tenly2000/HomeAssistant-Places"
-    },
-    {
-        "removal_type": "blacklist",
-        "repository": "xaviml/z2m_ikea_controller"
-    }
+  {
+    "link": "https://github.com/hacs/default/pull/2",
+    "reason": "Security issues, known to steal auth tokens.",
+    "removal_type": "critical",
+    "repository": "test/test"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "amaximus/bkk_stop_card"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "au190/au190_bkk_stop_card"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "au190/au190_lock_entity"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "au190/au190_thermostat_card"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "basnijholt/media_player.kef"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "benleb/ad-batterycheck"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "benleb/ad-ench-ad3"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "bieniu/ha-ad-airly"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "Boosik/discord_game"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "boralyl/hass-smartthinq"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-cards/boilerplate-card"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-cards/camera-card"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-cards/custom-card-helpers"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-cards/information"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-cards/marquee-state-element"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-cards/monster-card"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-cards/muuri-grid"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-cards/timer-card"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-cards/tracker-card"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-components/binary_sensor.hadockermon"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-components/blueprint"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-components/camera.multisource"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-components/cloudflare"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-components/complimentr"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-components/custom_cards"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-components/custom_components"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-components/custom_updater"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-components/google_keep"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-components/hassbian_config"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-components/information"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-components/lists"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-components/sensor.ctabustracker"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-components/sensor.custom_aftership"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-components/sensor.custom_cards"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-components/sensor.custom_components"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-components/sensor.geoip"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-components/sensor.launchlibrary"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-components/sensor.ruter"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-components/sensor.syncthing"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-components/sensor.tautulli"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-components/sensor.versions"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-components/sickchill"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-components/switch.hadockermon"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "custom-components/usps_mail"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "eifinger/here_travel_time"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "home-assistant-community-themes/template"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "home-assistant-community-themes/theme-request"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "keatontaylor/alexa_media_player"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "kethoth/green_slate_theme"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "ljmerza/waze-card"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "maykar/compact-custom-header"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "Michsior14/ha-kaiterra"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "Michsior14/ha-laser-egg"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "PTST/O365Calendar-HomeAssistant"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "Rocka84/dual-gauge-card"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "shaonianzhentan/ha-cloud-music"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "tenly2000/HomeAssistant-Places"
+  },
+  {
+    "removal_type": "blacklist",
+    "repository": "xaviml/z2m_ikea_controller"
+  },
+  {
+    "repository": "r-renato/hass-xiaomi-mi-flora-and-flower-care",
+    "reason": "Request from author",
+    "removal_type": "blacklist",
+    "link": "https://github.com/hacs/integration/pull/1045"
+  }
 ]
