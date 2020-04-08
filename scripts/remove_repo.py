@@ -2,7 +2,7 @@ import sys
 import json
 
 
-if len(sys.argv) < 2:
+if len(sys.argv) < 3:
     print('  Usage: python3 scripts/remove_repo.py [repository] [removal_type] "[reason]" [link]')
     exit(1)
 
