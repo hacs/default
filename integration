@@ -12,6 +12,7 @@
   "andersonshatch/midea-ac-py",
   "Anonym-tsk/homeassistant-climate-xiaomi-remote",
   "arjenvrh/audi_connect_ha",
+  "test/test",
   "Armaell/home-assistant-custom-icons-loader",
   "asantaga/lightwaverf_HA_EnergySensor",
   "asantaga/wiserHomeAssistantPlatform",
