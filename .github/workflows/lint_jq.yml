@@ -1,0 +1,33 @@
+name: Lint [jq]
+on: [push, pull_request]
+
+jobs:
+  push:
+    name: Lint with jq
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+
+      - name: Validate appdaemon
+        run: jq --raw-output "." "appdaemon"
+
+      - name: Validate blacklist
+        run: jq --raw-output "." "blacklist"
+
+      - name: Validate critical
+        run: jq --raw-output "." "critical"
+
+      - name: Validate integration
+        run: jq --raw-output "." "integration"
+
+      - name: Validate plugin
+        run: jq --raw-output "." "plugin"
+
+      - name: Validate python_script
+        run: jq --raw-output "." "python_script"
+
+      - name: Validate theme
+        run: jq --raw-output "." "theme"
+
+      - name: Validate removed
+        run: jq --raw-output "." "removed"
