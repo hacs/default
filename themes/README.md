@@ -1,6 +1,6 @@
-# Dark Stell Blue with Colors Theme
+# Stell Blue with Colors Theme
 
-> Dark Stell Blue with Colors Theme by joselito11
+> Stell Blue with Colors Theme by joselito11
 
 ## Screenshots
 
@@ -46,7 +46,7 @@ frontend:
 ```
 
 2. Go to the Community Store.
-3. Search for `DarkSteelBlueColors`.
-4. Navigate to `DarkSteelBlueColors` theme.
+3. Search for `SteelBlueColors`.
+4. Navigate to `SteelBlueColors` theme.
 5. Press `Install`.
 6. Go to services and trigger the `frontend.reload_themes` service.
