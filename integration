@@ -146,6 +146,7 @@
   "mikelawrence/senseme-hacs",
   "mlowijs/HomeAssistant-TeslaCustomComponent",
   "Mofeywalker/openmensa-hass-component",
+  "MTrab/landroid_cloud",
   "mudape/iphonedetect",
   "nstrelow/ha_philips_android_tv",
   "ntilley905/faastatus",
