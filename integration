@@ -16,6 +16,7 @@
   "asantaga/lightwaverf_HA_EnergySensor",
   "asantaga/wiserHomeAssistantPlatform",
   "avdeevsv91/ha_generic_hygrostat",
+  "azogue/fasthue",
   "bacco007/sensor.opennem",
   "bacco007/sensor.waternsw",
   "basschipper/homeassistant-generic-hygrostat",
