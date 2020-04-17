@@ -1,4 +1,5 @@
 [
+  "artem-sedykh/mini-humidifier",
   "amaximus/bkk-stop-card",
   "amaximus/garbage-collection-card",
   "AmoebeLabs/flex-horseshoe-card",
@@ -103,5 +104,4 @@
   "twrecked/lovelace-hass-aarlo",
   "Villhellm/lovelace-animated-background",
   "xMrVizzy/button-toolbar",
-  "artem-sedykh/mini-humidifier",
 ]
