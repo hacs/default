@@ -247,5 +247,11 @@
     "repository": "custom-cards/dual-gauge-card",
     "reason": "Abandoned/Broken",
     "removal_type": "stale"
+  },
+  {
+    "repository": "custom-cards/surveillance-card",
+    "reason": "Abandoned/Broken",
+    "removal_type": "stale",
+    "link": "https://github.com/hacs/default/issues/318"
   }
 ]
