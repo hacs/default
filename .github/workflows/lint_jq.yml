@@ -1,9 +1,9 @@
-name: Lint
+name: Lint [jq]
 on: [push, pull_request]
 
 jobs:
   push:
-    name: Actions
+    name: Lint with jq
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1

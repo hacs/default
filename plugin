@@ -25,9 +25,10 @@
   "dooz127/swipe-glance-card",
   "enriqg9/dual-thermostat",
   "faeibson/lovelace-multiline-text-input-card",
+  "fineemb/lovelace-dc1-card",
   "fineemb/lovelace-fan-xiaomi",
   "fineemb/lovelace-thermostat-card",
-  "fineemb/lovelace-dc1-card",
+  "finity69x2/binary-control-button-row",
   "finity69x2/fan-control-entity-row",
   "finity69x2/light-brightness-preset-row",
   "gadgetchnnel/lovelace-card-preloader",
@@ -62,8 +63,8 @@
   "ljmerza/tracking-number-card",
   "ljmerza/travel-time-card",
   "marrobHD/firetv-card",
-  "marrobHD/tv-card",
   "marrobHD/rotel-card",
+  "marrobHD/tv-card",
   "maykar/custom-header",
   "maykar/lovelace-swipe-navigation",
   "Mofeywalker/openmensa-lovelace-card",
@@ -79,7 +80,6 @@
   "PiotrMachowski/lovelace-xiaomi-vacuum-map-card",
   "postlund/search-card",
   "r-renato/ha-card-waze-travel-time",
-  "r-renato/hass-xiaomi-mi-flora-and-flower-care",
   "RodBr/miflora-card",
   "royto/logbook-card",
   "Savjee/button-text-card",
@@ -102,6 +102,5 @@
   "thomasloven/lovelace-template-entity-row",
   "twrecked/lovelace-hass-aarlo",
   "Villhellm/lovelace-animated-background",
-  "xMrVizzy/button-toolbar",
-  "finity69x2/binary-control-button-row"
+  "xMrVizzy/button-toolbar"
 ]
