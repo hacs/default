@@ -12,7 +12,6 @@
   "custom-cards/boilerplate-card",
   "custom-cards/camera-card",
   "custom-cards/custom-card-helpers",
-  "custom-cards/dual-gauge-card",
   "custom-cards/information",
   "custom-cards/marquee-state-element",
   "custom-cards/monster-card",

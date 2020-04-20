@@ -223,10 +223,6 @@
   },
   {
     "removal_type": "blacklist",
-    "repository": "Rocka84/dual-gauge-card"
-  },
-  {
-    "removal_type": "blacklist",
     "repository": "shaonianzhentan/ha-cloud-music"
   },
   {
