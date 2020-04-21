@@ -244,11 +244,6 @@
     "link": "https://github.com/hacs/integration/pull/1045"
   },
   {
-    "repository": "custom-cards/dual-gauge-card",
-    "reason": "Abandoned/Broken",
-    "removal_type": "stale"
-  },
-  {
     "repository": "custom-cards/surveillance-card",
     "reason": "Abandoned/Broken",
     "removal_type": "stale",
