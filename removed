@@ -248,5 +248,17 @@
     "reason": "Abandoned/Broken",
     "removal_type": "stale",
     "link": "https://github.com/hacs/default/issues/318"
+  },
+  {
+    "repository": "robmarkcole/HASS-Sighthound",
+    "reason": "Repository is archived",
+    "removal_type": "blacklist",
+    "link": "https://github.com/hacs/default/issues/344"
+  },
+  {
+    "repository": "custom-cards/home-setter",
+    "reason": "Repository is archived",
+    "removal_type": "blacklist",
+    "link": "https://github.com/hacs/default/issues/344"
   }
 ]
