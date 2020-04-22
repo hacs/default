@@ -260,5 +260,11 @@
     "reason": "Repository is archived",
     "removal_type": "blacklist",
     "link": "https://github.com/hacs/default/issues/344"
+  },
+  {
+    "repository": "pippyn/Home-Assistant-Sensor-Ophaalkalender",
+    "reason": "Repository is archived",
+    "removal_type": "blacklist",
+    "link": "https://github.com/hacs/default/issues/347"
   }
 ]
