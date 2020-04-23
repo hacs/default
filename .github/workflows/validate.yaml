@@ -1,4 +1,4 @@
-name: "Validate repository with HACS"
+name: "Validate with HACS"
 on:
     pull_request:
         branches:
