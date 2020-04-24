@@ -11,6 +11,7 @@
   "amelchio/logbook_cache",
   "And3rsL/Deebot-for-hassio",
   "And3rsL/VisonicAlarm-for-Hassio",
+  "test/test",
   "andersonshatch/midea-ac-py",
   "Anonym-tsk/homeassistant-climate-xiaomi-remote",
   "arjenvrh/audi_connect_ha",
