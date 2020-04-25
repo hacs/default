@@ -4,5 +4,6 @@
   "kodi1/tracker_merge",
   "mf-social/ps-date-countdown",
   "pmazz/ps_hassio_entities",
-  "Santobert/HA-UpdateClimate"
+  "Santobert/HA-UpdateClimate",
+  "iml885203/HA-FanSpeedControl"
 ]
