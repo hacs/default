@@ -1,6 +1,7 @@
 [
   "bieniu/ha-shellies-discovery",
   "bieniu/ha-thermostat-update",
+  "iml885203/HA-FanSpeedControl",
   "kodi1/tracker_merge",
   "mf-social/ps-date-countdown",
   "pmazz/ps_hassio_entities",
