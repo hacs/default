@@ -1,5 +1,6 @@
 [
   "amaximus/bkk-stop-card",
+  "amaximus/fkf-garbage-collection-card",
   "amaximus/garbage-collection-card",
   "AmoebeLabs/flex-horseshoe-card",
   "Anonym-tsk/lovelace-starline-card",
@@ -68,6 +69,7 @@
   "marrobHD/firetv-card",
   "marrobHD/rotel-card",
   "marrobHD/tv-card",
+  "maxwroc/battery-state-card",
   "maykar/custom-header",
   "maykar/lovelace-swipe-navigation",
   "Mofeywalker/openmensa-lovelace-card",
@@ -98,6 +100,7 @@
   "thomasloven/lovelace-fold-entity-row",
   "thomasloven/lovelace-gap-card",
   "thomasloven/lovelace-gui-sandbox",
+  "thomasloven/lovelace-hui-element",
   "thomasloven/lovelace-layout-card",
   "thomasloven/lovelace-more-info-card",
   "thomasloven/lovelace-slider-entity-row",
