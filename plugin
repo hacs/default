@@ -108,5 +108,7 @@
   "thomasloven/lovelace-template-entity-row",
   "twrecked/lovelace-hass-aarlo",
   "Villhellm/lovelace-animated-background",
-  "xMrVizzy/button-toolbar"
+  "Voxxie/home-assistant-jumbo-card",
+  "xMrVizzy/button-toolbar",
+  
 ]
