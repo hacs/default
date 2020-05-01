@@ -111,5 +111,6 @@
   "twrecked/lovelace-hass-aarlo",
   "Villhellm/lovelace-animated-background",
   "Voxxie/lovelace-jumbo-card",
-  "xMrVizzy/button-toolbar"
+  "xMrVizzy/button-toolbar",
+  "clayauld/lovelace-darksky-card"
 ]
