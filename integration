@@ -62,6 +62,7 @@
   "cyberjunky/home-assistant-toon_smartmeter",
   "cyberjunky/home-assistant-ttn_gateway",
   "Cyr-ius/hass-cozytouch",
+  "Cyr-ius/hass-hue-service-advanced",
   "Cyr-ius/hass-livebox-component",
   "daenny/climate_group",
   "danobot/entity-controller",
