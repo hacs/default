@@ -17,6 +17,7 @@
   "cbulock/lovelace-battery-entity",
   "Ceerbeerus/beerbolaget-card",
   "chaptergy/lightalarm-card",
+  "clayauld/lovelace-darksky-card",
   "CyrisXD/love-lock-card",
   "danimart1991/pvpc-hourly-pricing-card",
   "DarkFox/rejseplanen-card",
@@ -111,6 +112,5 @@
   "twrecked/lovelace-hass-aarlo",
   "Villhellm/lovelace-animated-background",
   "Voxxie/lovelace-jumbo-card",
-  "xMrVizzy/button-toolbar",
-  "clayauld/lovelace-darksky-card"
+  "xMrVizzy/button-toolbar"
 ]
