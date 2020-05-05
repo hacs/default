@@ -20,6 +20,7 @@
   "haberda/update_lights",
   "jmarsik/ad-eurotronic-trv-valvepos",
   "ludeeus/ad-watchdog",
+  "Mohlsson/ReplayLightsHistory",
   "Odianosen25/Monitor-App",
   "Petro31/ad_convert_media_volume",
   "Petro31/ad_group_all",
@@ -39,7 +40,9 @@
   "so3n/Bring-Back-group.all_x",
   "UbhiTS/ad-alexadoorbell",
   "UbhiTS/ad-alexadoorwindowannounce",
+  "UbhiTS/ad-alexasmarttalkingthermostat",
   "UbhiTS/ad-alexatalkingclock",
+  "UbhiTS/ad-autointernetrebooter",
   "vash3d/nethassmo",
   "xaviml/controllerx"
 ]

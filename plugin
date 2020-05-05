@@ -28,6 +28,7 @@
   "dooz127/swipe-glance-card",
   "enriqg9/dual-thermostat",
   "faeibson/lovelace-multiline-text-input-card",
+  "fineemb/lovelace-cn-map-card",
   "fineemb/lovelace-dc1-card",
   "fineemb/lovelace-fan-xiaomi",
   "fineemb/lovelace-thermostat-card",
@@ -90,6 +91,7 @@
   "Savjee/button-text-card",
   "sbryfcz/harmony-card",
   "sdelliot/pie-chart-card",
+  "Sian-Lee-SA/honeycomb-menu",
   "tcarlsen/lovelace-light-with-profiles",
   "TheLastProject/lovelace-media-art-background",
   "TheLastProject/lovelace-valetudo-map-card",
@@ -108,5 +110,6 @@
   "thomasloven/lovelace-template-entity-row",
   "twrecked/lovelace-hass-aarlo",
   "Villhellm/lovelace-animated-background",
+  "Voxxie/lovelace-jumbo-card",
   "xMrVizzy/button-toolbar"
 ]
