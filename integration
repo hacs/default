@@ -167,6 +167,7 @@
   "Mofeywalker/openmensa-hass-component",
   "MTrab/landroid_cloud",
   "mudape/iphonedetect",
+  "nagyrobi/home-assistant-custom-components-cover-rf-time-based",
   "nstrelow/ha_philips_android_tv",
   "ntilley905/faastatus",
   "ollo69/ha-samsungtv-smart",
