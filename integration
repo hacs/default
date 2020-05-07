@@ -238,6 +238,7 @@
   "robmarkcole/HASS-Deepstack-face",
   "robmarkcole/HASS-Deepstack-object",
   "robmarkcole/HASS-Machinebox-Classificationbox",
+  "robmarkcole/HASS-S3",
   "robmarkcole/Hue-sensors-HASS",
   "rsnodgrass/hass-adtpulse",
   "rsnodgrass/hass-flo-water",
