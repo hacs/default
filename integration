@@ -169,6 +169,7 @@
   "mikelawrence/senseme-hacs",
   "mlowijs/HomeAssistant-TeslaCustomComponent",
   "Mofeywalker/openmensa-hass-component",
+  "msp1974/homeassistant-jlrincontrol",
   "MTrab/landroid_cloud",
   "mudape/iphonedetect",
   "nstrelow/ha_philips_android_tv",
