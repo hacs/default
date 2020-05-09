@@ -42,6 +42,7 @@
   "gadgetchnnel/lovelace-home-feed-card",
   "gadgetchnnel/lovelace-text-input-row",
   "GeorgeSG/lovelace-folder-card",
+  "GeorgeSG/lovelace-time-picker-card",
   "gurbyz/power-wheel-card",
   "hasl-platform/lovelace-hasl-departure-card",
   "hasl-platform/lovelace-hasl-traffic-status-card",
