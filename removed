@@ -266,5 +266,11 @@
     "reason": "Repository is archived",
     "removal_type": "blacklist",
     "link": "https://github.com/hacs/default/issues/347"
+  },
+  {
+    "repository": "robmarkcole/Hue-remotes-HASS",
+    "reason": "archived",
+    "removal_type": "blacklist",
+    "link": "https://github.com/hacs/default/issues/392"
   }
 ]
