@@ -47,6 +47,7 @@
   "burnnat/ha-polar",
   "burnnat/media_player.screenly",
   "Cadsters/acv-hass-component",
+  "cagnulein/switchbot_press",
   "caiosweet/Home-Assistant-custom-components-DPC-Alert",
   "Ceerbeerus/beerbolaget",
   "cgarwood/homeassistant-zwave_mqtt",
