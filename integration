@@ -99,7 +99,7 @@
   "fondberg/spotcast",
   "freakshock88/hass-populartimes",
   "freol35241/ltss",
-  "garbled1/homeassistant_ecowitt",
+  "garbled1/balboa_homeassistan",
   "gcobb321/icloud3",
   "gcorgnet/sensor.emby_upcoming_media",
   "gieljnssns/buienalarm-sensor-homeassistant",
@@ -275,6 +275,7 @@
   "xMrVizzy/Minecraft-Version",
   "xMrVizzy/Philips-AirPurifier",
   "youdroid/home-assistant-couchpotato",
+  "youdroid/home-assistant-sickchill",
   "zachowj/hass-node-red",
   "zha-ng/zha-map"
 ]
