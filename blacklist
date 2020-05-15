@@ -57,8 +57,10 @@
   "pippyn/Home-Assistant-Sensor-Ophaalkalender",
   "PTST/O365Calendar-HomeAssistant",
   "robmarkcole/HASS-Sighthound",
+  "robmarkcole/Hue-remotes-HASS",
   "Rocka84/dual-gauge-card",
   "shaonianzhentan/ha-cloud-music",
+  "sinclairpaul/ha_purple_theme",
   "tenly2000/HomeAssistant-Places",
   "xaviml/z2m_ikea_controller"
 ]

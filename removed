@@ -266,5 +266,17 @@
     "reason": "Repository is archived",
     "removal_type": "blacklist",
     "link": "https://github.com/hacs/default/issues/347"
+  },
+  {
+    "repository": "robmarkcole/Hue-remotes-HASS",
+    "reason": "archived",
+    "removal_type": "blacklist",
+    "link": "https://github.com/hacs/default/issues/392"
+  },
+  {
+    "repository": "sinclairpaul/ha_purple_theme",
+    "reason": "No longer maintained",
+    "removal_type": "blacklist",
+    "link": "https://github.com/hacs/default/pull/427"
   }
 ]
