@@ -278,5 +278,10 @@
     "reason": "No longer maintained",
     "removal_type": "blacklist",
     "link": "https://github.com/hacs/default/pull/427"
+  },
+  {
+    "repository": "DSorlov/hasl-platform",
+    "reason": "Archived",
+    "removal_type": "blacklist"
   }
 ]
