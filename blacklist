@@ -45,7 +45,6 @@
   "custom-components/sickchill",
   "custom-components/switch.hadockermon",
   "custom-components/usps_mail",
-  "DSorlov/hasl-platform",
   "eifinger/here_travel_time",
   "home-assistant-community-themes/template",
   "home-assistant-community-themes/theme-request",
