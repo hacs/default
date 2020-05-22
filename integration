@@ -182,6 +182,7 @@
   "mudape/iphonedetect",
   "nagyrobi/home-assistant-custom-components-cover-rf-time-based",
   "nikrolls/homeassistant-goldair-climate",
+  "nitobuendia/oura-custom-component",
   "nstrelow/ha_philips_android_tv",
   "ntilley905/faastatus",
   "ollo69/ha-samsungtv-smart",
