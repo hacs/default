@@ -148,6 +148,7 @@
   "KoljaWindeler/ics",
   "konnected-io/noonlight-hass",
   "kuchel77/diskspace",
+  "laszlojakab/homeassistant-dijnet",
   "legrego/homeassistant-elasticsearch",
   "lichtteil/local_luftdaten",
   "Limych/ha-average",
