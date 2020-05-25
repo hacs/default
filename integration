@@ -169,6 +169,7 @@
   "LordBoos/discord_game",
   "lukas-hetzenecker/home-assistant-remote",
   "lukich48/hass_mqtt_template_switch",
+  "mac-zhou/midea-ac-py",
   "mammuth/ha-fritzbox-tools",
   "mampfes/hacs_waste_collection_schedule",
   "mampfes/hacs_wiffi",
