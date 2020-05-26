@@ -25,4 +25,5 @@ jobs:
             - name: Run hassfest
               run: |
                 integration=$(python3 -m scripts.helpers.integration_path)
-                docker run --entrypoint=""  -v "$integration":/integration homeassistant/home-assistant:beta python3 -m script.hassfest --action validate --integration-path "/integration"
+                domain=$(python3 -m scripts.helpers.domain)
+                docker run --entrypoint=""  -v "$integration":"/$domain" homeassistant/home-assistant:beta python3 -m script.hassfest --action validate --integration-path "/$domain"
