@@ -1,7 +1,7 @@
 name: "Check hassfest"
 on:
   pull_request:
-    types: unlabeled
+    #types: unlabeled
 
 jobs:
     check:
@@ -25,4 +25,4 @@ jobs:
             - name: Run hassfest
               run: |
                 integration=$(python3 -m scripts.helpers.integration_path)
-                docker run --entrypoint=""  -v "$integration":/integration homeassistant/home-assistant:beta "python3 -m script.hassfest --action validate /integration"
+                docker run --entrypoint=""  -v "$integration":/integration homeassistant/home-assistant:beta python3 -m script.hassfest --action validate --integration-path "/integration"
