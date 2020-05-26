@@ -3,7 +3,9 @@ import json
 
 
 if len(sys.argv) < 3:
-    print('  Usage: python3 scripts/remove_repo.py [repository] [removal_type] "[reason]" [link]')
+    print(
+        '  Usage: python3 scripts/remove_repo.py [repository] [removal_type] "[reason]" [link]'
+    )
     exit(1)
 
 try:
@@ -30,7 +32,7 @@ remove = {
     "link": link,
     "reason": reason,
     "removal_type": removal_type,
-    "repository": repo
+    "repository": repo,
 }
 
 orgs = ["custom-cards", "custom-components"]
@@ -40,7 +42,14 @@ categorycontent = None
 blacklistcontent = None
 removedcontent = None
 
-for category in ["appdaemon", "integration", "netdaemon", "plugin", "python_script", "theme"]:
+for category in [
+    "appdaemon",
+    "integration",
+    "netdaemon",
+    "plugin",
+    "python_script",
+    "theme",
+]:
     with open(category, "r") as cat_file:
         content = json.loads(cat_file.read())
         if remove["repository"] in content:
@@ -75,7 +84,9 @@ if remove["link"] is not None:
 removedcontent.append(data)
 
 with open("blacklist", "w") as blacklist_file:
-    blacklist_file.write(json.dumps(sorted(blacklistcontent, key=str.casefold), indent=2))
+    blacklist_file.write(
+        json.dumps(sorted(blacklistcontent, key=str.casefold), indent=2)
+    )
 
 with open("removed", "w") as removed_file:
     removed_file.write(json.dumps(removedcontent, indent=2))

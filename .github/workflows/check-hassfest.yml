@@ -1,0 +1,37 @@
+name: "Check hassfest"
+on:
+  pull_request:
+    types: unlabeled
+
+jobs:
+    check:
+        if: github.event.label.name == 'Not finished'
+        runs-on: ubuntu-latest
+        steps:
+            - name: Check out repository
+              uses: actions/checkout@v2
+
+            - name: Clone origin
+              run: git clone --depth 1 https://github.com/hacs/default /tmp/default
+
+            - name: Clone new addition
+              run: |
+                repo=$(python3 -m scripts.changed.repo)
+                git clone --depth 1 "https://github.com/$repo" /tmp/addition
+
+            - name: Set category
+              id: category
+              run: echo "::set-output name=category::$(python3 -m scripts.changed.category)"
+
+            - name: Pull Home Assistant Container
+              if: steps.category.outputs.category == 'integration'
+              run: docker pull homeassistant/home-assistant:beta
+
+            - name: Run hassfest
+              if: steps.category.outputs.category == 'integration'
+              run: |
+                integration=$(python3 -m scripts.helpers.integration_path)
+                domain=$(python3 -m scripts.helpers.domain)
+                docker run --entrypoint=""  -v "$integration":"/$domain" \
+                  homeassistant/home-assistant:beta python3 -m \
+                  script.hassfest --action validate --integration-path "/$domain"

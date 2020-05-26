@@ -1,0 +1,23 @@
+name: "Check Images"
+on:
+  pull_request:
+    types: unlabeled
+
+jobs:
+    check:
+        if: github.event.label.name == 'Not finished'
+        runs-on: ubuntu-latest
+        steps:
+            - name: Check out repository
+              uses: actions/checkout@v2
+
+            - name: Clone origin
+              run: git clone --depth 1 https://github.com/hacs/default /tmp/default
+
+            - name: Clone new addition
+              run: |
+                repo=$(python3 -m scripts.changed.repo)
+                git clone --depth 1 "https://github.com/$repo" /tmp/addition
+
+            - name: Check images
+              run: python3 -m scripts.check.images

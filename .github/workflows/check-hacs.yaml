@@ -1,0 +1,31 @@
+name: "Check HACS"
+on:
+  pull_request:
+    types: unlabeled
+
+jobs:
+    check:
+        if: github.event.label.name == 'Not finished'
+        runs-on: ubuntu-latest
+        steps:
+            - name: Check out repository
+              uses: actions/checkout@v2
+
+            - name: Clone origin
+              run: git clone --depth 1 https://github.com/hacs/default /tmp/default
+
+            - name: Set category
+              id: category
+              run: echo "::set-output name=category::$(python3 -m scripts.changed.category)"
+
+            - name: Set repository
+              id: repository
+              run: echo "::set-output name=repository::$(python3 -m scripts.changed.repo)"
+
+            - name: HACS validation
+              uses: "hacs/integration/action@master"
+              with:
+                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              env:
+                REPOSITORY: "${{ steps.repository.outputs.repository }}"
+                CATEGORY: "${{ steps.category.outputs.category }}"
