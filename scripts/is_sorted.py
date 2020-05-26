@@ -1,6 +1,14 @@
 import json
 
-categories = ["blacklist", "appdaemon", "integration", "netdaemon", "plugin", "python_script", "theme"]
+categories = [
+    "blacklist",
+    "appdaemon",
+    "integration",
+    "netdaemon",
+    "plugin",
+    "python_script",
+    "theme",
+]
 
 for category in categories:
     with open(category, "r") as cat_file:
