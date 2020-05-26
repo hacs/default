@@ -1,4 +1,4 @@
-name: "Check Manifest"
+name: "Check Info"
 on:
   pull_request:
     types: unlabeled
@@ -19,5 +19,5 @@ jobs:
                 repo=$(python3 -m scripts.changed.repo)
                 git clone -–depth 1 "https://github.com/$repo" /tmp/addition
 
-            - name: Check manifest
-              run: python3 -m scripts.check.manifest
+            - name: Check home-assistant/wheels-custom-integrations
+              run: python3 -m scripts.check.info

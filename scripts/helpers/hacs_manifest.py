@@ -12,7 +12,10 @@ def get_hacs_manifest():
         print("No HACS manifest")
         exit(1)
 
-    with open(files.pop(), "r") as mf:
+    hacs_manifest = files.pop()
+    print(f"Found HACS manifest at {hacs_manifest.replace('/tmp/addition','')}")
+
+    with open(hacs_manifest, "r") as mf:
         hacs_manifest = json.loads(mf.read())
 
     return hacs_manifest or {}

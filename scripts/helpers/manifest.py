@@ -1,18 +1,13 @@
 import json
 import os
 from glob import glob
-
+from scripts.helpers.integration_path import get_integration_path
 
 def get_manifest():
-    files = []
-    for dir, _, _ in os.walk("/tmp/addition"):
-        files.extend(glob(os.path.join(dir, "*manifest.json")))
+    manifest = f"{get_integration_path()}/manifest.json"
+    print(f"Found manifest at {manifest.replace('/tmp/addition','')}")
 
-    if len(files) != 1:
-        print("No manifest")
-        exit(1)
-
-    with open(files.pop(), "r") as mf:
+    with open(manifest, "r") as mf:
         manifest = json.loads(mf.read())
 
     return manifest or {}

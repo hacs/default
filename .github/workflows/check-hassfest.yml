@@ -1,0 +1,25 @@
+name: "Check Repository"
+on:
+  pull_request:
+    types: unlabeled
+
+jobs:
+    check:
+        if: github.event.label.name == 'Not finished'
+        runs-on: ubuntu-latest
+        steps:
+            - name: Check out repository
+              uses: actions/checkout@v2
+
+            - name: Clone new addition
+              run: |
+                repo=$(python3 -m scripts.changed.repo)
+                git clone -–depth 1 "https://github.com/$repo" /tmp/addition
+
+            - name: Pull Home Assistant Container
+              run: docker pull homeassistant/home-assistant:beta
+
+            - name: Run hassfest
+              run: |
+                integration=$(python3 -m scripts.helpers.integration_path)
+                docker run --entrypoint=""  -v "$integration":/integration homeassistant/home-assistant:beta "python3 -m script.hassfest --action validate /integration"
