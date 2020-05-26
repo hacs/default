@@ -10,13 +10,13 @@ def check():
     manifest = get_manifest()
     issues = []
 
-    if manifest.get("domain") is None:
+    if manifest.get("domain") is None or manifest.get("domain") == "":
         issues.append("No domain")
 
-    if manifest.get("documentation") is None:
+    if manifest.get("documentation") is None or manifest.get("documentation") == "":
         issues.append("No documentation")
 
-    if manifest.get("issue_tracker") is None:
+    if manifest.get("issue_tracker") is None or manifest.get("issue_tracker") == "":
         issues.append("No issue_tracker")
 
     if manifest.get("codeowners") is None:
