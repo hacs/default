@@ -7,7 +7,7 @@ from aiogithubapi import GitHub
 from scripts.changed.repo import get_repo
 
 TOKEN = os.getenv("GITHUB_TOKEN")
-ACTOR = os.getenv("GITHUB_ACTOR", "ludeeus")
+ACTOR = os.getenv("GITHUB_ACTOR")
 
 
 async def check():
