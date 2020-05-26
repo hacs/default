@@ -1,4 +1,4 @@
-name: "Check"
+name: "Check Brands"
 on:
     pull_request:
         branches:
@@ -7,7 +7,6 @@ on:
 jobs:
     check:
         runs-on: ubuntu-latest
-        name: Brands
         steps:
             - name: Check out repository
               uses: actions/checkout@v2
@@ -16,4 +15,6 @@ jobs:
               run: git clone https://github.com/hacs/default /tmp/default
 
             - name: Clone new addition
-              run: git clone https://github.com/${python3 -m scripts.changed.repo} /tmp/addition
+              run: |
+                repo=$(python3 -m scripts.changed.repo)
+                git clone "https://github.com/$repo" /tmp/addition
