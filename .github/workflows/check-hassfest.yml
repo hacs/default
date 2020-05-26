@@ -32,7 +32,6 @@ jobs:
               run: |
                 integration=$(python3 -m scripts.helpers.integration_path)
                 domain=$(python3 -m scripts.helpers.domain)
-                echo "domain == $domain"
                 docker run --entrypoint=""  -v "$integration":"/$domain" \
                   homeassistant/home-assistant:beta python3 -m \
                   script.hassfest --action validate --integration-path "/$domain"
