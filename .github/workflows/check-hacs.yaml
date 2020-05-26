@@ -27,4 +27,5 @@ jobs:
               with:
                 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
                 CATEGORY: "${{ steps.category.outputs.category }}"
-                REPOSITORY: "${{ steps.repository.outputs.repository }}"
+              env:
+                GITHUB_REPOSITORY: "${{ steps.repository.outputs.repository }}"
