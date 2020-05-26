@@ -17,4 +17,5 @@ jobs:
             - name: Clone new addition
               run: |
                 repo=$(python3 -m scripts.changed.repo)
+                echo "$repo"
                 git clone "https://github.com/$repo" /tmp/addition
