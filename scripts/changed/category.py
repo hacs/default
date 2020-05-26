@@ -15,6 +15,7 @@ CATEGORIES = [
 CURRENT = {}
 CHANGED = {}
 
+
 def get_category():
     for category in CATEGORIES:
         with open(f"{DEFAULT}/{category}", "r") as default:
@@ -39,6 +40,7 @@ def get_category():
         exit(1)
 
     return changed.pop()
+
 
 if __name__ == "__main__":
     print(get_category())

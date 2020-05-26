@@ -1,6 +1,7 @@
 from scripts.changed.category import get_category
 from scripts.helpers.manifest import get_manifest
 
+
 def check():
     if get_category() != "integration":
         print("Only integrations are checked.")
@@ -20,6 +21,9 @@ def check():
 
     if manifest.get("codeowners") is None:
         issues.append("No codeowners")
+
+    if manifest.get("homeassistant"):
+        issues.append("homeassistant is not valid here")
 
     if issues:
         for issue in issues:

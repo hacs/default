@@ -1,6 +1,14 @@
 import json
 
-categories = ["blacklist", "appdaemon", "integration", "netdaemon", "plugin", "python_script", "theme"]
+categories = [
+    "blacklist",
+    "appdaemon",
+    "integration",
+    "netdaemon",
+    "plugin",
+    "python_script",
+    "theme",
+]
 
 for category in categories:
     with open(category, "r") as cat_file:
@@ -8,4 +16,3 @@ for category in categories:
 
     with open(category, "w") as cat_file:
         cat_file.write(json.dumps(sorted(content, key=str.casefold), indent=2))
-

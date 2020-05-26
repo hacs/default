@@ -1,12 +1,11 @@
 name: "Check Brands"
 on:
   pull_request:
-    unlabeled:
-      - "Not finished"
-      - "Recheck"
+    types: unlabeled
 
 jobs:
     check:
+        if: github.event.label.name == "Not finished"
         runs-on: ubuntu-latest
         steps:
             - name: Check out repository

@@ -1,6 +1,7 @@
 from scripts.changed.category import get_category
 from scripts.helpers.hacs_manifest import get_hacs_manifest
 
+
 def check():
     if get_category() != "integration":
         print("Only integrations are checked.")

@@ -10,6 +10,7 @@ from scripts.helpers.manifest import get_manifest
 
 TOKEN = os.getenv("GITHUB_TOKEN")
 
+
 async def check():
     if get_category() != "integration":
         print("Only integrations are checked.")
@@ -30,7 +31,9 @@ async def check():
             print("This is needed to ensure the best possible experience for the user")
             exit(1)
         else:
-            print(f"{domain} is added to https://github.com/home-assistant/brands, NICE!" )
+            print(
+                f"{domain} is added to https://github.com/home-assistant/brands, NICE!"
+            )
 
 
 if __name__ == "__main__":

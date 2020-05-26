@@ -1,4 +1,4 @@
-name: "Check Wheels"
+name: "Check Images"
 on:
   pull_request:
     types: unlabeled
@@ -19,12 +19,5 @@ jobs:
                 repo=$(python3 -m scripts.changed.repo)
                 git clone "https://github.com/$repo" /tmp/addition
 
-            - name: Install dependencies
-              run: |
-                python3 -m pip install setuptools wheel
-                python3 -m pip install aiogithubapi
-
             - name: Check home-assistant/wheels-custom-integrations
-              run: python3 -m scripts.check.wheels
-              env:
-                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              run: python3 -m scripts.check.images

@@ -2,9 +2,10 @@ import json
 import os
 from glob import glob
 
+
 def get_manifest():
     files = []
-    for dir,_,_ in os.walk("/tmp/addition"):
+    for dir, _, _ in os.walk("/tmp/addition"):
         files.extend(glob(os.path.join(dir, "*manifest.json")))
 
     if len(files) != 1:
