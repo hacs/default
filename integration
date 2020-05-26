@@ -151,6 +151,7 @@
   "konnected-io/noonlight-hass",
   "kuchel77/diskspace",
   "laszlojakab/homeassistant-dijnet",
+  "laszlojakab/homeassistant-easycontrols",
   "legrego/homeassistant-elasticsearch",
   "lichtteil/local_luftdaten",
   "Limych/ha-average",
