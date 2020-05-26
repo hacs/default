@@ -19,10 +19,16 @@ jobs:
                 repo=$(python3 -m scripts.changed.repo)
                 git clone --depth 1 "https://github.com/$repo" /tmp/addition
 
+            - name: Set category
+              id: category
+              run: echo "::set-output name=category::$(python3 -m scripts.changed.category)"
+
             - name: Pull Home Assistant Container
+              if: steps.category.outputs.category == 'integration'
               run: docker pull homeassistant/home-assistant:beta
 
             - name: Run hassfest
+              if: steps.category.outputs.category == 'integration'
               run: |
                 integration=$(python3 -m scripts.helpers.integration_path)
                 domain=$(python3 -m scripts.helpers.domain)
