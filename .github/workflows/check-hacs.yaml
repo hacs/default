@@ -20,7 +20,7 @@ jobs:
 
             - name: Set repository
               id: repository
-              run: echo "::set-output name=repository::$(python3 -m scripts.changed.repository)"
+              run: echo "::set-output name=repository::$(python3 -m scripts.changed.repo)"
 
             - name: HACS validation
               uses: "hacs/integration/action@master"
