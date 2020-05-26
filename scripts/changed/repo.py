@@ -1,5 +1,5 @@
 import json
-from .category import get_category
+from scripts.changed.category import get_category
 
 DEFAULT = "/tmp/default"
 

@@ -17,5 +17,14 @@ jobs:
             - name: Clone new addition
               run: |
                 repo=$(python3 -m scripts.changed.repo)
-                echo "$repo"
                 git clone "https://github.com/$repo" /tmp/addition
+
+            - name: Install dependencies
+              run: |
+                python3 -m pip install setuptools wheel
+                python3 -m pip install aiogithubapi
+
+            - name: Check home-assistant/brands
+              run: python3 -m scripts.check.brands
+              with:
+                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

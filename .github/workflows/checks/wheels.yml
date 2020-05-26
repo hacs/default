@@ -1,0 +1,30 @@
+name: "Check Wheels"
+on:
+    pull_request:
+        branches:
+            - master
+
+jobs:
+    check:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Check out repository
+              uses: actions/checkout@v2
+
+            - name: Clone origin
+              run: git clone https://github.com/hacs/default /tmp/default
+
+            - name: Clone new addition
+              run: |
+                repo=$(python3 -m scripts.changed.repo)
+                git clone "https://github.com/$repo" /tmp/addition
+
+            - name: Install dependencies
+              run: |
+                python3 -m pip install setuptools wheel
+                python3 -m pip install aiogithubapi
+
+            - name: Check home-assistant/wheels-custom-integrations
+              run: python3 -m scripts.check.wheels
+              with:
+                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
