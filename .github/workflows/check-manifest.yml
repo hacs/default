@@ -19,5 +19,10 @@ jobs:
                 repo=$(python3 -m scripts.changed.repo)
                 git clone --depth 1 "https://github.com/$repo" /tmp/addition
 
+            - name: Set category
+              id: category
+              run: echo "::set-output name=category::$(python3 -m scripts.changed.category)"
+
             - name: Check manifest
+              if: steps.category.outputs.category == 'integration'
               run: python3 -m scripts.check.manifest

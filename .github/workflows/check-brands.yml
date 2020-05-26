@@ -19,12 +19,18 @@ jobs:
                 repo=$(python3 -m scripts.changed.repo)
                 git clone --depth 1 "https://github.com/$repo" /tmp/addition
 
+            - name: Set category
+              id: category
+              run: echo "::set-output name=category::$(python3 -m scripts.changed.category)"
+
             - name: Install dependencies
+              if: steps.category.outputs.category == 'integration'
               run: |
                 python3 -m pip install setuptools wheel
                 python3 -m pip install aiogithubapi
 
             - name: Check home-assistant/brands
+              if: steps.category.outputs.category == 'integration'
               run: python3 -m scripts.check.brands
               env:
                 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
