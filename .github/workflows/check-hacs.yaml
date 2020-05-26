@@ -26,6 +26,6 @@ jobs:
               uses: "hacs/integration/action@master"
               with:
                 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-                CATEGORY: "${{ steps.category.outputs.category }}"
               env:
-                GITHUB_REPOSITORY: "${{ steps.repository.outputs.repository }}"
+                REPOSITORY: "${{ steps.repository.outputs.repository }}"
+                CATEGORY: "${{ steps.category.outputs.category }}"
