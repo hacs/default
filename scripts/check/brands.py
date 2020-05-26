@@ -6,6 +6,7 @@ from glob import glob
 from aiogithubapi import GitHub
 from scripts.changed.category import get_category
 from scripts.changed.repo import get_repo
+from scripts.helpers.manifest import get_manifest
 
 TOKEN = os.getenv("GITHUB_TOKEN")
 
@@ -14,16 +15,7 @@ async def check():
         print("Only integrations are checked.")
         return
 
-    files = []
-    for dir,_,_ in os.walk("/tmp/addition"):
-        files.extend(glob(os.path.join(dir, "*manifest.json")))
-
-    if len(files) != 1:
-        print("No manifest")
-        exit(1)
-
-    with open(files.pop(), "r") as mf:
-        manifest = json.loads(mf.read())
+    manifest = get_manifest()
 
     domain = manifest.get("domain")
     if domain is None:
@@ -35,6 +27,7 @@ async def check():
         files = await repository.get_contents("custom_integrations")
         if domain not in [x.attributes["name"] for x in files]:
             print(f"{domain} is not added to https://github.com/home-assistant/brands")
+            print("This is needed to ensure the best possible experience for the user")
             exit(1)
         else:
             print(f"{domain} is added to https://github.com/home-assistant/brands, NICE!" )
