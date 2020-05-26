@@ -1,0 +1,19 @@
+name: "Check"
+on:
+    pull_request:
+        branches:
+            - master
+
+jobs:
+    check:
+        runs-on: ubuntu-latest
+        name: Brands
+        steps:
+            - name: Check out repository
+              uses: actions/checkout@v2
+
+            - name: Clone origin
+              run: git clone https://github.com/hacs/default /tmp/default
+
+            - name: Clone new addition
+              run: git clone https://github.com/${python3 -m scripts.changed.repo} /tmp/addition
