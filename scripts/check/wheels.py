@@ -7,7 +7,7 @@ from aiogithubapi import GitHub
 from scripts.changed.category import get_category
 from scripts.changed.repo import get_repo
 
-TOKEN = os.getenv("INPUT_GITHUB_TOKEN")
+TOKEN = os.getenv("GITHUB_TOKEN")
 
 async def check():
     if get_category() != "integration":

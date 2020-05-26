@@ -26,5 +26,5 @@ jobs:
 
             - name: Check home-assistant/wheels-custom-integrations
               run: python3 -m scripts.check.wheels
-              with:
+              env:
                 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
