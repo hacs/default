@@ -17,6 +17,9 @@ async def check():
         repository = await github.get_repo(repo)
         repo = repository.attributes
 
+    return
+    # Currently broken. can not use ACTOR
+
     if ACTOR == repo["full_name"].split("/")[0]:
         print(f"{ACTOR} is the owner of the repository")
         return
