@@ -12,6 +12,7 @@ TOKEN = os.getenv("GITHUB_TOKEN")
 
 
 async def check():
+    print("Information: https://hacs.xyz/docs/publish/include#check-wheels")
     if get_category() != "integration":
         print("Only integrations are checked.")
         return

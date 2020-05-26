@@ -3,6 +3,7 @@ from scripts.helpers.info import get_info
 
 
 def check():
+    print("Information: https://hacs.xyz/docs/publish/include#check-images")
     if get_category() not in ["plugin", "theme"]:
         print("Only plugin and theme are checked.")
         return

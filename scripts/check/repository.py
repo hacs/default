@@ -10,6 +10,7 @@ TOKEN = os.getenv("GITHUB_TOKEN")
 
 
 async def check():
+    print("Information: https://hacs.xyz/docs/publish/include#check-repository")
     repo = get_repo()
     issues = []
     async with GitHub(TOKEN) as github:

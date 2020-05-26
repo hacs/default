@@ -3,6 +3,7 @@ from scripts.helpers.hacs_manifest import get_hacs_manifest
 
 
 def check():
+    print("Information: https://hacs.xyz/docs/publish/include#check-hacs-manifest")
     if get_category() != "integration":
         print("Only integrations are checked.")
         return
