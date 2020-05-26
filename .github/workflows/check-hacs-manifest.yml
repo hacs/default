@@ -12,12 +12,12 @@ jobs:
               uses: actions/checkout@v2
 
             - name: Clone origin
-              run: git clone -–depth 1 https://github.com/hacs/default /tmp/default
+              run: git clone --depth 1 https://github.com/hacs/default /tmp/default
 
             - name: Clone new addition
               run: |
                 repo=$(python3 -m scripts.changed.repo)
-                git clone -–depth 1 "https://github.com/$repo" /tmp/addition
+                git clone --depth 1 "https://github.com/$repo" /tmp/addition
 
             - name: Check HACS manifest
               run: python3 -m scripts.check.hacs_manifest

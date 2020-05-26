@@ -1,4 +1,4 @@
-name: "Check Repository"
+name: "Check hassfest"
 on:
   pull_request:
     types: unlabeled
@@ -11,10 +11,13 @@ jobs:
             - name: Check out repository
               uses: actions/checkout@v2
 
+            - name: Clone origin
+              run: git clone --depth 1 https://github.com/hacs/default /tmp/default
+
             - name: Clone new addition
               run: |
                 repo=$(python3 -m scripts.changed.repo)
-                git clone -–depth 1 "https://github.com/$repo" /tmp/addition
+                git clone --depth 1 "https://github.com/$repo" /tmp/addition
 
             - name: Pull Home Assistant Container
               run: docker pull homeassistant/home-assistant:beta

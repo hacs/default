@@ -12,19 +12,19 @@ jobs:
               uses: actions/checkout@v2
 
             - name: Clone origin
-              run: git clone -–depth 1 https://github.com/hacs/default /tmp/default
+              run: git clone --depth 1 https://github.com/hacs/default /tmp/default
 
             - name: Clone new addition
               run: |
                 repo=$(python3 -m scripts.changed.repo)
-                git clone -–depth 1 "https://github.com/$repo" /tmp/addition
+                git clone --depth 1 "https://github.com/$repo" /tmp/addition
 
             - name: Install dependencies
               run: |
                 python3 -m pip install setuptools wheel
                 python3 -m pip install aiogithubapi
 
-            - name: Check home-assistant/wheels-custom-integrations
+            - name: Check repository
               run: python3 -m scripts.check.repository
               env:
                 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
