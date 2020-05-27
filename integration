@@ -216,6 +216,7 @@
   "Poeschl/Remote-PicoTTS",
   "Pouzor/freebox_player",
   "ptimatth/GeorideHA",
+  "hacs/integration",
   "PTST/O365-HomeAssistant",
   "Pyhive/HA-Hive-Custom-Component",
   "r-renato/ha-climacell-weather",

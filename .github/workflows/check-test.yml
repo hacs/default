@@ -11,10 +11,16 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Clone hacs/default:origin
-        run: git clone --depth 1 https://github.com/hacs/default /tmp/repos/hacs/default
+        run: git clone --depth 1 https://github.com/hacs/default /tmp/repos/default
+
+      - name: Clone the new repository
+        run: |
+          repo=$(python3 -m scripts.changed.repo)
+          git clone --depth 1 "https://github.com/$repo" /tmp/repos/addition || exit 1
 
       - name: Cleanup
         run: |
+          rm -rf /tmp/repos/hacs/addition/.git
           rm -rf /tmp/repos/hacs/default/.git
           rm -rf /tmp/repos/hacs/default/scripts
 
