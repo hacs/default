@@ -1,0 +1,24 @@
+name: Lint
+on: [push, pull_request]
+
+jobs:
+  jq:
+    name: JQ
+    if: ${{ always() }}
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        checks: [appdaemon, blacklist, critical, integration, netdaemon, plugin, python_script, removed, theme]
+    steps:
+      - uses: actions/checkout@v2
+      - name: Validate ${{ matrix.checks }}
+        run: jq --raw-output "." "${{ matrix.checks }}"
+
+  sorted:
+    name: Sorted
+    if: ${{ always() }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Check lists
+        run: python3 scripts/is_sorted.py
