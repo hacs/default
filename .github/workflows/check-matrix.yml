@@ -30,7 +30,7 @@ jobs:
           repo=$(python3 -m scripts.changed.repo)
           git clone --depth 1 "https://github.com/$repo" /tmp/addition
 
-      - name: Install dependencies
+      - name: Install dependencies if needed
         if: matrix.checks.deps
         run: |
           python3 -m pip install setuptools wheel

@@ -224,7 +224,7 @@
   "reharmsen/hass-youless-component",
   "remco770/garbage-bar-homeassistant",
   "ReneNulschDE/mbapipy",
-  "hacs/integration",
+  "laszlojakab/homeassistant-easycontrols",
   "rgruebel/ha_zigbee2mqtt_networkmap",
   "rkoebrugge/hacs-youless-component",
   "rob196/home-assistant-fxmarketapi",
