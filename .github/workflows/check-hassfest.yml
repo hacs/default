@@ -1,11 +1,8 @@
 name: "Check hassfest"
-on:
-  pull_request:
-    types: unlabeled
+on: [pull_request]
 
 jobs:
     check:
-        if: github.event.label.name == 'Not finished'
         runs-on: ubuntu-latest
         steps:
             - name: Check out repository
