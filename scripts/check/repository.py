@@ -17,12 +17,13 @@ async def check():
         repository = await github.get_repo(repo)
         repo = repository.attributes
 
-
     if not repo["has_issues"]:
         issues.append("Issues not enabled.")
 
     if not repo["description"]:
-        issues.append("No description. (https://hacs.xyz/docs/publish/start#description)")
+        issues.append(
+            "No description. (https://hacs.xyz/docs/publish/start#description)"
+        )
 
     if not repo["topics"]:
         issues.append("No topics. (https://hacs.xyz/docs/publish/start#topics)")
