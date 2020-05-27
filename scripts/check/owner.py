@@ -24,7 +24,8 @@ async def check():
         print(f"{ACTOR} is the owner of the repository")
         return
 
-    exit(1)
+    exit(78)
+
 
 if __name__ == "__main__":
     asyncio.get_event_loop().run_until_complete(check())

@@ -17,7 +17,8 @@ async def check():
         repo = repository.attributes
 
     if repo["fork"]:
-        exit(1)
+        exit(78)
+
 
 if __name__ == "__main__":
     asyncio.get_event_loop().run_until_complete(check())
