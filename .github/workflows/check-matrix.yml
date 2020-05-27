@@ -1,4 +1,4 @@
-name: "Checks"
+name: "Matrix Checks"
 on: [pull_request]
 
 jobs:
@@ -8,7 +8,16 @@ jobs:
     strategy:
       matrix:
         checks:
-          - {check: "wheels", name: "Check Wheels"}
+          - {check: "archived", name: "Check Archived", deps: True}
+          - {check: "brands", name: "Check Brands", deps: True}
+          - {check: "fork", name: "Check Fork", deps: True}
+          - {check: "hacs_manifest", name: "Check HACS Manifest"}
+          - {check: "images", name: "Check Images"}
+          - {check: "info", name: "Check Info"}
+          - {check: "manifest", name: "Check Manifest"}
+          - {check: "owner", name: "Check Owner", deps: True}
+          - {check: "repository", name: "Check Repository", deps: True}
+          - {check: "wheels", name: "Check Wheels", deps: True}
     steps:
       - name: Check out repository
         uses: actions/checkout@v2
@@ -22,6 +31,7 @@ jobs:
           git clone --depth 1 "https://github.com/$repo" /tmp/addition
 
       - name: Install dependencies
+        if: matrix.checks.deps
         run: |
           python3 -m pip install setuptools wheel
           python3 -m pip install aiogithubapi
