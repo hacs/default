@@ -4,10 +4,11 @@ on: [pull_request]
 jobs:
   check:
     runs-on: ubuntu-latest
+    name: ${{ matrix.checks.name }}
     strategy:
       matrix:
         checks:
-          - {check: "wheels", name: "Check home-assistant/wheels-custom-integrations"}
+          - {check: "wheels", name: "Check Wheels"}
     steps:
       - name: Check out repository
         uses: actions/checkout@v2
@@ -25,7 +26,6 @@ jobs:
           python3 -m pip install setuptools wheel
           python3 -m pip install aiogithubapi
 
-      - name: ${{ matrix.checks.name }}
-        run: python3 -m scripts.check.${{ matrix.checks.check }}
+      - run: python3 -m scripts.check.${{ matrix.checks.check }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
