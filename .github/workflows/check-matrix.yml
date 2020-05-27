@@ -5,6 +5,7 @@ jobs:
   check:
     runs-on: ubuntu-latest
     name: ${{ matrix.checks.name }}
+    if: ${{ always() }}
     strategy:
       matrix:
         checks:
@@ -36,6 +37,7 @@ jobs:
           python3 -m pip install setuptools wheel
           python3 -m pip install aiogithubapi
 
-      - run: python3 -m scripts.check.${{ matrix.checks.check }}
+      - name: Run the check
+        run: python3 -m scripts.check.${{ matrix.checks.check }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
