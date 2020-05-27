@@ -20,14 +20,17 @@ jobs:
       - name: Validate integration
         run: jq --raw-output "." "integration"
 
+      - name: Validate netdaemon
+        run: jq --raw-output "." "netdaemon"
+
       - name: Validate plugin
         run: jq --raw-output "." "plugin"
 
       - name: Validate python_script
         run: jq --raw-output "." "python_script"
 
-      - name: Validate theme
-        run: jq --raw-output "." "theme"
-
       - name: Validate removed
         run: jq --raw-output "." "removed"
+
+      - name: Validate theme
+        run: jq --raw-output "." "theme"

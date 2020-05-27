@@ -1,23 +1,21 @@
 name: "Check HACS Manifest"
-on:
-  pull_request:
-    types: unlabeled
+on: [pull_request]
 
 jobs:
-    check:
-        if: github.event.label.name == 'Not finished'
-        runs-on: ubuntu-latest
-        steps:
-            - name: Check out repository
-              uses: actions/checkout@v2
+  check:
+    runs-on: ubuntu-latest
+    name: "Check HACS Manifest"
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
 
-            - name: Clone origin
-              run: git clone --depth 1 https://github.com/hacs/default /tmp/default
+      - name: Clone origin
+        run: git clone --depth 1 https://github.com/hacs/default /tmp/default
 
-            - name: Clone new addition
-              run: |
-                repo=$(python3 -m scripts.changed.repo)
-                git clone --depth 1 "https://github.com/$repo" /tmp/addition
+      - name: Clone new addition
+        run: |
+          repo=$(python3 -m scripts.changed.repo)
+          git clone --depth 1 "https://github.com/$repo" /tmp/addition
 
-            - name: Check HACS manifest
-              run: python3 -m scripts.check.hacs_manifest
+      - name: Check HACS manifest
+        run: python3 -m scripts.check.hacs_manifest
