@@ -10,7 +10,8 @@ jobs:
       matrix:
         checks: [appdaemon, blacklist, critical, integration, netdaemon, plugin, python_script, removed, theme]
     steps:
-      - uses: actions/checkout@v2
+      - name: Check out repository
+        uses: actions/checkout@v2
       - name: Validate ${{ matrix.checks }}
         run: jq --raw-output "." "${{ matrix.checks }}"
 
@@ -19,6 +20,7 @@ jobs:
     if: ${{ always() }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Check out repository
+        uses: actions/checkout@v2
       - name: Check lists
         run: python3 scripts/is_sorted.py
