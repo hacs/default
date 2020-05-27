@@ -2,26 +2,27 @@ name: "Check Fork"
 on: [pull_request]
 
 jobs:
-    check:
-        runs-on: ubuntu-latest
-        steps:
-            - name: Check out repository
-              uses: actions/checkout@v2
+  check:
+    runs-on: ubuntu-latest
+    name: "Check Fork"
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
 
-            - name: Clone origin
-              run: git clone --depth 1 https://github.com/hacs/default /tmp/default
+      - name: Clone origin
+        run: git clone --depth 1 https://github.com/hacs/default /tmp/default
 
-            - name: Clone new addition
-              run: |
-                repo=$(python3 -m scripts.changed.repo)
-                git clone --depth 1 "https://github.com/$repo" /tmp/addition
+      - name: Clone new addition
+        run: |
+          repo=$(python3 -m scripts.changed.repo)
+          git clone --depth 1 "https://github.com/$repo" /tmp/addition
 
-            - name: Install dependencies
-              run: |
-                python3 -m pip install setuptools wheel
-                python3 -m pip install aiogithubapi
+      - name: Install dependencies
+        run: |
+          python3 -m pip install setuptools wheel
+          python3 -m pip install aiogithubapi
 
-            - name: Check fork
-              run: python3 -m scripts.check.fork
-              env:
-                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Check fork
+        run: python3 -m scripts.check.fork
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
