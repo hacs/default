@@ -4,7 +4,7 @@ from glob import glob
 
 def get_integration_path():
     files = []
-    for dir, _, _ in os.walk("/tmp/addition"):
+    for dir, _, _ in os.walk("/tmp/repositories/addition"):
         files.extend(glob(os.path.join(dir, "*manifest.json")))
 
     if len(files) != 1:
