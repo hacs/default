@@ -2,7 +2,7 @@ import os
 import json
 
 def check():
-    with open(os.getenv("GITHUB_EVENT_PATH"), "r") as event_data:
+    with open("/home/runner/work/_temp/_github_workflow/event.json", "r") as event_data:
         event = json.loads(event_data.read())
 
     return event
