@@ -5,7 +5,7 @@ on:
     branches:
       - master
 jobs:
-  init:
+  preflight:
     runs-on: ubuntu-latest
     name: Initialize
     outputs:
@@ -37,10 +37,10 @@ jobs:
           name: repositories
           path: /tmp/repositories
 
-  preflight:
+  ready:
     runs-on: ubuntu-latest
-    name: Pull Request
-    needs: init
+    name: Ready
+    needs: preflight
     steps:
       - name: Check out repository
         uses: actions/checkout@v2
@@ -51,7 +51,7 @@ jobs:
   matrix:
     runs-on: ubuntu-latest
     name: ${{ matrix.checks.name }}
-    needs: [init, preflight]
+    needs: [ready, preflight]
     strategy:
       fail-fast: False
       matrix:
@@ -90,8 +90,8 @@ jobs:
   hassfest:
     runs-on: ubuntu-latest
     name: "Check hassfest"
-    needs: [init, preflight]
-    if: needs.init.outputs.category == 'integration'
+    needs: [ready, preflight]
+    if: needs.preflight.outputs.category == 'integration'
     steps:
       - name: Check out repository
         uses: actions/checkout@v2
@@ -116,12 +116,12 @@ jobs:
   hacs:
     runs-on: ubuntu-latest
     name: "Check HACS"
-    needs: [init, preflight]
+    needs: [ready, preflight]
     steps:
       - name: HACS validation
         uses: "hacs/integration/action@master"
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         env:
-          REPOSITORY: ${{needs.init.outputs.repository}}
-          CATEGORY: ${{needs.init.outputs.category}}
+          REPOSITORY: ${{needs.preflight.outputs.repository}}
+          CATEGORY: ${{needs.preflight.outputs.category}}

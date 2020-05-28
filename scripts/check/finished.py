@@ -6,7 +6,7 @@ def check():
 
     for label in labels:
         if label["name"] == "Not finished":
-            exit("::error::Pull request is not finished")
+            exit("::error::Pull request is not ready for CI runs")
 
 
 if __name__ == "__main__":
