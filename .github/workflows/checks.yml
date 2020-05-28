@@ -25,7 +25,7 @@ jobs:
 
       - name: Clone new addition
         run: |
-          git clone --depth 1 "https://github.com/${steps.repository.output.repository}" /tmp/repositories/addition
+          git clone --depth 1 "https://github.com/${{steps.repository.output.repository}}" /tmp/repositories/addition
 
       - name: Upload shared artifacts
         uses: actions/upload-artifact@v1
