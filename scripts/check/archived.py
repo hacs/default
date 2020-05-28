@@ -17,7 +17,8 @@ async def check():
         repo = repository.attributes
 
     if repo["archived"]:
-        exit(1)
+        exit("::error::Repository is archived")
+
 
 if __name__ == "__main__":
     asyncio.get_event_loop().run_until_complete(check())

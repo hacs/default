@@ -13,8 +13,7 @@ def check():
         print("Has image(s)")
         return
 
-    print("There should be images to show the user what they get.")
-    exit(1)
+    exit("::error::There should be images to show the user what they get.")
 
 
 if __name__ == "__main__":

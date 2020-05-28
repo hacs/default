@@ -1,7 +1,7 @@
 import json
 
 
-DEFAULT = "/tmp/default"
+DEFAULT = "/tmp/repositories/default"
 
 CATEGORIES = [
     "appdaemon",
