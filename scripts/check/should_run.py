@@ -6,7 +6,6 @@ def check():
         event = json.loads(event_data.read())
 
     print(event)
-    return True
 
 
 if __name__ == "__main__":
