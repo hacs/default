@@ -188,6 +188,7 @@
   "mudape/iphonedetect",
   "nagyrobi/home-assistant-custom-components-cover-rf-time-based",
   "nickneos/HA_harmony_climate_component",
+  "nielstron/ha_blnet",
   "nikrolls/homeassistant-goldair-climate",
   "nitobuendia/oura-custom-component",
   "nstrelow/ha_philips_android_tv",
