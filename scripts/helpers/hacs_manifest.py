@@ -13,7 +13,9 @@ def get_hacs_manifest():
         exit(1)
 
     hacs_manifest = files.pop()
-    print(f"Found HACS manifest at {hacs_manifest.replace('/tmp/repositories/addition','')}")
+    print(
+        f"Found HACS manifest at {hacs_manifest.replace('/tmp/repositories/addition','')}"
+    )
 
     with open(hacs_manifest, "r") as mf:
         hacs_manifest = json.loads(mf.read())

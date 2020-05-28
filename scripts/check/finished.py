@@ -1,5 +1,6 @@
 from scripts.helpers.event import get_event
 
+
 def check():
     event = get_event()
     labels = event.get("pull_request", {}).get("labels", [])
