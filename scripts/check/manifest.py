@@ -1,5 +1,6 @@
 from scripts.changed.category import get_category
 from scripts.helpers.manifest import get_manifest
+from scripts.helpers.integration_path import get_integration_path
 
 
 def check():
@@ -8,23 +9,24 @@ def check():
         print("Only integrations are checked.")
         return
 
+    fail = "::error::Missing required value for key '{key}' in {path}"
+    integration = get_integration_path()
+    path = f"{integration.replace('/tmp/repositories/addition/', '')}/manifest.json"
+
     manifest = get_manifest()
     issues = []
 
     if manifest.get("domain") is None or manifest.get("domain") == "":
-        issues.append("No domain")
+        issues.append(fail.format(key="domain", path=path))
 
     if manifest.get("documentation") is None or manifest.get("documentation") == "":
-        issues.append("No documentation")
+        issues.append(fail.format(key="documentation", path=path))
 
     if manifest.get("issue_tracker") is None or manifest.get("issue_tracker") == "":
-        issues.append("No issue_tracker")
+        issues.append(fail.format(key="issue_tracker", path=path))
 
     if manifest.get("codeowners") is None:
-        issues.append("No codeowners")
-
-    if manifest.get("homeassistant"):
-        issues.append("homeassistant is not valid here")
+        issues.append(fail.format(key="codeowners", path=path))
 
     if issues:
         for issue in issues:

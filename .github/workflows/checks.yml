@@ -1,12 +1,59 @@
 name: "Checks"
-on: [pull_request]
-
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, unlabeled]
+    branches:
+      - master
 jobs:
+  preflight:
+    runs-on: ubuntu-latest
+    name: Initialize
+    outputs:
+      repository: ${{ steps.repository.outputs.repository }}
+      category:  ${{ steps.category.outputs.category }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Clone origin
+        run: git clone --depth 1 https://github.com/hacs/default /tmp/repositories/default
+
+      - name: Clone new addition
+        run: |
+          repo=$(python3 -m scripts.changed.repo)
+          git clone --depth 1 "https://github.com/$repo" /tmp/repositories/addition
+
+      - name: Set category
+        id: category
+        run: echo "::set-output name=category::$(python3 -m scripts.changed.category)"
+
+      - name: Set repository
+        id: repository
+        run: echo "::set-output name=repository::$(python3 -m scripts.changed.repo)"
+
+      - name: Upload shared artifacts
+        uses: actions/upload-artifact@master
+        with:
+          name: repositories
+          path: /tmp/repositories
+
+  ready:
+    runs-on: ubuntu-latest
+    name: Ready
+    needs: preflight
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Is finished
+        run: python3 -m scripts.check.finished
+
   matrix:
     runs-on: ubuntu-latest
     name: ${{ matrix.checks.name }}
-    if: ${{ always() }}
+    needs: [ready, preflight]
     strategy:
+      fail-fast: False
       matrix:
         checks:
           - {check: "archived", name: "Check Archived", deps: True}
@@ -23,13 +70,11 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v2
 
-      - name: Clone origin
-        run: git clone --depth 1 https://github.com/hacs/default /tmp/default
-
-      - name: Clone new addition
-        run: |
-          repo=$(python3 -m scripts.changed.repo)
-          git clone --depth 1 "https://github.com/$repo" /tmp/addition
+      - name: Download shared artifacts
+        uses: actions/download-artifact@master
+        with:
+          name: repositories
+          path: /tmp/repositories
 
       - name: Install dependencies if needed
         if: matrix.checks.deps
@@ -45,29 +90,22 @@ jobs:
   hassfest:
     runs-on: ubuntu-latest
     name: "Check hassfest"
-    if: ${{ always() }}
+    needs: [ready, preflight]
+    if: needs.preflight.outputs.category == 'integration'
     steps:
       - name: Check out repository
         uses: actions/checkout@v2
 
-      - name: Clone origin
-        run: git clone --depth 1 https://github.com/hacs/default /tmp/default
-
-      - name: Clone new addition
-        run: |
-          repo=$(python3 -m scripts.changed.repo)
-          git clone --depth 1 "https://github.com/$repo" /tmp/addition
-
-      - name: Set category
-        id: category
-        run: echo "::set-output name=category::$(python3 -m scripts.changed.category)"
+      - name: Download shared artifacts
+        uses: actions/download-artifact@v1
+        with:
+          name: repositories
+          path: /tmp/repositories
 
       - name: Pull Home Assistant Container
-        if: steps.category.outputs.category == 'integration'
         run: docker pull homeassistant/home-assistant:beta
 
       - name: Run hassfest
-        if: steps.category.outputs.category == 'integration'
         run: |
           integration=$(python3 -m scripts.helpers.integration_path)
           domain=$(python3 -m scripts.helpers.domain)
@@ -78,26 +116,12 @@ jobs:
   hacs:
     runs-on: ubuntu-latest
     name: "Check HACS"
-    if: ${{ always() }}
+    needs: [ready, preflight]
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v2
-
-      - name: Clone origin
-        run: git clone --depth 1 https://github.com/hacs/default /tmp/default
-
-      - name: Set category
-        id: category
-        run: echo "::set-output name=category::$(python3 -m scripts.changed.category)"
-
-      - name: Set repository
-        id: repository
-        run: echo "::set-output name=repository::$(python3 -m scripts.changed.repo)"
-
       - name: HACS validation
         uses: "hacs/integration/action@master"
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         env:
-          REPOSITORY: "${{ steps.repository.outputs.repository }}"
-          CATEGORY: "${{ steps.category.outputs.category }}"
+          REPOSITORY: ${{needs.preflight.outputs.repository}}
+          CATEGORY: ${{needs.preflight.outputs.category}}

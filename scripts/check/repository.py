@@ -18,15 +18,17 @@ async def check():
         repo = repository.attributes
 
     if not repo["has_issues"]:
-        issues.append("Issues not enabled.")
+        issues.append("::error::Issues not enabled.")
 
     if not repo["description"]:
         issues.append(
-            "No description. (https://hacs.xyz/docs/publish/start#description)"
+            "::error::No description. (https://hacs.xyz/docs/publish/start#description)"
         )
 
     if not repo["topics"]:
-        issues.append("No topics. (https://hacs.xyz/docs/publish/start#topics)")
+        issues.append(
+            "::error::No topics. (https://hacs.xyz/docs/publish/start#topics)"
+        )
 
     if issues:
         for issue in issues:

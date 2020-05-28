@@ -17,7 +17,7 @@ async def check():
         repo = repository.attributes
 
     if repo["fork"]:
-        exit(78)
+        print("::warning:: {repo} is a fork")
 
 
 if __name__ == "__main__":

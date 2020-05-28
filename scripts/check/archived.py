@@ -17,7 +17,7 @@ async def check():
         repo = repository.attributes
 
     if repo["archived"]:
-        exit("Repository is archived")
+        exit("::error::Repository is archived")
 
 
 if __name__ == "__main__":

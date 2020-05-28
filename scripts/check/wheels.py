@@ -38,7 +38,7 @@ async def check():
             )
             return
         exit(
-            f"{domain} is not added to https://github.com/home-assistant/wheels-custom-integrations, "
+            f"::error::{domain} is not added to https://github.com/home-assistant/wheels-custom-integrations, "
             + "this is needed to ensure the best possible experience for the user"
         )
 
