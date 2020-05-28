@@ -8,5 +8,6 @@ def check():
     if not info:
         exit("::error::No information provided.")
 
+
 if __name__ == "__main__":
     check()

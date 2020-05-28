@@ -26,7 +26,9 @@ async def check():
         )
 
     if not repo["topics"]:
-        issues.append("::error::No topics. (https://hacs.xyz/docs/publish/start#topics)")
+        issues.append(
+            "::error::No topics. (https://hacs.xyz/docs/publish/start#topics)"
+        )
 
     if issues:
         for issue in issues:
