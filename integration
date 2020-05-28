@@ -237,7 +237,7 @@
   "robmarkcole/HASS-Machinebox-Classificationbox",
   "robmarkcole/Hue-sensors-HASS",
   "rsnodgrass/hass-adtpulse",
-  "hacs/integration",
+  "dynasticorpheus/gigasetelements-ha",
   "rsnodgrass/hass-flo-water",
   "rsnodgrass/hass-integrations",
   "rsnodgrass/hass-poolmath",
