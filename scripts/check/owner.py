@@ -1,30 +1,22 @@
 import asyncio
-import json
 import os
-from glob import glob
 
-from aiogithubapi import GitHub
 from scripts.changed.repo import get_repo
-
-TOKEN = os.getenv("GITHUB_TOKEN")
-ACTOR = os.getenv("GITHUB_ACTOR")
+from scripts.helpers.event import get_event
 
 
 async def check():
     print("Information: https://hacs.xyz/docs/publish/include#check-owner")
     repo = get_repo()
-    async with GitHub(TOKEN) as github:
-        repository = await github.get_repo(repo)
-        repo = repository.attributes
+    event = get_event()
+    actor = event["pull_request"]["user"]["login"]
 
-    return
-    # Currently broken. can not use ACTOR
-
-    if ACTOR == repo["full_name"].split("/")[0]:
-        print(f"{ACTOR} is the owner of the repository")
+    if repo.split("/")[0] == event["pull_request"]["user"]["login"]:
+        print(f"{actor} is the owner of the repository")
         return
 
-    exit(1)
+    print(f"::warning::{actor} is the owner of the repository")
+
 
 if __name__ == "__main__":
     asyncio.get_event_loop().run_until_complete(check())

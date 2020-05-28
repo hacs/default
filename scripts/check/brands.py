@@ -28,9 +28,10 @@ async def check():
         repository = await github.get_repo("home-assistant/brands")
         files = await repository.get_contents("custom_integrations")
         if domain not in [x.attributes["name"] for x in files]:
-            print(f"{domain} is not added to https://github.com/home-assistant/brands")
-            print("This is needed to ensure the best possible experience for the user")
-            exit(1)
+            exit(
+                f"::error::{domain} is not added to https://github.com/home-assistant/brands, "
+                + "this is needed to ensure the best possible experience for the user"
+            )
         else:
             print(
                 f"{domain} is added to https://github.com/home-assistant/brands, NICE!"

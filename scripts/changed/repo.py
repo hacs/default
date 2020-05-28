@@ -1,7 +1,7 @@
 import json
 from scripts.changed.category import get_category
 
-DEFAULT = "/tmp/default"
+DEFAULT = "/tmp/repositories/default"
 
 
 def get_repo():

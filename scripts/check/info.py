@@ -6,8 +6,7 @@ def check():
     print("Information: https://hacs.xyz/docs/publish/include#check-info")
     info = get_info()
     if not info:
-        print("No information provided.")
-        exit(1)
+        exit("::error::No information provided.")
 
 
 if __name__ == "__main__":
