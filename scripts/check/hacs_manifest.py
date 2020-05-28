@@ -9,10 +9,12 @@ def check():
         return
 
     manifest = get_hacs_manifest()
+    fail = "Missing required value for key '{key}' in {path}"
+    path = "hacs.json"
     issues = []
 
     if manifest.get("name") is None:
-        issues.append("No name")
+        issues.append(fail.format(key="name", path=path))
 
     if issues:
         for issue in issues:
