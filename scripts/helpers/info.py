@@ -14,8 +14,8 @@ def get_info():
     content = ""
 
     for alternative in ALTERNATIVES[info]:
-        if os.path.exists(f"/tmp/addition/{alternative}"):
+        if os.path.exists(f"/tmp/repositories/addition/{alternative}"):
             print(f"Found info file at /{alternative}")
-            with open(f"/tmp/addition/{alternative}", "r") as alt:
+            with open(f"/tmp/repositories/addition/{alternative}", "r") as alt:
                 content = alt.read()
     return content
