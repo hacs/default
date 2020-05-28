@@ -8,6 +8,7 @@ jobs:
     outputs:
       repository: ${{ steps.repository.outputs.repository }}
       category:  ${{ steps.category.outputs.category }}
+      check: ${{ steps.check.outputs.check }}
     steps:
       - name: Check out repository
         uses: actions/checkout@v2
@@ -28,6 +29,10 @@ jobs:
         id: repository
         run: echo "::set-output name=repository::$(python3 -m scripts.changed.repo)"
 
+      - name: Should run?
+        id: check
+        run: echo "::set-output name=check::$(python3 -m scripts.check.should_run)"
+
       - name: Upload shared artifacts
         uses: actions/upload-artifact@master
         with:
@@ -37,6 +42,7 @@ jobs:
   matrix:
     runs-on: ubuntu-latest
     name: ${{ matrix.checks.name }}
+    if: needs.preflight.outputs.check == 'True'
     needs: preflight
     strategy:
       matrix:
@@ -76,7 +82,7 @@ jobs:
     runs-on: ubuntu-latest
     name: "Check hassfest"
     needs: preflight
-    if: needs.preflight.outputs.category == 'integration'
+    if: needs.preflight.outputs.check == 'True' && needs.preflight.outputs.category == 'integration'
     steps:
       - name: Check out repository
         uses: actions/checkout@v2
@@ -102,6 +108,7 @@ jobs:
     runs-on: ubuntu-latest
     name: "Check HACS"
     needs: preflight
+    if: needs.preflight.outputs.check == 'True'
     steps:
       - name: HACS validation
         uses: "hacs/integration/action@master"
