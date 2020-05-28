@@ -31,7 +31,9 @@ jobs:
 
       - name: Should run?
         id: check
-        run: echo "::set-output name=check::$(python3 -m scripts.check.should_run)"
+        run: |
+          python3 -m scripts.check.should_run
+          echo "::set-output name=check::$(python3 -m scripts.check.should_run)"
 
       - name: Upload shared artifacts
         uses: actions/upload-artifact@master
