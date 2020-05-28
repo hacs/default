@@ -265,6 +265,7 @@
   "sockless-coding/panasonic_cc",
   "StyraHem/ShellyForHASS",
   "tefinger/hass-brematic",
+  "tellerbop/havistapool",
   "thevoltagesource/LennoxiComfort",
   "thomasloven/hass-browser_mod",
   "thomasloven/hass-favicon",
