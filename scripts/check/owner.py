@@ -15,7 +15,7 @@ async def check():
         print(f"{actor} is the owner of the repository")
         return
 
-    print(f"::warning::{actor} is the owner of the repository")
+    exit(f"::warning::{actor} is not the owner of the repository")
 
 
 if __name__ == "__main__":
