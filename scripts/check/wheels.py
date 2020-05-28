@@ -12,6 +12,7 @@ TOKEN = os.getenv("GITHUB_TOKEN")
 
 
 async def check():
+    print("Information: https://hacs.xyz/docs/publish/include#check-wheels")
     if get_category() != "integration":
         print("Only integrations are checked.")
         return
@@ -21,8 +22,7 @@ async def check():
     domain = manifest.get("domain")
     requirements = manifest.get("requirements")
     if domain is None:
-        print("No domain")
-        exit(1)
+        exit("No domain")
 
     if not requirements:
         print("No requirements found")
@@ -37,11 +37,10 @@ async def check():
                 f"{domain} is added to https://github.com/home-assistant/wheels-custom-integrations, NICE!"
             )
             return
-        print(
-            f"{domain} is not added to https://github.com/home-assistant/wheels-custom-integrations"
+        exit(
+            f"::error::{domain} is not added to https://github.com/home-assistant/wheels-custom-integrations, "
+            + "this is needed to ensure the best possible experience for the user"
         )
-        print("This is needed to ensure the best possible experience for the user")
-        exit(1)
 
 
 if __name__ == "__main__":
