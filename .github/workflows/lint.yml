@@ -17,7 +17,7 @@ jobs:
         run: echo "::set-output name=category::$(python3 -m scripts.changed.category)"
 
       - name: Validate ${{ matrix.checks }}
-        if: steps.category.outputs.category
+        if: steps.category.outputs.category != 'Bad data []'
         run:
           jq --raw-output "." "${{steps.category.outputs.category}}"
 
