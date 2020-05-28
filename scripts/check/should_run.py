@@ -1,10 +1,7 @@
-import os
-import json
+from scripts.helpers.event import get_event
 
 def check():
-    with open("/home/runner/work/_temp/_github_workflow/event.json", "r") as event_data:
-        event = json.loads(event_data.read())
-
+    event = get_event()
     return event
 
 
