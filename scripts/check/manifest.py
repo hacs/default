@@ -9,7 +9,7 @@ def check():
         print("Only integrations are checked.")
         return
 
-    fail = "Missing required value for key '{key}' in {path}"
+    fail = "::error::Missing required value for key '{key}' in {path}"
     integration = get_integration_path()
     path = f"{integration.replace('/tmp/repositories/addition/', '')}/manifest.json"
 

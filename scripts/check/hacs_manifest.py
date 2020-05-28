@@ -9,7 +9,7 @@ def check():
         return
 
     manifest = get_hacs_manifest()
-    fail = "Missing required value for key '{key}' in {path}"
+    fail = "::error::Missing required value for key '{key}' in {path}"
     path = "hacs.json"
     issues = []
 
