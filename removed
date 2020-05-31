@@ -278,5 +278,10 @@
     "reason": "No longer maintained",
     "removal_type": "blacklist",
     "link": "https://github.com/hacs/default/pull/427"
+  },
+  {
+    "repository": "briis/mbweather",
+    "reason": "Repository is archived",
+    "removal_type": "blacklist"
   }
 ]
