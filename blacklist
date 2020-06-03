@@ -18,7 +18,6 @@
   "custom-cards/marquee-state-element",
   "custom-cards/monster-card",
   "custom-cards/muuri-grid",
-  "custom-cards/surveillance-card",
   "custom-cards/timer-card",
   "custom-cards/tracker-card",
   "custom-components/binary_sensor.hadockermon",
