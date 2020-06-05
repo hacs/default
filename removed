@@ -277,8 +277,7 @@
     "repository": "briis/mbweather",
     "reason": "Repository is archived",
     "removal_type": "blacklist"
-  }
-  ,
+  },
   {
     "repository": "nitobuendia/oura-custom-component",
     "reason": "Request from author",
