@@ -112,6 +112,7 @@
   "GeorgeSG/ha-slack-user",
   "gieljnssns/buienalarm-sensor-homeassistant",
   "gieljnssns/kostalpiko-sensor-homeassistant",
+  "gilsonmandalogo/hacs-minerstat",
   "gjohansson-ST/sector",
   "gregoryduckworth/GoogleGeocode-HASS",
   "heinoldenhuis/home_assistant_area_waste",
