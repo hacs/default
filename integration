@@ -221,6 +221,7 @@
   "Pouzor/freebox_player",
   "ptimatth/GeorideHA",
   "PTST/O365-HomeAssistant",
+  "py-smart-gardena/hass-gardena-smart-system",
   "Pyhive/HA-Hive-Custom-Component",
   "r-renato/ha-climacell-weather",
   "r-renato/hass-xiaomi-mi-flora-and-flower-care",
