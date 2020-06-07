@@ -9,6 +9,7 @@
   "atomic7777/atomic_calendar",
   "azuwis/zigbee2mqtt-networkmap",
   "bbbenji/synthwave-hass-extras",
+  "ben8p/lovelace-tab-redirect-card",
   "benct/lovelace-github-entity-row",
   "benct/lovelace-multiple-entity-row",
   "benct/lovelace-xiaomi-vacuum-card",
