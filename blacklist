@@ -11,6 +11,7 @@
   "boralyl/hass-smartthinq",
   "briis/mbweather",
   "custom-cards/boilerplate-card",
+  "custom-cards/button-entity-row",
   "custom-cards/camera-card",
   "custom-cards/custom-card-helpers",
   "custom-cards/home-setter",
