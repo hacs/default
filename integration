@@ -130,6 +130,7 @@
   "JayBlackedOut/hass-nhlapi",
   "jcwillox/hass-auto-backup",
   "jensweimann/awb",
+  "jeroenterheerdt/HADailySensor",
   "jeroenterheerdt/HAsmartirrigation",
   "jihao/colorfulclouds-hass",
   "jihao/rokid-webhook-hass",
