@@ -244,12 +244,6 @@
     "link": "https://github.com/hacs/integration/pull/1045"
   },
   {
-    "repository": "custom-cards/surveillance-card",
-    "reason": "Abandoned/Broken",
-    "removal_type": "stale",
-    "link": "https://github.com/hacs/default/issues/318"
-  },
-  {
     "repository": "robmarkcole/HASS-Sighthound",
     "reason": "Repository is archived",
     "removal_type": "blacklist",
@@ -278,5 +272,22 @@
     "reason": "No longer maintained",
     "removal_type": "blacklist",
     "link": "https://github.com/hacs/default/pull/427"
+  },
+  {
+    "repository": "briis/mbweather",
+    "reason": "Repository is archived",
+    "removal_type": "blacklist"
+  },
+  {
+    "repository": "nitobuendia/oura-custom-component",
+    "reason": "Request from author",
+    "removal_type": "blacklist",
+    "link": "https://github.com/hacs/default/pull/509"
+  },
+  {
+    "repository": "custom-cards/button-entity-row",
+    "reason": "Not maintained anymore",
+    "removal_type": "blacklist",
+    "link": "https://github.com/hacs/integration/issues/1315"
   }
 ]
