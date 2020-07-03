@@ -14,6 +14,10 @@ async def check():
     event = get_event()
     actor = event["pull_request"]["user"]["login"]
 
+    if repo.split("/")[0] == actor:
+        print(f"'{actor}' is the owner of '{repo}'")
+        return
+
     try:
         async with GitHub(TOKEN) as github:
             request = await github.client.get(
@@ -35,7 +39,7 @@ async def check():
             if [x["contributions"] for x in _sorted if x["login"] == actor].pop() > (
                 _top / 2
             ):
-                print(f"{actor} is a major contributor to '{repo}'")
+                print(f"'{actor}' is a major contributor to '{repo}'")
                 return
     except AIOGitHubAPIException as e:
         exit(f"::error::{e}")
