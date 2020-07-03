@@ -6,7 +6,7 @@ help: ## Shows help message.
 	@echo
 
 init:
- 	python3 -m pip install setuptools wheel
+	python3 -m pip install setuptools wheel
 	python3 -m pip install -r requirements.txt
 
 add: ## Add a new repository to the default HACS list
