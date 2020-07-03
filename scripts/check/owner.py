@@ -14,16 +14,20 @@ async def check():
     event = get_event()
     actor = event["pull_request"]["user"]["login"]
 
-    async with GitHub(TOKEN) as github:
-        request = await github.client.get(
-            endpoint=f"/repos/{repo}/collaborators/{actor}/permission", headers={},
-        )
+    try:
+        async with GitHub(TOKEN) as github:
+            request = await github.client.get(
+                endpoint=f"/repos/{repo}/collaborators/{actor}/permission",
+                headers=None,
+            )
 
-        permission = request.get("permission", "read")
+            permission = request.get("permission", "read")
 
-        if permission in ["admin", "write"]:
-            print(f"{actor} is the owner of the repository")
-            return
+            if permission in ["admin", "write"]:
+                print(f"{actor} is the owner of the repository")
+                return
+    except AIOGitHubAPIException as e:
+        exit(f"::error::{e}")
 
     exit(f"::error::{actor} does not have write access to the repository")
 
