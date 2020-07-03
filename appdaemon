@@ -18,6 +18,7 @@
   "eifinger/appdaemon-deconz-xiaomi-button",
   "ericmatte/ad-media-lights-sync",
   "haberda/light_automation",
+  "haberda/tradfri_remotes",
   "haberda/update_lights",
   "hechi/GoodnightT",
   "jmarsik/ad-eurotronic-trv-valvepos",
