@@ -18,7 +18,9 @@
   "eifinger/appdaemon-deconz-xiaomi-button",
   "ericmatte/ad-media-lights-sync",
   "haberda/light_automation",
+  "haberda/tradfri_remotes",
   "haberda/update_lights",
+  "hechi/GoodnightT",
   "jmarsik/ad-eurotronic-trv-valvepos",
   "ludeeus/ad-watchdog",
   "Mohlsson/ReplayLightsHistory",
@@ -47,6 +49,7 @@
   "UbhiTS/ad-alexadoorwindowannounce",
   "UbhiTS/ad-alexasmarttalkingthermostat",
   "UbhiTS/ad-alexatalkingclock",
+  "UbhiTS/ad-autofanspeed",
   "UbhiTS/ad-autointernetrebooter",
   "vash3d/nethassmo",
   "xaviml/controllerx"
