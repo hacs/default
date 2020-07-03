@@ -47,6 +47,7 @@
   "custom-components/switch.hadockermon",
   "custom-components/usps_mail",
   "eifinger/here_travel_time",
+  "heinoldenhuis/home_assistant_area_waste",
   "home-assistant-community-themes/template",
   "home-assistant-community-themes/theme-request",
   "keatontaylor/alexa_media_player",
