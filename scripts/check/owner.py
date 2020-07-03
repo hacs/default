@@ -3,6 +3,9 @@ import os
 
 from scripts.changed.repo import get_repo
 from scripts.helpers.event import get_event
+from aiogithubapi import GitHub, AIOGitHubAPIException
+
+TOKEN = os.getenv("GITHUB_TOKEN")
 
 
 async def check():
@@ -11,11 +14,21 @@ async def check():
     event = get_event()
     actor = event["pull_request"]["user"]["login"]
 
-    if repo.split("/")[0] == event["pull_request"]["user"]["login"]:
-        print(f"{actor} is the owner of the repository")
-        return
+    try:
+        async with GitHub(TOKEN) as github:
+            request = await github.client.get(
+                endpoint=f"/repos/{repo}/collaborators/{actor}/permission", headers={},
+            )
 
-    exit(f"::warning::{actor} is not the owner of the repository")
+            permission = request.get("permission", "read")
+
+            if permission in ["admin", "write"]:
+                print(f"{actor} is the owner of the repository")
+                return
+    except AIOGitHubAPIException as e:
+        exit(f"::error::{e}")
+
+    exit(f"::error::{actor} does not have write access to the repository")
 
 
 if __name__ == "__main__":
