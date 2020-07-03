@@ -17,19 +17,30 @@ async def check():
     try:
         async with GitHub(TOKEN) as github:
             request = await github.client.get(
-                endpoint=f"/repos/{repo}/collaborators/{actor}/permission",
-                headers=None,
+                f"/repos/{repo}/contributors", headers={},
+            )
+            contributors = [
+                {"login": x["login"], "contributions": x["contributions"]}
+                for x in request or []
+            ]
+            _sorted = sorted(
+                contributors, key=lambda x: x["contributions"], reverse=True
             )
 
-            permission = request.get("permission", "read")
+            _top = _sorted[0]["contributions"]
 
-            if permission in ["admin", "write"]:
-                print(f"{actor} is the owner of the repository")
+            if actor not in [x["login"] for x in _sorted]:
+                exit(f"::error::'{actor}' is not a contributor to '{repo}'")
+
+            if [x["contributions"] for x in _sorted if x["login"] == actor].pop() > (
+                _top / 2
+            ):
+                print(f"{actor} is a major contributor to '{repo}'")
                 return
     except AIOGitHubAPIException as e:
         exit(f"::error::{e}")
 
-    exit(f"::error::{actor} does not have write access to the repository")
+    exit(f"::error::'{actor}' is not a major contributor to '{repo}'")
 
 
 if __name__ == "__main__":
