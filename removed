@@ -289,5 +289,11 @@
     "reason": "Not maintained anymore",
     "removal_type": "blacklist",
     "link": "https://github.com/hacs/integration/issues/1315"
+  },
+  {
+    "repository": "heinoldenhuis/home_assistant_area_waste",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/531"
   }
 ]

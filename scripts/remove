@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+read -p 'Repository: ' repository
+read -p 'Reason: ' reason
+read -p 'Removal type: ' removal_type
+read -p 'Link to more information: ' link
+
+echo $repository
+echo $reason
+echo $removal_type
+echo $link
+
+python scripts/remove_repo.py "$repository" "$removal_type" "$reason" "$link" || exit 0
