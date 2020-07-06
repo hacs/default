@@ -280,6 +280,7 @@
   "StyraHem/ShellyForHASS",
   "tefinger/hass-brematic",
   "tellerbop/havistapool",
+  "ThermIQ/thermiq_mqtt-ha",
   "thevoltagesource/LennoxiComfort",
   "thomasloven/hass-browser_mod",
   "thomasloven/hass-favicon",
