@@ -197,6 +197,7 @@
   "MTrab/landroid_cloud",
   "mudape/iphonedetect",
   "nagyrobi/home-assistant-custom-components-cover-rf-time-based",
+  "nguyer/homeassistant-bond-home",
   "nickneos/HA_harmony_climate_component",
   "nikrolls/homeassistant-goldair-climate",
   "nstrelow/ha_philips_android_tv",
