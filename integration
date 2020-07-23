@@ -266,6 +266,7 @@
   "safepay/cover.hd_powerview",
   "safepay/sensor.fronius",
   "safepay/sensor.willyweather",
+  "sampsyo/hass-smartthinq",
   "scottyphillips/mitsubishi_hass",
   "sebr/bhyve-home-assistant",
   "SebuZet/samsungrac",
