@@ -37,21 +37,10 @@ jobs:
           name: repositories
           path: /tmp/repositories
 
-  ready:
-    runs-on: ubuntu-latest
-    name: Ready
-    needs: preflight
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v2
-
-      - name: Is finished
-        run: python3 -m scripts.check.finished
-
   matrix:
     runs-on: ubuntu-latest
     name: ${{ matrix.checks.name }}
-    needs: [ready, preflight]
+    needs: preflight
     strategy:
       fail-fast: False
       matrix:
@@ -88,7 +77,7 @@ jobs:
   hassfest:
     runs-on: ubuntu-latest
     name: "Check hassfest"
-    needs: [ready, preflight]
+    needs: preflight
     if: needs.preflight.outputs.category == 'integration'
     steps:
       - name: Check out repository
@@ -114,7 +103,7 @@ jobs:
   hacs:
     runs-on: ubuntu-latest
     name: "Check HACS"
-    needs: [ready, preflight]
+    needs: preflight
     steps:
       - name: HACS validation
         uses: "hacs/integration/action@master"
