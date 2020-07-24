@@ -32,5 +32,7 @@
   "pbeckcom/green_slate_theme",
   "Poeschl/slate_red",
   "seangreen2/slate_theme",
-  "wowgamr/animated-weather-card"
+  "wowgamr/animated-weather-card",
+  "KTibow/lovelace-light-soft-ui-theme",
+  "KTibow/lovelace-dark-soft-ui-theme"
 ]
