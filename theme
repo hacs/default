@@ -25,6 +25,8 @@
   "JuanMTech/orange_dark",
   "JuanMTech/orange_light",
   "kibibit/hass-kibibit-theme",
+  "KTibow/lovelace-dark-soft-ui-theme",
+  "KTibow/lovelace-light-soft-ui-theme",
   "naofireblade/clear-theme",
   "naofireblade/clear-theme-dark",
   "Nihvel/your_name",
@@ -33,6 +35,4 @@
   "Poeschl/slate_red",
   "seangreen2/slate_theme",
   "wowgamr/animated-weather-card",
-  "KTibow/lovelace-light-soft-ui-theme",
-  "KTibow/lovelace-dark-soft-ui-theme"
 ]
