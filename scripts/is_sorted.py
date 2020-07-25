@@ -15,4 +15,6 @@ for category in categories:
         content = json.loads(cat_file.read())
         if content != sorted(content, key=str.casefold):
             print(f"{category} is not sorted correctly")
+            print("Original:", content)
+            print("Sorted:", sorted(content, key=str.casefold))
             exit(1)
