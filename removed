@@ -295,5 +295,11 @@
     "reason": "Request from author",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/531"
+  },
+  {
+    "repository": "cgarwood/homeassistant-zwave_mqtt",
+    "reason": "deprecated",
+    "removal_type": "deprecated",
+    "link": "https://github.com/hacs/default/pull/547"
   }
 ]
