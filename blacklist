@@ -10,6 +10,7 @@
   "Boosik/discord_game",
   "boralyl/hass-smartthinq",
   "briis/mbweather",
+  "cgarwood/homeassistant-zwave_mqtt",
   "custom-cards/boilerplate-card",
   "custom-cards/button-entity-row",
   "custom-cards/camera-card",
