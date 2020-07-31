@@ -301,5 +301,10 @@
     "reason": "deprecated",
     "removal_type": "deprecated",
     "link": "https://github.com/hacs/default/pull/547"
+  },
+  {
+    "repository": "custom-components/sensor.wifi-scanner",
+    "reason": "Repository not complete",
+    "removal_type": "removed"
   }
 ]

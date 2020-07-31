@@ -44,6 +44,7 @@
   "custom-components/sensor.syncthing",
   "custom-components/sensor.tautulli",
   "custom-components/sensor.versions",
+  "custom-components/sensor.wifi-scanner",
   "custom-components/sickchill",
   "custom-components/switch.hadockermon",
   "custom-components/usps_mail",

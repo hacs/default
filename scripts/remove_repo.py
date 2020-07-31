@@ -56,6 +56,9 @@ for category in [
             print(f"Found in {category}")
             foundcategory = category
             categorycontent = content
+            content.remove(remove["repository"])
+            with open(category, "w") as outfile:
+                outfile.write(json.dumps(sorted(content, key=str.casefold), indent=2))
             break
 
 if remove["repository"].split("/")[0] not in orgs:
