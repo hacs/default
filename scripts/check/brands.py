@@ -13,21 +13,24 @@ TOKEN = os.getenv("GITHUB_TOKEN")
 
 async def check():
     print("Information: https://hacs.xyz/docs/publish/include#check-brands")
-    if get_category() != "integration":
-        print("Only integrations are checked.")
-        return
+    # if get_category() != "integration":
+    #    print("Only integrations are checked.")
+    #    return
 
-    manifest = get_manifest()
+    # manifest = get_manifest()
 
-    domain = manifest.get("domain")
+    # domain = manifest.get("domain")
+    domain = "tahoma"
     if domain is None:
         print("No domain")
         exit(1)
 
     async with GitHub(TOKEN) as github:
         repository = await github.get_repo("home-assistant/brands")
-        files = await repository.get_contents("custom_integrations")
-        if domain not in [x.attributes["name"] for x in files]:
+        core = await repository.get_contents("core_integrations")
+        custom = await repository.get_contents("custom_integrations")
+
+        if domain not in [x.attributes["name"] for x in core + custom]:
             exit(
                 f"::error::{domain} is not added to https://github.com/home-assistant/brands, "
                 + "this is needed to ensure the best possible experience for the user"
