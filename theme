@@ -41,6 +41,7 @@
   "JuanMTech/google_light_theme",
   "JuanMTech/green_dark_mode",
   "JuanMTech/green_light_mode",
+  "JuanMTech/ios_dark_mode_theme",
   "JuanMTech/orange_dark",
   "JuanMTech/orange_light",
   "kibibit/hass-kibibit-theme",
@@ -53,6 +54,6 @@
   "pbeckcom/green_slate_theme",
   "Poeschl/slate_red",
   "seangreen2/slate_theme",
-  "wowgamr/animated-weather-card",
-  "JuanMTech/ios_dark_mode_theme"
+  "wowgamr/animated-weather-card"
 ]
+
