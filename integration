@@ -248,6 +248,8 @@
   "mlowijs/HomeAssistant-TeslaCustomComponent",
   "Mofeywalker/openmensa-hass-component",
   "mrk-its/homeassistant-blitzortung",
+  "mrrussellong/lta-datamall",
+  "mrrussellong/nea-weather",
   "msp1974/homeassistant-jlrincontrol",
   "MTrab/landroid_cloud",
   "mudape/iphonedetect",
