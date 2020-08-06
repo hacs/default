@@ -78,6 +78,7 @@
   "custom-components/media_player.braviatv_psk",
   "custom-components/nordpool",
   "custom-components/places",
+  "custom-components/pyscript",
   "custom-components/qbo",
   "custom-components/readme",
   "custom-components/sensor.airthings_wave",
