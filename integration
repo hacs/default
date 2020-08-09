@@ -41,6 +41,7 @@
   "bouwew/sems2mqtt",
   "bramkragten/lyric",
   "bramkragten/mind",
+  "brefra/home-assistant-plugwise-stick",
   "briis/meteobridge",
   "briis/smartweather",
   "briis/unifiprotect",
