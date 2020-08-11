@@ -133,6 +133,7 @@
   "DavidMStraub/homeassistant-homeconnect",
   "deblockt/hass-proscenic-790T-vacuum",
   "definitio/ha-rhvoice",
+  "definitio/ha-sox",
   "dgomes/ha_erse",
   "djbulsink/panasonic_ac",
   "dlarrick/hass-kumo",
