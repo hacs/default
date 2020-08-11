@@ -52,6 +52,7 @@
   "UbhiTS/ad-autofanspeed",
   "UbhiTS/ad-autointernetrebooter",
   "vash3d/nethassmo",
+  "wernerhp/appdaemon_aqara_motion_sensors",
   "wernerhp/appdaemon_wasp",
   "xaviml/controllerx"
 ]
