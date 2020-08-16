@@ -306,5 +306,11 @@
     "repository": "custom-components/sensor.wifi-scanner",
     "reason": "Repository not complete",
     "removal_type": "removed"
+  },
+  {
+    "repository": "lociii/homeassistant-digitalstrom",
+    "reason": "archived",
+    "removal_type": "blacklist",
+    "link": "https://github.com/hacs/integration/issues/1457"
   }
 ]
