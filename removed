@@ -318,5 +318,11 @@
     "reason": "archived",
     "removal_type": "blacklist",
     "link": "https://github.com/hacs/integration/issues/1457"
+  },
+  {
+    "repository": "amelchio/logbook_cache",
+    "reason": "Request from author",
+    "removal_type": "removed",
+    "link": "https://github.com/hacs/default/pull/578"
   }
 ]
