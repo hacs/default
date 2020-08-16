@@ -312,5 +312,11 @@
     "reason": "archived",
     "removal_type": "blacklist",
     "link": "https://github.com/hacs/integration/issues/1457"
+  },
+  {
+    "repository": "ReneNulschDE/mbapipy",
+    "reason": "archived",
+    "removal_type": "blacklist",
+    "link": "https://github.com/hacs/integration/issues/1457"
   }
 ]
