@@ -259,6 +259,7 @@
   "nagyrobi/home-assistant-custom-components-cover-rf-time-based",
   "nagyrobi/home-assistant-custom-components-linkplay",
   "nickneos/HA_harmony_climate_component",
+  "nielsfaber/scheduler-component",
   "nikrolls/homeassistant-goldair-climate",
   "nstrelow/ha_philips_android_tv",
   "ntilley905/faastatus",
