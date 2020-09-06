@@ -340,6 +340,7 @@
   "sockless-coding/garo_wallbox",
   "sockless-coding/panasonic_cc",
   "StyraHem/ShellyForHASS",
+  "swartjean/ha-seedboxes-cc",
   "tefinger/hass-brematic",
   "tellerbop/havistapool",
   "ThermIQ/thermiq_mqtt-ha",
