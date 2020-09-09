@@ -324,5 +324,11 @@
     "reason": "Request from author",
     "removal_type": "removed",
     "link": "https://github.com/hacs/default/pull/578"
+  },
+  {
+    "repository": "Limych/media_player.linkplay",
+    "reason": "Requested by author",
+    "removal_type": "removed",
+    "link": "https://github.com/hacs/default/pull/577"
   }
 ]
