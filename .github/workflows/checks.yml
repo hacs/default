@@ -92,16 +92,15 @@ jobs:
       - name: Pull Home Assistant Container
         run: docker pull homeassistant/home-assistant:beta
 
-      - name: Install requirements
-        run: python3 -m pip install pipdeptree==1.0.0 stdlib-list==0.7.0 tqdm==4.48.2
-
       - name: Run hassfest
         run: |
           integration=$(python3 -m scripts.helpers.integration_path)
           domain=$(python3 -m scripts.helpers.domain)
           docker run --entrypoint=""  -v "$integration":"/$domain" \
-            homeassistant/home-assistant:beta python3 -m \
-            script.hassfest --action validate --integration-path "/$domain"
+            homeassistant/home-assistant:beta \
+            python3 -m pip install pipdeptree==1.0.0 stdlib-list==0.7.0 tqdm==4.48.2 \
+            \
+            && python3 -m script.hassfest --action validate --integration-path "/$domain"
 
   hacs:
     runs-on: ubuntu-latest
