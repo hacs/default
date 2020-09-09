@@ -342,6 +342,7 @@
   "sockless-coding/garo_wallbox",
   "sockless-coding/panasonic_cc",
   "StyraHem/ShellyForHASS",
+  "swartjean/ha-eskom-loadshedding",
   "tefinger/hass-brematic",
   "tellerbop/havistapool",
   "ThermIQ/thermiq_mqtt-ha",
