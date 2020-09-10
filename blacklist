@@ -71,5 +71,6 @@
   "shaonianzhentan/ha-cloud-music",
   "sinclairpaul/ha_purple_theme",
   "tenly2000/HomeAssistant-Places",
-  "xaviml/z2m_ikea_controller"
+  "xaviml/z2m_ikea_controller",
+  "xirixiz/Home-Assistant-Sensor-Afvalwijzer"
 ]
