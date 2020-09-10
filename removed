@@ -330,11 +330,5 @@
     "reason": "Requested by author",
     "removal_type": "removed",
     "link": "https://github.com/hacs/default/pull/577"
-  },
-  {
-    "repository": "xirixiz/Home-Assistant-Sensor-Afvalwijzer",
-    "reason": "Breaks HA startup",
-    "removal_type": "broken",
-    "link": "https://github.com/xirixiz/Home-Assistant-Sensor-Afvalwijzer/issues/68"
   }
 ]
