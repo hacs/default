@@ -181,6 +181,7 @@
   "gieljnssns/buienalarm-sensor-homeassistant",
   "gieljnssns/kostalpiko-sensor-homeassistant",
   "gilsonmandalogo/hacs-minerstat",
+  "gjohansson-ST/adax_heater",
   "gjohansson-ST/sector",
   "gregoryduckworth/GoogleGeocode-HASS",
   "GuySie/ha-meural",
