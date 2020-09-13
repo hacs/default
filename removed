@@ -336,5 +336,11 @@
     "reason": "Breaks HA startup",
     "removal_type": "broken",
     "link": "https://github.com/xirixiz/Home-Assistant-Sensor-Afvalwijzer/issues/68"
+  },
+  {
+    "repository": "cbulock/lovelace-battery-entity",
+    "reason": "Abandoned, not working properly",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/1464"
   }
 ]

@@ -11,6 +11,7 @@
   "Boosik/discord_game",
   "boralyl/hass-smartthinq",
   "briis/mbweather",
+  "cbulock/lovelace-battery-entity",
   "cgarwood/homeassistant-zwave_mqtt",
   "custom-cards/boilerplate-card",
   "custom-cards/button-entity-row",
