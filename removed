@@ -342,5 +342,11 @@
     "reason": "Abandoned, not working properly",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/1464"
+  },
+  {
+    "repository": "peternijssen/lovelace-postnl-card",
+    "reason": "Can no longer be used",
+    "removal_type": "removed",
+    "link": "https://github.com/hacs/integration/issues/1533"
   }
 ]
