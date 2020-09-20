@@ -41,6 +41,7 @@
   "custom-components/sensor.custom_cards",
   "custom-components/sensor.custom_components",
   "custom-components/sensor.geoip",
+  "custom-components/sensor.kodi_recently_added",
   "custom-components/sensor.launchlibrary",
   "custom-components/sensor.ruter",
   "custom-components/sensor.syncthing",
