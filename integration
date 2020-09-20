@@ -257,6 +257,7 @@
   "mampfes/hacs_waste_collection_schedule",
   "mampfes/hacs_wiffi",
   "Martinvdm/garbage-nissewaard-homeassistant",
+  "martinweu/smart_light_group",
   "MatthewFlamm/nwsradar",
   "maykar/plex_assistant",
   "michaellunzer/Home-Assistant-Custom-Component-Fortnite",
