@@ -352,5 +352,11 @@
     "repository": "OpenXbox/xboxone-home-assistant",
     "reason": "The repository is archived",
     "removal_type": "archived"
+  },
+  {
+    "repository": "Armaell/home-assistant-custom-icons-loader",
+    "reason": "Not working after Home Assistant 0.110",
+    "removal_type": "removed",
+    "link": "https://github.com/hacs/integration/issues/1548"
   }
 ]
