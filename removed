@@ -342,5 +342,10 @@
     "reason": "Can no longer be used",
     "removal_type": "removed",
     "link": "https://github.com/hacs/integration/issues/1533"
+  },
+  {
+    "repository": "ljmerza/calendar-card",
+    "reason": "The repository is archived",
+    "removal_type": "archived"
   }
 ]
