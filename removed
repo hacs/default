@@ -347,5 +347,10 @@
     "repository": "ljmerza/calendar-card",
     "reason": "The repository is archived",
     "removal_type": "archived"
+  },
+  {
+    "repository": "OpenXbox/xboxone-home-assistant",
+    "reason": "The repository is archived",
+    "removal_type": "archived"
   }
 ]
