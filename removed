@@ -358,5 +358,10 @@
     "reason": "Not working after Home Assistant 0.110",
     "removal_type": "removed",
     "link": "https://github.com/hacs/integration/issues/1548"
+  },
+  {
+    "repository": "custom-components/sensor.kodi_recently_added",
+    "reason": "Repository is archived",
+    "removal_type": "removed"
   }
 ]

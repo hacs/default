@@ -91,7 +91,6 @@
   "custom-components/sensor.custom_aftership",
   "custom-components/sensor.custom_components",
   "custom-components/sensor.file_restore",
-  "custom-components/sensor.kodi_recently_added",
   "custom-components/sensor.mitemp_bt",
   "custom-components/sensor.nintendo_wishlist",
   "custom-components/sensor.owlintuition",
