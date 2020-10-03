@@ -363,5 +363,11 @@
     "repository": "custom-components/sensor.kodi_recently_added",
     "reason": "Repository is archived",
     "removal_type": "removed"
+  },
+  {
+    "repository": "alryaz/hass-component-yandex-smart-home",
+    "reason": "Does not work after 0.115",
+    "removal_type": "removed",
+    "link": "https://github.com/hacs/integration/issues/1557"
   }
 ]
