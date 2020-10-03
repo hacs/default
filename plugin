@@ -62,6 +62,7 @@
   "DBa2016/power-usage-card-regex",
   "dcramer/lovelace-nextbus-card",
   "Deejayfool/hass-shutter-card",
+  "denysdovhan/purifier-card",
   "denysdovhan/vacuum-card",
   "dimagoltsman/content-card-remote-control",
   "dimagoltsman/generic-remote-control-card",
