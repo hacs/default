@@ -369,5 +369,11 @@
     "reason": "Does not work after 0.115",
     "removal_type": "removed",
     "link": "https://github.com/hacs/integration/issues/1557"
+  },
+  {
+    "repository": "joogps/MQTT-Climate-Sync",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/1562"
   }
 ]
