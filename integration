@@ -87,6 +87,7 @@
   "custom-components/pyscript",
   "custom-components/qbo",
   "custom-components/readme",
+  "custom-components/securifi",
   "custom-components/sensor.airthings_wave",
   "custom-components/sensor.avanza_stock",
   "custom-components/sensor.avfallsor",
