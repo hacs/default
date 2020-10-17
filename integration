@@ -337,6 +337,7 @@
   "rsnodgrass/hass-poolmath",
   "rsnodgrass/hass-sensorpush",
   "rsnodgrass/hass-xantech",
+  "rt400/ReversoTTS-HA",
   "rt400/School-Vacation",
   "ryanmac8/Home-Assistant-Marta",
   "ryannazaretian/hacs-nexia-climate-integration",
