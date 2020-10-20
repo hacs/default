@@ -65,6 +65,7 @@
   "claudegel/sinope-130",
   "claudegel/sinope-gt125",
   "claytonjn/hass-circadian_lighting",
+  "crowbarz/ha-sql_json",
   "custom-components/alexa_media_player",
   "custom-components/authenticated",
   "custom-components/blueprint",
