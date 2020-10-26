@@ -159,6 +159,7 @@
   "elad-bar/ha-dahuavto",
   "elad-bar/ha-edgeos",
   "elad-bar/ha-hpprinter",
+  "epenet/hassRenaultZE",
   "ericpignet/home-assistant-lg_hombot",
   "ericpignet/home-assistant-tplink_router",
   "eseglem/hass-wattbox",
