@@ -347,6 +347,7 @@
   "scottyphillips/mitsubishi_hass",
   "sebr/bhyve-home-assistant",
   "SebuZet/samsungrac",
+  "Sennevds/media_player.template",
   "sermayoral/ha-samsungtv-encrypted",
   "shbatm/hacs-isy994",
   "shogunxam/Home-Assistant-custom-components-cfr-toscana",
@@ -406,6 +407,5 @@
   "youdroid/home-assistant-gitea",
   "youdroid/home-assistant-sickchill",
   "zachowj/hass-node-red",
-  "zha-ng/zha-map",
-  "Sennevds/media_player.template"
+  "zha-ng/zha-map"
 ]
