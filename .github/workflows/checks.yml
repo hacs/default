@@ -1,0 +1,127 @@
+name: "Checks"
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, unlabeled]
+    branches:
+      - master
+jobs:
+  preflight:
+    runs-on: ubuntu-latest
+    name: Initialize
+    outputs:
+      repository: ${{ steps.repository.outputs.repository }}
+      category: ${{ steps.category.outputs.category }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Clone origin
+        run: git clone --depth 1 https://github.com/hacs/default /tmp/repositories/default
+
+      - name: Clone new addition
+        run: |
+          repo=$(python3 -m scripts.changed.repo)
+          git clone --depth 1 "https://github.com/$repo" /tmp/repositories/addition
+
+      - name: Set category
+        id: category
+        run: echo "::set-output name=category::$(python3 -m scripts.changed.category)"
+
+      - name: Set repository
+        id: repository
+        run: echo "::set-output name=repository::$(python3 -m scripts.changed.repo)"
+
+      - name: Upload shared artifacts
+        uses: actions/upload-artifact@master
+        with:
+          name: repositories
+          path: /tmp/repositories
+
+  matrix:
+    runs-on: ubuntu-latest
+    name: ${{ matrix.checks.name }}
+    needs: preflight
+    strategy:
+      fail-fast: False
+      matrix:
+        checks:
+          - { check: "archived", name: "Check Archived", deps: True }
+          - { check: "brands", name: "Check Brands", deps: True }
+          - { check: "fork", name: "Check Fork", deps: True }
+          - { check: "hacs_manifest", name: "Check HACS Manifest" }
+          - { check: "images", name: "Check Images" }
+          - { check: "info", name: "Check Info" }
+          - { check: "manifest", name: "Check Manifest" }
+          - { check: "owner", name: "Check Owner", deps: True }
+          - { check: "repository", name: "Check Repository", deps: True }
+          - { check: "wheels", name: "Check Wheels", deps: True }
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Download shared artifacts
+        uses: actions/download-artifact@master
+        with:
+          name: repositories
+          path: /tmp/repositories
+
+      - name: Install dependencies if needed
+        if: matrix.checks.deps
+        run: make init
+
+      - name: Run the check
+        run: python3 -m scripts.check.${{ matrix.checks.check }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  hassfest:
+    runs-on: ubuntu-latest
+    name: "Check hassfest"
+    needs: preflight
+    if: needs.preflight.outputs.category == 'integration'
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Download shared artifacts
+        uses: actions/download-artifact@v1
+        with:
+          name: repositories
+          path: /tmp/repositories
+
+      - name: Pull Home Assistant Container
+        run: docker pull homeassistant/home-assistant:beta
+
+      - name: Run hassfest
+        run: |
+          integration=$(python3 -m scripts.helpers.integration_path)
+          domain=$(python3 -m scripts.helpers.domain)
+          docker run \
+            --entrypoint="" \
+            -w="/usr/src/homeassistant" \
+            -v "$integration":"/$domain" \
+            homeassistant/home-assistant:beta \
+            /bin/bash -c "\
+              python3 -m pip --disable-pip-version-check install \
+                pipdeptree==1.0.0 \
+                stdlib-list==0.7.0 \
+                tqdm==4.48.2 \
+              \
+              && python3 -m \
+                script.hassfest \
+                --action validate \
+                --integration-path /$domain \
+              "
+
+  hacs:
+    runs-on: ubuntu-latest
+    name: "Check HACS"
+    needs: preflight
+    steps:
+      - name: HACS validation
+        uses: "hacs/integration/action@main"
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          REPOSITORY: ${{needs.preflight.outputs.repository}}
+          CATEGORY: ${{needs.preflight.outputs.category}}

@@ -1,0 +1,31 @@
+name: Lint
+on: [push, pull_request]
+
+jobs:
+  jq:
+    name: JQ
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Clone origin
+        run: git clone --depth 1 https://github.com/hacs/default /tmp/repositories/default
+
+      - name: Set category
+        id: category
+        run: echo "::set-output name=category::$(python3 -m scripts.changed.category)"
+
+      - name: Validate ${{ matrix.checks }}
+        if: steps.category.outputs.category != 'Bad data []'
+        run:
+          jq --raw-output "." "${{steps.category.outputs.category}}"
+
+  sorted:
+    name: Sorted
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+      - name: Check lists
+        run: python3 scripts/is_sorted.py
