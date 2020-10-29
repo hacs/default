@@ -240,6 +240,7 @@
   "laszlojakab/homeassistant-dijnet",
   "laszlojakab/homeassistant-easycontrols",
   "legrego/homeassistant-elasticsearch",
+  "leonxi/mitemp_bt2",
   "lichtteil/local_luftdaten",
   "Limych/ha-average",
   "Limych/ha-beward",
