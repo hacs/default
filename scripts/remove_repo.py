@@ -73,8 +73,10 @@ with open("removed", "r") as removed_file:
     removedcontent = json.loads(removed_file.read())
 
 blacklistcontent.append(remove["repository"])
+
 if remove["repository"].split("/")[0] not in orgs:
-    categorycontent.remove(remove["repository"])
+    if remove["repository"] in categorycontent:
+        categorycontent.remove(remove["repository"])
 
 data = {"repository": remove["repository"]}
 if remove["reason"] is not None:

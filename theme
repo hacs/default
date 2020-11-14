@@ -41,11 +41,14 @@
   "JuanMTech/google_light_theme",
   "JuanMTech/green_dark_mode",
   "JuanMTech/green_light_mode",
+  "JuanMTech/ios_dark_mode_theme",
+  "JuanMTech/ios_light_mode_theme",
   "JuanMTech/orange_dark",
   "JuanMTech/orange_light",
   "kibibit/hass-kibibit-theme",
   "KTibow/lovelace-dark-soft-ui-theme",
   "KTibow/lovelace-light-soft-ui-theme",
+  "mikosoft83/hass-windows10-themes",
   "naofireblade/clear-theme",
   "naofireblade/clear-theme-dark",
   "Nihvel/your_name",
@@ -55,3 +58,4 @@
   "seangreen2/slate_theme",
   "wowgamr/animated-weather-card"
 ]
+
