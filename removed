@@ -358,5 +358,29 @@
     "repository": "custom-components/sensor.kodi_recently_added",
     "reason": "Repository is archived",
     "removal_type": "removed"
+  },
+  {
+    "repository": "alryaz/hass-component-yandex-smart-home",
+    "reason": "Does not work after 0.115",
+    "removal_type": "removed",
+    "link": "https://github.com/hacs/integration/issues/1557"
+  },
+  {
+    "repository": "joogps/MQTT-Climate-Sync",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/1562"
+  },
+  {
+    "repository": "maykar/custom-header",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://community.home-assistant.io/t/custom-header/155399/1100"
+  },
+  {
+    "repository": "enriqg9/dual-thermostat",
+    "reason": "Repository is no longer maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/1587"
   }
 ]
