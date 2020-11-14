@@ -301,5 +301,91 @@
     "reason": "deprecated",
     "removal_type": "deprecated",
     "link": "https://github.com/hacs/default/pull/547"
+  },
+  {
+    "repository": "custom-components/sensor.wifi-scanner",
+    "reason": "Repository not complete",
+    "removal_type": "removed"
+  },
+  {
+    "repository": "lociii/homeassistant-digitalstrom",
+    "reason": "archived",
+    "removal_type": "blacklist",
+    "link": "https://github.com/hacs/integration/issues/1457"
+  },
+  {
+    "repository": "ReneNulschDE/mbapipy",
+    "reason": "archived",
+    "removal_type": "blacklist",
+    "link": "https://github.com/hacs/integration/issues/1457"
+  },
+  {
+    "repository": "amelchio/logbook_cache",
+    "reason": "Request from author",
+    "removal_type": "removed",
+    "link": "https://github.com/hacs/default/pull/578"
+  },
+  {
+    "repository": "Limych/media_player.linkplay",
+    "reason": "Requested by author",
+    "removal_type": "removed",
+    "link": "https://github.com/hacs/default/pull/577"
+  },
+  {
+    "repository": "cbulock/lovelace-battery-entity",
+    "reason": "Abandoned, not working properly",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/1464"
+  },
+  {
+    "repository": "peternijssen/lovelace-postnl-card",
+    "reason": "Can no longer be used",
+    "removal_type": "removed",
+    "link": "https://github.com/hacs/integration/issues/1533"
+  },
+  {
+    "repository": "ljmerza/calendar-card",
+    "reason": "The repository is archived",
+    "removal_type": "archived"
+  },
+  {
+    "repository": "OpenXbox/xboxone-home-assistant",
+    "reason": "The repository is archived",
+    "removal_type": "archived"
+  },
+  {
+    "repository": "Armaell/home-assistant-custom-icons-loader",
+    "reason": "Not working after Home Assistant 0.110",
+    "removal_type": "removed",
+    "link": "https://github.com/hacs/integration/issues/1548"
+  },
+  {
+    "repository": "custom-components/sensor.kodi_recently_added",
+    "reason": "Repository is archived",
+    "removal_type": "removed"
+  },
+  {
+    "repository": "alryaz/hass-component-yandex-smart-home",
+    "reason": "Does not work after 0.115",
+    "removal_type": "removed",
+    "link": "https://github.com/hacs/integration/issues/1557"
+  },
+  {
+    "repository": "joogps/MQTT-Climate-Sync",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/1562"
+  },
+  {
+    "repository": "maykar/custom-header",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://community.home-assistant.io/t/custom-header/155399/1100"
+  },
+  {
+    "repository": "enriqg9/dual-thermostat",
+    "reason": "Repository is no longer maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/1587"
   }
 ]
