@@ -363,6 +363,7 @@
   "swartjean/ha-eskom-loadshedding",
   "swartjean/ha-seedboxes-cc",
   "tefinger/hass-brematic",
+  "TekniskSupport/home-assistant-resrobot",
   "tellerbop/havistapool",
   "ThermIQ/thermiq_mqtt-ha",
   "thevoltagesource/LennoxiComfort",
