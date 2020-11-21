@@ -383,6 +383,7 @@
   "syssi/xiaomi_airconditioningcompanion",
   "syssi/xiaomi_airpurifier",
   "syssi/xiaomi_raw",
+  "syssi/xiaomiplug",
   "tefinger/hass-brematic",
   "TekniskSupport/home-assistant-resrobot",
   "tellerbop/havistapool",
