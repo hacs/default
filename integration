@@ -382,6 +382,7 @@
   "syssi/xiaomi_airpurifier",
   "syssi/xiaomi_raw",
   "tefinger/hass-brematic",
+  "TekniskSupport/home-assistant-resrobot",
   "tellerbop/havistapool",
   "ThermIQ/thermiq_mqtt-ha",
   "thevoltagesource/LennoxiComfort",
