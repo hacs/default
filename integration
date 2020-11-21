@@ -277,6 +277,7 @@
   "mvdwetering/huesyncbox",
   "nagyrobi/home-assistant-custom-components-cover-rf-time-based",
   "nagyrobi/home-assistant-custom-components-linkplay",
+  "nagyrobi/home-assistant-custom-components-pfsense-gateways",
   "nickneos/HA_harmony_climate_component",
   "nielsfaber/scheduler-component",
   "nikrolls/homeassistant-goldair-climate",
