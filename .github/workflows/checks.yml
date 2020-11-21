@@ -59,6 +59,28 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+  fork:
+    runs-on: ubuntu-latest
+    name: Check Fork
+    needs: preflight
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Download shared artifacts
+        uses: actions/download-artifact@master
+        with:
+          name: repositories
+          path: /tmp/repositories
+
+      - name: Install dependencies if needed
+        run: make init
+
+      - name: Run the check
+        run: python3 -m scripts.check.fork
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
   hassfest:
     runs-on: ubuntu-latest
     name: "Check hassfest"
