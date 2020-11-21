@@ -375,5 +375,17 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/1562"
+  },
+  {
+    "repository": "maykar/custom-header",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://community.home-assistant.io/t/custom-header/155399/1100"
+  },
+  {
+    "repository": "enriqg9/dual-thermostat",
+    "reason": "Repository is no longer maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/1587"
   }
 ]
