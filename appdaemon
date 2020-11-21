@@ -24,6 +24,7 @@
   "jmarsik/ad-eurotronic-trv-valvepos",
   "ludeeus/ad-watchdog",
   "Mohlsson/ReplayLightsHistory",
+  "nickneos/Appdaemon-Ring-Doorbell-Automations",
   "nickneos/Appdaemon-Xiaomi-Doorbell",
   "nickneos/Appdaemon-Xiaomi-Smart-Button",
   "nickneos/Appdaemon-ZHA-Hue-Dimmer-Switch",
