@@ -37,24 +37,10 @@ jobs:
           name: repositories
           path: /tmp/repositories
 
-  matrix:
+  owner:
     runs-on: ubuntu-latest
-    name: ${{ matrix.checks.name }}
+    name: Check Owner
     needs: preflight
-    strategy:
-      fail-fast: False
-      matrix:
-        checks:
-          - { check: "archived", name: "Check Archived", deps: True }
-          - { check: "brands", name: "Check Brands", deps: True }
-          - { check: "fork", name: "Check Fork", deps: True }
-          - { check: "hacs_manifest", name: "Check HACS Manifest" }
-          - { check: "images", name: "Check Images" }
-          - { check: "info", name: "Check Info" }
-          - { check: "manifest", name: "Check Manifest" }
-          - { check: "owner", name: "Check Owner", deps: True }
-          - { check: "repository", name: "Check Repository", deps: True }
-          - { check: "wheels", name: "Check Wheels", deps: True }
     steps:
       - name: Check out repository
         uses: actions/checkout@v2
@@ -66,11 +52,10 @@ jobs:
           path: /tmp/repositories
 
       - name: Install dependencies if needed
-        if: matrix.checks.deps
         run: make init
 
       - name: Run the check
-        run: python3 -m scripts.check.${{ matrix.checks.check }}
+        run: python3 -m scripts.check.owner
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -112,24 +97,9 @@ jobs:
                 --action validate \
                 --integration-path /$domain \
               "
-
   hacs:
     runs-on: ubuntu-latest
-    name: "Check HACS"
-    needs: preflight
-    steps:
-      - name: HACS validation
-        uses: "hacs/integration/action@main"
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        env:
-          REPOSITORY: ${{needs.preflight.outputs.repository}}
-          CATEGORY: ${{needs.preflight.outputs.category}}
-
-
-  hacs-new:
-    runs-on: ubuntu-latest
-    name: "Run HACS action"
+    name: "Run HACS Action"
     needs: preflight
     steps:
       - name: HACS action
