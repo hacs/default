@@ -345,6 +345,7 @@
   "robmarkcole/HASS-Deepstack-object",
   "robmarkcole/HASS-Machinebox-Classificationbox",
   "robmarkcole/Hue-sensors-HASS",
+  "rospogrigio/localtuya",
   "rsnodgrass/hass-adtpulse",
   "rsnodgrass/hass-flo-water",
   "rsnodgrass/hass-integrations",
