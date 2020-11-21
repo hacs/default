@@ -416,5 +416,6 @@
   "youdroid/home-assistant-gitea",
   "youdroid/home-assistant-sickchill",
   "zachowj/hass-node-red",
-  "zha-ng/zha-map"
+  "zha-ng/zha-map",
+  "zigul/HomeAssistant-CEZdistribuce"
 ]
