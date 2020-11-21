@@ -125,3 +125,15 @@ jobs:
         env:
           REPOSITORY: ${{needs.preflight.outputs.repository}}
           CATEGORY: ${{needs.preflight.outputs.category}}
+
+
+  hacs-new:
+    runs-on: ubuntu-latest
+    name: "Run HACS action"
+    needs: preflight
+    steps:
+      - name: HACS action
+        uses: "hacs/action@main"
+        with:
+          repository: ${{needs.preflight.outputs.repository}}
+          category: ${{needs.preflight.outputs.category}}
