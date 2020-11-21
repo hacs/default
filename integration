@@ -363,6 +363,7 @@
   "StyraHem/ShellyForHASS",
   "swartjean/ha-eskom-loadshedding",
   "swartjean/ha-seedboxes-cc",
+  "syssi/xiaomi_raw",
   "tefinger/hass-brematic",
   "tellerbop/havistapool",
   "ThermIQ/thermiq_mqtt-ha",
