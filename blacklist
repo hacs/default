@@ -55,6 +55,7 @@
   "custom-components/usps_mail",
   "eifinger/here_travel_time",
   "enriqg9/dual-thermostat",
+  "fineemb/lynk-co",
   "heinoldenhuis/home_assistant_area_waste",
   "home-assistant-community-themes/template",
   "home-assistant-community-themes/theme-request",

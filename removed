@@ -387,5 +387,11 @@
     "reason": "Repository is no longer maintained",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/1587"
+  },
+  {
+    "repository": "fineemb/lynk-co",
+    "reason": "Repository does not exsist",
+    "removal_type": "removal",
+    "link": ""
   }
 ]
