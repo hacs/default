@@ -204,8 +204,8 @@
   "herikw/home-assistant-custom-components",
   "heyajohnny/afvalinfo",
   "heyajohnny/cryptoinfo",
-  "HomeAssistant-Mods/home-assistant-miele"
   "Home-Is-Where-You-Hang-Your-Hack/sensor.goveetemp_bt_hci",
+  "HomeAssistant-Mods/home-assistant-miele",
   "imicknl/ha-tahoma",
   "iprak/yahoofinance",
   "isabellaalstrom/sensor.krisinformation",
