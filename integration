@@ -156,6 +156,7 @@
   "dmitry-k/yandex_smart_home",
   "doudz/homeassistant-myjdownloader",
   "doudz/homeassistant-zigate",
+  "dphae/bsh",
   "dr1rrb/ha-twinkly",
   "DSorlov/hasl-platform",
   "dynasticorpheus/gigasetelements-ha",
