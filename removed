@@ -393,5 +393,11 @@
     "reason": "Repository does not exsist",
     "removal_type": "removal",
     "link": ""
+  },
+  {
+    "repository": "xMrVizzy/button-toolbar",
+    "reason": "Repository does not exsist",
+    "removal_type": "removal",
+    "link": "https://github.com/hacs/integration/issues/1696"
   }
 ]
