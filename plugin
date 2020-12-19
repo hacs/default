@@ -12,6 +12,7 @@
   "azuwis/zigbee2mqtt-networkmap",
   "badguy99/PlantPictureCard",
   "bbbenji/synthwave-hass-extras",
+  "ben8p/lovelace-auto-reload-card",
   "ben8p/lovelace-tab-redirect-card",
   "benct/lovelace-battery-entity-row",
   "benct/lovelace-github-entity-row",
