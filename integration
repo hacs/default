@@ -149,6 +149,7 @@
   "definitio/ha-rhvoice",
   "definitio/ha-sox",
   "dgomes/ha_erse",
+  "dgomes/rrd_recorder",
   "djbulsink/panasonic_ac",
   "djtimca/hagooglewifi",
   "djtimca/harocketlaunchlive",
