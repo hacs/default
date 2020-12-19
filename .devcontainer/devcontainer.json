@@ -1,6 +1,7 @@
 {
-  "image": "mcr.microsoft.com/vscode/devcontainers/python:0-3.8",
-  "context": "..",
+	"build": {
+		"dockerfile": "Dockerfile",
+	},
   "extensions": [
     "ms-python.python",
     "ms-python.vscode-pylance",
