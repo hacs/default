@@ -396,6 +396,7 @@
   "tefinger/hass-brematic",
   "TekniskSupport/home-assistant-resrobot",
   "tellerbop/havistapool",
+  "thebino/rki_covid",
   "ThermIQ/thermiq_mqtt-ha",
   "thevoltagesource/LennoxiComfort",
   "Thomas55555/husqvarna_automower",
