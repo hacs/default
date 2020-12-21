@@ -387,5 +387,23 @@
     "reason": "Repository is no longer maintained",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/1587"
+  },
+  {
+    "repository": "fineemb/lynk-co",
+    "reason": "Repository does not exsist",
+    "removal_type": "removal",
+    "link": ""
+  },
+  {
+    "repository": "xMrVizzy/button-toolbar",
+    "reason": "Repository does not exsist",
+    "removal_type": "removal",
+    "link": "https://github.com/hacs/integration/issues/1696"
+  },
+  {
+    "repository": "MatthewFlamm/nwsradar",
+    "reason": "NWS radar server no longer operational",
+    "removal_type": "removal",
+    "link": "https://github.com/MatthewFlamm/nwsradar/issues/16"
   }
 ]
