@@ -67,6 +67,7 @@
   "cagnulein/switchbot_press",
   "caiosweet/Home-Assistant-custom-components-DPC-Alert",
   "caiosweet/Home-Assistant-custom-components-INGV",
+  "caronc/ha-ultrasync",
   "Ceerbeerus/beerbolaget",
   "claudegel/sinope-1",
   "claudegel/sinope-130",
