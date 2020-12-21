@@ -405,5 +405,11 @@
     "reason": "NWS radar server no longer operational",
     "removal_type": "removal",
     "link": "https://github.com/MatthewFlamm/nwsradar/issues/16"
+  },
+  {
+    "repository": "futuretense/lock-manager",
+    "reason": "replacing integration",
+    "removal_type": "integration",
+    "link": "https://github.com/FutureTense/keymaster"
   }
 ]
