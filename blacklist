@@ -55,6 +55,7 @@
   "custom-components/usps_mail",
   "eifinger/here_travel_time",
   "enriqg9/dual-thermostat",
+  "fineemb/lynk-co",
   "heinoldenhuis/home_assistant_area_waste",
   "home-assistant-community-themes/template",
   "home-assistant-community-themes/theme-request",
@@ -65,6 +66,7 @@
   "ljmerza/calendar-card",
   "ljmerza/waze-card",
   "lociii/homeassistant-digitalstrom",
+  "MatthewFlamm/nwsradar",
   "maykar/compact-custom-header",
   "maykar/custom-header",
   "Michsior14/ha-kaiterra",
@@ -81,5 +83,6 @@
   "shaonianzhentan/ha-cloud-music",
   "sinclairpaul/ha_purple_theme",
   "tenly2000/HomeAssistant-Places",
-  "xaviml/z2m_ikea_controller"
+  "xaviml/z2m_ikea_controller",
+  "xMrVizzy/button-toolbar"
 ]
