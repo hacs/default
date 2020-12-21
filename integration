@@ -361,6 +361,7 @@
   "rsnodgrass/hass-adtpulse",
   "rsnodgrass/hass-flo-water",
   "rsnodgrass/hass-integrations",
+  "rsnodgrass/hass-lunos",
   "rsnodgrass/hass-poolmath",
   "rsnodgrass/hass-sensorpush",
   "rsnodgrass/hass-xantech",
