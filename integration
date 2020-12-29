@@ -447,5 +447,6 @@
   "youdroid/home-assistant-sickchill",
   "zachowj/hass-node-red",
   "zha-ng/zha-map",
-  "zigul/HomeAssistant-CEZdistribuce"
+  "zigul/HomeAssistant-CEZdistribuce",
+  "andvikt/mega_hacs"
 ]
