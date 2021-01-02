@@ -35,10 +35,6 @@ jobs:
           repo=$(python3 -m scripts.changed.repo)
           git clone --depth 1 "https://github.com/$repo" /tmp/repositories/addition
 
-      - name: Set category
-        id: category
-        run: echo "::set-output name=category::$(python3 -m scripts.changed.category)"
-
       - name: Upload shared artifacts
         uses: actions/upload-artifact@master
         with:
