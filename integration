@@ -120,7 +120,6 @@
   "custom-components/srp_energy",
   "custom-components/sytadin",
   "custom-components/templatesensor",
-  "custom-components/uilogs",
   "custom-components/unsplash",
   "custom-components/ups",
   "custom-components/weatheralerts",

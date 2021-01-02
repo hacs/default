@@ -18,7 +18,6 @@ def get_repo():
 
     if len(new) != 1:
         print(f"Bad data {new}")
-        exit(1)
 
     return new.pop()
 
