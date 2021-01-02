@@ -11,6 +11,7 @@ jobs:
     outputs:
       repository: ${{ steps.repository.outputs.repository }}
       category: ${{ steps.category.outputs.category }}
+      removal: ${{ steps.removal.outputs.removal }}
     steps:
       - name: Check out repository
         uses: actions/checkout@v2
@@ -22,20 +23,26 @@ jobs:
         id: repository
         run: echo "::set-output name=repository::$(python3 -m scripts.changed.repo)"
 
-      - name: test
+      - name: Check removal
+        id: removal
         run: |
-          echo ${{ steps.repository.outputs.repository }}
+          if [ "${{ steps.repository.outputs.repository }}" == "no_repository" ]; then
+            echo "::set-output name=removal::true"
+          fi
 
       - name: Set category
+        if: steps.removal.outputs.removal != 'true'
         id: category
         run: echo "::set-output name=category::$(python3 -m scripts.changed.category)"
 
       - name: Clone new addition
+        if: steps.removal.outputs.removal != 'true'
         run: |
           repo=$(python3 -m scripts.changed.repo)
           git clone --depth 1 "https://github.com/$repo" /tmp/repositories/addition
 
       - name: Upload shared artifacts
+        if: steps.removal.outputs.removal != 'true'
         uses: actions/upload-artifact@master
         with:
           name: repositories
@@ -45,6 +52,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Check Owner
     needs: preflight
+    if: needs.preflight.outputs.removal != 'true'
     steps:
       - name: Check out repository
         uses: actions/checkout@v2
@@ -105,6 +113,7 @@ jobs:
     runs-on: ubuntu-latest
     name: "Run HACS Action"
     needs: preflight
+    if: needs.preflight.outputs.removal != 'true'
     steps:
       - name: HACS action
         uses: "hacs/action@main"
