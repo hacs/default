@@ -15,6 +15,18 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v2
 
+      - name: Set repository
+        id: repository
+        run: echo "::set-output name=repository::$(python3 -m scripts.changed.repo)"
+
+      - name: test
+        run: |
+          echo ${{ steps.repository.outputs.repository }}
+
+      - name: Set category
+        id: category
+        run: echo "::set-output name=category::$(python3 -m scripts.changed.category)"
+
       - name: Clone origin
         run: git clone --depth 1 https://github.com/hacs/default /tmp/repositories/default
 
@@ -26,10 +38,6 @@ jobs:
       - name: Set category
         id: category
         run: echo "::set-output name=category::$(python3 -m scripts.changed.category)"
-
-      - name: Set repository
-        id: repository
-        run: echo "::set-output name=repository::$(python3 -m scripts.changed.repo)"
 
       - name: Upload shared artifacts
         uses: actions/upload-artifact@master
