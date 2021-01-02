@@ -19,6 +19,7 @@ def get_repo():
     if len(new) > 1:
         print("more_than_one_repository")
         exit(1)
+
     elif len(new) == 0:
         print("no_repository")
         exit(1)
