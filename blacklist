@@ -52,6 +52,7 @@
   "custom-components/sensor.wifi-scanner",
   "custom-components/sickchill",
   "custom-components/switch.hadockermon",
+  "custom-components/uilogs",
   "custom-components/usps_mail",
   "eifinger/here_travel_time",
   "enriqg9/dual-thermostat",
