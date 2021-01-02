@@ -26,7 +26,7 @@ jobs:
       - name: Check removal
         id: removal
         run: |
-          if [ "${{ steps.repository.outputs.repository }}" == "no_repository" ]; then
+          if [ "${{ steps.repository.outputs.repository }}" == "Bad data []" ]; then
             echo "::set-output name=removal::true"
           fi
 
