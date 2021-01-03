@@ -45,6 +45,7 @@
   "custom-components/sensor.geoip",
   "custom-components/sensor.kodi_recently_added",
   "custom-components/sensor.launchlibrary",
+  "custom-components/sensor.rpi_power",
   "custom-components/sensor.ruter",
   "custom-components/sensor.syncthing",
   "custom-components/sensor.tautulli",

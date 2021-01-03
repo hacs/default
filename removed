@@ -411,5 +411,11 @@
     "reason": "Deprecated",
     "removal_type": "remove",
     "link": "https://github.com/custom-components/uilogs/issues/17"
+  },
+  {
+    "repository": "custom-components/sensor.rpi_power",
+    "reason": "Repo archived",
+    "removal_type": "integration",
+    "link": "https://github.com/custom-components/sensor.rpi_power"
   }
 ]
