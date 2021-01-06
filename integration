@@ -47,6 +47,7 @@
   "Bouni/drkblutspende",
   "Bouni/luxtronik",
   "bouwew/sems2mqtt",
+  "bosch-thermostat/home-assistant-bosch-custom-component",
   "bramkragten/lyric",
   "bramkragten/mind",
   "Bre77/myair",
