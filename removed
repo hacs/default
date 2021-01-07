@@ -415,7 +415,7 @@
   {
     "repository": "custom-components/sensor.rpi_power",
     "reason": "Repo archived",
-    "removal_type": "integration",
+    "removal_type": "removal",
     "link": "https://github.com/custom-components/sensor.rpi_power"
   }
 ]
