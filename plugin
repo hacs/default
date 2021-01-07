@@ -1,5 +1,6 @@
 [
   "abmantis/ozw-network-visualization-card",
+  "adrianByv/home-assistant-custom-components-switch-humidifier",
   "amaximus/bkk-stop-card",
   "amaximus/fkf-garbage-collection-card",
   "amaximus/garbage-collection-card",
