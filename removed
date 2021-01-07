@@ -405,5 +405,17 @@
     "reason": "NWS radar server no longer operational",
     "removal_type": "removal",
     "link": "https://github.com/MatthewFlamm/nwsradar/issues/16"
+  },
+  {
+    "repository": "custom-components/uilogs",
+    "reason": "Deprecated",
+    "removal_type": "remove",
+    "link": "https://github.com/custom-components/uilogs/issues/17"
+  },
+  {
+    "repository": "custom-components/sensor.rpi_power",
+    "reason": "Repo archived",
+    "removal_type": "removal",
+    "link": "https://github.com/custom-components/sensor.rpi_power"
   }
 ]
