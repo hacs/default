@@ -109,7 +109,6 @@
   "custom-components/sensor.personalcapital",
   "custom-components/sensor.plex_recently_added",
   "custom-components/sensor.radarr_upcoming_media",
-  "custom-components/sensor.rpi_power",
   "custom-components/sensor.sonarr_upcoming_media",
   "custom-components/sensor.ssh",
   "custom-components/sensor.stadtreinigung_hamburg",
