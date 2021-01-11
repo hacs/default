@@ -157,6 +157,7 @@
   "dlarrick/hass-kumo",
   "dlashua/templatebinarysensor",
   "dmitry-k/yandex_smart_home",
+  "dmoranf/home-assistant-wattio",
   "doudz/homeassistant-myjdownloader",
   "doudz/homeassistant-zigate",
   "dphae/bsh",
