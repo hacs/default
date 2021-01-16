@@ -417,5 +417,11 @@
     "reason": "Repo archived",
     "removal_type": "removal",
     "link": "https://github.com/custom-components/sensor.rpi_power"
+  },
+  {
+    "repository": "badguy99/octocost",
+    "reason": "Archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/1809"
   }
 ]
