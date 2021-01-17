@@ -418,6 +418,7 @@
   "snicker/zwift_hass",
   "sockless-coding/garo_wallbox",
   "sockless-coding/panasonic_cc",
+  "stuart-c/homeassistant-switchbot",
   "StyraHem/ShellyForHASS",
   "swartjean/ha-eskom-loadshedding",
   "swartjean/ha-seedboxes-cc",
