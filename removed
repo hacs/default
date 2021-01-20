@@ -409,7 +409,7 @@
   {
     "repository": "futuretense/lock-manager",
     "reason": "replacing integration",
-    "removal_type": "integration",
+    "removal_type": "removal",
     "link": "https://github.com/FutureTense/keymaster"
   }
 ]
