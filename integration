@@ -403,6 +403,7 @@
   "tefinger/hass-brematic",
   "TekniskSupport/home-assistant-resrobot",
   "tellerbop/havistapool",
+  "tetienne/veolia-custom-component",
   "thebino/rki_covid",
   "ThermIQ/thermiq_mqtt-ha",
   "thevoltagesource/LennoxiComfort",
