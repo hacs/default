@@ -347,6 +347,7 @@
   "reharmsen/hass-youless-component",
   "remco770/garbage-bar-homeassistant",
   "rgruebel/ha_zigbee2mqtt_networkmap",
+  "rj175/home-assistant-aws-codepipeline",
   "rkoebrugge/hacs-youless-component",
   "rob196/home-assistant-fxmarketapi",
   "robbinjanssen/home-assistant-omnik-inverter",
