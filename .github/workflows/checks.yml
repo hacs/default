@@ -89,8 +89,15 @@ jobs:
       - name: Pull Home Assistant Container
         run: docker pull homeassistant/home-assistant:beta
 
+      - name: Enable problem-matcher
+        run: |
+          wget https://raw.githubusercontent.com/home-assistant/actions/master/hassfest/problem-matcher.json
+          echo "::add-matcher::./problem-matcher.json"
+
+
       - name: Run hassfest
         run: |
+          hassfest_requirements=$(curl -sSL -f https://raw.githubusercontent.com/home-assistant/actions/master/hassfest/requirements.txt)
           integration=$(python3 -m scripts.helpers.integration_path)
           domain=$(python3 -m scripts.helpers.domain)
           docker run \
@@ -99,11 +106,7 @@ jobs:
             -v "$integration":"/$domain" \
             homeassistant/home-assistant:beta \
             /bin/bash -c "\
-              python3 -m pip --disable-pip-version-check install \
-                pipdeptree==1.0.0 \
-                stdlib-list==0.7.0 \
-                tqdm==4.48.2 \
-              \
+              python3 -m pip --disable-pip-version-check install $hassfest_requirements \
               && python3 -m \
                 script.hassfest \
                 --action validate \
