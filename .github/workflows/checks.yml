@@ -94,7 +94,7 @@ jobs:
       - name: Enable problem-matcher
         run: echo "::add-matcher::/tmp/actions/hassfest/problem-matcher.json"
 
-      - name: Build container
+      - name: Build hassfest
         run: docker build /tmp/actions/hassfest -f /tmp/actions/hassfest/Dockerfile -t hassfest
 
       - name: Run hassfest
@@ -103,14 +103,8 @@ jobs:
           domain=$(python3 -m scripts.helpers.domain)
           docker run \
             --rm \
-            -v "$integration":"/$domain" \
-            hassfest \
-            /bin/bash -c "\
-              python3 -m \
-                script.hassfest \
-                --action validate \
-                --integration-path /$domain \
-              "
+            -v "$integration":"/github/workspace/$domain" \
+            hassfest
   hacs:
     runs-on: ubuntu-latest
     name: "Run HACS Action"
