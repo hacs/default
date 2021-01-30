@@ -210,6 +210,7 @@
   "Hellowlol/ha-tide",
   "herikw/home-assistant-custom-components",
   "heyajohnny/afvalinfo",
+  "hacs/integration",
   "heyajohnny/cryptoinfo",
   "Home-Is-Where-You-Hang-Your-Hack/sensor.goveetemp_bt_hci",
   "HomeAssistant-Mods/home-assistant-miele",
