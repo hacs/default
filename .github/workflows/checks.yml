@@ -88,7 +88,7 @@ jobs:
 
       - name: Get hassfest action
         run: |
-          git clone -–depth 1 https://github.com/home-assistant/actions.git /tmp/actions
+          git clone --depth 1 https://github.com/home-assistant/actions.git /tmp/actions
           echo "::add-matcher::/tmp/actions/hassfest/problem-matcher.json"
 
       - name: Enable problem-matcher
