@@ -86,29 +86,25 @@ jobs:
           name: repositories
           path: /tmp/repositories
 
-      - name: Pull Home Assistant Container
-        run: docker pull homeassistant/home-assistant:beta
+      - name: Get hassfest action
+        run: |
+          git clone --depth 1 https://github.com/home-assistant/actions.git /tmp/actions
+          echo "::add-matcher::/tmp/actions/hassfest/problem-matcher.json"
+
+      - name: Enable problem-matcher
+        run: echo "::add-matcher::/tmp/actions/hassfest/problem-matcher.json"
+
+      - name: Build hassfest
+        run: docker build /tmp/actions/hassfest -f /tmp/actions/hassfest/Dockerfile -t hassfest
 
       - name: Run hassfest
         run: |
           integration=$(python3 -m scripts.helpers.integration_path)
           domain=$(python3 -m scripts.helpers.domain)
           docker run \
-            --entrypoint="" \
-            -w="/usr/src/homeassistant" \
-            -v "$integration":"/$domain" \
-            homeassistant/home-assistant:beta \
-            /bin/bash -c "\
-              python3 -m pip --disable-pip-version-check install \
-                pipdeptree==1.0.0 \
-                stdlib-list==0.7.0 \
-                tqdm==4.48.2 \
-              \
-              && python3 -m \
-                script.hassfest \
-                --action validate \
-                --integration-path /$domain \
-              "
+            --rm \
+            -v "$integration":"/github/workspace/$domain" \
+            hassfest
   hacs:
     runs-on: ubuntu-latest
     name: "Run HACS Action"
