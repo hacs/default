@@ -423,5 +423,11 @@
     "reason": "Archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/1809"
+  },
+  {
+    "repository": "edenhaus/ha-prosenic",
+    "reason": "Archived",
+    "removal_type": "remove",
+    "link": ""
   }
 ]
