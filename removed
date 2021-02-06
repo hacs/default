@@ -428,6 +428,6 @@
     "repository": "edenhaus/ha-prosenic",
     "reason": "Archived",
     "removal_type": "remove",
-    "link": ""
+    "link": "https://github.com/hacs/default/pull/807"
   }
 ]
