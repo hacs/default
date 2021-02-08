@@ -56,6 +56,7 @@
   "custom-components/switch.hadockermon",
   "custom-components/uilogs",
   "custom-components/usps_mail",
+  "edenhaus/ha-prosenic",
   "eifinger/here_travel_time",
   "enriqg9/dual-thermostat",
   "fineemb/lynk-co",
