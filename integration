@@ -307,6 +307,7 @@
   "nagyrobi/home-assistant-custom-components-cover-rf-time-based",
   "nagyrobi/home-assistant-custom-components-linkplay",
   "nagyrobi/home-assistant-custom-components-pfsense-gateways",
+  "natekspencer/hacs-litterrobot",
   "nickneos/HA_harmony_climate_component",
   "nielsfaber/alarmo",
   "nielsfaber/scheduler-component",
