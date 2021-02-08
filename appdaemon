@@ -29,6 +29,7 @@
   "nickneos/Appdaemon-ZHA-Hue-Dimmer-Switch",
   "nickneos/Appdaemon-ZHA-Xiaomi-Aqara-Switch",
   "nickneos/Bring-Back-group.all_x",
+  "NiklasReiche/ad-spotify-mood-lights-sync",
   "Odianosen25/Monitor-App",
   "Petro31/ad_convert_media_volume",
   "Petro31/ad_count_entities",
