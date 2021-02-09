@@ -11,6 +11,7 @@ jobs:
     outputs:
       repository: ${{ steps.repository.outputs.repository }}
       category: ${{ steps.category.outputs.category }}
+      removal: ${{ steps.removal.outputs.removal }}
     steps:
       - name: Check out repository
         uses: actions/checkout@v2
@@ -18,20 +19,30 @@ jobs:
       - name: Clone origin
         run: git clone --depth 1 https://github.com/hacs/default /tmp/repositories/default
 
-      - name: Clone new addition
-        run: |
-          repo=$(python3 -m scripts.changed.repo)
-          git clone --depth 1 "https://github.com/$repo" /tmp/repositories/addition
-
-      - name: Set category
-        id: category
-        run: echo "::set-output name=category::$(python3 -m scripts.changed.category)"
-
       - name: Set repository
         id: repository
         run: echo "::set-output name=repository::$(python3 -m scripts.changed.repo)"
 
+      - name: Check removal
+        id: removal
+        run: |
+          if [ "${{ steps.repository.outputs.repository }}" == "Bad data []" ]; then
+            echo "::set-output name=removal::true"
+          fi
+
+      - name: Set category
+        if: steps.removal.outputs.removal != 'true'
+        id: category
+        run: echo "::set-output name=category::$(python3 -m scripts.changed.category)"
+
+      - name: Clone new addition
+        if: steps.removal.outputs.removal != 'true'
+        run: |
+          repo=$(python3 -m scripts.changed.repo)
+          git clone --depth 1 "https://github.com/$repo" /tmp/repositories/addition
+
       - name: Upload shared artifacts
+        if: steps.removal.outputs.removal != 'true'
         uses: actions/upload-artifact@master
         with:
           name: repositories
@@ -41,6 +52,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Check Owner
     needs: preflight
+    if: needs.preflight.outputs.removal != 'true'
     steps:
       - name: Check out repository
         uses: actions/checkout@v2
@@ -74,33 +86,30 @@ jobs:
           name: repositories
           path: /tmp/repositories
 
-      - name: Pull Home Assistant Container
-        run: docker pull homeassistant/home-assistant:beta
+      - name: Get hassfest action
+        run: |
+          git clone --depth 1 https://github.com/home-assistant/actions.git /tmp/actions
+          echo "::add-matcher::/tmp/actions/hassfest/problem-matcher.json"
+
+      - name: Enable problem-matcher
+        run: echo "::add-matcher::/tmp/actions/hassfest/problem-matcher.json"
+
+      - name: Build hassfest
+        run: docker build /tmp/actions/hassfest -f /tmp/actions/hassfest/Dockerfile -t hassfest
 
       - name: Run hassfest
         run: |
           integration=$(python3 -m scripts.helpers.integration_path)
           domain=$(python3 -m scripts.helpers.domain)
           docker run \
-            --entrypoint="" \
-            -w="/usr/src/homeassistant" \
-            -v "$integration":"/$domain" \
-            homeassistant/home-assistant:beta \
-            /bin/bash -c "\
-              python3 -m pip --disable-pip-version-check install \
-                pipdeptree==1.0.0 \
-                stdlib-list==0.7.0 \
-                tqdm==4.48.2 \
-              \
-              && python3 -m \
-                script.hassfest \
-                --action validate \
-                --integration-path /$domain \
-              "
+            --rm \
+            -v "$integration":"/github/workspace/$domain" \
+            hassfest
   hacs:
     runs-on: ubuntu-latest
     name: "Run HACS Action"
     needs: preflight
+    if: needs.preflight.outputs.removal != 'true'
     steps:
       - name: HACS action
         uses: "hacs/action@main"
