@@ -387,5 +387,53 @@
     "reason": "Repository is no longer maintained",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/1587"
+  },
+  {
+    "repository": "fineemb/lynk-co",
+    "reason": "Repository does not exsist",
+    "removal_type": "removal",
+    "link": ""
+  },
+  {
+    "repository": "xMrVizzy/button-toolbar",
+    "reason": "Repository does not exsist",
+    "removal_type": "removal",
+    "link": "https://github.com/hacs/integration/issues/1696"
+  },
+  {
+    "repository": "MatthewFlamm/nwsradar",
+    "reason": "NWS radar server no longer operational",
+    "removal_type": "removal",
+    "link": "https://github.com/MatthewFlamm/nwsradar/issues/16"
+  },
+  {
+    "repository": "futuretense/lock-manager",
+    "reason": "replacing integration",
+    "removal_type": "removal",
+    "link": "https://github.com/FutureTense/keymaster"
+  },
+  {
+    "repository": "custom-components/uilogs",
+    "reason": "Deprecated",
+    "removal_type": "remove",
+    "link": "https://github.com/custom-components/uilogs/issues/17"
+  },
+  {
+    "repository": "custom-components/sensor.rpi_power",
+    "reason": "Repo archived",
+    "removal_type": "removal",
+    "link": "https://github.com/custom-components/sensor.rpi_power"
+  },
+  {
+    "repository": "badguy99/octocost",
+    "reason": "Archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/1809"
+  },
+  {
+    "repository": "edenhaus/ha-prosenic",
+    "reason": "Archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/807"
   }
 ]
