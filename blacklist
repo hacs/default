@@ -13,6 +13,7 @@
   "bieniu/ha-ad-airly",
   "Boosik/discord_game",
   "boralyl/hass-smartthinq",
+  "bratanon/lovelace-conditional-entity-row",
   "briis/mbweather",
   "cbulock/lovelace-battery-entity",
   "cgarwood/homeassistant-zwave_mqtt",
