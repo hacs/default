@@ -1,6 +1,4 @@
 [
-  "jadson179/vapix",
-  "jadson179/controlid",
   "5high/konke",
   "5high/phicomm-dc1-homeassistant",
   "9rpp/securifi",
@@ -483,5 +481,7 @@
   "youdroid/home-assistant-sickchill",
   "zachowj/hass-node-red",
   "zha-ng/zha-map",
-  "zigul/HomeAssistant-CEZdistribuce"
+  "zigul/HomeAssistant-CEZdistribuce",
+  "jadson179/vapix",
+  "jadson179/controlid"
 ]
