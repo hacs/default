@@ -435,5 +435,11 @@
     "reason": "Archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/807"
+  },
+  {
+    "repository": "bratanon/lovelace-conditional-entity-row",
+    "reason": "Repository is archived",
+    "removal_type": "removed",
+    "link": "https://github.com/bratanon/lovelace-conditional-entity-row/issues/2"
   }
 ]
