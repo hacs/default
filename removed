@@ -441,5 +441,11 @@
     "reason": "Repository is archived",
     "removal_type": "removed",
     "link": "https://github.com/bratanon/lovelace-conditional-entity-row/issues/2"
+  },
+  {
+    "repository": "Bre77/myair",
+    "reason": "Added to Home Assistant core",
+    "removal_type": "replaced",
+    "link": "https://www.home-assistant.io/integrations/advantage_air/"
   }
 ]
