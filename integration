@@ -1,5 +1,4 @@
 [
-  "jadson179/controlid",
   "5high/konke",
   "5high/phicomm-dc1-homeassistant",
   "9rpp/securifi",
@@ -233,6 +232,7 @@
   "itchannel/optus-ha",
   "ITTV-tools/homeassistant-kostalplenticore",
   "JAAlperin/hass-bardolph",
+  "jadson179/controlid",
   "jaruba/ha-samsungtv-tizen",
   "jason0x43/hacs-hubitat",
   "JayBlackedOut/hass-nhlapi",
