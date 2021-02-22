@@ -13,6 +13,8 @@
   "bbbenji/synthwave-hass",
   "chaptergy/noctis-grey",
   "DickSwart/swart_ninja_dark_theme",
+  "einschmidt/github_dark_theme",
+  "einschmidt/github_light_theme",
   "estiens/sweet_pink_hass_theme",
   "fi-sch/ux_goodie_theme",
   "hekm77/reeder_dark_theme",
@@ -36,6 +38,7 @@
   "home-assistant-community-themes/teal",
   "home-assistant-community-themes/vaporwave-pink",
   "houtknots/UglyChristmas-Theme",
+  "JOHLC/transparentblue",
   "JuanMTech/amoled_blue",
   "JuanMTech/google_dark_theme",
   "JuanMTech/google_light_theme",
@@ -48,6 +51,8 @@
   "kibibit/hass-kibibit-theme",
   "KTibow/lovelace-dark-soft-ui-theme",
   "KTibow/lovelace-light-soft-ui-theme",
+  "mikosoft83/hass-windows10-themes",
+  "myleskeeffe/clear-theme-dark-vibrant",
   "naofireblade/clear-theme",
   "naofireblade/clear-theme-dark",
   "Nihvel/your_name",
@@ -57,4 +62,3 @@
   "seangreen2/slate_theme",
   "wowgamr/animated-weather-card"
 ]
-

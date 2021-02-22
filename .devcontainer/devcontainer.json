@@ -1,22 +1,29 @@
 {
-  "image": "ludeeus/container:python-base",
-  "context": "..",
-  "extensions": [
-    "ms-python.python",
-    "github.vscode-pull-request-github",
-    "tabnine.tabnine-vscode"
-  ],
-  "settings": {
-    "files.eol": "\n",
-    "editor.tabSize": 4,
-    "terminal.integrated.shell.linux": "/bin/bash",
-    "python.pythonPath": "/usr/local/bin/python",
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true,
-    "python.formatting.provider": "black",
-    "editor.formatOnPaste": false,
-    "editor.formatOnSave": true,
-    "editor.formatOnType": true,
-    "files.trimTrailingWhitespace": true
-  }
+	"image": "ghcr.io/ludeeus/devcontainer/python:stable",
+	"context": "..",
+	"postCreateCommand": "python3 -m pip install -r requirements.txt",
+	"extensions": [
+		"ms-python.python",
+		"github.vscode-pull-request-github",
+		"ryanluker.vscode-coverage-gutters",
+		"ms-python.vscode-pylance"
+	],
+	"settings": {
+		"files.eol": "\n",
+		"editor.tabSize": 4,
+		"terminal.integrated.shell.linux": "/bin/bash",
+		"python.pythonPath": "/usr/local/python/bin/python",
+		"python.analysis.autoSearchPaths": false,
+		"python.linting.pylintEnabled": true,
+		"python.linting.enabled": true,
+		"python.linting.pylintArgs": [
+			"--disable",
+			"import-error"
+		],
+		"python.formatting.provider": "black",
+		"editor.formatOnPaste": false,
+		"editor.formatOnSave": true,
+		"editor.formatOnType": true,
+		"files.trimTrailingWhitespace": true
+	}
 }

@@ -10,10 +10,13 @@ init:
 	python3 -m pip install -r requirements.txt
 
 add: ## Add a new repository to the default HACS list
-	@echo script/add;
+	@bash scripts/add;
 
 remove: ## Remove a repository to the default HACS list
-	@bash script/remove;
+	@bash scripts/remove;
 
 update: ## Pull master from hacs/default
 	@ git pull upstream master;
+
+sort: ## Sort all files
+	python3 scripts/sort.py;
