@@ -327,6 +327,7 @@
   "nagyrobi/home-assistant-custom-components-pfsense-gateways",
   "natekspencer/hacs-litterrobot",
   "nickneos/HA_harmony_climate_component",
+  "nick2525/broadlink_s1c_s2c",
   "nielsfaber/alarmo",
   "nielsfaber/scheduler-component",
   "nikrolls/homeassistant-goldair-climate",
