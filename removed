@@ -447,5 +447,11 @@
     "reason": "Added to Home Assistant core",
     "removal_type": "replaced",
     "link": "https://www.home-assistant.io/integrations/advantage_air/"
+  },
+  {
+    "repository": "bramkragten/lyric",
+    "reason": "Added to Home Assistant Core",
+    "removal_type": "removal",
+    "link": "https://github.com/hacs/default/pull/841"
   }
 ]
