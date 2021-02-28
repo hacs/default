@@ -21,6 +21,7 @@
   "hechi/GoodnightT",
   "jbouwh/omnikdatalogger",
   "jmarsik/ad-eurotronic-trv-valvepos",
+  "kprestel/appdaemon-climate",
   "ludeeus/ad-watchdog",
   "Mohlsson/ReplayLightsHistory",
   "nickneos/Appdaemon-Ring-Doorbell-Automations",
@@ -60,6 +61,5 @@
   "vash3d/nethassmo",
   "wernerhp/appdaemon_aqara_motion_sensors",
   "wernerhp/appdaemon_wasp",
-  "xaviml/controllerx",
-  "kprestel/appdaemon-climate"
+  "xaviml/controllerx"
 ]
