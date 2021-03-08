@@ -454,4 +454,10 @@
     "removal_type": "removal",
     "link": "https://github.com/hacs/default/pull/841"
   }
+  {
+    "repository": "ntilley905/faastatus",
+    "reason": "Added to Home Assistant Core",
+    "removal_type": "removal",
+    "link: "https://www.home-assistant.io/integrations/faadelays/"
+  }
 ]
