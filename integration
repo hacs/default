@@ -279,6 +279,7 @@
   "laszlojakab/homeassistant-dijnet",
   "laszlojakab/homeassistant-easycontrols",
   "legrego/homeassistant-elasticsearch",
+  "leikoilja/ha-google-home",
   "lendy007/homeassistant-skodaconnect",
   "lichtteil/local_luftdaten",
   "Limych/ha-average",
