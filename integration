@@ -324,6 +324,7 @@
   "nagyrobi/home-assistant-custom-components-linkplay",
   "nagyrobi/home-assistant-custom-components-pfsense-gateways",
   "natekspencer/hacs-litterrobot",
+  "neggert/hass-egauge",
   "nickneos/HA_harmony_climate_component",
   "nielsfaber/alarmo",
   "nielsfaber/scheduler-component",
