@@ -91,6 +91,7 @@
   "finity69x2/fan-control-entity-row",
   "finity69x2/light-brightness-preset-row",
   "finity69x2/toggle-control-button-row",
+  "fufar/simple-clock-card",
   "gadgetchnnel/lovelace-card-preloader",
   "gadgetchnnel/lovelace-card-templater",
   "gadgetchnnel/lovelace-home-feed-card",
