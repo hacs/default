@@ -71,6 +71,20 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+  edits:
+    runs-on: ubuntu-latest
+    name: Check if PR is editable
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Install dependencies if needed
+        run: make init
+
+      - name: Run the check
+        run: python3 -m scripts.check.edits
+
+
   hassfest:
     runs-on: ubuntu-latest
     name: "Check hassfest"
