@@ -7,12 +7,20 @@ from aiogithubapi import GitHub, AIOGitHubAPIException
 
 TOKEN = os.getenv("GITHUB_TOKEN")
 
+BLOCKED_OWNERS = ["hacf-fr"]
+
 
 async def check():
     print("Information: https://hacs.xyz/docs/publish/include#check-owner")
     repo = get_repo()
+    repo_owner = repo.split("/")[0]
     event = get_event()
     actor = event["pull_request"]["user"]["login"]
+
+    if repo_owner in BLOCKED_OWNERS:
+        exit(
+            f"::error::'{repo_owner}' is not allowed for submission, https://hacs.xyz/docs/publish/remove"
+        )
 
     if repo.split("/")[0].lower() == actor.lower():
         print(f"'{actor}' is the owner of '{repo}'")
@@ -21,7 +29,8 @@ async def check():
     try:
         async with GitHub(TOKEN) as github:
             request = await github.client.get(
-                f"/repos/{repo}/contributors", headers={},
+                f"/repos/{repo}/contributors",
+                headers={},
             )
             contributors = [
                 {"login": x["login"], "contributions": x["contributions"]}
