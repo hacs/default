@@ -1,5 +1,6 @@
 [
   "abmantis/ozw-network-visualization-card",
+  "aex351/home-assistant-neerslag-card",
   "amaximus/bkk-stop-card",
   "amaximus/fkf-garbage-collection-card",
   "amaximus/garbage-collection-card",
@@ -209,4 +210,4 @@
   "Villhellm/lovelace-animated-background",
   "Villhellm/lovelace-clock-card",
   "Voxxie/lovelace-jumbo-card"
-  ]
+]
