@@ -463,7 +463,13 @@
   {
     "repository": "zha-ng/zha-map",
     "reason": "Deprecated. Available natively now.",
-    "removal_type": "Complete",
+    "removal_type": "removal",
     "link": "https://github.com/zha-ng/zha-map#zha-map-is-deprecated"
+  },
+  {
+    "repository": "ntilley905/faastatus",
+    "reason": "Added to Home Assistant Core",
+    "removal_type": "removal",
+    "link": "https://www.home-assistant.io/integrations/faadelays/"
   }
 ]
