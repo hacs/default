@@ -7,7 +7,7 @@ async def check():
     event = get_event()
     pull_request = event["pull_request"]
     if not pull_request["maintainer_can_modify"]:
-        if pull_request["head"]["repo"]["full_name"] != "hacs/defaults":
+        if pull_request["head"]["repo"]["full_name"] != "hacs/default":
             exit("::error::The PR is not editable by HACS maintainers")
 
 
