@@ -18,6 +18,7 @@
   "alryaz/hass-pandora-cas",
   "amaximus/bkk_stop",
   "amaximus/fkf-garbage-collection",
+  "amaximus/pollen_hu",
   "And3rsL/Deebot-for-hassio",
   "And3rsL/VisonicAlarm-for-Hassio",
   "andersonshatch/midea-ac-py",
@@ -293,6 +294,7 @@
   "Limych/ha-iaquk",
   "Limych/ha-jq300",
   "Limych/ha-narodmon",
+  "Limych/ha-snowtire",
   "lindell/home-assistant-svt-play",
   "lindell/home-assistant-tv4-play",
   "ljmerza/ha-email-sensor",
@@ -326,6 +328,7 @@
   "MTrab/landroid_cloud",
   "mudape/iphonedetect",
   "muhlba91/onyx-homeassistant-integration",
+  "muxa/home-assistant-niwa-tides",
   "mvdwetering/huesyncbox",
   "nagyrobi/home-assistant-custom-components-cover-rf-time-based",
   "nagyrobi/home-assistant-custom-components-linkplay",
@@ -477,6 +480,7 @@
   "walthowd/ha-automower",
   "websylv/homeassistant-meteoswiss",
   "willholdoway/hifiberry",
+  "wimb0/home-assistant-saj-modbus",
   "xirixiz/homeassistant-afvalwijzer",
   "xlcnd/meteoalarmeu",
   "xMrVizzy/Minecraft-Version",
@@ -486,6 +490,5 @@
   "youdroid/home-assistant-gitea",
   "youdroid/home-assistant-sickchill",
   "zachowj/hass-node-red",
-  "zha-ng/zha-map",
   "zigul/HomeAssistant-CEZdistribuce"
 ]
