@@ -1,5 +1,6 @@
 [
   "abmantis/ozw-network-visualization-card",
+  "aex351/home-assistant-neerslag-card",
   "amaximus/bkk-stop-card",
   "amaximus/fkf-garbage-collection-card",
   "amaximus/garbage-collection-card",
@@ -90,6 +91,7 @@
   "finity69x2/fan-control-entity-row",
   "finity69x2/light-brightness-preset-row",
   "finity69x2/toggle-control-button-row",
+  "fufar/simple-clock-card",
   "gadgetchnnel/lovelace-card-preloader",
   "gadgetchnnel/lovelace-card-templater",
   "gadgetchnnel/lovelace-home-feed-card",

@@ -64,7 +64,6 @@
   "enriqg9/dual-thermostat",
   "fineemb/lynk-co",
   "futuretense/lock-manager",
-  "hacf-fr/hassRenaultZE",
   "heinoldenhuis/home_assistant_area_waste",
   "home-assistant-community-themes/template",
   "home-assistant-community-themes/theme-request",
@@ -94,5 +93,6 @@
   "sinclairpaul/ha_purple_theme",
   "tenly2000/HomeAssistant-Places",
   "xaviml/z2m_ikea_controller",
-  "xMrVizzy/button-toolbar"
+  "xMrVizzy/button-toolbar",
+  "zha-ng/zha-map"
 ]
