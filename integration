@@ -75,6 +75,7 @@
   "caronc/ha-ultrasync",
   "Ceerbeerus/beerbolaget",
   "cgarwood/homeassistant-fullykiosk",
+  "chomupashchuk/delete-file-home-assistant",
   "claudegel/sinope-1",
   "claudegel/sinope-130",
   "claudegel/sinope-gt125",
@@ -489,6 +490,5 @@
   "youdroid/home-assistant-gitea",
   "youdroid/home-assistant-sickchill",
   "zachowj/hass-node-red",
-  "zigul/HomeAssistant-CEZdistribuce",
-  "chomupashchuk/delete-file-home-assistant"
+  "zigul/HomeAssistant-CEZdistribuce"
 ]
