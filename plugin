@@ -164,6 +164,7 @@
   "ofekashery/vertical-stack-in-card",
   "peetereczek/ztm-stop-card",
   "pfunkmallone/HACS-camect-custom_card",
+  "piitaya/lovelace-climate-mode-entity-row",
   "PiotrMachowski/Home-Assistant-Lovelace-HTML-Jinja2-Template-card",
   "PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card",
   "PiotrMachowski/lovelace-google-keep-card",
