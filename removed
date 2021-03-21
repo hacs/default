@@ -455,12 +455,6 @@
     "link": "https://github.com/hacs/default/pull/841"
   },
   {
-    "repository": "hacf-fr/hassRenaultZE",
-    "reason": "Repository is deleted",
-    "removal_type": "remove",
-    "link": "https://community.home-assistant.io/t/error-on-hacs-with-renaut-zoe/288712"
-  },
-  {
     "repository": "zha-ng/zha-map",
     "reason": "Deprecated. Available natively now.",
     "removal_type": "removal",
