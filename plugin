@@ -211,5 +211,6 @@
   "Villhellm/custom-sidebar",
   "Villhellm/lovelace-animated-background",
   "Villhellm/lovelace-clock-card",
-  "Voxxie/lovelace-jumbo-card"
+  "Voxxie/lovelace-jumbo-card",
+  "jampez77/multiline-entity-card"
 ]
