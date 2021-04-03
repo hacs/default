@@ -61,5 +61,6 @@
   "vash3d/nethassmo",
   "wernerhp/appdaemon_aqara_motion_sensors",
   "wernerhp/appdaemon_wasp",
-  "xaviml/controllerx"
+  "xaviml/controllerx",
+  "roopesh/ad-qolsys"
 ]
