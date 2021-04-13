@@ -303,6 +303,7 @@
   "Limych/ha-jq300",
   "Limych/ha-narodmon",
   "Limych/ha-snowtire",
+  "Limych/ha-temperature-feels-like",
   "lindell/home-assistant-svt-play",
   "lindell/home-assistant-tv4-play",
   "ljmerza/ha-email-sensor",
