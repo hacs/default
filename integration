@@ -353,6 +353,7 @@
   "ollo69/ha-smartthinq-sensors",
   "opravdin/weback-hass",
   "Paul-dH/Home-Assisant-Sensor-OvApi",
+  "pcourbin/ecodevices_rt2",
   "peetereczek/ztm",
   "peternijssen/home-assistant-jumbo",
   "pfunkmallone/HACS-camect-integration",
