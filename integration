@@ -147,6 +147,7 @@
   "Cyr-ius/hass-hue-service-advanced",
   "Cyr-ius/hass-livebox-component",
   "daenny/climate_group",
+  "danieldotnl/ha-multiscrape",
   "Danielhiversen/home_assistant_adax",
   "Danielhiversen/home_assistant_tractive",
   "danobot/entity-controller",
