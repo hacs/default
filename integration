@@ -364,6 +364,7 @@
   "ollo69/ha-smartthinq-sensors",
   "opravdin/weback-hass",
   "Paul-dH/Home-Assisant-Sensor-OvApi",
+  "pcourbin/ecodevices_rt2",
   "pcourbin/imaprotect",
   "peetereczek/ztm",
   "peternijssen/home-assistant-jumbo",
