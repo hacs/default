@@ -298,6 +298,7 @@
   "koying/openrgb_ha",
   "kuchel77/diskspace",
   "kukulich/home-assistant-jablotron100",
+  "LaggAt/hacs-govee",
   "laszlojakab/homeassistant-dijnet",
   "laszlojakab/homeassistant-easycontrols",
   "legrego/homeassistant-elasticsearch",
