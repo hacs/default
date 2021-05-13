@@ -394,7 +394,7 @@
   "ptimatth/GeorideHA",
   "PTST/O365-HomeAssistant",
   "py-smart-gardena/hass-gardena-smart-system",
-  "Pyhive/HA-Hive-Custom-Component",
+  "Pyhass/Hive-Custom-Component",
   "r-renato/ha-climacell-weather",
   "r-renato/hass-xiaomi-mi-flora-and-flower-care",
   "raman325/ha-zoom-automation",
