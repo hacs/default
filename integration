@@ -1,5 +1,4 @@
 [
-  "slashback100/presence_simulation",
   "5high/konke",
   "5high/phicomm-dc1-homeassistant",
   "9rpp/securifi",
@@ -457,6 +456,7 @@
   "shogunxam/Home-Assistant-custom-components-cfr-toscana",
   "Sholofly/ZiggoNext",
   "shutupflanders/sensor.moneydashboard",
+  "slashback100/presence_simulation",
   "slesinger/HomeAssistant-BMR",
   "slesinger/HomeAssistant-PREdistribuce",
   "SLG/home-assistant-whatpulse",
