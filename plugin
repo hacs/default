@@ -1,6 +1,7 @@
 [
   "abmantis/ozw-network-visualization-card",
   "aex351/home-assistant-neerslag-card",
+  "AitorDB/home-assistant-sun-card",
   "amaximus/bkk-stop-card",
   "amaximus/fkf-garbage-collection-card",
   "amaximus/garbage-collection-card",
@@ -167,6 +168,7 @@
   "maykar/kiosk-mode",
   "maykar/lovelace-swipe-navigation",
   "Mofeywalker/openmensa-lovelace-card",
+  "MrBartusek/MeteoalarmCard",
   "nervetattoo/banner-card",
   "nervetattoo/simple-thermostat",
   "nervetattoo/themable-grid",
