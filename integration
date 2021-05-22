@@ -431,6 +431,7 @@
   "robmarkcole/HASS-Deepstack-face",
   "robmarkcole/HASS-Deepstack-object",
   "robmarkcole/HASS-Machinebox-Classificationbox",
+  "robmarkcole/HASS-Sighthound"
   "robmarkcole/Hue-sensors-HASS",
   "rospogrigio/localtuya",
   "rsnodgrass/hass-adtpulse",

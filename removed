@@ -244,12 +244,6 @@
     "link": "https://github.com/hacs/integration/pull/1045"
   },
   {
-    "repository": "robmarkcole/HASS-Sighthound",
-    "reason": "Repository is archived",
-    "removal_type": "blacklist",
-    "link": "https://github.com/hacs/default/issues/344"
-  },
-  {
     "repository": "custom-cards/home-setter",
     "reason": "Repository is archived",
     "removal_type": "blacklist",
