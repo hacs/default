@@ -433,6 +433,7 @@
   "robmarkcole/HASS-Machinebox-Classificationbox",
   "robmarkcole/Hue-sensors-HASS",
   "rospogrigio/localtuya",
+  "rroller/dahua",
   "rsnodgrass/hass-adtpulse",
   "rsnodgrass/hass-flo-water",
   "rsnodgrass/hass-integrations",
