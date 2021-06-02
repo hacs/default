@@ -476,6 +476,7 @@
   "syssi/philipslight",
   "syssi/xiaomi_airconditioningcompanion",
   "syssi/xiaomi_airpurifier",
+  "syssi/xiaomi_cooker",
   "syssi/xiaomi_raw",
   "syssi/xiaomiplug",
   "tefinger/hass-brematic",
