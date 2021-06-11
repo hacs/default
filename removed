@@ -295,5 +295,181 @@
     "reason": "Request from author",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/531"
+  },
+  {
+    "repository": "cgarwood/homeassistant-zwave_mqtt",
+    "reason": "deprecated",
+    "removal_type": "deprecated",
+    "link": "https://github.com/hacs/default/pull/547"
+  },
+  {
+    "repository": "custom-components/sensor.wifi-scanner",
+    "reason": "Repository not complete",
+    "removal_type": "removed"
+  },
+  {
+    "repository": "lociii/homeassistant-digitalstrom",
+    "reason": "archived",
+    "removal_type": "blacklist",
+    "link": "https://github.com/hacs/integration/issues/1457"
+  },
+  {
+    "repository": "ReneNulschDE/mbapipy",
+    "reason": "archived",
+    "removal_type": "blacklist",
+    "link": "https://github.com/hacs/integration/issues/1457"
+  },
+  {
+    "repository": "amelchio/logbook_cache",
+    "reason": "Request from author",
+    "removal_type": "removed",
+    "link": "https://github.com/hacs/default/pull/578"
+  },
+  {
+    "repository": "Limych/media_player.linkplay",
+    "reason": "Requested by author",
+    "removal_type": "removed",
+    "link": "https://github.com/hacs/default/pull/577"
+  },
+  {
+    "repository": "cbulock/lovelace-battery-entity",
+    "reason": "Abandoned, not working properly",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/1464"
+  },
+  {
+    "repository": "peternijssen/lovelace-postnl-card",
+    "reason": "Can no longer be used",
+    "removal_type": "removed",
+    "link": "https://github.com/hacs/integration/issues/1533"
+  },
+  {
+    "repository": "ljmerza/calendar-card",
+    "reason": "The repository is archived",
+    "removal_type": "archived"
+  },
+  {
+    "repository": "OpenXbox/xboxone-home-assistant",
+    "reason": "The repository is archived",
+    "removal_type": "archived"
+  },
+  {
+    "repository": "Armaell/home-assistant-custom-icons-loader",
+    "reason": "Not working after Home Assistant 0.110",
+    "removal_type": "removed",
+    "link": "https://github.com/hacs/integration/issues/1548"
+  },
+  {
+    "repository": "custom-components/sensor.kodi_recently_added",
+    "reason": "Repository is archived",
+    "removal_type": "removed"
+  },
+  {
+    "repository": "alryaz/hass-component-yandex-smart-home",
+    "reason": "Does not work after 0.115",
+    "removal_type": "removed",
+    "link": "https://github.com/hacs/integration/issues/1557"
+  },
+  {
+    "repository": "joogps/MQTT-Climate-Sync",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/1562"
+  },
+  {
+    "repository": "maykar/custom-header",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://community.home-assistant.io/t/custom-header/155399/1100"
+  },
+  {
+    "repository": "enriqg9/dual-thermostat",
+    "reason": "Repository is no longer maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/1587"
+  },
+  {
+    "repository": "fineemb/lynk-co",
+    "reason": "Repository does not exsist",
+    "removal_type": "removal",
+    "link": ""
+  },
+  {
+    "repository": "xMrVizzy/button-toolbar",
+    "reason": "Repository does not exsist",
+    "removal_type": "removal",
+    "link": "https://github.com/hacs/integration/issues/1696"
+  },
+  {
+    "repository": "MatthewFlamm/nwsradar",
+    "reason": "NWS radar server no longer operational",
+    "removal_type": "removal",
+    "link": "https://github.com/MatthewFlamm/nwsradar/issues/16"
+  },
+  {
+    "repository": "futuretense/lock-manager",
+    "reason": "replacing integration",
+    "removal_type": "removal",
+    "link": "https://github.com/FutureTense/keymaster"
+  },
+  {
+    "repository": "custom-components/uilogs",
+    "reason": "Deprecated",
+    "removal_type": "remove",
+    "link": "https://github.com/custom-components/uilogs/issues/17"
+  },
+  {
+    "repository": "custom-components/sensor.rpi_power",
+    "reason": "Repo archived",
+    "removal_type": "removal",
+    "link": "https://github.com/custom-components/sensor.rpi_power"
+  },
+  {
+    "repository": "badguy99/octocost",
+    "reason": "Archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/1809"
+  },
+  {
+    "repository": "edenhaus/ha-prosenic",
+    "reason": "Archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/807"
+  },
+  {
+    "repository": "bratanon/lovelace-conditional-entity-row",
+    "reason": "Repository is archived",
+    "removal_type": "removed",
+    "link": "https://github.com/bratanon/lovelace-conditional-entity-row/issues/2"
+  },
+  {
+    "repository": "Bre77/myair",
+    "reason": "Added to Home Assistant core",
+    "removal_type": "replaced",
+    "link": "https://www.home-assistant.io/integrations/advantage_air/"
+  },
+  {
+    "repository": "bramkragten/lyric",
+    "reason": "Added to Home Assistant Core",
+    "removal_type": "removal",
+    "link": "https://github.com/hacs/default/pull/841"
+  },
+  {
+    "repository": "zha-ng/zha-map",
+    "reason": "Deprecated. Available natively now.",
+    "removal_type": "removal",
+    "link": "https://github.com/zha-ng/zha-map#zha-map-is-deprecated"
+  },
+  {
+    "repository": "ntilley905/faastatus",
+    "reason": "Added to Home Assistant Core",
+    "removal_type": "removal",
+    "link": "https://www.home-assistant.io/integrations/faadelays/"
+  },
+  {
+    "repository": "Petro31/ad_multizone_media_control",
+    "reason": "Repository is archived",
+    "removal_type": "removal",
+    "link": "https://github.com/hacs/integration/issues/2080"
   }
 ]

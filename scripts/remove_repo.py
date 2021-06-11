@@ -1,6 +1,7 @@
 import sys
 import json
 
+# Information https://hacs.xyz/docs/publish/remove
 
 if len(sys.argv) < 3:
     print(
@@ -56,6 +57,9 @@ for category in [
             print(f"Found in {category}")
             foundcategory = category
             categorycontent = content
+            content.remove(remove["repository"])
+            with open(category, "w") as outfile:
+                outfile.write(json.dumps(sorted(content, key=str.casefold), indent=2))
             break
 
 if remove["repository"].split("/")[0] not in orgs:
@@ -70,8 +74,10 @@ with open("removed", "r") as removed_file:
     removedcontent = json.loads(removed_file.read())
 
 blacklistcontent.append(remove["repository"])
+
 if remove["repository"].split("/")[0] not in orgs:
-    categorycontent.remove(remove["repository"])
+    if remove["repository"] in categorycontent:
+        categorycontent.remove(remove["repository"])
 
 data = {"repository": remove["repository"]}
 if remove["reason"] is not None:
