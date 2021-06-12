@@ -465,5 +465,11 @@
     "reason": "Added to Home Assistant Core",
     "removal_type": "removal",
     "link": "https://www.home-assistant.io/integrations/faadelays/"
+  },
+  {
+    "repository": "Petro31/ad_multizone_media_control",
+    "reason": "Repository is archived",
+    "removal_type": "removal",
+    "link": "https://github.com/hacs/integration/issues/2080"
   }
 ]
