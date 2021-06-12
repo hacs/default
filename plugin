@@ -1,5 +1,6 @@
 [
   "abmantis/ozw-network-visualization-card",
+  "adizanni/floor3d-card",
   "aex351/home-assistant-neerslag-card",
   "AitorDB/home-assistant-sun-card",
   "amaximus/bkk-stop-card",
@@ -22,6 +23,7 @@
   "benct/lovelace-multiple-entity-row",
   "benct/lovelace-xiaomi-vacuum-card",
   "bernikr/lovelace-notify-card",
+  "bernikr/lovelace-webos-keyboard-card",
   "bokub/rgb-light-card",
   "bramkragten/swipe-card",
   "bramkragten/weather-card",
