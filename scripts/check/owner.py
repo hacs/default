@@ -3,6 +3,7 @@ import os
 
 from scripts.changed.repo import get_repo
 from scripts.helpers.event import get_event
+from scripts.remove_publishers import REMOVED_PUBLISHERS
 from aiogithubapi import GitHub, AIOGitHubAPIException
 
 TOKEN = os.getenv("GITHUB_TOKEN")
@@ -13,15 +14,23 @@ async def check():
     repo = get_repo()
     event = get_event()
     actor = event["pull_request"]["user"]["login"]
+    repo_owner = repo.split("/")[0].lower()
 
-    if repo.split("/")[0].lower() == actor.lower():
+    for removed in REMOVED_PUBLISHERS:
+        if repo_owner == removed["publisher"].lower():
+            exit(
+                f"::error::'{repo_owner}' is not allowed to publish default repositories"
+            )
+
+    if repo_owner == actor.lower():
         print(f"'{actor}' is the owner of '{repo}'")
         return
 
     try:
         async with GitHub(TOKEN) as github:
             request = await github.client.get(
-                f"/repos/{repo}/contributors", headers={},
+                f"/repos/{repo}/contributors",
+                headers={},
             )
             contributors = [
                 {"login": x["login"], "contributions": x["contributions"]}
