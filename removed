@@ -471,5 +471,29 @@
     "reason": "Repository is archived",
     "removal_type": "removal",
     "link": "https://github.com/hacs/integration/issues/2080"
+  },
+  {
+    "repository": "burnnat/ha-polar",
+    "reason": "Abandoned",
+    "removal_type": "removal",
+    "link": "https://github.com/hacs/integration/issues/1960"
+  },
+  {
+    "repository": "nickneos/Appdaemon-ZHA-Xiaomi-Aqara-Switch",
+    "reason": "Repository does not exist",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2080"
+  },
+  {
+    "repository": "nickneos/Appdaemon-Xiaomi-Doorbell",
+    "reason": "Repository does not exist",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2080"
+  },
+  {
+    "repository": "nickneos/Appdaemon-Xiaomi-Smart-Button",
+    "reason": "Repository does not exist",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2080"
   }
 ]
