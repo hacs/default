@@ -1,6 +1,7 @@
 import sys
 import json
 
+# Information https://hacs.xyz/docs/publish/remove
 
 if len(sys.argv) < 3:
     print(
