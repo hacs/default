@@ -255,6 +255,7 @@
   "itchannel/optus-ha",
   "ITTV-tools/homeassistant-kostalplenticore",
   "JAAlperin/hass-bardolph",
+  "jadson179/consul",
   "jadson179/controlid",
   "jadson179/vapix",
   "jaruba/ha-samsungtv-tizen",
