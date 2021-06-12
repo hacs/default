@@ -471,5 +471,11 @@
     "reason": "Repository is archived",
     "removal_type": "removal",
     "link": "https://github.com/hacs/integration/issues/2080"
+  },
+  {
+    "repository": "burnnat/ha-polar",
+    "reason": "Abandoned",
+    "removal_type": "removal",
+    "link": "https://github.com/hacs/integration/issues/1960"
   }
 ]
