@@ -500,6 +500,6 @@
     "repository": "jomwells/ambihue",
     "reason": "It's abandoned",
     "removal_type": "replaced",
-    "link": "https://github.com/Mr-Groch/ambihue"
+    "link": "https://github.com/hacs/default/pull/955"
   }
 ]
