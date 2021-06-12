@@ -23,6 +23,7 @@
   "benct/lovelace-multiple-entity-row",
   "benct/lovelace-xiaomi-vacuum-card",
   "bernikr/lovelace-notify-card",
+  "bernikr/lovelace-webos-keyboard-card",
   "bokub/rgb-light-card",
   "bramkragten/swipe-card",
   "bramkragten/weather-card",
