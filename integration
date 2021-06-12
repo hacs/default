@@ -441,6 +441,7 @@
   "rroller/dahua",
   "rsnodgrass/hass-adtpulse",
   "rsnodgrass/hass-flo-water",
+  "rsnodgrass/hass-helium",
   "rsnodgrass/hass-integrations",
   "rsnodgrass/hass-lunos",
   "rsnodgrass/hass-poolmath",
