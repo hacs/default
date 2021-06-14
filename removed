@@ -495,5 +495,11 @@
     "reason": "Repository does not exist",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/2080"
+  },
+  {
+    "repository": "jomwells/ambihue",
+    "reason": "It's abandoned",
+    "removal_type": "replaced",
+    "link": "https://github.com/hacs/default/pull/955"
   }
 ]
