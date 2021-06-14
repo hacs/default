@@ -231,6 +231,7 @@
   "gilsonmandalogo/hacs-minerstat",
   "gjohansson-ST/sector",
   "gjohansson-ST/stl",
+  "golles/ha-knmi",
   "gregoryduckworth/GoogleGeocode-HASS",
   "GuilleGF/hassio-ovh",
   "GuySie/ha-meural",
