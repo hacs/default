@@ -165,6 +165,7 @@
   "marrobHD/rotel-card",
   "marrobHD/tv-card",
   "mattieha/select-list-card",
+  "mattieha/slider-button-card",
   "maxwroc/battery-state-card",
   "maxwroc/github-flexi-card",
   "maykar/kiosk-mode",
@@ -226,5 +227,8 @@
   "Villhellm/custom-sidebar",
   "Villhellm/lovelace-animated-background",
   "Villhellm/lovelace-clock-card",
-  "Voxxie/lovelace-jumbo-card"
+  "Voxxie/lovelace-jumbo-card",
+  "wassy92x/lovelace-digital-clock",
+  "wassy92x/lovelace-entities-btn-group",
+  "wassy92x/lovelace-ha-dashboard"
 ]
