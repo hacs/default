@@ -465,5 +465,41 @@
     "reason": "Added to Home Assistant Core",
     "removal_type": "removal",
     "link": "https://www.home-assistant.io/integrations/faadelays/"
+  },
+  {
+    "repository": "Petro31/ad_multizone_media_control",
+    "reason": "Repository is archived",
+    "removal_type": "removal",
+    "link": "https://github.com/hacs/integration/issues/2080"
+  },
+  {
+    "repository": "burnnat/ha-polar",
+    "reason": "Abandoned",
+    "removal_type": "removal",
+    "link": "https://github.com/hacs/integration/issues/1960"
+  },
+  {
+    "repository": "nickneos/Appdaemon-ZHA-Xiaomi-Aqara-Switch",
+    "reason": "Repository does not exist",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2080"
+  },
+  {
+    "repository": "nickneos/Appdaemon-Xiaomi-Doorbell",
+    "reason": "Repository does not exist",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2080"
+  },
+  {
+    "repository": "nickneos/Appdaemon-Xiaomi-Smart-Button",
+    "reason": "Repository does not exist",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2080"
+  },
+  {
+    "repository": "jomwells/ambihue",
+    "reason": "It's abandoned",
+    "removal_type": "replaced",
+    "link": "https://github.com/hacs/default/pull/955"
   }
 ]
