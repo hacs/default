@@ -45,7 +45,7 @@ async def check():
             if actor not in [x["login"] for x in _sorted]:
                 exit(f"::error::'{actor}' is not a contributor to '{repo}'")
 
-            if [x["contributions"] for x in _sorted if x["login"] == actor].pop() > (
+            if [x["contributions"] for x in _sorted if x["login"] == actor].pop() >= (
                 _top / 3
             ):
                 print(f"'{actor}' is a major contributor to '{repo}'")
