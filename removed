@@ -501,5 +501,11 @@
     "reason": "It's abandoned",
     "removal_type": "replaced",
     "link": "https://github.com/hacs/default/pull/955"
+  },
+  {
+    "repository": "azogue/fasthue",
+    "reason": "Not needed anymore. Native Hue integration now has local push access.",
+    "removal_type": "deprecated",
+    "link": "https://github.com/azogue/fasthue/issues/22"
   }
 ]
