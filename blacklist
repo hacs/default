@@ -1,5 +1,6 @@
 [
   "alryaz/hass-component-yandex-smart-home",
+  "alryaz/hass-mosenergosbyt",
   "amaximus/bkk_stop_card",
   "amelchio/logbook_cache",
   "Armaell/home-assistant-custom-icons-loader",

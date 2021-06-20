@@ -503,6 +503,12 @@
     "link": "https://github.com/hacs/default/pull/955"
   },
   {
+    "repository": "alryaz/hass-mosenergosbyt",
+    "reason": "Superseded by 'alryaz/hass-lkcomu-interrao'",
+    "removal_type": "blacklist",
+    "link": "https://github.com/alryaz/hass-mosenergosbyt/README.md"
+  },
+  {
     "repository": "azogue/fasthue",
     "reason": "Not needed anymore. Native Hue integration now has local push access.",
     "removal_type": "deprecated",
