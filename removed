@@ -513,5 +513,11 @@
     "reason": "Not needed anymore. Native Hue integration now has local push access.",
     "removal_type": "deprecated",
     "link": "https://github.com/azogue/fasthue/issues/22"
+  },
+  {
+    "repository": "SebuZet/samsungrac",
+    "reason": "Repository has been abandoned and it's not working with current HA versions.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2103"
   }
 ]
