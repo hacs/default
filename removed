@@ -495,5 +495,29 @@
     "reason": "Repository does not exist",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/2080"
+  },
+  {
+    "repository": "jomwells/ambihue",
+    "reason": "It's abandoned",
+    "removal_type": "replaced",
+    "link": "https://github.com/hacs/default/pull/955"
+  },
+  {
+    "repository": "alryaz/hass-mosenergosbyt",
+    "reason": "Superseded by 'alryaz/hass-lkcomu-interrao'",
+    "removal_type": "blacklist",
+    "link": "https://github.com/alryaz/hass-mosenergosbyt/README.md"
+  },
+  {
+    "repository": "azogue/fasthue",
+    "reason": "Not needed anymore. Native Hue integration now has local push access.",
+    "removal_type": "deprecated",
+    "link": "https://github.com/azogue/fasthue/issues/22"
+  },
+  {
+    "repository": "SebuZet/samsungrac",
+    "reason": "Repository has been abandoned and it's not working with current HA versions.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2103"
   }
 ]
