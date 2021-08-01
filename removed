@@ -560,6 +560,6 @@
     "repository": "mammuth/ha-fritzbox-tools",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "https://github.com/hacs/integration/issues/2122"
+    "link": "https://github.com/hacs/integration/issues/2121"
   }
 ]
