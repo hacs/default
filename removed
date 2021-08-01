@@ -521,6 +521,12 @@
     "link": "https://github.com/hacs/integration/issues/2103"
   },
   {
+    "repository": "troykelly/hacs-amberelectric",
+    "reason": "Replaced with a superior version maintained by an Amber Electric employee",
+    "removal_type": "removal",
+    "link": "https://github.com/troykelly/hacs-amberelectric"
+  },
+  {
     "repository": "bieniu/ha-airly",
     "reason": "Repository is archived",
     "removal_type": "remove",
