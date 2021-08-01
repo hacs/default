@@ -519,5 +519,47 @@
     "reason": "Repository has been abandoned and it's not working with current HA versions.",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/2103"
+  },
+  {
+    "repository": "bieniu/ha-airly",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2115"
+  },
+  {
+    "repository": "thomasloven/lovelace-dummy-entity-row",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2115"
+  },
+  {
+    "repository": "thomasloven/lovelace-gap-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2115"
+  },
+  {
+    "repository": "thomasloven/lovelace-gui-sandbox",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2115"
+  },
+  {
+    "repository": "robmarkcole/Hue-sensors-HASS",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2115"
+  },
+  {
+    "repository": "xlcnd/meteoalarmeu",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2115"
+  },
+  {
+    "repository": "mammuth/ha-fritzbox-tools",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2122"
   }
 ]
