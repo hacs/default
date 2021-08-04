@@ -567,5 +567,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/2121"
+  },
+  {
+    "repository": "shbatm/hacs-isy994",
+    "reason": "Repository was used as a beta test for core ISY994 and is no longer required.",
+    "removal_type": "remove",
+    "link": "https://github.com/shbatm/hacs-isy994"
   }
 ]
