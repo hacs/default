@@ -163,6 +163,7 @@
   "definitio/ha-sox",
   "dgomes/ha_erse",
   "dimagoltsman/ha-proof-dashcam-integration",
+  "djansen1987/SAJeSolar",
   "djbulsink/panasonic_ac",
   "djerik/wavinsentio-ha",
   "djtimca/hagooglewifi",
@@ -549,4 +550,5 @@
   "youdroid/home-assistant-sickchill",
   "zachowj/hass-node-red",
   "zigul/HomeAssistant-CEZdistribuce"
+  
 ]
