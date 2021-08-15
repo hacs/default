@@ -323,6 +323,7 @@
   "LaggAt/hacs-govee",
   "laszlojakab/homeassistant-dijnet",
   "laszlojakab/homeassistant-easycontrols",
+  "lbbrhzn/ocpp",
   "legrego/homeassistant-elasticsearch",
   "leikoilja/ha-google-home",
   "lendy007/homeassistant-skodaconnect",
