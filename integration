@@ -393,6 +393,7 @@
   "nielsfaber/scheduler-component",
   "nikrolls/homeassistant-goldair-climate",
   "nstrelow/ha_philips_android_tv",
+  "nyffchanium/argoclima-integration",
   "ollo69/ha-samsungtv-smart",
   "ollo69/ha-smartthinq-sensors",
   "opravdin/weback-hass",
