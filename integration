@@ -511,6 +511,7 @@
   "tetienne/veolia-custom-component",
   "thebino/rki_covid",
   "TheByteStuff/RemoteSyslog_Service",
+  "TheRealWaldo/thermal",
   "ThermIQ/thermiq_mqtt-ha",
   "thevoltagesource/LennoxiComfort",
   "Thomas55555/husqvarna_automower",
