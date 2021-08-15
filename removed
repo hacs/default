@@ -579,5 +579,23 @@
     "reason": "Replaced by alternative custom integration",
     "removal_type": "remove",
     "link": "https://github.com/plugwise/plugwise-beta"
+  },
+  {
+    "repository": "avdeevsv91/ha_generic_hygrostat",
+    "reason": "Archived repository",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1047"
+  },
+  {
+    "repository": "bieniu/ha-gios",
+    "reason": "Archived repository",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1047"
+  },
+  {
+    "repository": "DavidFW1960/bom_forecast",
+    "reason": "Archived repository",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1047"
   }
 ]
