@@ -597,5 +597,11 @@
     "reason": "Archived repository",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1047"
+  },
+  {
+    "repository": "tellerbop/havistapool",
+    "reason": "The repository has been archived by the author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2152"
   }
 ]
