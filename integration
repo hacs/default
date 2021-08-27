@@ -147,6 +147,7 @@
   "custom-components/youtube",
   "custom-components/zaptec",
   "cyberjunky/home-assistant-arpscan_tracker",
+  "cyberjunky/home-assistant-garmin_connect",
   "cyberjunky/home-assistant-hvcgroep",
   "cyberjunky/home-assistant-p2000",
   "cyberjunky/home-assistant-plugwise",
