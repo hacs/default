@@ -253,6 +253,7 @@
   "hasl-sensor/integration",
   "HASwitchPlate/openHASP-custom-component",
   "hcoohb/hass-yeelightbt",
+  "HCookie/Webhook-Service-home-assistant",
   "heinoldenhuis/home_assistant_omnik_solar",
   "Hellowlol/ha-tide",
   "hellqvio86/home_assistant_casambi",
