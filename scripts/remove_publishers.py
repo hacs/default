@@ -1,7 +1,12 @@
 import json
 
 # Information https://hacs.xyz/docs/publish/remove
-REMOVED_PUBLISHERS = []
+REMOVED_PUBLISHERS = [
+    {
+        "publisher": "reharmsen",
+        "link": "https://github.com/hacs/integration/issues/2192",
+    }
+]
 
 CATEGORIES = [
     "appdaemon",
