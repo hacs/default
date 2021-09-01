@@ -603,5 +603,11 @@
     "reason": "The repository has been archived by the author",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/2152"
+  },
+  {
+    "repository": "reharmsen/hass-youless-component",
+    "link": "https://github.com/hacs/integration/issues/2192",
+    "reason": "Author removed",
+    "removal_type": "removal"
   }
 ]
