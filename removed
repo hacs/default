@@ -609,5 +609,11 @@
     "link": "https://github.com/hacs/integration/issues/2192",
     "reason": "Author removed",
     "removal_type": "removal"
+  },
+  {
+    "repository": "Sholofly/ZiggoNext",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2209"
   }
 ]
