@@ -199,6 +199,7 @@
   "echoromeo/hanobo",
   "edekeijzer/osrm_travel_time",
   "eifinger/hass-foldingathomecontrol",
+  "eifinger/hass-here-weather",
   "eifinger/hass-weenect",
   "eifinger/open_route_service",
   "elad-bar/ha-blueiris",
