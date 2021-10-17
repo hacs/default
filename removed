@@ -615,5 +615,29 @@
     "reason": "Request from author",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/2209"
+  },
+  {
+    "repository": "mampfes/hacs_wiffi",
+    "reason": "Archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1103"
+  },
+  {
+    "repository": "pilotak/homeassistant-mikrotik",
+    "reason": "Archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1103"
+  },
+  {
+    "repository": "PTST/O365-HomeAssistant",
+    "reason": "Archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1103"
+  },
+  {
+    "repository": "atomic7777/atomic_calendar",
+    "reason": "Archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1103"
   }
 ]
