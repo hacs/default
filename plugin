@@ -107,6 +107,7 @@
   "gadgetchnnel/lovelace-card-templater",
   "gadgetchnnel/lovelace-home-feed-card",
   "gadgetchnnel/lovelace-text-input-row",
+  "gerardag/person-entity-card",
   "GeorgeSG/lovelace-folder-card",
   "GeorgeSG/lovelace-time-picker-card",
   "grinstantin/todoist-card",
