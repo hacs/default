@@ -4,7 +4,7 @@ FROM ghcr.io/ludeeus/alpine/base:stable
 # docker run --rm --name repositories repositories sleep 3600
 # docker exec -it repositories bash
 
-# Find stuff with 'grep -Ri "string_to_fine" /<base_path>'
+# Find stuff with 'grep -Ri "string_to_find" /<base_path>'
 
 # COPY ./netdaemon /data/
 # RUN \
