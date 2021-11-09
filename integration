@@ -186,6 +186,7 @@
   "djtimca/hasatellitetracker",
   "djtimca/haspacex",
   "dlarrick/hass-kumo",
+  "dlashua/hass-wasp_sensor",
   "dlashua/templatebinarysensor",
   "dm82m/hass-Deltasol-KM2",
   "dmitry-k/yandex_smart_home",
