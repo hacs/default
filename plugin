@@ -109,6 +109,7 @@
   "gadgetchnnel/lovelace-text-input-row",
   "GeorgeSG/lovelace-folder-card",
   "GeorgeSG/lovelace-time-picker-card",
+  "gerardag/person-entity-card",
   "grinstantin/todoist-card",
   "gurbyz/power-wheel-card",
   "hasl-sensor/lovelace-hasl-departure-card",
