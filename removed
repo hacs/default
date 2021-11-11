@@ -644,6 +644,6 @@
     "repository": "doudz/homeassistant-zigate",
     "reason": "deprecated and not working anymore",
     "removal_type": "remove",
-    "link": ""
+    "link": "https://github.com/hacs/default/pull/1125"
   }
 ]
