@@ -1,1 +1,1 @@
-aiogithubapi==1.0.4
+aiogithubapi==21.11.0
