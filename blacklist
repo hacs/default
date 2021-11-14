@@ -68,6 +68,7 @@
   "custom-components/uilogs",
   "custom-components/usps_mail",
   "DavidFW1960/bom_forecast",
+  "doudz/homeassistant-zigate",
   "edenhaus/ha-prosenic",
   "eifinger/here_travel_time",
   "enriqg9/dual-thermostat",
