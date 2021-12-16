@@ -34,7 +34,7 @@ async def check():
             )
             contributors = [
                 {"login": x["login"], "contributions": x["contributions"]}
-                for x in request or []
+                for x in request.data or []
             ]
             _sorted = sorted(
                 contributors, key=lambda x: x["contributions"], reverse=True
