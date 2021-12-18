@@ -645,5 +645,53 @@
     "reason": "Deprecated and not working anymore",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1125"
+  },
+  {
+    "repository": "custom-components/custom_components",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "TBA"
+  },
+  {
+    "repository": "Michsior14/ha-laser-egg",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "TBA"
+  },
+  {
+    "repository": "custom-components/sensor.custom_components",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "TBA"
+  },
+  {
+    "repository": "custom-components/sensor.tautulli",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "TBA"
+  },
+  {
+    "repository": "ppanagiotis/pymusiccast",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "TBA"
+  },
+  {
+    "repository": "estevez-dev/extended-banner-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "TBA"
+  },
+  {
+    "repository": "Kraineff/philips-airpurifier",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "TBA"
+  },
+  {
+    "repository": "jensweimann/awb",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "TBA"
   }
 ]
