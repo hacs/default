@@ -1,6 +1,7 @@
 [
   "5high/konke",
   "5high/phicomm-dc1-homeassistant",
+  "9a4gl/hass-peltec",
   "9rpp/securifi",
   "AaronDavidSchneider/SonosAlarm",
   "abacao/hass_wibeee",
@@ -76,6 +77,7 @@
   "bremor/bonaire_myclimate",
   "bremor/bureau_of_meteorology",
   "bremor/public_transport_victoria",
+  "briis/hass-weatherflow",
   "briis/meteobridge",
   "briis/smartweather",
   "briis/unifiprotect",
@@ -571,6 +573,7 @@
   "tmonck/clean_up_snapshots",
   "tomaae/homeassistant-mikrotik_router",
   "tomaae/homeassistant-openmediavault",
+  "tomasbedrich/home-assistant-hikconnect",
   "tomasbedrich/home-assistant-skydance",
   "toreamun/amshan-homeassistant",
   "toreamun/victorsmartkill-homeassistant",
