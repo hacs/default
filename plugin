@@ -114,6 +114,7 @@
   "gurbyz/power-wheel-card",
   "hasl-sensor/lovelace-hasl-departure-card",
   "hasl-sensor/lovelace-hasl-traffic-status-card",
+  "htmltiger/config-editor-card",
   "htmltiger/numberbox-card",
   "hulkhaugen/hass-bha-icons",
   "iantrich/aftership-card",
