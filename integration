@@ -76,6 +76,7 @@
   "bremor/bonaire_myclimate",
   "bremor/bureau_of_meteorology",
   "bremor/public_transport_victoria",
+  "briis/hass-weatherflow",
   "briis/meteobridge",
   "briis/smartweather",
   "briis/unifiprotect",
