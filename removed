@@ -650,48 +650,48 @@
     "repository": "custom-components/custom_components",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "TBA"
+    "link": "https://github.com/hacs/default/pull/1149"
   },
   {
     "repository": "Michsior14/ha-laser-egg",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "TBA"
+    "link": "https://github.com/hacs/default/pull/1149"
   },
   {
     "repository": "custom-components/sensor.custom_components",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "TBA"
+    "link": "https://github.com/hacs/default/pull/1149"
   },
   {
     "repository": "custom-components/sensor.tautulli",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "TBA"
+    "link": "https://github.com/hacs/default/pull/1149"
   },
   {
     "repository": "ppanagiotis/pymusiccast",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "TBA"
+    "link": "https://github.com/hacs/default/pull/1149"
   },
   {
     "repository": "estevez-dev/extended-banner-card",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "TBA"
+    "link": "https://github.com/hacs/default/pull/1149"
   },
   {
     "repository": "Kraineff/philips-airpurifier",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "TBA"
+    "link": "https://github.com/hacs/default/pull/1149"
   },
   {
     "repository": "jensweimann/awb",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "TBA"
+    "link": "https://github.com/hacs/default/pull/1149"
   }
 ]
