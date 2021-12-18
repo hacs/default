@@ -109,7 +109,6 @@
   "custom-components/alexa_media_player",
   "custom-components/authenticated",
   "custom-components/ble_monitor",
-  "custom-components/blueprint",
   "custom-components/breaking_changes",
   "custom-components/brewdog",
   "custom-components/climate.e_thermostaat",
