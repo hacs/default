@@ -693,5 +693,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1149"
+  },
+  {
+    "repository": "briis/smartweather",
+    "reason": "Repository is beeing replaced with another repository",
+    "removal_type": "remove",
+    "link": "https://github.com/briis/smartweather"
   }
 ]
