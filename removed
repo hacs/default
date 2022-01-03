@@ -699,5 +699,11 @@
     "reason": "Repository is beeing replaced with another repository",
     "removal_type": "remove",
     "link": "https://github.com/briis/smartweather"
-  }
+  },
+  {
+    "repository": "DSorlov/hasl-platform",
+    "reason": "Replaced with new branch HASL 3.0.0, already in HACS",
+    "removal_type": "remove",
+    "link": "https://github.com/hasl-sensor/integration"
+  }  
 ]
