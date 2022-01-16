@@ -1,7 +1,7 @@
 [
   "5high/konke",
   "5high/phicomm-dc1-homeassistant",
-  "9a4gl/hass-peltec",
+  "9a4gl/hass-centrometal-boiler",
   "9rpp/securifi",
   "AaronDavidSchneider/SonosAlarm",
   "abacao/hass_wibeee",
@@ -346,6 +346,7 @@
   "kesteraernoudt/dobiss",
   "kevinhaendel/ha-ubee",
   "kirei/hass-chargeamps",
+  "klejejs/ha-thermia-heat-pump-integration",
   "kodi1/darksky_m",
   "kodi1/esp_wd",
   "kodi1/meteoalarm",
