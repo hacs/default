@@ -626,5 +626,6 @@
   "youdroid/home-assistant-gitea",
   "youdroid/home-assistant-sickchill",
   "zachowj/hass-node-red",
-  "zigul/HomeAssistant-CEZdistribuce"
+  "zigul/HomeAssistant-CEZdistribuce",
+  "tadasdanielius/daikin_altherma"
 ]
