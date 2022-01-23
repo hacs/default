@@ -547,6 +547,7 @@
   "snicker/zwift_hass",
   "sockless-coding/garo_wallbox",
   "sockless-coding/panasonic_cc",
+  "soloam/ha-pid-controller",
   "sprocket-9/hacs-nuvo-serial",
   "spycle/microbot_push",
   "spycle/tuneblade",
