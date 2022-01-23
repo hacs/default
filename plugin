@@ -72,6 +72,7 @@
   "DarkFox/rejseplanen-stog-card",
   "DavidFW1960/bom-weather-card",
   "DBa2016/power-usage-card-regex",
+  "dbuezas/lovelace-plotly-graph-card",
   "dcramer/lovelace-nextbus-card",
   "Deejayfool/hass-shutter-card",
   "denysdovhan/purifier-card",
