@@ -43,6 +43,7 @@
   "Aohzan/ecodevices",
   "Aohzan/ipx800",
   "Aohzan/ipx800v5",
+  "ardevd/ha-bobcatminer",
   "arjenvrh/audi_connect_ha",
   "asantaga/lightwaverf_HA_EnergySensor",
   "asantaga/wiserHomeAssistantPlatform",
