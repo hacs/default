@@ -699,5 +699,11 @@
     "reason": "Repository is beeing replaced with another repository",
     "removal_type": "remove",
     "link": "https://github.com/briis/smartweather"
+  },
+  {
+    "repository": "sdebruyn/homeassistant-bpost-integration",
+    "reason": "Blocked by provider",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1205"
   }
 ]
