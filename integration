@@ -570,6 +570,7 @@
   "syssi/xiaomi_fan",
   "syssi/xiaomi_raw",
   "syssi/xiaomiplug",
+  "tadasdanielius/daikin_altherma",
   "tefinger/hass-brematic",
   "TekniskSupport/home-assistant-resrobot",
   "tetienne/veolia-custom-component",
