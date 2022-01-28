@@ -294,6 +294,7 @@
   "HomeAssistant-Mods/home-assistant-miele",
   "htmltiger/config-editor",
   "hultenvp/solis-sensor",
+  "hultenvp/home_assistant_omnik_solar",
   "hwmland/homeassistant-xmrpool_stat",
   "IATkachenko/HA-SleepAsAndroid",
   "imicknl/ha-tahoma",
