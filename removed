@@ -710,6 +710,6 @@
     "repository": "heinoldenhuis/home_assistant_omnik_solar",
     "reason": "Remove archived Omnik Solar integration",
     "removal_type": "integration",
-    "link": ""
+    "link": "https://github.com/hacs/default/pull/1221"
   }
 ]
