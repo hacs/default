@@ -705,5 +705,11 @@
     "reason": "Blocked by provider",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1205"
+  },
+  {
+    "repository": "heinoldenhuis/home_assistant_omnik_solar",
+    "reason": "Repository has been archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1221"
   }
 ]
