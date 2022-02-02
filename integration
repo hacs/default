@@ -583,6 +583,7 @@
   "tetienne/veolia-custom-component",
   "thebino/rki_covid",
   "TheByteStuff/RemoteSyslog_Service",
+  "thecode/ha-rpi_gpio",
   "TheRealWaldo/thermal",
   "ThermIQ/thermiq_mqtt-ha",
   "thevoltagesource/LennoxiComfort",
