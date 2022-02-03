@@ -432,6 +432,7 @@
   "Mr-Groch/ambihue",
   "Mr-Groch/HA-Emulated-Color-Temp-Light",
   "mrk-its/homeassistant-blitzortung",
+  "MrSleeps/Juwel-HeliaLux-Home-Assistant-Custom-Component",
   "msekoranja/emsc-hacs-repository",
   "msp1974/homeassistant-jlrincontrol",
   "mtrab/danfoss_ally",
@@ -647,6 +648,7 @@
   "xraver/mercedes_me_api",
   "youdroid/home-assistant-couchpotato",
   "youdroid/home-assistant-gitea",
+  "youdroid/home-assistant-gogs",
   "youdroid/home-assistant-sickchill",
   "zachowj/hass-node-red",
   "zigul/HomeAssistant-CEZdistribuce"
