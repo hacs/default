@@ -649,6 +649,7 @@
   "youdroid/home-assistant-gitea",
   "youdroid/home-assistant-gogs",
   "youdroid/home-assistant-sickchill",
+  "ZacheryThomas/homeassistant-smartrent",
   "zachowj/hass-node-red",
   "zigul/HomeAssistant-CEZdistribuce"
 ]
