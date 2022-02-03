@@ -646,6 +646,7 @@
   "xraver/mercedes_me_api",
   "youdroid/home-assistant-couchpotato",
   "youdroid/home-assistant-gitea",
+  "youdroid/home-assistant-gogs",
   "youdroid/home-assistant-sickchill",
   "zachowj/hass-node-red",
   "zigul/HomeAssistant-CEZdistribuce"
