@@ -716,6 +716,6 @@
     "repository": "abacao/hass_wibeee",
     "reason": "Superseded by 'luuuis/hass_wibeee'",
     "removal_type": "replaced",
-    "link": "tbd"
+    "link": "https://github.com/hacs/default/pull/1242"
   }
 ]
