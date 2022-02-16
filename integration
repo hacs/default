@@ -298,6 +298,7 @@
   "hif2k1/battery_sim",
   "Home-Is-Where-You-Hang-Your-Hack/sensor.goveetemp_bt_hci",
   "HomeAssistant-Mods/home-assistant-miele",
+  "hostcc/hass-g90",
   "htmltiger/config-editor",
   "hultenvp/home_assistant_omnik_solar",
   "hultenvp/solis-sensor",
