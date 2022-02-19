@@ -711,5 +711,11 @@
     "reason": "Repository has been archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1221"
+  },
+  {
+    "repository": "And3rsL/Deebot-for-Home-Assistant",
+    "reason": "Repository does not follow HACS requirements (Missing issues)",
+    "removal_type": "remove",
+    "link": "TBD"
   }
 ]
