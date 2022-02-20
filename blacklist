@@ -117,6 +117,7 @@
   "PTST/O365Calendar-HomeAssistant",
   "reharmsen/hass-youless-component",
   "ReneNulschDE/mbapipy",
+  "rgruebel/ha_zigbee2mqtt_networkmap",
   "robmarkcole/HASS-Sighthound",
   "robmarkcole/Hue-remotes-HASS",
   "robmarkcole/Hue-sensors-HASS",
