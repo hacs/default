@@ -717,5 +717,11 @@
     "reason": "Superseded by 'luuuis/hass_wibeee'",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1242"
+  },
+  {
+    "repository": "rgruebel/ha_zigbee2mqtt_networkmap",
+    "reason": "Repository looks abandoned and the content is no longer working",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2517"
   }
 ]
