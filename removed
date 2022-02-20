@@ -711,5 +711,35 @@
     "reason": "Repository has been archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1221"
+  },
+  {
+    "repository": "abacao/hass_wibeee",
+    "reason": "Superseded by 'luuuis/hass_wibeee'",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1242"
+  },
+  {
+    "repository": "rgruebel/ha_zigbee2mqtt_networkmap",
+    "reason": "Repository looks abandoned and the content is no longer working",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2517"
+  },
+  {
+    "repository": "And3rsL/Deebot-for-Home-Assistant",
+    "reason": "Repository does not follow HACS requirements (Missing issues)",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1258"
+  },
+  {
+    "repository": "kukulich/home-assistant-jablotron100",
+    "reason": "Repository does not follow HACS requirements (Missing issues)",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1258"
+  },
+  {
+    "repository": "briis/unifiprotect",
+    "reason": "Repository does not follow HACS requirements (Missing issues)",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1258"
   }
 ]
