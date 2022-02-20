@@ -711,5 +711,11 @@
     "reason": "Repository has been archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1221"
+  },
+  {
+    "repository": "abacao/hass_wibeee",
+    "reason": "Superseded by 'luuuis/hass_wibeee'",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1242"
   }
 ]
