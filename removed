@@ -716,18 +716,18 @@
     "repository": "And3rsL/Deebot-for-Home-Assistant",
     "reason": "Repository does not follow HACS requirements (Missing issues)",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/1258"
   },
   {
     "repository": "kukulich/home-assistant-jablotron100",
     "reason": "Repository does not follow HACS requirements (Missing issues)",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/1258"
   },
   {
     "repository": "briis/unifiprotect",
     "reason": "Repository does not follow HACS requirements (Missing issues)",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/1258"
   }
 ]
