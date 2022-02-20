@@ -300,6 +300,7 @@
   "hif2k1/battery_sim",
   "Home-Is-Where-You-Hang-Your-Hack/sensor.goveetemp_bt_hci",
   "HomeAssistant-Mods/home-assistant-miele",
+  "hostcc/hass-gs-alarm",
   "htmltiger/config-editor",
   "hultenvp/home_assistant_omnik_solar",
   "hultenvp/solis-sensor",
