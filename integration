@@ -302,6 +302,7 @@
   "htmltiger/config-editor",
   "hultenvp/home_assistant_omnik_solar",
   "hultenvp/solis-sensor",
+  "hwmland/homeassistant-xmrig",
   "hwmland/homeassistant-xmrpool_stat",
   "IATkachenko/HA-SleepAsAndroid",
   "IATkachenko/HA-YandexWeather",
