@@ -580,6 +580,7 @@
   "swartjean/ha-eskom-loadshedding",
   "swartjean/ha-seedboxes-cc",
   "swingerman/ha-dual-smart-thermostat",
+  "syssi/homeassistant-goecharger-mqtt",
   "syssi/nextbike",
   "syssi/philipslight",
   "syssi/xiaomi_airconditioningcompanion",
