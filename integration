@@ -473,6 +473,7 @@
   "ollo69/ha-smartthinq-sensors",
   "opravdin/weback-hass",
   "osk2/panasonic_smart_app",
+  "patrickhilker/tedee_hass_integration",
   "Paul-dH/Home-Assisant-Sensor-OvApi",
   "PaulAnnekov/home-assistant-padavan-tracker",
   "pcourbin/ecodevices_rt2",
