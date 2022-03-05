@@ -108,6 +108,7 @@
   "fufar/simple-clock-card",
   "gadgetchnnel/lovelace-card-preloader",
   "gadgetchnnel/lovelace-card-templater",
+  "gadgetchnnel/lovelace-header-cards",
   "gadgetchnnel/lovelace-home-feed-card",
   "gadgetchnnel/lovelace-text-input-row",
   "GeorgeSG/lovelace-folder-card",

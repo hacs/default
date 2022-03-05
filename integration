@@ -176,6 +176,7 @@
   "Cyr-ius/hass-hue-service-advanced",
   "Cyr-ius/hass-livebox-component",
   "daenny/climate_group",
+  "dahlb/ha_hatch",
   "dahlb/ha_kia_hyundai",
   "danieldotnl/ha-multiscrape",
   "Danielhiversen/home_assistant_adax",
