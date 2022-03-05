@@ -480,6 +480,7 @@
   "patrickhilker/tedee_hass_integration",
   "Paul-dH/Home-Assisant-Sensor-OvApi",
   "PaulAnnekov/home-assistant-padavan-tracker",
+  "pawelhulek/pgnig-sensor",
   "pcourbin/ecodevices_rt2",
   "pcourbin/imaprotect",
   "peetereczek/ztm",
