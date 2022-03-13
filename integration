@@ -175,6 +175,7 @@
   "Cyr-ius/hass-cozytouch",
   "Cyr-ius/hass-hue-service-advanced",
   "Cyr-ius/hass-livebox-component",
+  "Cyr-ius/hass-heatzy",
   "daenny/climate_group",
   "dahlb/ha_hatch",
   "dahlb/ha_kia_hyundai",
