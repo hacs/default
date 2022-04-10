@@ -639,6 +639,7 @@
   "tmonck/clean_up_snapshots",
   "tomaae/homeassistant-mikrotik_router",
   "tomaae/homeassistant-openmediavault",
+  "tomaae/homeassistant-truenas",
   "tomasbedrich/home-assistant-hikconnect",
   "tomasbedrich/home-assistant-skydance",
   "TomBrien/cardiffwaste-ha",
