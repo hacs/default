@@ -414,6 +414,7 @@
   "Limych/ha-temperature-feels-like",
   "lindell/home-assistant-svt-play",
   "lindell/home-assistant-tv4-play",
+  "linsvensson/sensor.greenely",
   "ljmerza/ha-email-sensor",
   "ljmerza/ha-our-groceries",
   "lociii/homeassistant-csgo",
