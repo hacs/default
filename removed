@@ -735,5 +735,11 @@
     "reason": "Repository does not follow HACS requirements (Missing issues)",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1258"
+  },
+  {
+    "repository": "ericpignet/home-assistant-tplink_router",
+    "reason": "No longer maintained",
+    "removal_type": "Remove",
+    "link": "https://github.com/hacs/integration/issues/2552"
   }
 ]
