@@ -13,6 +13,7 @@
   "bieniu/ha-ad-thermostats-update",
   "Burningstone91/Hue_Dimmer_Deconz",
   "crserran/home-alarm",
+  "dummylabs/watchman",
   "eifinger/appdaemon-deconz-xiaomi-button",
   "ericmatte/ad-media-lights-sync",
   "haberda/light_automation",
@@ -22,6 +23,7 @@
   "jbouwh/ha-entity-cache",
   "jbouwh/omnikdatalogger",
   "jmarsik/ad-eurotronic-trv-valvepos",
+  "joBr99/nspanel-lovelace-ui",
   "kprestel/appdaemon-climate",
   "ludeeus/ad-watchdog",
   "Mohlsson/ReplayLightsHistory",
@@ -59,5 +61,6 @@
   "vash3d/nethassmo",
   "wernerhp/appdaemon_aqara_motion_sensors",
   "wernerhp/appdaemon_wasp",
+  "XaF/qolsysgw",
   "xaviml/controllerx"
 ]
