@@ -478,6 +478,7 @@
   "nbogojevic/homeassistant-midea-dehumidifier-lan",
   "neggert/hass-egauge",
   "nick2525/broadlink_s1c_s2c",
+  "NickM-27/swatch-hass-integration",
   "nickneos/HA_harmony_climate_component",
   "nielsfaber/alarmo",
   "nielsfaber/scheduler-component",
