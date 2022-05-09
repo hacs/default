@@ -746,6 +746,6 @@
     "repository": "SNoof85/lovelace-tempometer-gauge-card",
     "reason": "No longer maintained",
     "removal_type": "Remove",
-    "link": ""
+    "link": "https://github.com/hacs/default/pull/1356"
   }
 ]
