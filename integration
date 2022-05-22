@@ -239,6 +239,7 @@
   "eifinger/hass-here-weather",
   "eifinger/hass-weenect",
   "eifinger/open_route_service",
+  "ekutner/home-connect-hass",
   "elad-bar/ha-blueiris",
   "elad-bar/ha-dahuavto",
   "elad-bar/ha-edgeos",
