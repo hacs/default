@@ -795,11 +795,5 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "N/A"
-  },
-  {
-    "repository": "KoljaWindeler/kaco",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "N/A"
   }
 ]
