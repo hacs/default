@@ -647,25 +647,7 @@
     "link": "https://github.com/hacs/default/pull/1125"
   },
   {
-    "repository": "custom-components/custom_components",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1149"
-  },
-  {
     "repository": "Michsior14/ha-laser-egg",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1149"
-  },
-  {
-    "repository": "custom-components/sensor.custom_components",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1149"
-  },
-  {
-    "repository": "custom-components/sensor.tautulli",
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1149"
@@ -822,24 +804,6 @@
   },
   {
     "repository": "KoljaWindeler/kaco",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "N/A"
-  },
-  {
-    "repository": "custom-components/sensor.tautulli",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "N/A"
-  },
-  {
-    "repository": "custom-components/sensor.custom_components",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "N/A"
-  },
-  {
-    "repository": "custom-components/custom_components",
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "N/A"
