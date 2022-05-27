@@ -647,12 +647,6 @@
     "link": "https://github.com/hacs/default/pull/1125"
   },
   {
-    "repository": "Michsior14/ha-laser-egg",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1149"
-  },
-  {
     "repository": "ppanagiotis/pymusiccast",
     "reason": "Repository is archived",
     "removal_type": "remove",
