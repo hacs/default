@@ -728,72 +728,72 @@
     "repository": "maykar/kiosk-mode",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/1373"
   },
   {
     "repository": "maykar/lovelace-swipe-navigation",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/1373"
   },
   {
     "repository": "custom-cards/upcoming-media-card",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/1373"
   },
   {
     "repository": "maykar/plex_assistant",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/1373"
   },
   {
     "repository": "custom-components/sensor.sonarr_upcoming_media",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/1373"
   },
   {
     "repository": "custom-components/sensor.radarr_upcoming_media",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/1373"
   },
   {
     "repository": "custom-components/sensor.plex_recently_added",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/1373"
   },
   {
     "repository": "nagyrobi/home-assistant-custom-components-pfsense-gateways",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/1373"
   },
   {
     "repository": "pippyn/Home-Assistant-Sensor-Groningen-Afvalwijzer",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/1373"
   },
   {
     "repository": "iantrich/aftership-card",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/1373"
   },
   {
     "repository": "DSorlov/hasl-platform",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/1373"
   },
   {
     "repository": "dr1rrb/ha-twinkly",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/1373"
   }
 ]
