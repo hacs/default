@@ -647,30 +647,6 @@
     "link": "https://github.com/hacs/default/pull/1125"
   },
   {
-    "repository": "custom-components/custom_components",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1149"
-  },
-  {
-    "repository": "Michsior14/ha-laser-egg",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1149"
-  },
-  {
-    "repository": "custom-components/sensor.custom_components",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1149"
-  },
-  {
-    "repository": "custom-components/sensor.tautulli",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1149"
-  },
-  {
     "repository": "ppanagiotis/pymusiccast",
     "reason": "Repository is archived",
     "removal_type": "remove",
@@ -742,10 +718,82 @@
     "removal_type": "Remove",
     "link": "https://github.com/hacs/integration/issues/2552"
   },
-    {
+  {
     "repository": "SNoof85/lovelace-tempometer-gauge-card",
     "reason": "No longer maintained",
     "removal_type": "Remove",
     "link": "https://github.com/hacs/default/pull/1356"
+  },
+  {
+    "repository": "maykar/kiosk-mode",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "maykar/lovelace-swipe-navigation",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "custom-cards/upcoming-media-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "maykar/plex_assistant",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "custom-components/sensor.sonarr_upcoming_media",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "custom-components/sensor.radarr_upcoming_media",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "custom-components/sensor.plex_recently_added",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "nagyrobi/home-assistant-custom-components-pfsense-gateways",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "pippyn/Home-Assistant-Sensor-Groningen-Afvalwijzer",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "iantrich/aftership-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "DSorlov/hasl-platform",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "dr1rrb/ha-twinkly",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
   }
 ]
