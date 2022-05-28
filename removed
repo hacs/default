@@ -795,5 +795,77 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1373"
+  },
+  {
+    "repository": "custom-components/combined",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1375"
+  },
+  {
+    "repository": "custom-components/breaking_changes",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1375"
+  },
+  {
+    "repository": "custom-components/unsplash",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1375"
+  },
+  {
+    "repository": "custom-components/templatesensor",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1375"
+  },
+  {
+    "repository": "custom-components/sensor.yandex_maps",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1375"
+  },
+  {
+    "repository": "custom-components/config_check",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1375"
+  },
+  {
+    "repository": "custom-cards/favicon-counter",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1375"
+  },
+  {
+    "repository": "custom-cards/text-element",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1375"
+  },
+  {
+    "repository": "custom-cards/state-attribute-element",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1375"
+  },
+  {
+    "repository": "custom-cards/state-element",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1375"
+  },
+  {
+    "repository": "custom-cards/username-element",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1375"
+  },
+  {
+    "repository": "custom-cards/ext-weblink",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1375"
   }
 ]
