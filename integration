@@ -341,6 +341,7 @@
   "jihao/colorfulclouds-hass",
   "jihao/rokid-webhook-hass",
   "jihao/traccar-cn-hass",
+  "jippi/hass-nordnet",
   "jjlawren/sonos_cloud",
   "jm-73/Indego",
   "jnxxx/homeassistant-dabblerdk_powermeterreader",
