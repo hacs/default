@@ -155,6 +155,7 @@
   "custom-components/sytadin",
   "custom-components/ups",
   "custom-components/weatheralerts",
+  "custom-components/wienerlinien",
   "custom-components/youtube",
   "custom-components/zaptec",
   "cyberjunky/home-assistant-arpscan_tracker",
