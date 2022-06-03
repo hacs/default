@@ -414,6 +414,7 @@
   "Limych/ha-iaquk",
   "Limych/ha-jq300",
   "Limych/ha-narodmon",
+  "Limych/ha-rpi_gpio",
   "Limych/ha-snowtire",
   "Limych/ha-temperature-feels-like",
   "lindell/home-assistant-svt-play",
