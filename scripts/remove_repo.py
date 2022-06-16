@@ -73,6 +73,10 @@ with open("blacklist", "r") as blacklist_file:
 with open("removed", "r") as removed_file:
     removedcontent = json.loads(removed_file.read())
 
+if remove["repository"] in blacklistcontent:
+    print(f"{remove['repository']} has already been removed")
+    exit(0)
+
 blacklistcontent.append(remove["repository"])
 
 if remove["repository"].split("/")[0] not in orgs:
