@@ -88,6 +88,7 @@
   "custom-components/unsplash",
   "custom-components/usps_mail",
   "DavidFW1960/bom_forecast",
+  "DCSBL/ha-homewizard-energy",
   "doudz/homeassistant-zigate",
   "dr1rrb/ha-twinkly",
   "DSorlov/hasl-platform",
