@@ -254,5 +254,6 @@
   "Voxxie/lovelace-jumbo-card",
   "wassy92x/lovelace-digital-clock",
   "wassy92x/lovelace-entities-btn-group",
-  "wassy92x/lovelace-ha-dashboard"
+  "wassy92x/lovelace-ha-dashboard",
+  "zanna-37/hass-swipe-navigation"
 ]
