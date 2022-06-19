@@ -293,6 +293,7 @@
   "ha0y/xiaomi_miot_raw",
   "hacf-fr/hassRenaultZE",
   "hasl-sensor/integration",
+  "hasscc/hass-edge-tts",
   "HASwitchPlate/openHASP-custom-component",
   "hcoohb/hass-yeelightbt",
   "HCookie/Webhook-Service-home-assistant",
