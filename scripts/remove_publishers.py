@@ -5,7 +5,11 @@ REMOVED_PUBLISHERS = [
     {
         "publisher": "reharmsen",
         "link": "https://github.com/hacs/integration/issues/2192",
-    }
+    },
+    {
+        "publisher": "fred-oranje",
+        "link": "https://github.com/hacs/integration/issues/2748",
+    },
 ]
 
 CATEGORIES = [
