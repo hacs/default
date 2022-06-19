@@ -867,5 +867,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1375"
+  },
+  {
+    "repository": "fred-oranje/rituals-genie",
+    "reason": "Repository not available",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1402"
   }
 ]
