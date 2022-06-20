@@ -873,5 +873,11 @@
     "reason": "Repository not available",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1402"
+  },
+  {
+    "repository": "DCSBL/ha-homewizard-energy",
+    "reason": "Added to Home Assistant core",
+    "removal_type": "replaced",
+    "link": "https://www.home-assistant.io/integrations/homewizard/"
   }
 ]
