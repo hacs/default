@@ -879,5 +879,5 @@
     "reason": "Added to Home Assistant core",
     "removal_type": "replaced",
     "link": "https://www.home-assistant.io/integrations/homewizard/"
-  },
+  }
 ]
