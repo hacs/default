@@ -879,5 +879,11 @@
     "reason": "Added to Home Assistant core",
     "removal_type": "replaced",
     "link": "https://www.home-assistant.io/integrations/homewizard/"
+  },
+  {
+    "repository": "mattieha/slider-button-card",
+    "reason": "Abandoned, community fork maintained at custom-cards/slider-button-card",
+    "removal_type": "replaced",
+    "link": "https://github.com/custom-cards/slider-button-card"
   }
 ]
