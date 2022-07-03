@@ -491,6 +491,7 @@
   "nbogojevic/homeassistant-midea-dehumidifier-lan",
   "neggert/hass-egauge",
   "NemesisRE/sensor.plex_recently_added",
+  "netsoft-ruidias/ha-custom-component-coverflex",
   "netsoft-ruidias/ha-custom-component-myedenred",
   "netsoft-ruidias/ha-custom-component-precoscombustiveis",
   "netsoft-ruidias/ha-custom-component-sodexo",
