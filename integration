@@ -209,6 +209,7 @@
   "dlarrick/hass-kumo",
   "dlashua/templatebinarysensor",
   "dm82m/hass-Deltasol-KM2",
+  "dmamontov/hass-ledfx",
   "dmamontov/hass-miwifi",
   "dmitry-k/yandex_smart_home",
   "dmoranf/home-assistant-wattio",
