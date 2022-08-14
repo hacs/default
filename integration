@@ -88,6 +88,7 @@
   "bramkragten/mind",
   "bramstroker/homeassistant-powercalc",
   "Breina/nad_controller",
+  "Breina/PowerTagGateway",
   "bremor/bonaire_myclimate",
   "bremor/bureau_of_meteorology",
   "bremor/public_transport_victoria",
