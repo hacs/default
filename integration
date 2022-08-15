@@ -657,6 +657,7 @@
   "syssi/xiaomi_fan",
   "syssi/xiaomi_raw",
   "syssi/xiaomiplug",
+  "perara/systemair-save-connect",
   "tadasdanielius/daikin_altherma",
   "tefinger/hass-brematic",
   "TekniskSupport/home-assistant-resrobot",
