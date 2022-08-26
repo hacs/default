@@ -897,5 +897,11 @@
     "reason": "No longer maintained",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/2769"
+  },
+  {
+    "repository": "opravdin/weback-hass",
+    "reason": "No longer maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2806"
   }
 ]
