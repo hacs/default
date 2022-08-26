@@ -891,5 +891,11 @@
     "reason": "Added to Home Assistant core",
     "removal_type": "replaced",
     "link": "https://www.home-assistant.io/integrations/sia/"
+  },
+  {
+    "repository": "custom-components/authenticated",
+    "reason": "No longer maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2769"
   }
 ]

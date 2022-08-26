@@ -49,6 +49,7 @@
   "custom-cards/tracker-card",
   "custom-cards/upcoming-media-card",
   "custom-cards/username-element",
+  "custom-components/authenticated",
   "custom-components/binary_sensor.hadockermon",
   "custom-components/blueprint",
   "custom-components/breaking_changes",
