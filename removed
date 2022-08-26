@@ -888,8 +888,8 @@
   },
   {
     "repository": "eavanvalkenburg/sia",
-    "reason": "moved to official integration",
-    "removal_type": "delete",
-    "link": ""
+    "reason": "Added to Home Assistant core",
+    "removal_type": "replaced",
+    "link": "https://www.home-assistant.io/integrations/sia/"
   }
 ]
