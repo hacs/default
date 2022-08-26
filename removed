@@ -903,5 +903,47 @@
     "reason": "No longer maintained",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/2806"
+  },
+  {
+    "repository": "georgezhao2010/climate_ewelink",
+    "reason": "Archived repository",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1482"
+  },
+  {
+    "repository": "Cyr-ius/hass-cozytouch",
+    "reason": "Archived repository",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1482"
+  },
+  {
+    "repository": "Cyr-ius/hass-hue-service-advanced",
+    "reason": "Archived repository",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1482"
+  },
+  {
+    "repository": "KTibow/lovelace-light-soft-ui-theme",
+    "reason": "Archived repository",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1482"
+  },
+  {
+    "repository": "KTibow/lovelace-dark-soft-ui-theme",
+    "reason": "Archived repository",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1482"
+  },
+  {
+    "repository": "GeorgeSG/lovelace-folder-card",
+    "reason": "Archived repository",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1482"
+  },
+  {
+    "repository": "custom-components/wienerlinien",
+    "reason": "Archived repository",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1482"
   }
 ]
