@@ -202,6 +202,7 @@
   "definitio/ha-sox",
   "dgomes/ha_erse",
   "dgomes/ha_generic_water_heater",
+  "dgomes/ha_rrd_recorder",
   "dimagoltsman/ha-proof-dashcam-integration",
   "djansen1987/SAJeSolar",
   "djbulsink/panasonic_ac",
