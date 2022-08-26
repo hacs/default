@@ -885,5 +885,11 @@
     "reason": "Abandoned, community fork maintained at custom-cards/slider-button-card",
     "removal_type": "replaced",
     "link": "https://github.com/custom-cards/slider-button-card"
+  },
+  {
+    "repository": "eavanvalkenburg/sia",
+    "reason": "Added to Home Assistant core",
+    "removal_type": "replaced",
+    "link": "https://www.home-assistant.io/integrations/sia/"
   }
 ]
