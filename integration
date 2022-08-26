@@ -414,6 +414,7 @@
   "koying/mqtt_discoverystream_ha",
   "koying/openrgb_ha",
   "kpoppel/homeassistant-eforsyning",
+  "kpoppel/homeassistant-novafos",
   "krahabb/meross_lan",
   "Kraineff/minecraft-version",
   "kubawolanin/ha-reaper",
