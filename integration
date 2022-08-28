@@ -84,6 +84,7 @@
   "boralyl/steam-wishlist",
   "bosch-thermostat/home-assistant-bosch-custom-component",
   "BottlecapDave/HomeAssistant-FirstBus",
+  "BottlecapDave/HomeAssistant-OctopusEnergy"
   "Bouni/abfallplus",
   "Bouni/drkblutspende",
   "Bouni/luxtronik",
@@ -707,6 +708,7 @@
   "travisghansen/hass-pfsense",
   "troykelly/hacs-trackimo",
   "troykelly/homeassistant-au-nsw-covid",
+  "trvqhuy/nestup_evn",
   "tschamm/boschshc-hass",
   "turbokongen/hass-AMS",
   "turbulator/pandora-cas",
