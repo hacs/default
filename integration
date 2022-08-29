@@ -50,6 +50,7 @@
   "Aohzan/hass-prixcarburant",
   "Aohzan/ipx800",
   "Aohzan/ipx800v5",
+  "archerne/hastarlink",
   "ardevd/ha-bobcatminer",
   "arjenvrh/audi_connect_ha",
   "asantaga/lightwaverf_HA_EnergySensor",
