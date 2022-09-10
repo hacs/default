@@ -12,7 +12,7 @@ REMOVED_PUBLISHERS = [
     },
     {
         "publisher": "rsnodgrass",
-        "link": "N/A",
+        "link": "https://github.com/hacs/default/pull/1498",
     },
 ]
 

@@ -948,55 +948,55 @@
   },
   {
     "repository": "rsnodgrass/hass-adtpulse",
-    "link": "N/A",
+    "link": "https://github.com/hacs/default/pull/1498",
     "reason": "Author removed",
     "removal_type": "removal"
   },
   {
     "repository": "rsnodgrass/hass-flo-water",
-    "link": "N/A",
+    "link": "https://github.com/hacs/default/pull/1498",
     "reason": "Author removed",
     "removal_type": "removal"
   },
   {
     "repository": "rsnodgrass/hass-helium",
-    "link": "N/A",
+    "link": "https://github.com/hacs/default/pull/1498",
     "reason": "Author removed",
     "removal_type": "removal"
   },
   {
     "repository": "rsnodgrass/hass-integrations",
-    "link": "N/A",
+    "link": "https://github.com/hacs/default/pull/1498",
     "reason": "Author removed",
     "removal_type": "removal"
   },
   {
     "repository": "rsnodgrass/hass-lunos",
-    "link": "N/A",
+    "link": "https://github.com/hacs/default/pull/1498",
     "reason": "Author removed",
     "removal_type": "removal"
   },
   {
     "repository": "rsnodgrass/hass-poolmath",
-    "link": "N/A",
+    "link": "https://github.com/hacs/default/pull/1498",
     "reason": "Author removed",
     "removal_type": "removal"
   },
   {
     "repository": "rsnodgrass/hass-sensorpush",
-    "link": "N/A",
+    "link": "https://github.com/hacs/default/pull/1498",
     "reason": "Author removed",
     "removal_type": "removal"
   },
   {
     "repository": "rsnodgrass/hass-xantech",
-    "link": "N/A",
+    "link": "https://github.com/hacs/default/pull/1498",
     "reason": "Author removed",
     "removal_type": "removal"
   },
   {
     "repository": "rsnodgrass/water-heater-card",
-    "link": "N/A",
+    "link": "https://github.com/hacs/default/pull/1498",
     "reason": "Author removed",
     "removal_type": "removal"
   }
