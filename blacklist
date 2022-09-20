@@ -170,6 +170,7 @@
   "thomasloven/lovelace-dummy-entity-row",
   "thomasloven/lovelace-gap-card",
   "thomasloven/lovelace-gui-sandbox",
+  "thomasprior/EthermineInfo",
   "troykelly/hacs-amberelectric",
   "xaviml/z2m_ikea_controller",
   "xlcnd/meteoalarmeu",

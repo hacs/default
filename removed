@@ -945,5 +945,11 @@
     "reason": "Archived repository",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1482"
+  },
+  {
+    "repository": "thomasprior/EthermineInfo",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2851"
   }
 ]
