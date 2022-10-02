@@ -23,6 +23,7 @@
   "jbouwh/ha-entity-cache",
   "jbouwh/omnikdatalogger",
   "jmarsik/ad-eurotronic-trv-valvepos",
+  "joBr99/nspanel-lovelace-ui",
   "kprestel/appdaemon-climate",
   "ludeeus/ad-watchdog",
   "Mohlsson/ReplayLightsHistory",

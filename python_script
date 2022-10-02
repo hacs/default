@@ -1,5 +1,6 @@
 [
   "bieniu/ha-shellies-discovery",
+  "bieniu/ha-shellies-discovery-gen2",
   "bieniu/ha-thermostat-update",
   "eyalcha/ha-reminder",
   "iml885203/HA-FanSpeedControl",

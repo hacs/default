@@ -647,30 +647,6 @@
     "link": "https://github.com/hacs/default/pull/1125"
   },
   {
-    "repository": "custom-components/custom_components",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1149"
-  },
-  {
-    "repository": "Michsior14/ha-laser-egg",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1149"
-  },
-  {
-    "repository": "custom-components/sensor.custom_components",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1149"
-  },
-  {
-    "repository": "custom-components/sensor.tautulli",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1149"
-  },
-  {
     "repository": "ppanagiotis/pymusiccast",
     "reason": "Repository is archived",
     "removal_type": "remove",
@@ -705,5 +681,275 @@
     "reason": "Blocked by provider",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1205"
+  },
+  {
+    "repository": "heinoldenhuis/home_assistant_omnik_solar",
+    "reason": "Repository has been archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1221"
+  },
+  {
+    "repository": "abacao/hass_wibeee",
+    "reason": "Superseded by 'luuuis/hass_wibeee'",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1242"
+  },
+  {
+    "repository": "rgruebel/ha_zigbee2mqtt_networkmap",
+    "reason": "Repository looks abandoned and the content is no longer working",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2517"
+  },
+  {
+    "repository": "And3rsL/Deebot-for-Home-Assistant",
+    "reason": "Repository does not follow HACS requirements (Missing issues)",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1258"
+  },
+  {
+    "repository": "briis/unifiprotect",
+    "reason": "Repository does not follow HACS requirements (Missing issues)",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1258"
+  },
+  {
+    "repository": "ericpignet/home-assistant-tplink_router",
+    "reason": "No longer maintained",
+    "removal_type": "Remove",
+    "link": "https://github.com/hacs/integration/issues/2552"
+  },
+  {
+    "repository": "SNoof85/lovelace-tempometer-gauge-card",
+    "reason": "No longer maintained",
+    "removal_type": "Remove",
+    "link": "https://github.com/hacs/default/pull/1356"
+  },
+  {
+    "repository": "maykar/kiosk-mode",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1373"
+  },
+  {
+    "repository": "maykar/lovelace-swipe-navigation",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1373"
+  },
+  {
+    "repository": "custom-cards/upcoming-media-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1373"
+  },
+  {
+    "repository": "maykar/plex_assistant",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1373"
+  },
+  {
+    "repository": "custom-components/sensor.sonarr_upcoming_media",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1373"
+  },
+  {
+    "repository": "custom-components/sensor.radarr_upcoming_media",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1373"
+  },
+  {
+    "repository": "custom-components/sensor.plex_recently_added",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1373"
+  },
+  {
+    "repository": "nagyrobi/home-assistant-custom-components-pfsense-gateways",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1373"
+  },
+  {
+    "repository": "pippyn/Home-Assistant-Sensor-Groningen-Afvalwijzer",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1373"
+  },
+  {
+    "repository": "iantrich/aftership-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1373"
+  },
+  {
+    "repository": "DSorlov/hasl-platform",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1373"
+  },
+  {
+    "repository": "dr1rrb/ha-twinkly",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1373"
+  },
+  {
+    "repository": "custom-components/combined",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1375"
+  },
+  {
+    "repository": "custom-components/breaking_changes",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1375"
+  },
+  {
+    "repository": "custom-components/unsplash",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1375"
+  },
+  {
+    "repository": "custom-components/templatesensor",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1375"
+  },
+  {
+    "repository": "custom-components/sensor.yandex_maps",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1375"
+  },
+  {
+    "repository": "custom-components/config_check",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1375"
+  },
+  {
+    "repository": "custom-cards/favicon-counter",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1375"
+  },
+  {
+    "repository": "custom-cards/text-element",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1375"
+  },
+  {
+    "repository": "custom-cards/state-attribute-element",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1375"
+  },
+  {
+    "repository": "custom-cards/state-element",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1375"
+  },
+  {
+    "repository": "custom-cards/username-element",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1375"
+  },
+  {
+    "repository": "custom-cards/ext-weblink",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1375"
+  },
+  {
+    "repository": "fred-oranje/rituals-genie",
+    "reason": "Repository not available",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1402"
+  },
+  {
+    "repository": "DCSBL/ha-homewizard-energy",
+    "reason": "Added to Home Assistant core",
+    "removal_type": "replaced",
+    "link": "https://www.home-assistant.io/integrations/homewizard/"
+  },
+  {
+    "repository": "mattieha/slider-button-card",
+    "reason": "Abandoned, community fork maintained at custom-cards/slider-button-card",
+    "removal_type": "replaced",
+    "link": "https://github.com/custom-cards/slider-button-card"
+  },
+  {
+    "repository": "eavanvalkenburg/sia",
+    "reason": "Added to Home Assistant core",
+    "removal_type": "replaced",
+    "link": "https://www.home-assistant.io/integrations/sia/"
+  },
+  {
+    "repository": "custom-components/authenticated",
+    "reason": "No longer maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2769"
+  },
+  {
+    "repository": "opravdin/weback-hass",
+    "reason": "No longer maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2806"
+  },
+  {
+    "repository": "georgezhao2010/climate_ewelink",
+    "reason": "Archived repository",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1482"
+  },
+  {
+    "repository": "Cyr-ius/hass-cozytouch",
+    "reason": "Archived repository",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1482"
+  },
+  {
+    "repository": "Cyr-ius/hass-hue-service-advanced",
+    "reason": "Archived repository",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1482"
+  },
+  {
+    "repository": "KTibow/lovelace-light-soft-ui-theme",
+    "reason": "Archived repository",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1482"
+  },
+  {
+    "repository": "KTibow/lovelace-dark-soft-ui-theme",
+    "reason": "Archived repository",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1482"
+  },
+  {
+    "repository": "GeorgeSG/lovelace-folder-card",
+    "reason": "Archived repository",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1482"
+  },
+  {
+    "repository": "custom-components/wienerlinien",
+    "reason": "Archived repository",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1482"
+  },
+  {
+    "repository": "thomasprior/EthermineInfo",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2851"
   }
 ]
