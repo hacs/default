@@ -205,6 +205,7 @@
   "DeerMaximum/QR-Code-Generator",
   "definitio/ha-rhvoice",
   "definitio/ha-sox",
+  "delzear/hass-formulaoneapi",
   "dgomes/ha_erse",
   "dgomes/ha_generic_water_heater",
   "dgomes/ha_rrd_recorder",
