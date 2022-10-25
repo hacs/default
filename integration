@@ -487,6 +487,7 @@
   "mattrayner/pod-point-home-assistant-component",
   "mauro-midolo/homeassistant_electrolux_status",
   "mawinkler/astroweather",
+  "mb-software/homeassistant-powerbrain",
   "mbillow/ha-chargepoint",
   "mbillow/ha-redpocket",
   "mchwalisz/home-assistant-senec",
@@ -780,6 +781,5 @@
   "youdroid/home-assistant-sickchill",
   "ZacheryThomas/homeassistant-smartrent",
   "zachowj/hass-node-red",
-  "zigul/HomeAssistant-CEZdistribuce",
-  "mb-software/homeassistant-powerbrain"
+  "zigul/HomeAssistant-CEZdistribuce"
 ]
