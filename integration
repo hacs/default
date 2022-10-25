@@ -55,6 +55,7 @@
   "Aohzan/ipx800",
   "Aohzan/ipx800v5",
   "ardevd/ha-bobcatminer",
+  "arifwn/homeassistant-whatspie-integration",
   "arjenvrh/audi_connect_ha",
   "asantaga/lightwaverf_HA_EnergySensor",
   "asantaga/wiserHomeAssistantPlatform",
