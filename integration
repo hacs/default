@@ -452,6 +452,7 @@
   "lendy007/homeassistant-skodaconnect",
   "leonardlcl/mhtzn",
   "lewei50/ha_iammeter",
+  "lewei50/ha_iammeter_modbus",
   "lichtteil/local_luftdaten",
   "Limych/ha-average",
   "Limych/ha-beward",
