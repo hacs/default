@@ -741,6 +741,7 @@
   "turbulator/pandora-cas",
   "tuxuser/abfallapi_jumomind_ha",
   "tuxuser/abfallapi_regioit_ha",
+  "tom-winkler/ha-webfleet-integration",
   "twrecked/hass-aarlo",
   "twrecked/hass-momentary",
   "twrecked/hass-virtual",
