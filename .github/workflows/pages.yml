@@ -1,0 +1,46 @@
+name: Deploy static content to Pages
+
+on:
+  push:
+    branches:
+      - "master"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Pages
+        uses: actions/configure-pages@v2
+      - name: Move public content
+        run: |
+          mkdir _contents
+          cp appdaemon _contents/appdaemon.json
+          cp critical _contents/critical.json
+          cp integration _contents/integration.json
+          cp netdaemon _contents/netdaemon.json
+          cp plugin _contents/plugin.json
+          cp python_script _contents/python_script.json
+          cp removed _contents/removed.json
+          cp theme _contents/theme.json
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: '_contents'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1

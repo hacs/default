@@ -1,6 +1,7 @@
 import sys
 import json
 
+# Information https://hacs.xyz/docs/publish/remove
 
 if len(sys.argv) < 3:
     print(
@@ -71,6 +72,10 @@ with open("blacklist", "r") as blacklist_file:
 
 with open("removed", "r") as removed_file:
     removedcontent = json.loads(removed_file.read())
+
+if remove["repository"] in blacklistcontent:
+    print(f"{remove['repository']} has already been removed")
+    exit(0)
 
 blacklistcontent.append(remove["repository"])
 
