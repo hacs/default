@@ -62,5 +62,6 @@
   "wernerhp/appdaemon_aqara_motion_sensors",
   "wernerhp/appdaemon_wasp",
   "XaF/qolsysgw",
-  "xaviml/controllerx"
+  "xaviml/controllerx",
+  "madchap/energiapro_gas_consumption"
 ]
