@@ -507,6 +507,7 @@
   "mletenay/home-assistant-ev-charge-control",
   "mletenay/home-assistant-goodwe-inverter",
   "mlowijs/HomeAssistant-TeslaCustomComponent",
+  "mmillmor/geo_home",
   "modrzew/hass-flashforge-adventurer-3",
   "Mofeywalker/openmensa-hass-component",
   "moox-it/hass-moox-track",
