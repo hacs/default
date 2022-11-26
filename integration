@@ -335,7 +335,7 @@
   "heyajohnny/afvalinfo",
   "heyajohnny/cryptoinfo",
   "hif2k1/battery_sim",
-  "hmn/hacs-siku-integration",
+  "hmn/siku-integration",
   "Home-Is-Where-You-Hang-Your-Hack/sensor.goveetemp_bt_hci",
   "HomeAssistant-Mods/home-assistant-miele",
   "hostcc/hass-gs-alarm",
