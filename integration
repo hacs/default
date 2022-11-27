@@ -728,6 +728,7 @@
   "tmechen/ber_status",
   "tmonck/clean_up_snapshots",
   "tofuSCHNITZEL/home-assistant-wienerlinien",
+  "tom-winkler/ha-webfleet-integration",
   "tomaae/homeassistant-mikrotik_router",
   "tomaae/homeassistant-openmediavault",
   "tomaae/homeassistant-truenas",
