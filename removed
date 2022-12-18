@@ -957,5 +957,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1552"
+  },
+  {
+    "repository": "WolfRevo/climate.spzb0001_thermostat",
+    "reason": "Requested by author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1613"
   }
 ]
