@@ -322,6 +322,7 @@
   "golles/ha-kamstrup_403",
   "golles/ha-knmi",
   "golles/Home-Assistant-Sensor-MC66C",
+  "greghesp/ha-evonic",
   "gregoryduckworth/GoogleGeocode-HASS",
   "guerrerotook/securitas-direct-new-api",
   "GuilleGF/hassio-ovh",
