@@ -549,6 +549,7 @@
   "nagyrobi/home-assistant-custom-components-linkplay",
   "natekspencer/hacs-litterrobot",
   "nbogojevic/homeassistant-midea-dehumidifier-lan",
+  "ndom91/homeassistant-checkly",
   "neggert/hass-egauge",
   "NemesisRE/sensor.plex_recently_added",
   "netsoft-ruidias/ha-custom-component-coverflex",
