@@ -788,6 +788,7 @@
   "websylv/homeassistant-meteoswiss",
   "weltenwort/home-assistant-rct-power-integration",
   "wernerhp/ha_integration_load_shedding",
+  "wez/govee-lan-hass",
   "Wibias/hass-variables",
   "widewing/ha-toyota-na",
   "WillCodeForCats/solaredge-modbus-multi",
