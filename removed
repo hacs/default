@@ -951,5 +951,11 @@
     "reason": "Request from author",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/2851"
+  },
+  {
+    "repository": "Sholofly/arrisdcx960",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1552"
   }
 ]
