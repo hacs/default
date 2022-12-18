@@ -318,6 +318,7 @@
   "godely/ha-dremel-3d-printer",
   "golles/ha-kamstrup_403",
   "golles/ha-knmi",
+  "golles/Home-Assistant-Sensor-MC66C",
   "gregoryduckworth/GoogleGeocode-HASS",
   "guerrerotook/securitas-direct-new-api",
   "GuilleGF/hassio-ovh",
