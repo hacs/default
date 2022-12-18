@@ -963,5 +963,11 @@
     "reason": "Requested by author",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1613"
+  },
+  {
+    "repository": "Ceerbeerus/beerbolaget",
+    "reason": "The integration can no longer be used",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2863"
   }
 ]

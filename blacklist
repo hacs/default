@@ -30,6 +30,7 @@
   "briis/unifiprotect",
   "burnnat/ha-polar",
   "cbulock/lovelace-battery-entity",
+  "Ceerbeerus/beerbolaget",
   "cgarwood/homeassistant-zwave_mqtt",
   "custom-cards/boilerplate-card",
   "custom-cards/button-entity-row",
