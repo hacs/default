@@ -451,6 +451,7 @@
   "LAB02-Research/HASS.Agent-Integration",
   "LAB02-Research/HASS.Agent-MediaPlayer",
   "LAB02-Research/HASS.Agent-Notifier",
+  "LaggAt/ha-jokes",
   "LaggAt/hacs-govee",
   "larry-wong/bemfa",
   "laszlojakab/homeassistant-dijnet",
