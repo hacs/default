@@ -540,6 +540,7 @@
   "msekoranja/emsc-hacs-repository",
   "msp1974/homeassistant-jlrincontrol",
   "mtarjoianu/ha_lektrico",
+  "mtrab/clever",
   "mtrab/danfoss_ally",
   "mtrab/energidataservice",
   "MTrab/landroid_cloud",
