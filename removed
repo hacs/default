@@ -951,5 +951,23 @@
     "reason": "Request from author",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/2851"
+  },
+  {
+    "repository": "Sholofly/arrisdcx960",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1552"
+  },
+  {
+    "repository": "WolfRevo/climate.spzb0001_thermostat",
+    "reason": "Requested by author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1613"
+  },
+  {
+    "repository": "Ceerbeerus/beerbolaget",
+    "reason": "The integration can no longer be used",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/2863"
   }
 ]
