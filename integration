@@ -833,5 +833,6 @@
   "ZacheryThomas/homeassistant-smartrent",
   "zachowj/hass-node-red",
   "zigul/HomeAssistant-CEZdistribuce",
-  "ZsBT/hass-w1000-portal"
+  "ZsBT/hass-w1000-portal",
+  "bkbilly/hass-oralb"
 ]
