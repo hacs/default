@@ -243,6 +243,7 @@
   "sdelliot/pie-chart-card",
   "Shreyas-R/lovelace-wallpanel-screensaver",
   "Sian-Lee-SA/honeycomb-menu",
+  "silentbil/silent-remotes-card",
   "sopelj/lovelace-kanji-clock-card",
   "swingerman/lovelace-fluid-level-background-card",
   "TarheelGrad1998/gallery-card",
@@ -278,6 +279,5 @@
   "wassy92x/lovelace-digital-clock",
   "wassy92x/lovelace-entities-btn-group",
   "wassy92x/lovelace-ha-dashboard",
-  "zanna-37/hass-swipe-navigation",
-  "silentbil/silent-remotes-card"
+  "zanna-37/hass-swipe-navigation"
 ]
