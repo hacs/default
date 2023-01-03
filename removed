@@ -969,5 +969,11 @@
     "reason": "The integration can no longer be used",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/2863"
+  },
+  {
+    "repository": "natekspencer/hacs-litterrobot",
+    "reason": "Repository archived",
+    "removal_type": "remove",
+    "link": "https://github.com/natekspencer/hacs-litterrobot/issues/17#issuecomment-1370045529"
   }
 ]
