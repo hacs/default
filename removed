@@ -987,5 +987,11 @@
     "reason": "Repository archived",
     "removal_type": "remove",
     "link": "https://github.com/DavidMStraub/homeassistant-homeconnect/commit/e7231c522b35e8d571a7317c69b5003bf144f48a"
+  },
+  {
+    "repository": "hacf-fr/hassRenaultZE",
+    "reason": "Repository archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacf-fr/hassRenaultZE/pull/155"
   }
 ]
