@@ -971,6 +971,18 @@
     "link": "https://github.com/hacs/integration/issues/2863"
   },
   {
+    "repository": "frenck/home-assistant-theme-outline",
+    "reason": "Obsolete and now archived",
+    "removal_type": "remove",
+    "link": "https://github.com/frenck/home-assistant-theme-outline/pull/41"
+  },
+  {
+    "repository": "natekspencer/hacs-litterrobot",
+    "reason": "Repository archived",
+    "removal_type": "remove",
+    "link": "https://github.com/natekspencer/hacs-litterrobot/issues/17#issuecomment-1370045529"
+  },
+  {
     "repository": "DavidMStraub/homeassistant-homeconnect",
     "reason": "Repository archived",
     "removal_type": "remove",
