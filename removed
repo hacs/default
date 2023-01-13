@@ -1004,6 +1004,6 @@
     "repository": "ljmerza/reddit-card",
     "reason": "Repository can not be used with HACS anymore",
     "removal_type": "remove",
-    "link": "https://github.com/ljmerza/reddit-card/issues/10"
+    "link": "https://github.com/hacs/default/pull/1672"
   }
 ]
