@@ -969,5 +969,41 @@
     "reason": "The integration can no longer be used",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/2863"
+  },
+  {
+    "repository": "frenck/home-assistant-theme-outline",
+    "reason": "Obsolete and now archived",
+    "removal_type": "remove",
+    "link": "https://github.com/frenck/home-assistant-theme-outline/pull/41"
+  },
+  {
+    "repository": "natekspencer/hacs-litterrobot",
+    "reason": "Repository archived",
+    "removal_type": "remove",
+    "link": "https://github.com/natekspencer/hacs-litterrobot/issues/17#issuecomment-1370045529"
+  },
+  {
+    "repository": "DavidMStraub/homeassistant-homeconnect",
+    "reason": "Repository archived",
+    "removal_type": "remove",
+    "link": "https://github.com/DavidMStraub/homeassistant-homeconnect/commit/e7231c522b35e8d571a7317c69b5003bf144f48a"
+  },
+  {
+    "repository": "hacf-fr/hassRenaultZE",
+    "reason": "Repository archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacf-fr/hassRenaultZE/pull/155"
+  },
+  {
+    "repository": "Kraineff/minecraft-version",
+    "link": "https://github.com/hacs/integration/issues/2986",
+    "reason": "Author removed",
+    "removal_type": "removal"
+  },
+  {
+    "repository": "ljmerza/reddit-card",
+    "reason": "Repository can not be used with HACS anymore",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1672"
   }
 ]
