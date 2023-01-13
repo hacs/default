@@ -993,5 +993,11 @@
     "reason": "Repository archived",
     "removal_type": "remove",
     "link": "https://github.com/hacf-fr/hassRenaultZE/pull/155"
+  },
+  {
+    "repository": "Kraineff/minecraft-version",
+    "link": "https://github.com/hacs/integration/issues/2986",
+    "reason": "Author removed",
+    "removal_type": "removal"
   }
 ]
