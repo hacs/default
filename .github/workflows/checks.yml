@@ -1,9 +1,28 @@
 name: "Checks"
 on:
   pull_request:
-    types: [opened, synchronize, reopened, unlabeled]
+    types:
+      - opened
+      - synchronize
+      - reopened
+      - unlabeled
     branches:
       - master
+    paths:
+      - appdaemon
+      - blacklist
+      - critical
+      - integration
+      - netdaemon
+      - plugin
+      - python_script
+      - removed
+      - theme
+
+concurrency:
+  group: checks-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   preflight:
     runs-on: ubuntu-latest
