@@ -1,5 +1,35 @@
 name: Lint
-on: [push, pull_request]
+on:
+  pull_request:
+    branches:
+      - master
+    paths:
+      - appdaemon
+      - blacklist
+      - critical
+      - integration
+      - netdaemon
+      - plugin
+      - python_script
+      - removed
+      - theme
+  push:
+    branches:
+      - master
+    paths:
+      - appdaemon
+      - blacklist
+      - critical
+      - integration
+      - netdaemon
+      - plugin
+      - python_script
+      - removed
+      - theme
+
+concurrency:
+  group: lint-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   jq:
