@@ -338,6 +338,7 @@
   "h4de5/home-assistant-toshiba_ac",
   "h4de5/home-assistant-vimar",
   "ha0y/xiaomi_miot_raw",
+  "HausNet/heartbeat-hass",
   "hardbyte/ha-evnex",
   "hasl-sensor/integration",
   "hasscc/hass-edge-tts",
