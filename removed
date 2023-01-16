@@ -1005,5 +1005,47 @@
     "reason": "Repository can not be used with HACS anymore",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1672"
+  },
+  {
+    "repository": "dummylabs/watchman",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1674"
+  },
+  {
+    "repository": "clayauld/lovelace-darksky-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1674"
+  },
+  {
+    "repository": "marcomow/ble-bulb-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1674"
+  },
+  {
+    "repository": "marrobHD/firetv-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1674"
+  },
+  {
+    "repository": "NemesisRE/lovelace-swipe-navigation",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1674"
+  },
+  {
+    "repository": "lukich48/hass_mqtt_template_switch",
+    "reason": "Repository has been archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1674"
+  },
+  {
+    "repository": "spycle/microbot_push",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1674"
   }
 ]
