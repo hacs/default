@@ -10,4 +10,4 @@ echo $reason
 echo $removal_type
 echo $link
 
-python3 scripts/remove_repo.py "$repository" "$removal_type" "$reason" "$link" || exit 0
+python3 $(dirname "$0")/remove_repo.py "$repository" "$removal_type" "$reason" "$link" || exit 0
