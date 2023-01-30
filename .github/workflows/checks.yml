@@ -83,7 +83,7 @@ jobs:
           path: /tmp/repositories
 
       - name: Install dependencies if needed
-        run: make init
+        run: scripts/setup
 
       - name: Run the check
         run: python3 -m scripts.check.owner
@@ -98,7 +98,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Install dependencies if needed
-        run: make init
+        run: scripts/setup
 
       - name: Run the check
         run: python3 -m scripts.check.edits
