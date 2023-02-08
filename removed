@@ -1047,5 +1047,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1674"
+  },
+  {
+    "repository": "gjohansson-ST/stl",
+    "reason": "Requested by author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1694"
   }
 ]
