@@ -1053,5 +1053,11 @@
     "reason": "Requested by author",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1694"
+  },
+  {
+    "repository": "custom-components/sensor.untappd",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/custom-components/sensor.untappd"
   }
 ]

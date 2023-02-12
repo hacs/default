@@ -175,7 +175,6 @@
   "custom-components/sensor.stadtreinigung_hamburg",
   "custom-components/sensor.trakt",
   "custom-components/sensor.unifigateway",
-  "custom-components/sensor.untappd",
   "custom-components/srp_energy",
   "custom-components/sytadin",
   "custom-components/ups",

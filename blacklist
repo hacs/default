@@ -81,6 +81,7 @@
   "custom-components/sensor.sonarr_upcoming_media",
   "custom-components/sensor.syncthing",
   "custom-components/sensor.tautulli",
+  "custom-components/sensor.untappd",
   "custom-components/sensor.versions",
   "custom-components/sensor.wifi-scanner",
   "custom-components/sensor.yandex_maps",
