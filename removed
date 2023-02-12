@@ -1059,5 +1059,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/custom-components/sensor.untappd"
+  },
+  {
+    "repository": "jessevl/homeassistant-greenchoice",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/jessevl/homeassistant-greenchoice"
   }
 ]
