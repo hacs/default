@@ -64,6 +64,7 @@
   "custom-cards/text-action-element",
   "custom-cards/unused-card",
   "CyrisXD/love-lock-card",
+  "czz/timbox-remote-control-card",
   "danimart1991/pvpc-hourly-pricing-card",
   "daredoes/default-dashboard",
   "daredoes/linked-lovelace-ui",
