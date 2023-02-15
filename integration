@@ -474,6 +474,7 @@
   "legrego/homeassistant-elasticsearch",
   "leikoilja/ha-google-home",
   "lendy007/homeassistant-skodaconnect",
+  "leonardlcl/general-link",
   "leonardlcl/mhtzn",
   "lewei50/ha_iammeter",
   "lewei50/ha_iammeter_modbus",
