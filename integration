@@ -225,6 +225,7 @@
   "dgomes/ha_generic_water_heater",
   "dgomes/ha_rrd_recorder",
   "dimagoltsman/ha-proof-dashcam-integration",
+  "dingo35/ha-SmartEVSEv3",
   "djansen1987/SAJeSolar",
   "djbulsink/panasonic_ac",
   "djerik/wavinsentio-ha",
