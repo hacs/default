@@ -5,7 +5,7 @@
   "eyalcha/ha-reminder",
   "iml885203/HA-FanSpeedControl",
   "kodi1/tracker_merge",
-  "mf-social/ps-date-countdown",
   "pmazz/ps_hassio_entities",
+  "point-4ward/ps-date-countdown",
   "Santobert/HA-UpdateClimate"
 ]
