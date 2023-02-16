@@ -1065,5 +1065,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/jessevl/homeassistant-greenchoice"
+  },
+  {
+    "repository": "echoromeo/hanobo",
+    "reason": "Replaced by official integration",
+    "removal_type": "remove",
+    "link": "https://www.home-assistant.io/integrations/nobo_hub/"
   }
 ]
