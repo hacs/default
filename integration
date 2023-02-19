@@ -197,6 +197,7 @@
   "Cyr-ius/hass-livebox-component",
   "daenny/climate_group",
   "dahlb/ha_blueair",
+  "dahlb/ha_carrier",
   "dahlb/ha_hatch",
   "dahlb/ha_kia_hyundai",
   "danieldiazi/homeassistant-meteogalicia",
