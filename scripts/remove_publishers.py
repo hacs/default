@@ -10,6 +10,10 @@ REMOVED_PUBLISHERS = [
         "publisher": "fred-oranje",
         "link": "https://github.com/hacs/integration/issues/2748",
     },
+    {
+        "publisher": "kraineff",
+        "link": "https://github.com/hacs/integration/issues/2986",
+    },
 ]
 
 CATEGORIES = [

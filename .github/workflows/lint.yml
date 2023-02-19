@@ -1,5 +1,35 @@
 name: Lint
-on: [push, pull_request]
+on:
+  pull_request:
+    branches:
+      - master
+    paths:
+      - appdaemon
+      - blacklist
+      - critical
+      - integration
+      - netdaemon
+      - plugin
+      - python_script
+      - removed
+      - theme
+  push:
+    branches:
+      - master
+    paths:
+      - appdaemon
+      - blacklist
+      - critical
+      - integration
+      - netdaemon
+      - plugin
+      - python_script
+      - removed
+      - theme
+
+concurrency:
+  group: lint-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   jq:
@@ -9,17 +39,8 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v2
 
-      - name: Clone origin
-        run: git clone --depth 1 https://github.com/hacs/default /tmp/repositories/default
-
-      - name: Set category
-        id: category
-        run: echo "::set-output name=category::$(python3 -m scripts.changed.category)"
-
-      - name: Validate ${{ matrix.checks }}
-        if: steps.category.outputs.category != 'Bad data []'
-        run:
-          jq --raw-output "." "${{steps.category.outputs.category}}"
+      - name: Validate
+        run: jq --raw-output . appdaemon blacklist critical integration netdaemon plugin python_script removed theme
 
   sorted:
     name: Sorted
@@ -27,5 +48,6 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v2
+
       - name: Check lists
         run: python3 scripts/is_sorted.py

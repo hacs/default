@@ -1,0 +1,73 @@
+name: Upload removed file to R2
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+    paths:
+      - removed
+
+concurrency:
+  cancel-in-progress: true
+  group: upload-removed
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    name: Upload
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3.2.0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4.4.0
+        id: python
+        with:
+          python-version: "3.x"
+
+      - name: Install AWS CLI
+        run:  |
+          pip3 install \
+            --disable-pip-version-check install \
+            --ignore-installed \
+            awscli
+
+      - name: Handle the removed file
+        run: |
+          mkdir -p upload/removed
+          jq -c . < removed > upload/removed/data.json
+          jq -c '[.[].repository]' < removed > upload/removed/repositories.json
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: removed
+          path: upload/removed
+          if-no-files-found: error
+
+      - name: Upload to R2
+        run: |
+          aws s3 sync \
+            upload/removed \
+            s3://data-v2/removed \
+            --endpoint-url ${{ secrets.CF_R2_ENDPOINT_DATA }}
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.CF_R2_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.CF_R2_SECRET_ACCESS_KEY }}
+
+      - name: Bust Cloudflare cache
+        run: |
+          curl --silent --show-error --fail -X POST \
+            "https://api.cloudflare.com/client/v4/zones/${{ secrets.CF_ZONE_ID }}/purge_cache" \
+            -H "Authorization: Bearer ${{ secrets.CF_BUST_CACHE_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            --data '{"files": ["https:\/\/data-v2.hacs.xyz\/removed\/data.json", "https:\/\/data-v2.hacs.xyz\/removed\/repositories.json"]}'
+
+      - name: Discord notification
+        if: ${{ github.event_name == 'schedule' && failure() }}
+        run: |
+          curl \
+            -H "Content-Type: application/json" \
+            -d '{"username": "GitHub action failure", "content": "[Scheduled action failed!](https://github.com/${{github.repository}}/actions/runs/${{github.run_id}})"}' \
+            ${{ secrets.DISCORD_WEBHOOK_ACTION_FAILURE }}
