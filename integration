@@ -519,6 +519,7 @@
   "mampfes/ha_freeair_connect",
   "mampfes/hacs_dwd_pollenflug",
   "mampfes/hacs_waste_collection_schedule",
+  "mandarons/ha-bouncie",
   "marcelwestrahome/home-assistant-niu-component",
   "markgdev/home-assistant_OctopusAgile",
   "markvader/ha-rpi_rf",
