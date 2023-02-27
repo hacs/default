@@ -9,9 +9,9 @@ Make sure to check out the guide here: https://hacs.xyz/docs/publish/start
 - [ ] I've read the [publishing documentation](https://hacs.xyz/docs/publish/start).
 - [ ] I've added the [HACS action](https://hacs.xyz/docs/publish/action) to my repository.
 - [ ] (For integrations only) I've added the [hassfest action](https://developers.home-assistant.io/blog/2020/04/16/hassfest/) to my repository.
-- [ ] The actions are passing wihtout any disabled checks in my repository.
+- [ ] The actions are passing without any disabled checks in my repository.
 - [ ] I've added a link to the action run on my repository below in the links section.
-- [ ] I've created a new release of the repository after the validaaion actions were run successfully.
+- [ ] I've created a new release of the repository after the validation actions were run successfully.
 
 ## Links
 
