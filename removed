@@ -1065,5 +1065,11 @@
     "reason": "Replaced by official integration",
     "removal_type": "remove",
     "link": "https://www.home-assistant.io/integrations/nobo_hub/"
+  },
+  {
+    "repository": "djtimca/haspacex",
+    "reason": "Source data no longer maintained.",
+    "removal_type": "blacklist",
+    "link": "https://github.com/djtimca/haspacex"
   }
 ]
