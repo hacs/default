@@ -403,6 +403,8 @@
   "jcgoette/baby_buddy_homeassistant",
   "jcgoette/weight_gurus_homeassistant",
   "jcwillox/hass-auto-backup",
+  "jdeath/Hubspace-Homeassistant",
+  "jdeath/rd200v2",
   "jellespijker/home-assistant-ultimaker",
   "jeroenterheerdt/HADailySensor",
   "jeroenterheerdt/HAsmartirrigation",
