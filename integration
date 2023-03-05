@@ -96,6 +96,7 @@
   "BigNocciolino/CryptoTracker",
   "binsentsu/home-assistant-solaredge-modbus",
   "bkbilly/oralb_ble",
+  "bkbilly/tpms_ble",
   "blakeblackshear/frigate-hass-integration",
   "blear/hasslife",
   "blindlight86/HA_USR-R16",
