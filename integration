@@ -365,6 +365,7 @@
   "herikw/home-assistant-custom-components",
   "heyajohnny/afvalinfo",
   "heyajohnny/cryptoinfo",
+  "hg1337/homeassistant-dwd",
   "hif2k1/battery_sim",
   "hmn/siku-integration",
   "Home-Is-Where-You-Hang-Your-Hack/sensor.goveetemp_bt_hci",
