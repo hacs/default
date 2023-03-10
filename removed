@@ -1071,5 +1071,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/AitorDB/home-assistant-sun-card"
+  },
+  {
+    "repository": "nagyrobi/home-assistant-custom-components-cover-rf-time-based",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/nagyrobi/home-assistant-custom-components-cover-rf-time-based"
   }
 ]

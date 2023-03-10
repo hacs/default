@@ -151,6 +151,7 @@
   "maykar/plex_assistant",
   "Michsior14/ha-kaiterra",
   "Michsior14/ha-laser-egg",
+  "nagyrobi/home-assistant-custom-components-cover-rf-time-based",
   "nagyrobi/home-assistant-custom-components-pfsense-gateways",
   "natekspencer/hacs-litterrobot",
   "NemesisRE/lovelace-swipe-navigation",
