@@ -1065,5 +1065,11 @@
     "reason": "Replaced by official integration",
     "removal_type": "remove",
     "link": "https://www.home-assistant.io/integrations/nobo_hub/"
+  },
+  {
+    "repository": "AitorDB/home-assistant-sun-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/AitorDB/home-assistant-sun-card"
   }
 ]

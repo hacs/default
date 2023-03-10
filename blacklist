@@ -1,5 +1,6 @@
 [
   "abacao/hass_wibeee",
+  "AitorDB/home-assistant-sun-card",
   "alryaz/hass-component-yandex-smart-home",
   "alryaz/hass-mosenergosbyt",
   "amaximus/bkk_stop_card",
