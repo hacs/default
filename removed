@@ -1067,9 +1067,21 @@
     "link": "https://www.home-assistant.io/integrations/nobo_hub/"
   },
   {
+    "repository": "AitorDB/home-assistant-sun-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/AitorDB/home-assistant-sun-card"
+  },
+  {
+    "repository": "nagyrobi/home-assistant-custom-components-cover-rf-time-based",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/nagyrobi/home-assistant-custom-components-cover-rf-time-based"
+  },
+  {
     "repository": "djtimca/haspacex",
     "reason": "Source data no longer maintained.",
-    "removal_type": "blacklist",
+    "removal_type": "remove",
     "link": "https://github.com/djtimca/haspacex"
   }
 ]

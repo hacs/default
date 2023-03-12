@@ -1,5 +1,6 @@
 [
   "abacao/hass_wibeee",
+  "AitorDB/home-assistant-sun-card",
   "alryaz/hass-component-yandex-smart-home",
   "alryaz/hass-mosenergosbyt",
   "amaximus/bkk_stop_card",
@@ -151,6 +152,7 @@
   "maykar/plex_assistant",
   "Michsior14/ha-kaiterra",
   "Michsior14/ha-laser-egg",
+  "nagyrobi/home-assistant-custom-components-cover-rf-time-based",
   "nagyrobi/home-assistant-custom-components-pfsense-gateways",
   "natekspencer/hacs-litterrobot",
   "NemesisRE/lovelace-swipe-navigation",
