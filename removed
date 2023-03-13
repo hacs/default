@@ -1077,5 +1077,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/nagyrobi/home-assistant-custom-components-cover-rf-time-based"
+  },
+  {
+    "repository": "djtimca/haspacex",
+    "reason": "Source data no longer maintained.",
+    "removal_type": "remove",
+    "link": "https://github.com/djtimca/haspacex"
   }
 ]
