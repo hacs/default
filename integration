@@ -755,6 +755,7 @@
   "sockless-coding/garo_wallbox",
   "sockless-coding/panasonic_cc",
   "soloam/ha-pid-controller",
+  "speleolontra/daikin_residential_altherma",
   "sprocket-9/hacs-nuvo-serial",
   "spycle/tuneblade",
   "stephan192/hochwasserportal",
