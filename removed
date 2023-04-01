@@ -1107,5 +1107,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/JuanMTech/green_dark_mode"
+  },
+  {
+    "repository": "JuanMTech/green_light_mode",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/JuanMTech/green_light_mode"
   }
 ]
