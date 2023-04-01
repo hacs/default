@@ -1083,5 +1083,11 @@
     "reason": "Source data no longer maintained.",
     "removal_type": "remove",
     "link": "https://github.com/djtimca/haspacex"
+  },
+  {
+    "repository": "JuanMTech/orange_dark",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/JuanMTech/orange_dark"
   }
 ]
