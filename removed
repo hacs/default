@@ -1113,5 +1113,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/JuanMTech/green_light_mode"
+  },
+  {
+    "repository": "robmarkcole/HASS-Deepstack-face",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/robmarkcole/HASS-Deepstack-face"
   }
 ]
