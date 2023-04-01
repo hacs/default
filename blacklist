@@ -201,6 +201,7 @@
   "thomasprior/EthermineInfo",
   "troykelly/hacs-amberelectric",
   "WolfRevo/climate.spzb0001_thermostat",
+  "xannor/ha_reolink_rest",
   "xaviml/z2m_ikea_controller",
   "xlcnd/meteoalarmeu",
   "xMrVizzy/button-toolbar",

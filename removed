@@ -1067,6 +1067,12 @@
     "link": "https://www.home-assistant.io/integrations/nobo_hub/"
   },
   {
+    "repository": "xannor/ha_reolink_rest",
+    "reason": "No longer actively developed due to built in integration",
+    "removal_type": "remove",
+    "link": "https://github.com/xannor/ha_reolink_rest"
+  },
+  {
     "repository": "AitorDB/home-assistant-sun-card",
     "reason": "Repository is archived",
     "removal_type": "remove",
