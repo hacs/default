@@ -1101,5 +1101,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/JuanMTech/amoled_blue"
+  },
+  {
+    "repository": "JuanMTech/green_dark_mode",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/JuanMTech/green_dark_mode"
   }
 ]
