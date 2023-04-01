@@ -1089,5 +1089,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/JuanMTech/orange_dark"
+  },
+  {
+    "repository": "JuanMTech/orange_light",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/JuanMTech/orange_light"
   }
 ]
