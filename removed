@@ -1119,5 +1119,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/robmarkcole/HASS-Deepstack-face"
+  },
+  {
+    "repository": "robmarkcole/HASS-Deepstack-object",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/robmarkcole/HASS-Deepstack-object"
   }
 ]
