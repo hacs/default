@@ -1095,5 +1095,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/JuanMTech/orange_light"
+  },
+  {
+    "repository": "JuanMTech/amoled_blue",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/JuanMTech/amoled_blue"
   }
 ]
