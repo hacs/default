@@ -1067,6 +1067,12 @@
     "link": "https://www.home-assistant.io/integrations/nobo_hub/"
   },
   {
+    "repository": "xannor/ha_reolink_rest",
+    "reason": "No longer actively developed due to built in integration",
+    "removal_type": "remove",
+    "link": "https://github.com/xannor/ha_reolink_rest"
+  },
+  {
     "repository": "AitorDB/home-assistant-sun-card",
     "reason": "Repository is archived",
     "removal_type": "remove",
@@ -1077,5 +1083,53 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/nagyrobi/home-assistant-custom-components-cover-rf-time-based"
+  },
+  {
+    "repository": "djtimca/haspacex",
+    "reason": "Source data no longer maintained.",
+    "removal_type": "remove",
+    "link": "https://github.com/djtimca/haspacex"
+  },
+  {
+    "repository": "JuanMTech/orange_dark",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/JuanMTech/orange_dark"
+  },
+  {
+    "repository": "JuanMTech/orange_light",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/JuanMTech/orange_light"
+  },
+  {
+    "repository": "JuanMTech/amoled_blue",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/JuanMTech/amoled_blue"
+  },
+  {
+    "repository": "JuanMTech/green_dark_mode",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/JuanMTech/green_dark_mode"
+  },
+  {
+    "repository": "JuanMTech/green_light_mode",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/JuanMTech/green_light_mode"
+  },
+  {
+    "repository": "robmarkcole/HASS-Deepstack-face",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/robmarkcole/HASS-Deepstack-face"
+  },
+  {
+    "repository": "robmarkcole/HASS-Deepstack-object",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/robmarkcole/HASS-Deepstack-object"
   }
 ]
