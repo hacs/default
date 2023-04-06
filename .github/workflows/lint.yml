@@ -12,6 +12,7 @@ on:
       - plugin
       - python_script
       - removed
+      - template
       - theme
   push:
     branches:
@@ -25,6 +26,7 @@ on:
       - plugin
       - python_script
       - removed
+      - template
       - theme
 
 concurrency:
@@ -40,7 +42,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Validate
-        run: jq --raw-output . appdaemon blacklist critical integration netdaemon plugin python_script removed theme
+        run: jq --raw-output . appdaemon blacklist critical integration netdaemon plugin python_script removed template theme
 
   sorted:
     name: Sorted
