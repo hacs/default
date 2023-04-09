@@ -1131,5 +1131,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/robmarkcole/HASS-Deepstack-object"
+  },
+  {
+    "repository": "Raukze/home-assistant-fitx",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/Raukze/home-assistant-fitx"
   }
 ]
