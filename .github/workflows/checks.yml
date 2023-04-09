@@ -17,6 +17,7 @@ on:
       - plugin
       - python_script
       - removed
+      - template
       - theme
 
 concurrency:
