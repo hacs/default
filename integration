@@ -551,6 +551,7 @@
   "mb-software/homeassistant-powerbrain",
   "mbillow/ha-chargepoint",
   "mbillow/ha-redpocket",
+  "mbuchber/ha_heliotherm",
   "mchwalisz/home-assistant-senec",
   "mdeweerd/zha-toolkit",
   "meichthys/uptime_kuma",
