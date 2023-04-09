@@ -43,6 +43,7 @@
   "amaximus/radioactivity_hu",
   "amaximus/water_quality_fvm",
   "amitfin/daily_schedule",
+  "amitfin/retry",
   "amosyuen/ha-eight-sleep-climate",
   "amosyuen/ha-registry",
   "amosyuen/ha-tplink-deco",
