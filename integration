@@ -768,6 +768,7 @@
   "soloam/ha-pid-controller",
   "sprocket-9/hacs-nuvo-serial",
   "spycle/tuneblade",
+  "stackia/ha-deye-dehumidifier",
   "stephan192/hochwasserportal",
   "StephanJoubert/home_assistant_solarman",
   "Strixx76/mold_risk_index",
