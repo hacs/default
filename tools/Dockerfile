@@ -28,6 +28,12 @@ RUN apk add --no-cache git jq bash
 #         git clone --depth 1 "https://github.com/${entry}.git" "/python_script/${entry}";\
 #     done
 #
+# COPY ./template /data/
+# RUN \
+#     for entry in $(jq -r .[]  /data/template); do\
+#         git clone --depth 1 "https://github.com/${entry}.git" "/template/${entry}";\
+#     done
+#
 #
 # COPY ./theme /data/
 # RUN \
