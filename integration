@@ -210,6 +210,7 @@
   "dahlb/ha_carrier",
   "dahlb/ha_hatch",
   "dahlb/ha_kia_hyundai",
+  "dahlb/ha_sense",
   "danieldiazi/homeassistant-meteogalicia",
   "danieldotnl/ha-multiscrape",
   "Danielhiversen/home_assistant_adax",
