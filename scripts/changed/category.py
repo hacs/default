@@ -9,6 +9,7 @@ CATEGORIES = [
     "netdaemon",
     "plugin",
     "python_script",
+    "template",
     "theme",
 ]
 

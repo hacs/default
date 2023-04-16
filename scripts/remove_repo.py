@@ -49,6 +49,7 @@ for category in [
     "netdaemon",
     "plugin",
     "python_script",
+    "template",
     "theme",
 ]:
     with open(category, "r") as cat_file:
