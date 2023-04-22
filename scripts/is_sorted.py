@@ -7,6 +7,7 @@ categories = [
     "netdaemon",
     "plugin",
     "python_script",
+    "template",
     "theme",
 ]
 

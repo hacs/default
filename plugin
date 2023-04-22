@@ -1,6 +1,7 @@
 [
   "9a4gl/lovelace-centrometal-boiler-card",
   "a-p-z/datetime-card",
+  "AalianKhan/mushroom-strategy",
   "abmantis/ozw-network-visualization-card",
   "abualy/philips-tv-remote-card",
   "adizanni/floor3d-card",
@@ -107,6 +108,7 @@
   "finity69x2/fan-percent-button-row",
   "finity69x2/light-brightness-preset-row",
   "finity69x2/toggle-control-button-row",
+  "flixlix/power-flow-card-plus",
   "fratsloos/fr24_card",
   "frozenwizard/onlylocklock",
   "fufar/simple-clock-card",
@@ -194,6 +196,7 @@
   "MathisAlepis/lovelace-tam-card",
   "mathoudebine/homeassistant-browser-control-card",
   "mattieha/select-list-card",
+  "mawinkler/astroweather-card",
   "maxwroc/battery-state-card",
   "maxwroc/github-flexi-card",
   "MesserschmittX/lovelace-nicehash-excavator-monitor-card",
