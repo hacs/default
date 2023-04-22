@@ -1,6 +1,7 @@
 [
   "9a4gl/lovelace-centrometal-boiler-card",
   "a-p-z/datetime-card",
+  "AalianKhan/mushroom-strategy",
   "abmantis/ozw-network-visualization-card",
   "abualy/philips-tv-remote-card",
   "adizanni/floor3d-card",
@@ -18,6 +19,7 @@
   "arallsopp/hass-hue-icons",
   "artem-sedykh/mini-climate-card",
   "artem-sedykh/mini-humidifier",
+  "aukedejong/lovelace-windrose-card",
   "azuwis/zigbee2mqtt-networkmap",
   "badguy99/PlantPictureCard",
   "bbbenji/synthwave-hass-extras",
