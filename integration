@@ -412,6 +412,7 @@
   "jaruba/ha-samsungtv-tizen",
   "jason0x43/hacs-hubitat",
   "JayBlackedOut/hass-nhlapi",
+  "jbergler/hass-ttlock",
   "jbouwh/ha-elro-connects",
   "jcgoette/baby_buddy_homeassistant",
   "jcgoette/weight_gurus_homeassistant",
