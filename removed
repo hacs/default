@@ -1137,5 +1137,17 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/Raukze/home-assistant-fitx"
+  },
+  {
+    "repository": "bruxy70/Garbage-Collection",
+    "reason": "Most of the functionality included in core (local calendar)",
+    "removal_type": "remove",
+    "link": "https://github.com/bruxy70/Garbage-Collection#end-of-support"
+  },
+  {
+    "repository": "bieniu/ha-zadnego-ale",
+    "reason": "zadnego ale API is down",
+    "removal_type": "remove",
+    "link": "https://github.com/bieniu/ha-zadnego-ale/issues/150"
   }
 ]
