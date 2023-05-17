@@ -18,10 +18,10 @@ jobs:
     name: Upload
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@v3.2.0
+        uses: actions/checkout@v3.5.2
 
       - name: Set up Python
-        uses: actions/setup-python@v4.4.0
+        uses: actions/setup-python@v4.6.0
         id: python
         with:
           python-version: "3.x"
