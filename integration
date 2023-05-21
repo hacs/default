@@ -139,6 +139,7 @@
   "cagnulein/switchbot_press",
   "caiosweet/Home-Assistant-custom-components-DPC-Alert",
   "caiosweet/Home-Assistant-custom-components-INGV",
+  "carleeno/elevenlabs_tts",
   "caronc/ha-ultrasync",
   "cathiele/homeassistant-goecharger",
   "cgarwood/homeassistant-fullykiosk",
