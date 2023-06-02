@@ -28,6 +28,7 @@
   "ludeeus/ad-watchdog",
   "madchap/energiapro_gas_consumption",
   "Mohlsson/ReplayLightsHistory",
+  "nechry/elco-remocon-net-appdaemon",
   "nickneos/Appdaemon-Ring-Doorbell-Automations",
   "nickneos/Appdaemon-ZHA-Hue-Dimmer-Switch",
   "nickneos/Bring-Back-group.all_x",
