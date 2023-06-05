@@ -368,6 +368,7 @@
   "ha-warmup/warmup",
   "ha0y/xiaomi_miot_raw",
   "HandyHat/ha-hildebrandglow-dcc",
+  "hanno-tronity/tronity",
   "hardbyte/ha-evnex",
   "hasl-sensor/integration",
   "hasscc/hass-edge-tts",
