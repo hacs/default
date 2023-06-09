@@ -762,6 +762,7 @@
   "Sese-Schneider/ha-personio",
   "seven-io/home-assistant",
   "sfstar/hass-victron",
+  "sfstar/hass-heatapp_local",
   "sftgunner/edinplus-integration",
   "sh00t2kill/dolphin-robot",
   "sh00t2kill/petoneer_custom_component",
