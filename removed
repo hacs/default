@@ -1173,5 +1173,11 @@
     "reason": "No longer working and can not be maintained",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/3149"
+  },
+  {
+    "repository": "ha0y/xiaomi_miot_raw",
+    "reason": "No longer working and not maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3159"
   }
 ]
