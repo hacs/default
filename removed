@@ -1179,5 +1179,11 @@
     "reason": "No longer working and not maintained",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/3159"
+  },
+  {
+    "repository": "ryannazaretian/hacs-nexia-climate-integration",
+    "reason": "No longer working and not maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3165"
   }
 ]
