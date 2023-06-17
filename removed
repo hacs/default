@@ -1155,5 +1155,11 @@
     "reason": "No longer working and can not be maintained",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/3115"
+  },
+  {
+    "repository": "remco770/garbage-bar-homeassistant",
+    "reason": "No longer working and not maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3141"
   }
 ]
