@@ -1149,5 +1149,11 @@
     "reason": "zadnego ale API is down",
     "removal_type": "remove",
     "link": "https://github.com/bieniu/ha-zadnego-ale/issues/150"
+  },
+  {
+    "repository": "Villhellm/custom-sidebar",
+    "reason": "No longer working and can not be maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3115"
   }
 ]
