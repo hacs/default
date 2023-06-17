@@ -1167,5 +1167,11 @@
     "reason": "Requested removed by author",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/3142"
+  },
+  {
+    "repository": "Villhellm/lovelace-animated-background",
+    "reason": "No longer working and can not be maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3149"
   }
 ]
