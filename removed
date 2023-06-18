@@ -1149,5 +1149,47 @@
     "reason": "zadnego ale API is down",
     "removal_type": "remove",
     "link": "https://github.com/bieniu/ha-zadnego-ale/issues/150"
+  },
+  {
+    "repository": "Villhellm/custom-sidebar",
+    "reason": "No longer working and can not be maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3115"
+  },
+  {
+    "repository": "remco770/garbage-bar-homeassistant",
+    "reason": "No longer working and not maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3141"
+  },
+  {
+    "repository": "mtrab/clever",
+    "reason": "Requested removed by author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3142"
+  },
+  {
+    "repository": "Villhellm/lovelace-animated-background",
+    "reason": "No longer working and can not be maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3149"
+  },
+  {
+    "repository": "ha0y/xiaomi_miot_raw",
+    "reason": "No longer working and not maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3159"
+  },
+  {
+    "repository": "ryannazaretian/hacs-nexia-climate-integration",
+    "reason": "No longer working and not maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3165"
+  },
+  {
+    "repository": "walthowd/ha-automower",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/walthowd/ha-automower"
   }
 ]
