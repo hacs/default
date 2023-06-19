@@ -1185,5 +1185,11 @@
     "reason": "No longer working and not maintained",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/3165"
+  },
+  {
+    "repository": "walthowd/ha-automower",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/walthowd/ha-automower"
   }
 ]
