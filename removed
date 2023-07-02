@@ -1191,5 +1191,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/walthowd/ha-automower"
+  },
+  {
+    "repository": "Petro31/ad_people_tracker",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/Petro31/ad_people_tracker"
   }
 ]
