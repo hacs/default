@@ -1137,5 +1137,161 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/Raukze/home-assistant-fitx"
+  },
+  {
+    "repository": "bruxy70/Garbage-Collection",
+    "reason": "Most of the functionality included in core (local calendar)",
+    "removal_type": "remove",
+    "link": "https://github.com/bruxy70/Garbage-Collection#end-of-support"
+  },
+  {
+    "repository": "bieniu/ha-zadnego-ale",
+    "reason": "zadnego ale API is down",
+    "removal_type": "remove",
+    "link": "https://github.com/bieniu/ha-zadnego-ale/issues/150"
+  },
+  {
+    "repository": "Villhellm/custom-sidebar",
+    "reason": "No longer working and can not be maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3115"
+  },
+  {
+    "repository": "remco770/garbage-bar-homeassistant",
+    "reason": "No longer working and not maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3141"
+  },
+  {
+    "repository": "mtrab/clever",
+    "reason": "Requested removed by author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3142"
+  },
+  {
+    "repository": "Villhellm/lovelace-animated-background",
+    "reason": "No longer working and can not be maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3149"
+  },
+  {
+    "repository": "ha0y/xiaomi_miot_raw",
+    "reason": "No longer working and not maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3159"
+  },
+  {
+    "repository": "ryannazaretian/hacs-nexia-climate-integration",
+    "reason": "No longer working and not maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3165"
+  },
+  {
+    "repository": "walthowd/ha-automower",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/walthowd/ha-automower"
+  },
+  {
+    "repository": "Petro31/ad_people_tracker",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/Petro31/ad_people_tracker"
+  },
+  {
+    "repository": "cgarwood/homeassistant-fullykiosk",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/cgarwood/homeassistant-fullykiosk"
+  },
+  {
+    "repository": "kibibit/hass-kibibit-theme",
+    "reason": "Not maintained anymore",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3171"
+  },
+  {
+    "repository": "mlowijs/HomeAssistant-TeslaCustomComponent",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "custom-components/qbo",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "jihao/colorfulclouds-hass",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "custom-components/linksys_ap",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "burnnat/media_player.screenly",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "WillowMist/sensor.mylar",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "custom-components/fedex",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "burnnat/ha-fitness-push",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "cyberjunky/home-assistant-plugwise",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "jihao/traccar-cn-hass",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "elad-bar/ha-dahuavto",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "9rpp/securifi",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "tmechen/ber_status",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "custom-components/srp_energy",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
   }
 ]
