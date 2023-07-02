@@ -1197,5 +1197,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/Petro31/ad_people_tracker"
+  },
+  {
+    "repository": "cgarwood/homeassistant-fullykiosk",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/cgarwood/homeassistant-fullykiosk"
   }
 ]

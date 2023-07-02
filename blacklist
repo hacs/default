@@ -34,6 +34,7 @@
   "burnnat/ha-polar",
   "cbulock/lovelace-battery-entity",
   "Ceerbeerus/beerbolaget",
+  "cgarwood/homeassistant-fullykiosk",
   "cgarwood/homeassistant-zwave_mqtt",
   "clayauld/lovelace-darksky-card",
   "custom-cards/boilerplate-card",
