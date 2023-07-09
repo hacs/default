@@ -1296,8 +1296,8 @@
   },
   {
     "repository": "peternijssen/home-assistant-jumbo",
-    "reason": "No longer working",
-    "removal_type": "",
-    "link": ""
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/peternijssen/home-assistant-jumbo"
   }
 ]
