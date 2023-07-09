@@ -806,6 +806,7 @@
   "TheByteStuff/RemoteSyslog_Service",
   "thecode/ha-onewire-sysbus",
   "thecode/ha-rpi_gpio",
+  "TheHolyRoger/hass-cryptoinfo",
   "TheRealWaldo/thermal",
   "ThermIQ/thermiq_mqtt-ha",
   "thevoltagesource/LennoxiComfort",
