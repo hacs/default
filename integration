@@ -377,6 +377,7 @@
   "hg1337/homeassistant-dwd",
   "hif2k1/battery_sim",
   "hmn/siku-integration",
+  "hokiebrian/eia_hourly_demand",
   "Home-Is-Where-You-Hang-Your-Hack/sensor.goveetemp_bt_hci",
   "HomeAssistant-Mods/home-assistant-miele",
   "hostcc/hass-gs-alarm",
