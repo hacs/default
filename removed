@@ -1293,5 +1293,11 @@
     "reason": "remove",
     "removal_type": "Integration is missing a version, and is abandoned.",
     "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "peternijssen/home-assistant-jumbo",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/peternijssen/home-assistant-jumbo"
   }
 ]
