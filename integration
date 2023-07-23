@@ -785,6 +785,7 @@
   "syssi/xiaomiplug",
   "t0mer/ims-custom-component",
   "t0mer/manish-custom-notifier",
+  "taarskog/home-assistant-component-somweb",
   "tadasdanielius/daikin_altherma",
   "Tasshack/dreame-vacuum",
   "tefinger/hass-brematic",
