@@ -41,19 +41,19 @@ jobs:
 
       - name: Set repository
         id: repository
-        run: echo "::set-output name=repository::$(python3 -m scripts.changed.repo)"
+        run: echo "repository=$(python3 -m scripts.changed.repo)" >> $GITHUB_OUTPUT
 
       - name: Check removal
         id: removal
         run: |
           if [ "${{ steps.repository.outputs.repository }}" == "Bad data []" ]; then
-            echo "::set-output name=removal::true"
+            echo "removal=true" >> $GITHUB_OUTPUT
           fi
 
       - name: Set category
         if: steps.removal.outputs.removal != 'true'
         id: category
-        run: echo "::set-output name=category::$(python3 -m scripts.changed.category)"
+        run: echo "category=$(python3 -m scripts.changed.category)" >> $GITHUB_OUTPUT
 
       - name: Clone new addition
         if: steps.removal.outputs.removal != 'true'
