@@ -1149,5 +1149,251 @@
     "reason": "zadnego ale API is down",
     "removal_type": "remove",
     "link": "https://github.com/bieniu/ha-zadnego-ale/issues/150"
+  },
+  {
+    "repository": "Villhellm/custom-sidebar",
+    "reason": "No longer working and can not be maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3115"
+  },
+  {
+    "repository": "remco770/garbage-bar-homeassistant",
+    "reason": "No longer working and not maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3141"
+  },
+  {
+    "repository": "MTrab/clever",
+    "reason": "Requested removed by author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3142"
+  },
+  {
+    "repository": "Villhellm/lovelace-animated-background",
+    "reason": "No longer working and can not be maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3149"
+  },
+  {
+    "repository": "ha0y/xiaomi_miot_raw",
+    "reason": "No longer working and not maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3159"
+  },
+  {
+    "repository": "ryannazaretian/hacs-nexia-climate-integration",
+    "reason": "No longer working and not maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3165"
+  },
+  {
+    "repository": "walthowd/ha-automower",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/walthowd/ha-automower"
+  },
+  {
+    "repository": "Petro31/ad_people_tracker",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/Petro31/ad_people_tracker"
+  },
+  {
+    "repository": "cgarwood/homeassistant-fullykiosk",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/cgarwood/homeassistant-fullykiosk"
+  },
+  {
+    "repository": "Kibibit/hass-kibibit-theme",
+    "reason": "Not maintained anymore",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3171"
+  },
+  {
+    "repository": "mlowijs/HomeAssistant-TeslaCustomComponent",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "custom-components/qbo",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "jihao/colorfulclouds-hass",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "custom-components/linksys_ap",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "burnnat/media_player.screenly",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "WillowMist/sensor.mylar",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "custom-components/fedex",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "burnnat/ha-fitness-push",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "cyberjunky/home-assistant-plugwise",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "jihao/traccar-cn-hass",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "elad-bar/ha-dahuavto",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "9rpp/securifi",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "tmechen/ber_status",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "custom-components/srp_energy",
+    "reason": "remove",
+    "removal_type": "Integration is missing a version, and is abandoned.",
+    "link": "https://github.com/hacs/default/pull/1957"
+  },
+  {
+    "repository": "peternijssen/home-assistant-jumbo",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/peternijssen/home-assistant-jumbo"
+  },
+  {
+    "repository": "ericpignet/home-assistant-lg_hombot",
+    "reason": "Integration is missing a version, and is abandoned.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1978"
+  },
+  {
+    "repository": "jomwells/ambilight-yeelight",
+    "reason": "Integration is missing a version, and is abandoned.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1978"
+  },
+  {
+    "repository": "jomwells/ambilights",
+    "reason": "Integration is missing a version, and is abandoned.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1978"
+  },
+  {
+    "repository": "shutupflanders/sensor.moneydashboard",
+    "reason": "Integration is missing a version, and is abandoned.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1978"
+  },
+  {
+    "repository": "burnnat/ha-hdhomerun",
+    "reason": "Integration is missing a version, and is abandoned.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1978"
+  },
+  {
+    "repository": "timvancann/homeassistant-growatt",
+    "reason": "Integration is missing a version, and is abandoned.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1978"
+  },
+  {
+    "repository": "rkoebrugge/hacs-youless-component",
+    "reason": "Integration is missing a version, and is abandoned.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1978"
+  },
+  {
+    "repository": "roberodin/ha-samsungtv-custom",
+    "reason": "Integration is missing a version, and is abandoned.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1978"
+  },
+  {
+    "repository": "safepay/cover.hd_powerview",
+    "reason": "Integration is missing a version, and is abandoned.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1978"
+  },
+  {
+    "repository": "bruxy70/CZ-Public-Transport",
+    "reason": "Integration is missing a version, and is abandoned.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1978"
+  },
+  {
+    "repository": "rsnodgrass/hass-flo-water",
+    "reason": "Integration is missing a version, and is abandoned.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1978"
+  },
+  {
+    "repository": "rsnodgrass/hass-integrations",
+    "reason": "Integration is missing a version, and is abandoned.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1978"
+  },
+  {
+    "repository": "fineemb/Yeelink-ven-fan",
+    "reason": "Integration is missing a version, and is abandoned.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1978"
+  },
+  {
+    "repository": "eyalcha/thermal",
+    "reason": "Integration is missing a version, and is abandoned.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1978"
+  },
+  {
+    "repository": "custom-components/sytadin",
+    "reason": "Integration is missing a version, and is abandoned.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1978"
+  },
+  {
+    "repository": "AdamNaj/linksys_velop",
+    "reason": "Integration is missing a version, and is abandoned.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1978"
   }
 ]
