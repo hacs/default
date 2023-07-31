@@ -1395,5 +1395,11 @@
     "reason": "Integration is missing a version, and is abandoned.",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1978"
+  },
+  {
+    "repository": "geertmeersman/telenet",
+    "reason": "Repository has been deleted.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/1994"
   }
 ]
