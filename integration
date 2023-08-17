@@ -679,7 +679,6 @@
   "Racailloux/home-assistant-pijuice",
   "raman325/ha-zoom-automation",
   "rccoleman/channels_dvr_recently_recorded",
-  "rccoleman/lamarzocco",
   "rdehuyss/homeassistant-custom_components-denkovi",
   "redlukas/emu_mbus_center",
   "regulad/hass-lacrosseview",
@@ -890,5 +889,6 @@
   "ZacheryThomas/homeassistant-smartrent",
   "zachowj/hass-node-red",
   "zigul/HomeAssistant-CEZdistribuce",
-  "ZsBT/hass-w1000-portal"
+  "ZsBT/hass-w1000-portal",
+  "zweckj/lamarzocco"
 ]
