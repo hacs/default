@@ -1,5 +1,6 @@
 [
   "Petro31/easy-time-jinja",
   "TheFes/cheapest-energy-hours",
-  "TheFes/relative-time-plus"
+  "TheFes/relative-time-plus",
+  "SirGoodenough/Availability-Template"
 ]
