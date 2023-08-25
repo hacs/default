@@ -1401,5 +1401,11 @@
     "reason": "Repository has been deleted.",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1994"
+  },
+  {
+    "repository": "gerardag/person-entity-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/gerardag/person-entity-card"
   }
 ]
