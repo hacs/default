@@ -1407,5 +1407,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/gerardag/person-entity-card"
+  },
+  {
+    "repository": "mac-zhou/midea-ac-py",
+    "reason": "Repository looks abandoned and the content is no longer working",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3225"
   }
 ]

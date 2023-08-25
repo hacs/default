@@ -171,6 +171,7 @@
   "ljmerza/waze-card",
   "lociii/homeassistant-digitalstrom",
   "lukich48/hass_mqtt_template_switch",
+  "mac-zhou/midea-ac-py",
   "mammuth/ha-fritzbox-tools",
   "mampfes/hacs_wiffi",
   "marcomow/ble-bulb-card",
