@@ -154,6 +154,7 @@
   "CreasolTech/home-assistant-creasol-dombus",
   "crowbarz/ha-sql_json",
   "CubicPill/china_southern_power_grid_stat",
+  "CumpsD/home-assistant-leo-ntp",
   "custom-components/alexa_media_player",
   "custom-components/ble_monitor",
   "custom-components/brewdog",
