@@ -649,6 +649,7 @@
   "piitaya/home-assistant-qubino-wire-pilot",
   "pilotak/homeassistant-attributes",
   "pilotak/homeassistant-clientraw",
+  "PimDoos/ha-sessy",
   "PimDoos/kia_connect",
   "PimDoos/onesmartcontrolha",
   "pinkywafer/Anniversaries",
