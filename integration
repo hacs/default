@@ -804,7 +804,6 @@
   "tefinger/hass-brematic",
   "TekniskSupport/home-assistant-resrobot",
   "tetienne/veolia-custom-component",
-  "thebino/rki_covid",
   "TheByteStuff/RemoteSyslog_Service",
   "thecode/ha-onewire-sysbus",
   "thecode/ha-rpi_gpio",
