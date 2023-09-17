@@ -1401,5 +1401,23 @@
     "reason": "Repository has been deleted.",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1994"
+  },
+  {
+    "repository": "gerardag/person-entity-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/gerardag/person-entity-card"
+  },
+  {
+    "repository": "mac-zhou/midea-ac-py",
+    "reason": "Repository looks abandoned and the content is no longer working",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3225"
+  },
+  {
+    "repository": "thebino/rki_covid",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/thebino/rki_covid"
   }
 ]
