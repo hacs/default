@@ -217,6 +217,7 @@
   "nielsfaber/alarmo-card",
   "nielsfaber/scheduler-card",
   "Nyaran/myjdownloader-card",
+  "luixal/lovelace-media-source-image-card"
   "ofekashery/vertical-stack-in-card",
   "ownbee/bootstrap-grid-card",
   "peetereczek/ztm-stop-card",
