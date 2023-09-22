@@ -626,6 +626,7 @@
   "nicole-ashley/homeassistant-goldair-climate",
   "nielsfaber/alarmo",
   "nielsfaber/scheduler-component",
+  "nimroddolev/chime_tts",
   "nstrelow/ha_philips_android_tv",
   "nyffchanium/argoclima-integration",
   "ofalvai/home-assistant-candy",
