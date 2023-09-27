@@ -1,8 +1,10 @@
-FROM ghcr.io/ludeeus/alpine/base:stable
+FROM alpine
+RUN apk add --no-cache git jq bash
 
 # docker build . -f tools/Dockerfile --tag repositories
-# docker run --rm --name repositories repositories sleep 3600
+# docker run -d --rm --name repositories repositories sleep 3600
 # docker exec -it repositories bash
+# docker kill repositories (when done)
 
 # Find stuff with 'grep -Ri "string_to_find" /<base_path>'
 
@@ -24,6 +26,12 @@ FROM ghcr.io/ludeeus/alpine/base:stable
 # RUN \
 #     for entry in $(jq -r .[]  /data/python_script); do\
 #         git clone --depth 1 "https://github.com/${entry}.git" "/python_script/${entry}";\
+#     done
+#
+# COPY ./template /data/
+# RUN \
+#     for entry in $(jq -r .[]  /data/template); do\
+#         git clone --depth 1 "https://github.com/${entry}.git" "/template/${entry}";\
 #     done
 #
 #
