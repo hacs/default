@@ -1,6 +1,7 @@
 [
   "langestefan/auto-sun-blind",
   "Petro31/easy-time-jinja",
+  "SirGoodenough/Availability-Template",
   "TheFes/cheapest-energy-hours",
   "TheFes/relative-time-plus"
 ]
