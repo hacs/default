@@ -638,6 +638,7 @@
   "ollo69/ha-samsungtv-smart",
   "ollo69/ha-smartthinq-sensors",
   "osk2/panasonic_smart_app",
+  "oziee/ha-solcast-solar",
   "pail23/stiebel_eltron_isg_component",
   "parautenbach/hass-shairport-sync",
   "patrickhilker/tedee_hass_integration",
