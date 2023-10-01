@@ -154,6 +154,7 @@
   "ClusterM/skykettle-ha",
   "CM000n/qss",
   "cnstudio/Taipower-Bimonthly-Energy-Cost-homeassistant",
+  "corporategoth/ha-powerpetdoor",
   "CreasolTech/home-assistant-creasol-dombus",
   "crowbarz/ha-sql_json",
   "CubicPill/china_southern_power_grid_stat",
