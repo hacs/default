@@ -767,6 +767,7 @@
   "sfstar/hass-victron",
   "sftgunner/edinplus-integration",
   "sh00t2kill/dolphin-robot",
+  "sh00t2kill/linktap_local_http_component",
   "sh00t2kill/petoneer_custom_component",
   "Sha-Darim/brandriskute",
   "shaiu/technicolor",
