@@ -1425,5 +1425,11 @@
     "reason": "No longer maintained",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/3257"
+  },
+  {
+    "repository": "custom-cards/light-entity-row",
+    "reason": "No longer working and not maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3268"
   }
 ]
