@@ -51,6 +51,7 @@
   "custom-cards/favicon-counter",
   "custom-cards/home-setter",
   "custom-cards/information",
+  "custom-cards/light-entity-row",
   "custom-cards/marquee-state-element",
   "custom-cards/monster-card",
   "custom-cards/muuri-grid",
