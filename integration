@@ -638,6 +638,7 @@
   "nielsfaber/scheduler-component",
   "nimroddolev/chime_tts",
   "NinDTendo/homeassistant_gradual_volume_control",
+  "nkvoll/home-assistant-qsys-qrc",
   "nstrelow/ha_philips_android_tv",
   "nyffchanium/argoclima-integration",
   "ofalvai/home-assistant-candy",
