@@ -904,6 +904,7 @@
   "websylv/homeassistant-meteoswiss",
   "weltenwort/home-assistant-rct-power-integration",
   "wernerhp/ha.integration.load_shedding",
+  "werthdavid/homeassistant-pulsatrix-local-mqtt",
   "wez/govee-lan-hass",
   "Wibias/hass-variables",
   "widewing/ha-toyota-na",
