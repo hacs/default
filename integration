@@ -390,6 +390,7 @@
   "hostcc/hass-gs-alarm",
   "HrGaertner/HA-vent-optimization",
   "htmltiger/config-editor",
+  "hudsonbrendon/sensor.drivvo",
   "hultenvp/home_assistant_omnik_solar",
   "hultenvp/solis-sensor",
   "hwmland/homeassistant-xmrig",
