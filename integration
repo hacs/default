@@ -643,6 +643,7 @@
   "nkvoll/home-assistant-qsys-qrc",
   "nstrelow/ha_philips_android_tv",
   "nyffchanium/argoclima-integration",
+  "odya/hacs-ina219-ups-hat",
   "ofalvai/home-assistant-candy",
   "ohheyrj/home-assistant-aws-codepipeline",
   "olibos/HomeAssistant-RecycleApp",
