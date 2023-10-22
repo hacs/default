@@ -801,6 +801,7 @@
   "sockless-coding/garo_wallbox",
   "sockless-coding/panasonic_cc",
   "soloam/ha-pid-controller",
+  "sopelj/hass-ember-mug-component",
   "speleolontra/daikin_residential_altherma",
   "sprocket-9/hacs-nuvo-serial",
   "spycle/tuneblade",
