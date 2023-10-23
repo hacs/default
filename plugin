@@ -299,5 +299,6 @@
   "wassy92x/lovelace-ha-dashboard",
   "wilsto/pool-monitor-card",
   "zanna-37/hass-swipe-navigation",
-  "zeronounours/lovelace-energy-entity-row"
+  "zeronounours/lovelace-energy-entity-row",
+  "stefmde/HomeAssistant-TwitchFollowedLiveStreamsCard"
 ]
