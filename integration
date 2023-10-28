@@ -343,6 +343,7 @@
   "giachello/beoplay",
   "giachello/mlgw",
   "gicamm/homeassistant-comelit",
+  "gickowtf/random_entity_HA",
   "gieljnssns/buienalarm-sensor-homeassistant",
   "gieljnssns/kostalpiko-sensor-homeassistant",
   "gilsonmandalogo/hacs-minerstat",
