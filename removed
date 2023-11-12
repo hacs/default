@@ -1437,5 +1437,11 @@
     "reason": "Repository has been abandoned.",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/3336"
+  },
+  {
+    "repository": "battlemoose/waternsw-waterinsights-ha",
+    "reason": "Repository is no longer working",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3335"
   }
 ]
