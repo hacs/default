@@ -374,7 +374,6 @@
   "hardbyte/ha-evnex",
   "hasl-sensor/integration",
   "hasscc/hass-edge-tts",
-  "hasscc/petkit",
   "HASwitchPlate/openHASP-custom-component",
   "hcoohb/hass-yeelightbt",
   "HCookie/Webhook-Service-home-assistant",
