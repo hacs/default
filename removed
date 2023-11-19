@@ -1443,5 +1443,11 @@
     "reason": "Repository is no longer working",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/3335"
+  },
+  {
+    "repository": "tikismoke/home-assistant-nespressoble",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/tikismoke/home-assistant-nespressoble"
   }
 ]
