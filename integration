@@ -210,6 +210,7 @@
   "dahlb/ha_hatch",
   "dahlb/ha_kia_hyundai",
   "dahlb/ha_sense",
+  "dalinicus/homeassistant-acinfinity",
   "dalinicus/homeassistant-aerogarden",
   "danieldiazi/homeassistant-meteogalicia",
   "danieldotnl/ha-multiscrape",
