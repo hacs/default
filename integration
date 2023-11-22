@@ -538,6 +538,7 @@
   "Limych/ha-narodmon",
   "Limych/ha-snowtire",
   "Limych/ha-temperature-feels-like",
+  "Limych/ha-tor_check",
   "lindell/home-assistant-svt-play",
   "lindell/home-assistant-tv4-play",
   "linsvensson/sensor.greenely",
