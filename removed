@@ -1449,5 +1449,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/tikismoke/home-assistant-nespressoble"
+  },
+  {
+    "repository": "rccoleman/lamarzocco",
+    "reason": "broken as of September 13th, replaced with other repo",
+    "removal_type": "remove",
+    "link": "https://github.com/zweckj/lamarzocco#Overview"
   }
 ]
