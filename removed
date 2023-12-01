@@ -1431,5 +1431,23 @@
     "reason": "No longer working and not maintained",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/3268"
+  },
+  {
+    "repository": "hasscc/petkit",
+    "reason": "Repository has been abandoned.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3336"
+  },
+  {
+    "repository": "battlemoose/waternsw-waterinsights-ha",
+    "reason": "Repository is no longer working",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3335"
+  },
+  {
+    "repository": "tikismoke/home-assistant-nespressoble",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/tikismoke/home-assistant-nespressoble"
   }
 ]
