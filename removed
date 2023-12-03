@@ -1467,5 +1467,11 @@
     "reason": "No longer maintained",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/3375"
+  },
+  {
+    "repository": "PiotrMachowski/Home-Assistant-custom-components-Google-Keep",
+    "reason": "No longer working",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3376"
   }
 ]
