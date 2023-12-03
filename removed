@@ -1461,5 +1461,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/ThomasPrior/FlexpoolInfo"
+  },
+  {
+    "repository": "ryanbateman/bvg-sensor",
+    "reason": "No longer maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3375"
   }
 ]
