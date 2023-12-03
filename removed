@@ -1449,5 +1449,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/tikismoke/home-assistant-nespressoble"
+  },
+  {
+    "repository": "ljmerza/ha-our-groceries",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/ljmerza/ha-our-groceries"
   }
 ]
