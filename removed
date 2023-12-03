@@ -1455,5 +1455,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/ljmerza/ha-our-groceries"
+  },
+  {
+    "repository": "ThomasPrior/FlexpoolInfo",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/ThomasPrior/FlexpoolInfo"
   }
 ]
