@@ -63,7 +63,7 @@ jobs:
 
       - name: Upload shared artifacts
         if: steps.removal.outputs.removal != 'true'
-        uses: actions/upload-artifact@master
+        uses: actions/upload-artifact@v3
         with:
           name: repositories
           path: /tmp/repositories
