@@ -1485,5 +1485,11 @@
     "reason": "No longer maintained",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/3382"
+  },
+  {
+    "repository": "briis/hass-weatherflow",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/briis/hass-weatherflow"
   }
 ]
