@@ -867,7 +867,7 @@
   "soloam/ha-pid-controller",
   "sopelj/hass-ember-mug-component",
   "speleolontra/daikin_residential_altherma",
-  "SplinterHead/hacs-honeygain",
+  "SplinterHead/ha-honeygain",
   "sprocket-9/hacs-nuvo-serial",
   "spycle/tuneblade",
   "stackia/ha-deye-dehumidifier",
