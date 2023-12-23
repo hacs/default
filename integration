@@ -443,6 +443,7 @@
   "jcgoette/weight_gurus_homeassistant",
   "jcwillox/hass-auto-backup",
   "JeffSteinbok/hass-dreo",
+  "jekalmin/extended_openai_conversation",
   "jellespijker/home-assistant-ultimaker",
   "jeroenterheerdt/HADailySensor",
   "jeroenterheerdt/HAsmartirrigation",
