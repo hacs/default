@@ -1452,8 +1452,8 @@
   },
   {
     "repository": "rccoleman/lamarzocco",
-    "reason": "broken as of September 13th, replaced with other repo",
+    "reason": "No longer working",
     "removal_type": "remove",
-    "link": "https://github.com/zweckj/lamarzocco#Overview"
+    "link": "https://github.com/rccoleman/lamarzocco"
   }
 ]
