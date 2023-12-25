@@ -452,6 +452,7 @@
   "jippi/hass-nordnet",
   "jjlawren/sonos_cloud",
   "jm-73/Indego",
+  "jmacri01/homeassistant-custom-components-pagerduty",
   "jmcollin78/solar_optimizer",
   "jmcollin78/versatile_thermostat",
   "jnxxx/homeassistant-dabblerdk_powermeterreader",
