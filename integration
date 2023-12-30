@@ -358,6 +358,7 @@
   "gieljnssns/buienalarm-sensor-homeassistant",
   "gieljnssns/kostalpiko-sensor-homeassistant",
   "gilsonmandalogo/hacs-minerstat",
+  "gjohansson-ST/attribute_as_sensor",
   "gjohansson-ST/sector",
   "gndean/home-assistant-hypervolt-charger",
   "godely/ha-dremel-3d-printer",
