@@ -630,6 +630,7 @@
   "mtrab/danfoss_ally",
   "mtrab/energidataservice",
   "MTrab/landroid_cloud",
+  "MTrab/webastoconnect",
   "mudape/iphonedetect",
   "muhlba91/onyx-homeassistant-integration",
   "mullerdavid/hass_GreeExt",
