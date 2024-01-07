@@ -1491,5 +1491,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/briis/hass-weatherflow"
+  },
+  {
+    "repository": "rccoleman/lamarzocco",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/rccoleman/lamarzocco"
   }
 ]
