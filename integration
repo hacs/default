@@ -886,6 +886,7 @@
   "thecode/ha-onewire-sysbus",
   "thecode/ha-rpi_gpio",
   "TheHolyRoger/hass-cryptoinfo",
+  "TheNoctambulist/hass-airtouch",
   "TheRealWaldo/thermal",
   "ThermIQ/thermiq_mqtt-ha",
   "thevoltagesource/LennoxiComfort",
