@@ -17,6 +17,7 @@
   "AmoebeLabs/swiss-army-knife-card",
   "Anonym-tsk/lovelace-starline-card",
   "arallsopp/hass-hue-icons",
+  "argaar/comfortable-environment-card",
   "artem-sedykh/mini-climate-card",
   "artem-sedykh/mini-humidifier",
   "aukedejong/lovelace-windrose-card",
@@ -170,6 +171,7 @@
   "kalkih/mini-media-player",
   "kalkih/simple-weather-card",
   "Kaptensanders/skolmat-card",
+  "karlis-vagalis/circular-timer-card",
   "KartoffelToby/better-thermostat-ui-card",
   "kibibit/kb-better-graph-colors",
   "kibibit/kb-frosted-cards",
@@ -190,7 +192,9 @@
   "ljmerza/tracking-number-card",
   "ljmerza/travel-time-card",
   "lozzd/octopus-energy-rates-card",
+  "luixal/lovelace-media-source-image-card",
   "lukevink/lovelace-buien-rain-card",
+  "madmicio/ampli-panel-card",
   "madmicio/channel-pad",
   "madmicio/LG-WebOS-Remote-Control",
   "madmicio/ph-meter-temperature",
@@ -306,6 +310,7 @@
   "wassy92x/lovelace-entities-btn-group",
   "wassy92x/lovelace-ha-dashboard",
   "wilsto/pool-monitor-card",
+  "wiltodelta/homeassistant-sugartv-card",
   "zanna-37/hass-swipe-navigation",
   "zeronounours/lovelace-energy-entity-row"
 ]
