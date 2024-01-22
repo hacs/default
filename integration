@@ -459,6 +459,7 @@
   "jihao/rokid-webhook-hass",
   "jippi/hass-nordnet",
   "jjlawren/sonos_cloud",
+  "jlinford/ha-gpio",
   "jm-73/Indego",
   "jmcollin78/solar_optimizer",
   "jmcollin78/versatile_thermostat",
