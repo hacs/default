@@ -184,6 +184,7 @@
   "krissen/sixdegrees-card",
   "KTibow/fullscreen-card",
   "kverqus/lovelace-hassam-card",
+  "leshniak/hass-auth-cookie",
   "ljmerza/fitbit-card",
   "ljmerza/github-card",
   "ljmerza/harmony-remote-card",
@@ -312,6 +313,5 @@
   "wilsto/pool-monitor-card",
   "wiltodelta/homeassistant-sugartv-card",
   "zanna-37/hass-swipe-navigation",
-  "zeronounours/lovelace-energy-entity-row",
-  "leshniak/hass-auth-cookie"
+  "zeronounours/lovelace-energy-entity-row"
 ]
