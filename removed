@@ -1497,5 +1497,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/rccoleman/lamarzocco"
+  },
+  {
+    "repository": "toringer/home-assistant-sbanken",
+    "reason": "Sbanken API shutdown",
+    "removal_type": "remove",
+    "link": "https://github.com/toringer/home-assistant-sbanken"
   }
 ]
