@@ -1509,5 +1509,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/perara/systemair-save-connect"
+  },
+  {
+    "repository": "djtimca/hagooglewifi",
+    "reason": "Repository is no longer maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3440"
   }
 ]
