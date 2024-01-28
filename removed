@@ -1503,5 +1503,11 @@
     "reason": "Sbanken API shutdown",
     "removal_type": "remove",
     "link": "https://github.com/toringer/home-assistant-sbanken"
+  },
+  {
+    "repository": "perara/systemair-save-connect",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/perara/systemair-save-connect"
   }
 ]
