@@ -194,6 +194,7 @@
   "lozzd/octopus-energy-rates-card",
   "luixal/lovelace-media-source-image-card",
   "lukevink/lovelace-buien-rain-card",
+  "madmicio/ampli-panel-card",
   "madmicio/channel-pad",
   "madmicio/LG-WebOS-Remote-Control",
   "madmicio/ph-meter-temperature",
@@ -272,6 +273,7 @@
   "silentbil/silent-remotes-card",
   "slipx06/sunsynk-power-flow-card",
   "sopelj/lovelace-kanji-clock-card",
+  "stefmde/HomeAssistant-TwitchFollowedLiveStreamsCard",
   "swingerman/lovelace-fluid-level-background-card",
   "t1gr0u/rain-gauge-card",
   "t1gr0u/uv-index-card",
@@ -309,6 +311,7 @@
   "wassy92x/lovelace-entities-btn-group",
   "wassy92x/lovelace-ha-dashboard",
   "wilsto/pool-monitor-card",
+  "wiltodelta/homeassistant-sugartv-card",
   "zanna-37/hass-swipe-navigation",
   "zeronounours/lovelace-energy-entity-row"
 ]
