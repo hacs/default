@@ -1515,5 +1515,11 @@
     "reason": "Repository is no longer maintained",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/3440"
+  },
+  {
+    "repository": "hultenvp/home_assistant_omnik_solar",
+    "reason": "Use https://github.com/robbinjanssen/home-assistant-omnik-inverter",
+    "removal_type": "remove",
+    "link": "https://github.com/hultenvp/home_assistant_omnik_solar/blob/master/README.md"
   }
 ]
