@@ -87,6 +87,7 @@
   "atxbyea/samsungrac",
   "atymic/project_three_zero_ha",
   "augustas2/eldes",
+  "aunefyren/bluesound_alt",
   "austinmroczek/neovolta",
   "avolmensky/panasonic_eolia",
   "ayavilevich/homeassistant-dlink-presence",
@@ -988,6 +989,5 @@
   "zachowj/hass-node-red",
   "zeronounours/HA-custom-component-energy-meter",
   "zigul/HomeAssistant-CEZdistribuce",
-  "ZsBT/hass-w1000-portal",
-  "aunefyren/bluesound_alt"
+  "ZsBT/hass-w1000-portal"
 ]
