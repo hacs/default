@@ -685,6 +685,7 @@
   "nordicopen/easee_hass",
   "nstrelow/ha_philips_android_tv",
   "nyffchanium/argoclima-integration",
+  "odya/hass-ina219-ups-hat",
   "ofalvai/home-assistant-candy",
   "ohheyrj/home-assistant-aws-codepipeline",
   "olibos/HomeAssistant-RecycleApp",
