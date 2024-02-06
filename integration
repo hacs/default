@@ -601,7 +601,6 @@
   "masaccio/ha-kingspan-watchman-sensit",
   "mathieu-mp/homeassistant-intex-spa",
   "mattrayner/pod-point-home-assistant-component",
-  "mauro-midolo/homeassistant_electrolux_status",
   "mawinkler/astroweather",
   "mb-software/homeassistant-powerbrain",
   "mbillow/ha-chargepoint",
@@ -988,5 +987,6 @@
   "zachowj/hass-node-red",
   "zeronounours/HA-custom-component-energy-meter",
   "zigul/HomeAssistant-CEZdistribuce",
-  "ZsBT/hass-w1000-portal"
+  "ZsBT/hass-w1000-portal",
+  "albaintor/homeassistant_electrolux_status",
 ]
