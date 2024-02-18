@@ -1521,5 +1521,11 @@
     "reason": "Repository has been deleted.",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/3500"
+  },
+  {
+    "repository": "Shreyas-R/lovelace-wallpanel-screensaver",
+    "reason": "Repository is no longer maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/Shreyas-R/lovelace-wallpanel-screensaver"
   }
 ]
