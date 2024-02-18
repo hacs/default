@@ -1527,5 +1527,11 @@
     "reason": "Repository is no longer maintained",
     "removal_type": "remove",
     "link": "https://github.com/Shreyas-R/lovelace-wallpanel-screensaver"
+  },
+  {
+    "repository": "hultenvp/home_assistant_omnik_solar",
+    "reason": "Requested by author",
+    "removal_type": "remove",
+    "link": "https://github.com/hultenvp/home_assistant_omnik_solar"
   }
 ]
