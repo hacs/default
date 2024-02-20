@@ -892,6 +892,7 @@
   "Tasshack/dreame-vacuum",
   "tefinger/hass-brematic",
   "TekniskSupport/home-assistant-resrobot",
+  "Teslemetry/hacs-teslemetry",
   "tetele/hvac_group",
   "tetienne/veolia-custom-component",
   "TheByteStuff/RemoteSyslog_Service",
