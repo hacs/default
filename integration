@@ -572,6 +572,7 @@
   "lindell/home-assistant-tv4-play",
   "linsvensson/sensor.greenely",
   "lizardsystems/hass-taipit",
+  "lizardsystems/hass-mygas",
   "ljmerza/ha-email-sensor",
   "lociii/homeassistant-csgo",
   "lociii/homeassistant-overwolf-status",
