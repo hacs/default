@@ -1533,5 +1533,11 @@
     "reason": "Requested by author",
     "removal_type": "remove",
     "link": "https://github.com/hultenvp/home_assistant_omnik_solar"
+  },
+  {
+    "repository": "speleolontra/daikin_residential_altherma",
+    "reason": "Requested by author, no longer working due to Daikin API changes",
+    "removal_type": "remove",
+    "link": "https://github.com/speleolontra/daikin_residential_altherma"
   }
 ]
