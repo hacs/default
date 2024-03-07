@@ -1533,5 +1533,11 @@
     "reason": "Requested by author",
     "removal_type": "remove",
     "link": "https://github.com/hultenvp/home_assistant_omnik_solar"
+  },
+  {
+    "repository": "Thomas55555/husqvarna_automower",
+    "reason": "is now in core",
+    "removal_type": "replaced",
+    "link": "https://github.com/Thomas55555/husqvarna_automower/releases/tag/2024.2.0"
   }
 ]
