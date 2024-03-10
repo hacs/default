@@ -1533,5 +1533,11 @@
     "reason": "Requested by author",
     "removal_type": "remove",
     "link": "https://github.com/hultenvp/home_assistant_omnik_solar"
+  },
+  {
+    "repository": "anarion80/sodexo_dla_ciebie",
+    "reason": "Deprecated and not working anymore",
+    "removal_type": "remove",
+    "link": "https://github.com/anarion80/sodexo_dla_ciebie/issues/1"
   }
 ]
