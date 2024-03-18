@@ -776,6 +776,7 @@
   "regulad/hass-lacrosseview",
   "ReneNulschDE/mbapi2020",
   "rexave/hass-orange-internet-on-the-move",
+  "rexdek/zabbix_evt_sensors",
   "rgc99/irrigation_unlimited",
   "rnovacek/homeassistant_cz_energy_spot_prices",
   "rob196/home-assistant-fxmarketapi",
