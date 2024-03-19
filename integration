@@ -73,6 +73,7 @@
   "ardevd/ha-bobcatminer",
   "arifwn/homeassistant-whatspie-integration",
   "arjenvrh/audi_connect_ha",
+  "artspb/homeassistant-tk-husteblume",
   "asantaga/lightwaverf_HA_EnergySensor",
   "asantaga/wiserHomeAssistantPlatform",
   "asev/homeassistant-helios",
