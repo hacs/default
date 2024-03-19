@@ -108,6 +108,7 @@
   "bigbadblunt/homeassistant-lightwave2",
   "BigNocciolino/CryptoTracker",
   "binsentsu/home-assistant-solaredge-modbus",
+  "bkbilly/medisanabp_ble",
   "bkbilly/oralb_ble",
   "bkbilly/tpms_ble",
   "blakeblackshear/frigate-hass-integration",
