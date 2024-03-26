@@ -1497,5 +1497,41 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/rccoleman/lamarzocco"
+  },
+  {
+    "repository": "toringer/home-assistant-sbanken",
+    "reason": "Sbanken API shutdown",
+    "removal_type": "remove",
+    "link": "https://github.com/toringer/home-assistant-sbanken"
+  },
+  {
+    "repository": "perara/systemair-save-connect",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/perara/systemair-save-connect"
+  },
+  {
+    "repository": "djtimca/hagooglewifi",
+    "reason": "Repository is no longer maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3440"
+  },
+  {
+    "repository": "mauro-midolo/homeassistant_electrolux_status",
+    "reason": "Repository has been deleted.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3500"
+  },
+  {
+    "repository": "Shreyas-R/lovelace-wallpanel-screensaver",
+    "reason": "Repository is no longer maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/Shreyas-R/lovelace-wallpanel-screensaver"
+  },
+  {
+    "repository": "hultenvp/home_assistant_omnik_solar",
+    "reason": "Requested by author",
+    "removal_type": "remove",
+    "link": "https://github.com/hultenvp/home_assistant_omnik_solar"
   }
 ]
