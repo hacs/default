@@ -1533,5 +1533,11 @@
     "reason": "Requested by author",
     "removal_type": "remove",
     "link": "https://github.com/hultenvp/home_assistant_omnik_solar"
+  },
+  {
+    "repository": "dynasticorpheus/gigasetelements-ha",
+    "reason": "cloud functionality discontinued due to insolvency",
+    "removal_type": "remove",
+    "link": "https://github.com/dynasticorpheus/gigasetelements-ha/issues/33"
   }
 ]
