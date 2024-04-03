@@ -1533,5 +1533,11 @@
     "reason": "Requested by author",
     "removal_type": "remove",
     "link": "https://github.com/hultenvp/home_assistant_omnik_solar"
+  },
+  {
+    "repository": "DeebotUniverse/Deebot-4-Home-Assistant",
+    "reason": "Integration directly available in core since HA 2024.2.0. Therefore repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/DeebotUniverse/Deebot-4-Home-Assistant"
   }
 ]
