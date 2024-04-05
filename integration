@@ -414,7 +414,7 @@
   "HomeAssistant-Mods/home-assistant-miele",
   "hostcc/hass-gs-alarm",
   "HrGaertner/HA-vent-optimization",
-  "htmltiger/config-editor",
+  "junkfix/config-editor",
   "hudsonbrendon/ha_epic_games",
   "hudsonbrendon/sensor.drivvo",
   "hugobloem/stateful_scenes",
