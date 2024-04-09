@@ -34,7 +34,7 @@ jobs:
       removal: ${{ steps.removal.outputs.removal }}
     steps:
       - name: Check out repository
-        uses: actions/checkout@v3.5.3
+        uses: actions/checkout@v4.1.1
 
       - name: Clone origin
         run: git clone --depth 1 https://github.com/hacs/default /tmp/repositories/default
@@ -75,7 +75,7 @@ jobs:
     if: needs.preflight.outputs.removal != 'true'
     steps:
       - name: Check out repository
-        uses: actions/checkout@v3.5.3
+        uses: actions/checkout@v4.1.1
 
       - name: Download shared artifacts
         uses: actions/download-artifact@v3
@@ -96,7 +96,7 @@ jobs:
     name: Check if PR is editable
     steps:
       - name: Check out repository
-        uses: actions/checkout@v3.5.3
+        uses: actions/checkout@v4.1.1
 
       - name: Install dependencies if needed
         run: scripts/setup
@@ -112,7 +112,7 @@ jobs:
     if: needs.preflight.outputs.category == 'integration'
     steps:
       - name: Check out repository
-        uses: actions/checkout@v3.5.3
+        uses: actions/checkout@v4.1.1
 
       - name: Download shared artifacts
         uses: actions/download-artifact@v3
