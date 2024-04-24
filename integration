@@ -789,6 +789,7 @@
   "robinostlund/homeassistant-volkswagencarnet",
   "robmarkcole/HASS-amazon-rekognition",
   "robmarkcole/HASS-Machinebox-Classificationbox",
+  "RogerSelwyn/mqtt_discoverystream_ha",
   "RogerSelwyn/AICO_HomeLINK",
   "RogerSelwyn/Home_Assistant_SkyQ_MediaPlayer",
   "RogerSelwyn/O365-HomeAssistant",
