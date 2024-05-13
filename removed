@@ -1581,5 +1581,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/2495"
+  },
+  {
+    "repository": "georgezhao2010/midea_ac_lan",
+    "reason": "Repository is no longer maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3682"
   }
 ]
