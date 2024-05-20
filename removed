@@ -1533,5 +1533,53 @@
     "reason": "Requested by author",
     "removal_type": "remove",
     "link": "https://github.com/hultenvp/home_assistant_omnik_solar"
+  },
+  {
+    "repository": "Thomas55555/husqvarna_automower",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2495"
+  },
+  {
+    "repository": "ryanwinter/hass-rainforest-emu-2",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2495"
+  },
+  {
+    "repository": "speleolontra/daikin_residential_altherma",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2495"
+  },
+  {
+    "repository": "disforw/inverse",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2495"
+  },
+  {
+    "repository": "DeebotUniverse/Deebot-4-Home-Assistant",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2495"
+  },
+  {
+    "repository": "alexarch21/history-explorer-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2495"
+  },
+  {
+    "repository": "digitaljamie/google-theme",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2495"
+  },
+  {
+    "repository": "chaptergy/noctis-grey",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2495"
   }
 ]
