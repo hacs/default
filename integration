@@ -378,6 +378,7 @@
   "golles/Home-Assistant-Sensor-MC66C",
   "greghesp/ha-evonic",
   "gregoryduckworth/GoogleGeocode-HASS",
+  "grimmpp/home-assistant-eltako",
   "gtjadsonsantos/consul",
   "gtjadsonsantos/controlid",
   "gtjadsonsantos/vapix",
@@ -996,6 +997,5 @@
   "zachowj/hass-node-red",
   "zeronounours/HA-custom-component-energy-meter",
   "zigul/HomeAssistant-CEZdistribuce",
-  "ZsBT/hass-w1000-portal",
-  "grimmpp/home-assistant-eltako"
+  "ZsBT/hass-w1000-portal"
 ]
