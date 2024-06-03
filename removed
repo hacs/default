@@ -1605,5 +1605,17 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/2536"
+  },
+  {
+    "repository": "oziee/ha-solcast-solar",
+    "reason": "Repository no longer exsist",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3745"
+  },
+  {
+    "repository": "Racailloux/home-assistant-pijuice",
+    "reason": "Repository no longer exsist",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2537"
   }
 ]
