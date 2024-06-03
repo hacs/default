@@ -135,6 +135,7 @@
   "edenhaus/ha-prosenic",
   "eifinger/here_travel_time",
   "elad-bar/ha-dahuavto",
+  "ElVit/netdaemon-notify-on-update",
   "enriqg9/dual-thermostat",
   "ericpignet/home-assistant-lg_hombot",
   "ericpignet/home-assistant-tplink_router",

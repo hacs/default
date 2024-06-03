@@ -1617,5 +1617,11 @@
     "reason": "Repository no longer exsist",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/2537"
+  },
+  {
+    "repository": "ElVit/netdaemon-notify-on-update",
+    "reason": "netdaemon apps are deprecated",
+    "removal_type": "remove",
+    "link": "https://github.com/ElVit/netdaemon-notify-on-update/issues/5"
   }
 ]
