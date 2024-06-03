@@ -1616,6 +1616,6 @@
     "repository": "Racailloux/home-assistant-pijuice",
     "reason": "Repository no longer exsist",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/2537"
   }
 ]
