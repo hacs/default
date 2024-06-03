@@ -1581,5 +1581,29 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/2495"
+  },
+  {
+    "repository": "pfunkmallone/HACS-camect-integration",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2536"
+  },
+  {
+    "repository": "patrickhilker/tedee_hass_integration",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2536"
+  },
+  {
+    "repository": "pfunkmallone/HACS-camect-custom_card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2536"
+  },
+  {
+    "repository": "dgomes/ha_rrd_recorder",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2536"
   }
 ]
