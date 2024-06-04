@@ -21,7 +21,7 @@ jobs:
         uses: actions/checkout@v4.1.1
 
       - name: Validate with JSON schema
-        uses: cardinalby/schema-validator-action@v3.1.1
+        uses: cardinalby/schema-validator-action@3.1.1
         with:
           file: 'removed'
           schema: 'tools/jsonschema/removed.schema.json'

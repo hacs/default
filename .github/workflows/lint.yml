@@ -38,7 +38,7 @@ jobs:
         run: jq --raw-output . ${{ matrix.entry.type }}
 
       - name: Validate with JSON schema
-        uses: cardinalby/schema-validator-action@v3.1.1
+        uses: cardinalby/schema-validator-action@3.1.1
         with:
           file: "${{ matrix.entry.type }}"
           schema: "${{ matrix.entry.schema || 'tools/jsonschema/repositories.schema.json' }}"
