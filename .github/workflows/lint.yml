@@ -12,15 +12,36 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  jq:
-    name: JQ
+  json:
+    name: JSON validation (${{ matrix.entry.type }})
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        entry:
+          - type: appdaemon
+          - type: blacklist
+          - type: critical
+            schema: tools/jsonschema/critical.schema.json
+          - type: integration
+          - type: netdaemon
+          - type: plugin
+          - type: python_script
+          - type: removed
+            schema: tools/jsonschema/removed.schema.json
+          - type: template
+          - type: theme
     steps:
       - name: Check out repository
         uses: actions/checkout@v4.1.1
 
-      - name: Validate
-        run: jq --raw-output . appdaemon blacklist critical integration netdaemon plugin python_script removed template theme
+      - name: Validate with JQ
+        run: jq --raw-output . ${{ matrix.entry.type }}
+
+      - name: Validate with JSON schema
+        uses: cardinalby/schema-validator-action@v3.1.1
+        with:
+          file: "${{ matrix.entry.type }}"
+          schema: "${{ matrix.entry.schema || 'tools/jsonschema/repositories.schema.json' }}"
 
   sorted:
     name: Sorted
