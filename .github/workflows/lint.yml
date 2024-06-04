@@ -12,36 +12,40 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  json:
-    name: JSON validation (${{ matrix.entry.type }})
+  jq:
+    name: JQ
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        entry:
-          - type: appdaemon
-          - type: blacklist
-          - type: critical
-            schema: tools/jsonschema/critical.schema.json
-          - type: integration
-          - type: netdaemon
-          - type: plugin
-          - type: python_script
-          - type: removed
-            schema: tools/jsonschema/removed.schema.json
-          - type: template
-          - type: theme
     steps:
       - name: Check out repository
         uses: actions/checkout@v4.1.1
 
-      - name: Validate with JQ
-        run: jq --raw-output . ${{ matrix.entry.type }}
+      - name: Validate
+        run: jq --raw-output . appdaemon blacklist critical integration netdaemon plugin python_script removed template theme
 
-      - name: Validate with JSON schema
+  jsonschema:
+    name: JSON schema
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4.1.1
+
+      - name: Critical
         uses: cardinalby/schema-validator-action@3.1.1
         with:
-          file: "${{ matrix.entry.type }}"
-          schema: "${{ matrix.entry.schema || 'tools/jsonschema/repositories.schema.json' }}"
+          file: "critical"
+          schema: "tools/jsonschema/critical.schema.json"
+
+      - name: Repositories
+        uses: cardinalby/schema-validator-action@3.1.1
+        with:
+          file: "appdaemon|blacklist|integration|netdaemon|plugin|python_script|template|theme"
+          schema: "tools/jsonschema/repositories.schema.json"
+
+      - name: Removed
+        uses: cardinalby/schema-validator-action@3.1.1
+        with:
+          file: "removed"
+          schema: "tools/jsonschema/removed.schema.json"
 
   sorted:
     name: Sorted

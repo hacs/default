@@ -6,8 +6,7 @@
         "type": "object",
         "properties": {
             "link": {
-                "type": "string",
-                "format": "uri"
+                "type": "string"
             },
             "reason": {
                 "type": "string"
