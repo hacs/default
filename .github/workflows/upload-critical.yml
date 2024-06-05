@@ -20,6 +20,12 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v4.1.1
 
+      - name: Validate with JSON schema
+        uses: cardinalby/schema-validator-action@3.1.1
+        with:
+          file: 'critical'
+          schema: 'tools/jsonschema/critical.schema.json'
+
       - name: Set up Python
         uses: actions/setup-python@v5.0.0
         id: python
