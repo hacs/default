@@ -858,6 +858,7 @@
   "sockless-coding/panasonic_cc",
   "soloam/ha-pid-controller",
   "sopelj/hass-ember-mug-component",
+  "SpanPanel/Span",
   "sprocket-9/hacs-nuvo-serial",
   "spycle/tuneblade",
   "stackia/ha-deye-dehumidifier",
