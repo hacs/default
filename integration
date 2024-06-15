@@ -207,6 +207,7 @@
   "custom-components/weatheralerts",
   "custom-components/youtube",
   "custom-components/zaptec",
+  "cx3Y/sunlogin",
   "cyberjunky/home-assistant-arpscan_tracker",
   "cyberjunky/home-assistant-garmin_connect",
   "cyberjunky/home-assistant-hvcgroep",
