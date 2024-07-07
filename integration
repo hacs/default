@@ -591,6 +591,7 @@
   "mampfes/hacs_dwd_pollenflug",
   "mampfes/hacs_waste_collection_schedule",
   "mandarons/ha-bouncie",
+  "maorcc/citymind_water_meter",
   "marcelwestrahome/home-assistant-niu-component",
   "marcoboers/home-assistant-quatt",
   "MarcoGos/davis_vantage",
