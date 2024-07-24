@@ -1617,5 +1617,17 @@
     "reason": "Repository no longer exsist",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/2537"
+  },
+  {
+    "repository": "Mr-Groch/HA-Emulated-Color-Temp-Light",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2609"
+  },
+  {
+    "repository": "sakowicz/home-assistant-tenda-tracker",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2609"
   }
 ]
