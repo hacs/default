@@ -256,6 +256,7 @@
   "delphiki/hass-pronote",
   "denpamusic/homeassistant-plum-ecomax",
   "dext0r/yandex_smart_home",
+  "denysdovhan/ha-yasno-outages",
   "dgomes/ha_erse",
   "dgomes/ha_generic_water_heater",
   "dimagoltsman/ha-proof-dashcam-integration",
