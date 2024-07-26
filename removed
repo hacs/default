@@ -1629,5 +1629,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/2609"
+  },
+  {
+    "repository": "austinmroczek/neovolta",
+    "reason": "obsolete",
+    "removal_type": "complete?",
+    "link": "https://github.com/austinmroczek/neovolta"
   }
 ]
