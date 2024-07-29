@@ -72,7 +72,7 @@
   "Archef2000/homeassistant-upsplus",
   "ardevd/ha-bobcatminer",
   "arifwn/homeassistant-whatspie-integration",
-  "arjenvrh/audi_connect_ha",
+  "audiconnect/audi_connect_ha",
   "asantaga/lightwaverf_HA_EnergySensor",
   "asantaga/wiserHomeAssistantPlatform",
   "asev/homeassistant-helios",
