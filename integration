@@ -585,6 +585,7 @@
   "madpilot/hass-amber-electric",
   "make-all/metlink-nz",
   "Mallonbacka/custom-component-cloudwatch",
+  "Mallonbacka/custom-component-digitransit",
   "mampfes/ha_bayernluefter",
   "mampfes/ha_epex_spot",
   "mampfes/ha_freeair_connect",
