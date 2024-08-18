@@ -743,18 +743,6 @@
     "link": "https://github.com/hacs/default/pull/1373"
   },
   {
-    "repository": "custom-components/sensor.sonarr_upcoming_media",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1373"
-  },
-  {
-    "repository": "custom-components/sensor.radarr_upcoming_media",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1373"
-  },
-  {
     "repository": "custom-components/sensor.plex_recently_added",
     "reason": "Repository is archived",
     "removal_type": "remove",
