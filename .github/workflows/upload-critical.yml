@@ -35,7 +35,7 @@ jobs:
       - name: Install AWS CLI
         run:  |
           pip3 install \
-            --disable-pip-version-check install \
+            --disable-pip-version-check \
             --ignore-installed \
             awscli
 
