@@ -22,6 +22,31 @@ jobs:
       - name: Validate
         run: jq --raw-output . appdaemon blacklist critical integration netdaemon plugin python_script removed template theme
 
+  jsonschema:
+    name: JSON schema
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4.1.1
+
+      - name: Critical
+        uses: cardinalby/schema-validator-action@3.1.1
+        with:
+          file: "critical"
+          schema: "tools/jsonschema/critical.schema.json"
+
+      - name: Repositories
+        uses: cardinalby/schema-validator-action@3.1.1
+        with:
+          file: "appdaemon|blacklist|integration|netdaemon|plugin|python_script|template|theme"
+          schema: "tools/jsonschema/repositories.schema.json"
+
+      - name: Removed
+        uses: cardinalby/schema-validator-action@3.1.1
+        with:
+          file: "removed"
+          schema: "tools/jsonschema/removed.schema.json"
+
   sorted:
     name: Sorted
     runs-on: ubuntu-latest
