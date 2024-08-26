@@ -46,7 +46,7 @@ jobs:
           jq -c '[.[].repository]' < removed > upload/removed/repositories.json
 
       - name: Upload artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: removed
           path: upload/removed
