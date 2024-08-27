@@ -1,4 +1,5 @@
 name: "Check"
+
 on:
   pull_request:
     types:
@@ -74,7 +75,6 @@ jobs:
       - name: Run the check
         run: python3 -m scripts.check.edits
 
-
   hassfest:
     runs-on: ubuntu-latest
     name: Hassfest
@@ -107,6 +107,7 @@ jobs:
             --rm \
             -v "$integration":"/github/workspace/$domain" \
             hassfest
+
   hacs:
     runs-on: ubuntu-latest
     name: HACS action
