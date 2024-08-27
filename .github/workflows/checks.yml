@@ -1,4 +1,4 @@
-name: "Check"
+name: Check
 
 on:
   pull_request:
@@ -91,10 +91,6 @@ jobs:
       - name: Get hassfest action
         run: |
           git clone --depth 1 https://github.com/home-assistant/actions.git /tmp/actions
-          echo "::add-matcher::/tmp/actions/hassfest/problem-matcher.json"
-
-      - name: Enable problem-matcher
-        run: echo "::add-matcher::/tmp/actions/hassfest/problem-matcher.json"
 
       - name: Build hassfest
         run: docker build /tmp/actions/hassfest -f /tmp/actions/hassfest/Dockerfile -t hassfest
@@ -114,7 +110,7 @@ jobs:
     needs: preflight
     steps:
       - name: HACS action
-        uses: "hacs/action@main"
+        uses: hacs/action@main
         with:
           repository: ${{needs.preflight.outputs.repository}}
           category: ${{needs.preflight.outputs.category}}
