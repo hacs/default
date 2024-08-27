@@ -1,4 +1,4 @@
-name: "Checks"
+name: "Check"
 on:
   pull_request:
     types:
@@ -44,10 +44,9 @@ jobs:
         id: category
         run: echo "category=$(python3 -m scripts.changed.category)" >> $GITHUB_OUTPUT
 
-
   owner:
     runs-on: ubuntu-latest
-    name: Check Owner
+    name: Owner
     needs: preflight
     steps:
       - name: Check out repository
@@ -62,9 +61,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPOSITORY: ${{needs.preflight.outputs.repository}}
 
-  edits:
+  editable:
     runs-on: ubuntu-latest
-    name: Check if PR is editable
+    name: Editable PR
     steps:
       - name: Check out repository
         uses: actions/checkout@v4.1.7
@@ -78,7 +77,7 @@ jobs:
 
   hassfest:
     runs-on: ubuntu-latest
-    name: "Check hassfest"
+    name: Hassfest
     needs: preflight
     if: needs.preflight.outputs.category == 'integration'
     steps:
@@ -110,7 +109,7 @@ jobs:
             hassfest
   hacs:
     runs-on: ubuntu-latest
-    name: "Run HACS Action"
+    name: HACS action
     needs: preflight
     steps:
       - name: HACS action
