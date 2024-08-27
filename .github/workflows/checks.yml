@@ -10,13 +10,10 @@ on:
       - master
     paths:
       - appdaemon
-      - blacklist
-      - critical
       - integration
       - netdaemon
       - plugin
       - python_script
-      - removed
       - template
       - theme
 
@@ -24,14 +21,15 @@ concurrency:
   group: checks-${{ github.ref }}
   cancel-in-progress: true
 
+permissions: {}
+
 jobs:
   preflight:
     runs-on: ubuntu-latest
-    name: Initialize
+    name: Preflight
     outputs:
       repository: ${{ steps.repository.outputs.repository }}
       category: ${{ steps.category.outputs.category }}
-      removal: ${{ steps.removal.outputs.removal }}
     steps:
       - name: Check out repository
         uses: actions/checkout@v4.1.7
@@ -43,15 +41,7 @@ jobs:
         id: repository
         run: echo "repository=$(python3 -m scripts.changed.repo)" >> $GITHUB_OUTPUT
 
-      - name: Check removal
-        id: removal
-        run: |
-          if [ "${{ steps.repository.outputs.repository }}" == "Bad data []" ]; then
-            echo "removal=true" >> $GITHUB_OUTPUT
-          fi
-
       - name: Set category
-        if: steps.removal.outputs.removal != 'true'
         id: category
         run: echo "category=$(python3 -m scripts.changed.category)" >> $GITHUB_OUTPUT
 
@@ -60,7 +50,6 @@ jobs:
     runs-on: ubuntu-latest
     name: Check Owner
     needs: preflight
-    if: needs.preflight.outputs.removal != 'true'
     steps:
       - name: Check out repository
         uses: actions/checkout@v4.1.7
@@ -98,7 +87,6 @@ jobs:
         uses: actions/checkout@v4.1.7
 
       - name: Clone new addition
-        if: steps.removal.outputs.removal != 'true'
         run: |
           git clone --depth 1 "https://github.com/${{needs.preflight.outputs.repository}}" /tmp/repositories/addition
 
@@ -125,7 +113,6 @@ jobs:
     runs-on: ubuntu-latest
     name: "Run HACS Action"
     needs: preflight
-    if: needs.preflight.outputs.removal != 'true'
     steps:
       - name: HACS action
         uses: "hacs/action@main"
