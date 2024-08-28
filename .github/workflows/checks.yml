@@ -83,10 +83,15 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4.1.7
+        with:
+          sparse-checkout: |
+            scripts
 
-      - name: Clone new addition
-        run: |
-          git clone --depth 1 "https://github.com/${{needs.preflight.outputs.repository}}" /tmp/repositories/addition
+      - name: Check new addition
+        uses: actions/checkout@v4.1.7
+        with:
+          repository: ${{needs.preflight.outputs.repository}}
+          path: /tmp/repositories/addition
 
       - name: Run hassfest
         run: |
