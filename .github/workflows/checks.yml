@@ -88,21 +88,13 @@ jobs:
         run: |
           git clone --depth 1 "https://github.com/${{needs.preflight.outputs.repository}}" /tmp/repositories/addition
 
-      - name: Get hassfest action
-        run: |
-          git clone --depth 1 https://github.com/home-assistant/actions.git /tmp/actions
-
-      - name: Build hassfest
-        run: docker build /tmp/actions/hassfest -f /tmp/actions/hassfest/Dockerfile -t hassfest
-
       - name: Run hassfest
         run: |
           integration=$(python3 -m scripts.helpers.integration_path)
           domain=$(python3 -m scripts.helpers.domain)
-          docker run \
-            --rm \
+          docker run --rm \
             -v "$integration":"/github/workspace/$domain" \
-            hassfest
+            ghcr.io/homeassistant/hassfest:latest
 
   hacs:
     runs-on: ubuntu-latest
