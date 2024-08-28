@@ -94,7 +94,7 @@ jobs:
           domain=$(python3 -m scripts.helpers.domain)
           docker run --rm \
             -v "$integration":"/github/workspace/$domain" \
-            ghcr.io/homeassistant/hassfest:latest
+            ghcr.io/home-assistant/hassfest:latest
 
   hacs:
     runs-on: ubuntu-latest
