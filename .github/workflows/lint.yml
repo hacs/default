@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4.1.1
+        uses: actions/checkout@v4.1.7
 
       - name: Validate
         run: jq --raw-output . appdaemon blacklist critical integration netdaemon plugin python_script removed template theme
@@ -27,7 +27,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4.1.1
+        uses: actions/checkout@v4.1.7
 
       - name: Critical
         uses: cardinalby/schema-validator-action@3.1.1
@@ -52,7 +52,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4.1.1
+        uses: actions/checkout@v4.1.7
 
       - name: Check lists
         run: python3 scripts/is_sorted.py

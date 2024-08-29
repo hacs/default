@@ -1629,5 +1629,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/2609"
+  },
+  {
+    "repository": "dynasticorpheus/gigasetelements-ha",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2666"
   }
 ]
