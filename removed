@@ -1608,13 +1608,13 @@
   },
   {
     "repository": "oziee/ha-solcast-solar",
-    "reason": "Repository no longer exsist",
+    "reason": "Repository no longer exists",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/3745"
   },
   {
     "repository": "Racailloux/home-assistant-pijuice",
-    "reason": "Repository no longer exsist",
+    "reason": "Repository no longer exists",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/2537"
   },
@@ -1638,7 +1638,7 @@
   },
   {
     "repository": "websylv/homeassistant-meteoswiss",
-    "reason": "Repository no longer exsist",
+    "reason": "Repository no longer exists",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/4023"
   },
