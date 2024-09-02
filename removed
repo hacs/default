@@ -1647,5 +1647,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/2683"
+  },
+  {
+    "repository": "nagyrobi/home-assistant-custom-components-linkplay",
+    "reason": "Requested by author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4031"
   }
 ]
