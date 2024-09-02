@@ -1635,5 +1635,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/2666"
+  },
+  {
+    "repository": "websylv/homeassistant-meteoswiss",
+    "reason": "Repository no longer exsist",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4023"
   }
 ]
