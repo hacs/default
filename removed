@@ -1641,5 +1641,11 @@
     "reason": "Repository no longer exsist",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/4023"
+  },
+  {
+    "repository": "marcokreeft87/room-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2683"
   }
 ]
