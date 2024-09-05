@@ -1658,12 +1658,12 @@
     "repository": "safepay/sensor.willyweather",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/2689"
   },
   {
     "repository": "safepay/sensor.fronius",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/2689"
   }
 ]
