@@ -1659,5 +1659,17 @@
     "reason": "Retiring as Mastodon core duplicates functionality",
     "removal_type": "remove",
     "link": "https://github.com/andrew-codechimp/HA-Mastodon-Profile-Stats"
+  },
+  {
+    "repository": "safepay/sensor.willyweather",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2689"
+  },
+  {
+    "repository": "safepay/sensor.fronius",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2689"
   }
 ]
