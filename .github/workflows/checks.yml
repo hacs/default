@@ -1,4 +1,5 @@
-name: "Checks"
+name: Check
+
 on:
   pull_request:
     types:
@@ -10,13 +11,9 @@ on:
       - master
     paths:
       - appdaemon
-      - blacklist
-      - critical
       - integration
-      - netdaemon
       - plugin
       - python_script
-      - removed
       - template
       - theme
 
@@ -24,17 +21,19 @@ concurrency:
   group: checks-${{ github.ref }}
   cancel-in-progress: true
 
+permissions: {}
+
 jobs:
   preflight:
     runs-on: ubuntu-latest
-    name: Initialize
+    name: Preflight
     outputs:
       repository: ${{ steps.repository.outputs.repository }}
       category: ${{ steps.category.outputs.category }}
       removal: ${{ steps.removal.outputs.removal }}
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4.1.1
+        uses: actions/checkout@v4.1.7
 
       - name: Clone origin
         run: git clone --depth 1 https://github.com/hacs/default /tmp/repositories/default
@@ -43,6 +42,10 @@ jobs:
         id: repository
         run: echo "repository=$(python3 -m scripts.changed.repo)" >> $GITHUB_OUTPUT
 
+      - name: Set category
+        id: category
+        run: echo "category=$(python3 -m scripts.changed.category)" >> $GITHUB_OUTPUT
+
       - name: Check removal
         id: removal
         run: |
@@ -50,38 +53,14 @@ jobs:
             echo "removal=true" >> $GITHUB_OUTPUT
           fi
 
-      - name: Set category
-        if: steps.removal.outputs.removal != 'true'
-        id: category
-        run: echo "category=$(python3 -m scripts.changed.category)" >> $GITHUB_OUTPUT
-
-      - name: Clone new addition
-        if: steps.removal.outputs.removal != 'true'
-        run: |
-          repo=$(python3 -m scripts.changed.repo)
-          git clone --depth 1 "https://github.com/$repo" /tmp/repositories/addition
-
-      - name: Upload shared artifacts
-        if: steps.removal.outputs.removal != 'true'
-        uses: actions/upload-artifact@v3
-        with:
-          name: repositories
-          path: /tmp/repositories
-
   owner:
     runs-on: ubuntu-latest
-    name: Check Owner
+    name: Owner
     needs: preflight
     if: needs.preflight.outputs.removal != 'true'
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4.1.1
-
-      - name: Download shared artifacts
-        uses: actions/download-artifact@v3
-        with:
-          name: repositories
-          path: /tmp/repositories
+        uses: actions/checkout@v4.1.7
 
       - name: Install dependencies if needed
         run: scripts/setup
@@ -90,13 +69,14 @@ jobs:
         run: python3 -m scripts.check.owner
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: ${{needs.preflight.outputs.repository}}
 
-  edits:
+  editable:
     runs-on: ubuntu-latest
-    name: Check if PR is editable
+    name: Editable PR
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4.1.1
+        uses: actions/checkout@v4.1.7
 
       - name: Install dependencies if needed
         run: scripts/setup
@@ -104,49 +84,35 @@ jobs:
       - name: Run the check
         run: python3 -m scripts.check.edits
 
-
   hassfest:
     runs-on: ubuntu-latest
-    name: "Check hassfest"
+    name: Hassfest
     needs: preflight
-    if: needs.preflight.outputs.category == 'integration'
+    if: needs.preflight.outputs.category == 'integration' && needs.preflight.outputs.removal != 'true'
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4.1.1
+        uses: actions/checkout@v4.1.7
 
-      - name: Download shared artifacts
-        uses: actions/download-artifact@v3
-        with:
-          name: repositories
-          path: /tmp/repositories
-
-      - name: Get hassfest action
+      - name: Clone new addition
         run: |
-          git clone --depth 1 https://github.com/home-assistant/actions.git /tmp/actions
-          echo "::add-matcher::/tmp/actions/hassfest/problem-matcher.json"
-
-      - name: Enable problem-matcher
-        run: echo "::add-matcher::/tmp/actions/hassfest/problem-matcher.json"
-
-      - name: Build hassfest
-        run: docker build /tmp/actions/hassfest -f /tmp/actions/hassfest/Dockerfile -t hassfest
+          git clone --depth 1 "https://github.com/${{needs.preflight.outputs.repository}}" /tmp/repositories/addition
 
       - name: Run hassfest
         run: |
           integration=$(python3 -m scripts.helpers.integration_path)
           domain=$(python3 -m scripts.helpers.domain)
-          docker run \
-            --rm \
+          docker run --rm \
             -v "$integration":"/github/workspace/$domain" \
-            hassfest
+            ghcr.io/home-assistant/hassfest:latest
+
   hacs:
     runs-on: ubuntu-latest
-    name: "Run HACS Action"
+    name: HACS action
     needs: preflight
     if: needs.preflight.outputs.removal != 'true'
     steps:
       - name: HACS action
-        uses: "hacs/action@main"
+        uses: hacs/action@main
         with:
           repository: ${{needs.preflight.outputs.repository}}
           category: ${{needs.preflight.outputs.category}}
