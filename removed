@@ -1653,5 +1653,17 @@
     "reason": "Requested by author",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/4031"
+  },
+  {
+    "repository": "safepay/sensor.willyweather",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "safepay/sensor.fronius",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
   }
 ]
