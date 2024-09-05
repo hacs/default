@@ -1655,6 +1655,12 @@
     "link": "https://github.com/hacs/integration/issues/4031"
   },
   {
+    "repository": "andrew-codechimp/HA-Mastodon-Profile-Stats",
+    "reason": "Retiring as Mastodon core duplicates functionality",
+    "removal_type": "remove",
+    "link": "https://github.com/andrew-codechimp/HA-Mastodon-Profile-Stats"
+  },
+  {
     "repository": "safepay/sensor.willyweather",
     "reason": "Repository is archived",
     "removal_type": "remove",
