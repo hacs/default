@@ -732,6 +732,7 @@
   "piitaya/home-assistant-qubino-wire-pilot",
   "pilotak/homeassistant-attributes",
   "pilotak/homeassistant-clientraw",
+  "pilotak/homeassistant-mcp2221",
   "PimDoos/ha-sessy",
   "PimDoos/kia_connect",
   "PimDoos/onesmartcontrolha",
