@@ -370,6 +370,7 @@
   "gicamm/homeassistant-comelit",
   "gieljnssns/buienalarm-sensor-homeassistant",
   "gieljnssns/kostalpiko-sensor-homeassistant",
+  "gillesvs/librelink",
   "gilsonmandalogo/hacs-minerstat",
   "gjohansson-ST/sector",
   "gndean/home-assistant-hypervolt-charger",
