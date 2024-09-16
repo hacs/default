@@ -836,6 +836,7 @@
   "rogsme/ute_homeassistant_integration",
   "roleoroleo/yi-hack_ha_integration",
   "RonnyWinkler/homeassistant.homey",
+  "rosenkolev/home-assistant-gpio-integration",
   "roslovets/SP110E-HASS",
   "rospogrigio/localtuya",
   "rroller/dahua",
