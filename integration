@@ -297,6 +297,7 @@
   "eifinger/hass-here-weather",
   "eifinger/hass-weenect",
   "eifinger/open_route_service",
+  "einToast/openai_stt_ha",
   "ekutner/home-connect-hass",
   "elad-bar/ha-blueiris",
   "elad-bar/ha-edgeos",
