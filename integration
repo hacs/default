@@ -1,4 +1,5 @@
 [
+  "0xAlon/dolphin",
   "0xAlon/tami4edge",
   "5high/konke",
   "5high/phicomm-dc1-homeassistant",
@@ -860,7 +861,7 @@
   "sanghviharshit/ha-mila",
   "sanghviharshit/ha-monarchmoney",
   "sbabcock23/hass-tryfi",
-  "sca075/mqtt_vacuum_camera0xAlon/dolphin",
+  "sca075/mqtt_vacuum_camera",
   "scaarup/aula",
   "schwarzenbergf/irtrans",
   "scottyphillips/echonetlite_homeassistant",
@@ -1004,5 +1005,5 @@
   "youdroid/home-assistant-sickchill",
   "zachowj/hass-node-red",
   "zeronounours/HA-custom-component-energy-meter",
-  "zigul/HomeAssistant-CEZdistribuce",
+  "zigul/HomeAssistant-CEZdistribuce"
 ]
