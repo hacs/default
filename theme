@@ -17,6 +17,7 @@
   "catppuccin/home-assistant",
   "coltondick/nordic-theme-main",
   "DickSwart/swart_ninja_dark_theme",
+  "Djelle/milcomarmy"
   "einschmidt/github_dark_theme",
   "einschmidt/github_light_theme",
   "estiens/sweet_pink_hass_theme",
@@ -75,5 +76,4 @@
   "TilmanGriesel/graphite",
   "williamahartman/noctis-solarized",
   "wowgamr/animated-weather-card",
-  "Djelle/milcomarmy"
 ]
