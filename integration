@@ -471,6 +471,7 @@
   "jobvk/Home-Assistant-Windcentrale",
   "joggs/home_assistant_ebeco",
   "JohNan/homeassistant-wellbeing",
+  "johnnybegood/ha-ksenia-lares",
   "Johnwulp/rad-afval",
   "joleys/niko-home-control-II",
   "jonasbkarlsson/ev_smart_charging",
@@ -989,6 +990,5 @@
   "zachowj/hass-node-red",
   "zeronounours/HA-custom-component-energy-meter",
   "zigul/HomeAssistant-CEZdistribuce",
-  "ZsBT/hass-w1000-portal",
-  "johnnybegood/ha-ksenia-lares"
+  "ZsBT/hass-w1000-portal"
 ]
