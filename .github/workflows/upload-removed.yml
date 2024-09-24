@@ -18,7 +18,7 @@ jobs:
     name: Upload
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@v4.1.1
+        uses: actions/checkout@v4.1.7
 
       - name: Validate with JSON schema
         uses: cardinalby/schema-validator-action@3.1.1
@@ -27,7 +27,7 @@ jobs:
           schema: 'tools/jsonschema/removed.schema.json'
 
       - name: Set up Python
-        uses: actions/setup-python@v5.0.0
+        uses: actions/setup-python@v5.2.0
         id: python
         with:
           python-version: "3.x"
@@ -46,7 +46,7 @@ jobs:
           jq -c '[.[].repository]' < removed > upload/removed/repositories.json
 
       - name: Upload artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: removed
           path: upload/removed
