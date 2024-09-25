@@ -463,6 +463,7 @@
   "jcgoette/baby_buddy_homeassistant",
   "jcgoette/weight_gurus_homeassistant",
   "jcwillox/hass-auto-backup",
+  "jdrozdnovak/ha_pagerduty",
   "JeffSteinbok/hass-dreo",
   "jellespijker/home-assistant-ultimaker",
   "jeroenterheerdt/HADailySensor",
