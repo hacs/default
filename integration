@@ -464,6 +464,7 @@
   "jcgoette/baby_buddy_homeassistant",
   "jcgoette/weight_gurus_homeassistant",
   "jcwillox/hass-auto-backup",
+  "jdejaegh/irm-kmi-ha",
   "jdrozdnovak/ha_pagerduty",
   "JeffSteinbok/hass-dreo",
   "jellespijker/home-assistant-ultimaker",
