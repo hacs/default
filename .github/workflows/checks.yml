@@ -35,6 +35,11 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4.1.7
 
+      - name: Set up Python
+        uses: actions/setup-python@v5.2.0
+        with:
+          python-version-file: ".python-version"
+
       - name: Clone origin
         run: git clone --depth 1 https://github.com/hacs/default /tmp/repositories/default
 
@@ -62,6 +67,13 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4.1.7
 
+      - name: Set up Python
+        uses: actions/setup-python@v5.2.0
+        with:
+          python-version-file: ".python-version"
+          cache: "pip"
+          cache-dependency-path: "requirements.txt"
+
       - name: Install dependencies if needed
         run: scripts/setup
 
@@ -77,6 +89,14 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4.1.7
+
+      - name: Set up Python
+        uses: actions/setup-python@v5.2.0
+        with:
+          python-version-file: ".python-version"
+          cache: "pip"
+          cache-dependency-path: "requirements.txt"
+
 
       - name: Install dependencies if needed
         run: scripts/setup
