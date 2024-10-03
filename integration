@@ -272,6 +272,7 @@
   "djerik/wavinsentio-ha",
   "djtimca/harocketlaunchlive",
   "djtimca/hasatellitetracker",
+  "dknowles2/ha-pitboss",
   "dlarrick/hass-kumo",
   "dlashua/templatebinarysensor",
   "dm82m/hass-Deltasol-KM2",
@@ -1019,5 +1020,6 @@
   "zachowj/hass-node-red",
   "zeronounours/HA-custom-component-energy-meter",
   "zigul/HomeAssistant-CEZdistribuce",
-  "ZsBT/hass-w1000-portal"
+  "ZsBT/hass-w1000-portal",
+  "zweckj/acaia"
 ]
