@@ -22,6 +22,7 @@
   "alemuro/ha-cecotec-conga",
   "alengwenus/ha-sma-ev-charger",
   "AlexandrErohin/home-assistant-flightradar24",
+  "AlexandrErohin/home-assistant-tplink-router",
   "alexdelprete/ha-abb-powerone-pvi-sunspec",
   "Alexwijn/SAT",
   "AlexxIT/Jura",
@@ -718,6 +719,7 @@
   "osk2/panasonic_smart_app",
   "osohotwateriot/osoenergy_community",
   "oven-lab/tuya_cloud_map_extractor",
+  "p0l0/hapetwalk",
   "pail23/stiebel_eltron_isg_component",
   "pantherale0/ha-nintendoparentalcontrols",
   "parautenbach/hass-shairport-sync",
@@ -1020,5 +1022,6 @@
   "zachowj/hass-node-red",
   "zeronounours/HA-custom-component-energy-meter",
   "zigul/HomeAssistant-CEZdistribuce",
-  "ZsBT/hass-w1000-portal"
+  "ZsBT/hass-w1000-portal",
+  "zweckj/acaia"
 ]
