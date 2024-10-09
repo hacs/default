@@ -919,6 +919,7 @@
   "TheByteStuff/RemoteSyslog_Service",
   "thecode/ha-onewire-sysbus",
   "thecode/ha-rpi_gpio",
+  "TheGui01/Frisquet-connect-for-home-assistant",
   "TheHolyRoger/hass-cryptoinfo",
   "TheRealWaldo/thermal",
   "ThermIQ/thermiq_mqtt-ha",
