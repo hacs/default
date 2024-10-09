@@ -922,6 +922,7 @@
   "thecode/ha-rpi_gpio",
   "TheGui01/Frisquet-connect-for-home-assistant",
   "TheHolyRoger/hass-cryptoinfo",
+  "TheNoctambulist/hass-airtouch",
   "TheRealWaldo/thermal",
   "ThermIQ/thermiq_mqtt-ha",
   "thevoltagesource/LennoxiComfort",
