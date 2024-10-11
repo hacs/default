@@ -1629,5 +1629,47 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/2609"
+  },
+  {
+    "repository": "dynasticorpheus/gigasetelements-ha",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2666"
+  },
+  {
+    "repository": "websylv/homeassistant-meteoswiss",
+    "reason": "Repository no longer exsist",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4023"
+  },
+  {
+    "repository": "marcokreeft87/room-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2683"
+  },
+  {
+    "repository": "nagyrobi/home-assistant-custom-components-linkplay",
+    "reason": "Requested by author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4031"
+  },
+  {
+    "repository": "andrew-codechimp/HA-Mastodon-Profile-Stats",
+    "reason": "Retiring as Mastodon core duplicates functionality",
+    "removal_type": "remove",
+    "link": "https://github.com/andrew-codechimp/HA-Mastodon-Profile-Stats"
+  },
+  {
+    "repository": "safepay/sensor.willyweather",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2689"
+  },
+  {
+    "repository": "safepay/sensor.fronius",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2689"
   }
 ]
