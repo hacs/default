@@ -341,6 +341,7 @@
   "firstof9/ha-gasbuddy",
   "firstof9/ha-openei",
   "FL550/dwd_weather",
+  "flexopus/flexopus-hass-sensor",
   "fondberg/spotcast",
   "Fr3d/camect-ha",
   "franc6/ics_calendar",
