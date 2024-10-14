@@ -1671,5 +1671,17 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/2689"
+  },
+  {
+    "repository": "codyc1515/ha-contact-energy",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2767"
+  },
+  {
+    "repository": "daenny/climate_group",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2767"
   }
 ]
