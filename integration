@@ -788,6 +788,7 @@
   "ptimatth/GeorideHA",
   "py-smart-gardena/hass-gardena-smart-system",
   "pyalarmdotcom/alarmdotcom",
+  "pypolestar/polestar_api",
   "Pyhass/Hive-Custom-Component",
   "r-renato/ha-climacell-weather",
   "radical-squared/aquatemp",
