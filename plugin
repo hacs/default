@@ -319,6 +319,7 @@
   "wassy92x/lovelace-ha-dashboard",
   "wilsto/pool-monitor-card",
   "wiltodelta/homeassistant-sugartv-card",
+  "wrodie/mixer-card",
   "zanna-37/hass-swipe-navigation",
   "zeronounours/lovelace-energy-entity-row"
 ]
