@@ -480,6 +480,7 @@
   "jihao/rokid-webhook-hass",
   "jippi/hass-nordnet",
   "jjlawren/sonos_cloud",
+  "jlinford/ha-gpio",
   "jmacri01/homeassistant-custom-components-catholic-calendar",
   "jmcollin78/solar_optimizer",
   "jmcollin78/versatile_thermostat",
