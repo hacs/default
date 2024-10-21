@@ -384,6 +384,7 @@
   "gieljnssns/kostalpiko-sensor-homeassistant",
   "gillesvs/librelink",
   "gilsonmandalogo/hacs-minerstat",
+  "gjohansson-ST/attribute_as_sensor",
   "gjohansson-ST/sector",
   "gndean/home-assistant-hypervolt-charger",
   "godely/ha-dremel-3d-printer",
