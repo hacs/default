@@ -301,6 +301,7 @@
   "ec-blaster/magicswitchbot-homeassistant",
   "edekeijzer/osrm_travel_time",
   "edwork/homeassistant-peloton-sensor",
+  "EffortlessHome/eh_integration",
   "eifinger/hass-foldingathomecontrol",
   "eifinger/hass-here-weather",
   "eifinger/hass-weenect",
