@@ -740,6 +740,7 @@
   "parautenbach/hass-shairport-sync",
   "parvez/network_scanner",
   "Patrick762/hassio-bluetti-bt",
+  "Patrick762/hassio-solvis-modbus",
   "Patrick762/hassio-streamdeck",
   "patrickribbing/sjofartsverket_viva-component",
   "Paul-dH/Home-Assisant-Sensor-OvApi",
