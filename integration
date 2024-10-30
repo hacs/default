@@ -137,6 +137,7 @@
   "bouwew/sems2mqtt",
   "bramkragten/mind",
   "bramstroker/homeassistant-powercalc",
+  "Breina/idrac_power_monitor",
   "Breina/nad_controller",
   "Breina/PowerTagGateway",
   "bremor/bonaire_myclimate",
