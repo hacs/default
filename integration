@@ -1047,5 +1047,6 @@
   "zeronounours/HA-custom-component-energy-meter",
   "zigul/HomeAssistant-CEZdistribuce",
   "ZsBT/hass-w1000-portal",
-  "zweckj/acaia"
+  "zweckj/acaia",
+  "gh0stblizz4rd/ha-switch-timer"
 ]
