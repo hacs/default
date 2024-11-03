@@ -18,7 +18,7 @@ jobs:
     name: Upload
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@v4.1.7
+        uses: actions/checkout@v4.2.1
 
       - name: Validate with JSON schema
         uses: cardinalby/schema-validator-action@3.1.1
