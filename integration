@@ -424,6 +424,7 @@
   "herikw/home-assistant-custom-components",
   "heyajohnny/afvalinfo",
   "heyajohnny/cryptoinfo",
+  "hexCut/irsap-ha",
   "hg1337/homeassistant-dwd",
   "hif2k1/battery_sim",
   "hmn/siku-integration",
