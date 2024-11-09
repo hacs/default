@@ -805,6 +805,7 @@
   "py-smart-gardena/hass-gardena-smart-system",
   "pyalarmdotcom/alarmdotcom",
   "Pyhass/Hive-Custom-Component",
+  "qnimbus/haefele_connect_mesh",
   "r-renato/ha-climacell-weather",
   "radical-squared/aquatemp",
   "Rain1971/V2C_trydant",
