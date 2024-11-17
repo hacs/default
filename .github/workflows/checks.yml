@@ -33,7 +33,12 @@ jobs:
       removal: ${{ steps.removal.outputs.removal }}
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4.1.7
+        uses: actions/checkout@v4.2.1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5.2.0
+        with:
+          python-version-file: ".python-version"
 
       - name: Clone origin
         run: git clone --depth 1 https://github.com/hacs/default /tmp/repositories/default
@@ -60,7 +65,14 @@ jobs:
     if: needs.preflight.outputs.removal != 'true'
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4.1.7
+        uses: actions/checkout@v4.2.1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5.2.0
+        with:
+          python-version-file: ".python-version"
+          cache: "pip"
+          cache-dependency-path: "requirements.txt"
 
       - name: Install dependencies if needed
         run: scripts/setup
@@ -76,7 +88,15 @@ jobs:
     name: Editable PR
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4.1.7
+        uses: actions/checkout@v4.2.1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5.2.0
+        with:
+          python-version-file: ".python-version"
+          cache: "pip"
+          cache-dependency-path: "requirements.txt"
+
 
       - name: Install dependencies if needed
         run: scripts/setup
@@ -91,7 +111,7 @@ jobs:
     if: needs.preflight.outputs.category == 'integration' && needs.preflight.outputs.removal != 'true'
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4.1.7
+        uses: actions/checkout@v4.2.1
 
       - name: Clone new addition
         run: |
