@@ -413,6 +413,7 @@
   "h4de5/home-assistant-vimar",
   "ha-warmup/warmup",
   "HandyHat/ha-hildebrandglow-dcc",
+  "Hankanman/Area-Occupancy-Detection",
   "hardbyte/ha-evnex",
   "hasl-sensor/integration",
   "hasscc/hass-edge-tts",
