@@ -1053,5 +1053,6 @@
   "zeronounours/HA-custom-component-energy-meter",
   "zigul/HomeAssistant-CEZdistribuce",
   "ZsBT/hass-w1000-portal",
-  "zweckj/acaia"
+  "zweckj/acaia",
+  "snell-evan-itt/hassio-ecoflow-cloud-US"
 ]
