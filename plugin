@@ -35,6 +35,7 @@
   "bokub/rgb-light-card",
   "bramkragten/swipe-card",
   "bramkragten/weather-card",
+  "Brianfit/xkcd-card-ha",
   "Ceerbeerus/beerbolaget-card",
   "chaptergy/lightalarm-card",
   "ciotlosm/lovelace-thermostat-dark-card",
@@ -319,6 +320,7 @@
   "wassy92x/lovelace-ha-dashboard",
   "wilsto/pool-monitor-card",
   "wiltodelta/homeassistant-sugartv-card",
+  "wrodie/mixer-card",
   "zanna-37/hass-swipe-navigation",
   "zeronounours/lovelace-energy-entity-row"
 ]
