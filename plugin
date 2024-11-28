@@ -273,6 +273,7 @@
   "Savjee/button-text-card",
   "sbryfcz/harmony-card",
   "sdelliot/pie-chart-card",
+  "selvalt7/modern-circular-gauge",
   "Sese-Schneider/ha-energy-overview-card",
   "ShadowAya/anchor-card",
   "Sian-Lee-SA/honeycomb-menu",
@@ -323,6 +324,5 @@
   "wiltodelta/homeassistant-sugartv-card",
   "wrodie/mixer-card",
   "zanna-37/hass-swipe-navigation",
-  "zeronounours/lovelace-energy-entity-row",
-  "selvalt7/modern-circular-gauge"
+  "zeronounours/lovelace-energy-entity-row"
 ]
