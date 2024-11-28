@@ -311,6 +311,7 @@
   "eifinger/hass-here-weather",
   "eifinger/hass-weenect",
   "eifinger/open_route_service",
+  "einFreak/ha-regensburg-transport",
   "ekutner/home-connect-hass",
   "elad-bar/ha-blueiris",
   "elad-bar/ha-edgeos",
