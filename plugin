@@ -35,6 +35,7 @@
   "bokub/rgb-light-card",
   "bramkragten/swipe-card",
   "bramkragten/weather-card",
+  "Brianfit/xkcd-card-ha",
   "Ceerbeerus/beerbolaget-card",
   "chaptergy/lightalarm-card",
   "ciotlosm/lovelace-thermostat-dark-card",
@@ -230,6 +231,7 @@
   "nervetattoo/simple-thermostat",
   "nervetattoo/themable-grid",
   "Nerwyn/android-tv-card",
+  "Nerwyn/service-call-tile-feature",
   "nicufarmache/lovelace-big-slider-card",
   "nielsfaber/alarmo-card",
   "nielsfaber/scheduler-card",
@@ -319,6 +321,7 @@
   "wassy92x/lovelace-ha-dashboard",
   "wilsto/pool-monitor-card",
   "wiltodelta/homeassistant-sugartv-card",
+  "wrodie/mixer-card",
   "zanna-37/hass-swipe-navigation",
   "zeronounours/lovelace-energy-entity-row"
 ]
