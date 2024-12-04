@@ -107,6 +107,8 @@ jobs:
   removed:
     runs-on: ubuntu-latest
     name: Removed repository
+    needs: preflight
+    if: needs.preflight.outputs.removal != 'true'
     steps:
       - name: Check out repository
         uses: actions/checkout@v4.2.1
@@ -123,6 +125,8 @@ jobs:
 
       - name: Run the check
         run: python3 -m scripts.check.removed
+        env:
+          REPOSITORY: ${{needs.preflight.outputs.repository}}
 
   hassfest:
     runs-on: ubuntu-latest
