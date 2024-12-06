@@ -820,6 +820,7 @@
   "rccoleman/channels_dvr_recently_recorded",
   "rdehuyss/homeassistant-custom_components-denkovi",
   "redlukas/emu_mbus_center",
+  "redpomodoro/fronius_modbus",
   "regulad/hass-lacrosseview",
   "ReneNulschDE/ha-mysmartbike",
   "ReneNulschDE/mbapi2020",
