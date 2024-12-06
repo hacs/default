@@ -699,6 +699,7 @@
   "muxa/home-assistant-niwa-tides",
   "mvdwetering/huesyncbox",
   "mvdwetering/yamaha_ynca",
+  "mweinelt/ha-prometheus-sensor",
   "myhomeiot/DahuaVTO",
   "myTselection/bibliotheek_be",
   "myTselection/Carbu_com",
