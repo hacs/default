@@ -1755,5 +1755,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "N/A"
+  },
+  {
+    "repository": "Petro31/ad_count_entities",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
   }
 ]
