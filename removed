@@ -1713,5 +1713,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "N/A"
+  },
+  {
+    "repository": "Petro31/ad_sunset_lights",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
   }
 ]
