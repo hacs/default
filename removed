@@ -1701,5 +1701,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "N/A"
+  },
+  {
+    "repository": "Petro31/ad_simple_door_bell",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
   }
 ]
