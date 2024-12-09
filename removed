@@ -1749,5 +1749,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "N/A"
+  },
+  {
+    "repository": "Petro31/ad_monitor_events",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
   }
 ]
