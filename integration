@@ -964,6 +964,7 @@
   "thomasloven/hass-favicon",
   "thomasloven/hass-fontawesome",
   "thomasloven/hass-lovelace_gen",
+  "thomasloven/hass-plejd",
   "thomasprior/2minersInfo",
   "tijsverkoyen/HomeAssistant-FusionSolar",
   "tikismoke/home-assistant-plcbus",
