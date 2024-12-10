@@ -5,7 +5,6 @@
   "5high/konke",
   "5high/phicomm-dc1-homeassistant",
   "9a4gl/hass-centrometal-boiler",
-  "a529987659852/openwbmqtt",
   "AaronDavidSchneider/SonosAlarm",
   "aceindy/Duepi_EVO",
   "acesyde/hassio_mylight_integration",
@@ -66,6 +65,7 @@
   "AndreaTomatis/loex-xsmart-integration",
   "andrew-codechimp/HA-Andrews-Arnold-Quota",
   "andrew-codechimp/HA-Battery-Notes",
+  "andrewjswan/SwatchTime",
   "andrzejchm/blebox_shutterbox_tilt",
   "andvikt/mega_hacs",
   "aneeshd/schedule_state",
@@ -609,6 +609,7 @@
   "lindell/home-assistant-svt-play",
   "lindell/home-assistant-tv4-play",
   "linsvensson/sensor.greenely",
+  "lizardsystems/hass-mygas",
   "lizardsystems/hass-taipit",
   "ljmerza/ha-email-sensor",
   "lociii/homeassistant-csgo",
@@ -1027,6 +1028,7 @@
   "viragelabs/virage_dashboard",
   "vlumikero/home-assistant-securitas",
   "vmakeev/huawei_mesh_router",
+  "vooon/hass-myheat",
   "Vova-SH/termux-api",
   "Weissnix4711/hass-listenbrainz",
   "weltenwort/home-assistant-rct-power-integration",
@@ -1061,4 +1063,5 @@
   "zigul/HomeAssistant-CEZdistribuce",
   "ZsBT/hass-w1000-portal",
   "zweckj/acaia"
+  "ZsBT/hass-w1000-portal"
 ]
