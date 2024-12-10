@@ -611,6 +611,7 @@
   "linsvensson/sensor.greenely",
   "lizardsystems/hass-mygas",
   "lizardsystems/hass-taipit",
+  "lizardsystems/hass-tnse",
   "ljmerza/ha-email-sensor",
   "lociii/homeassistant-csgo",
   "lociii/homeassistant-overwolf-status",
