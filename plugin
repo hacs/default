@@ -326,6 +326,7 @@
   "wilsto/pool-monitor-card",
   "wiltodelta/homeassistant-sugartv-card",
   "wrodie/mixer-card",
+  "YuzhaLab/lovelace-aqua",
   "zanna-37/hass-swipe-navigation",
   "zeronounours/lovelace-energy-entity-row"
 ]
