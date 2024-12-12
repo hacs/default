@@ -1,5 +1,6 @@
 [
   "9rpp/securifi",
+  "a529987659852/openwbmqtt",
   "abacao/hass_wibeee",
   "AdamNaj/linksys_velop",
   "aijayadams/hass-blueair",
@@ -226,8 +227,18 @@
   "perara/systemair-save-connect",
   "peternijssen/home-assistant-jumbo",
   "peternijssen/lovelace-postnl-card",
+  "Petro31/ad_convert_media_volume",
+  "Petro31/ad_count_entities",
+  "Petro31/ad_group_all",
+  "Petro31/ad_monitor_events",
   "Petro31/ad_multizone_media_control",
   "Petro31/ad_people_tracker",
+  "Petro31/ad_seasonal_lights",
+  "Petro31/ad_simple_door_bell",
+  "Petro31/ad_sunset_lights",
+  "Petro31/ad_toggle_light",
+  "Petro31/ad_who_used_the_door",
+  "Petro31/IlluminateDoor",
   "pfunkmallone/HACS-camect-custom_card",
   "pfunkmallone/HACS-camect-integration",
   "pilotak/homeassistant-mikrotik",
@@ -275,6 +286,7 @@
   "tellerbop/havistapool",
   "tenly2000/HomeAssistant-Places",
   "thebino/rki_covid",
+  "TheLastProject/lovelace-media-art-background",
   "Thomas55555/husqvarna_automower",
   "thomasloven/lovelace-dummy-entity-row",
   "thomasloven/lovelace-gap-card",
@@ -297,5 +309,6 @@
   "xaviml/z2m_ikea_controller",
   "xlcnd/meteoalarmeu",
   "xMrVizzy/button-toolbar",
-  "zha-ng/zha-map"
+  "zha-ng/zha-map",
+  "zweckj/acaia"
 ]
