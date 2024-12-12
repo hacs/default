@@ -74,6 +74,7 @@
   "asev/homeassistant-uponor",
   "astrandb/miele",
   "astrandb/sentio",
+  "astrandb/teracom_hass",
   "astrandb/viva",
   "Athozs/hass-additional-ca",
   "aturri/ha-zcsazzurro",
