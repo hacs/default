@@ -1683,5 +1683,83 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/2767"
+  },
+  {
+    "repository": "zweckj/acaia",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "a529987659852/openwbmqtt",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "TheLastProject/lovelace-media-art-background",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "Petro31/ad_simple_door_bell",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "Petro31/ad_who_used_the_door",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "Petro31/ad_sunset_lights",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "Petro31/IlluminateDoor",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "Petro31/ad_seasonal_lights",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "Petro31/ad_toggle_light",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "Petro31/ad_group_all",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "Petro31/ad_convert_media_volume",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "Petro31/ad_monitor_events",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "Petro31/ad_count_entities",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
   }
 ]
