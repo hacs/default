@@ -1761,5 +1761,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "anarion80/sodexo_dla_ciebie",
+    "reason": "Deprecated and not working anymore",
+    "removal_type": "remove",
+    "link": "https://github.com/anarion80/sodexo_dla_ciebie/issues/1"
   }
 ]
