@@ -228,6 +228,7 @@
   "cyberjunky/home-assistant-toon_climate",
   "cyberjunky/home-assistant-toon_smartmeter",
   "cyberjunky/home-assistant-ttn_gateway",
+  "cyberjunky/home-assistant-shell_recharge",
   "Cyr-ius/hass-heatzy",
   "Cyr-ius/hass-livebox-component",
   "Daanoz/ha-google-photos",
