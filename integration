@@ -549,6 +549,7 @@
   "kirei/hass-chargeamps",
   "klacol/homeassistant-clage_homeserver",
   "klatka/nc-talk-bot-component",
+  "klausj1/homeassistant-statistics",
   "Kleinrotti/hass-senertec",
   "klejejs/ha-thermia-heat-pump-integration",
   "knudsvik/energyscore",
