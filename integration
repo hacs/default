@@ -1054,6 +1054,7 @@
   "wrodie/ha_behringer_mixer",
   "xannor/ha_reolink_discovery",
   "xilense/aimp_custom_component",
+  "XiaoMi/ha_xiaomi_home",
   "xirixiz/homeassistant-afvalwijzer",
   "xraver/mercedes_me_api",
   "ydogandjiev/hass-sutro",
