@@ -122,6 +122,7 @@
   "BigNocciolino/CryptoTracker",
   "binarydev/ha-generac",
   "binsentsu/home-assistant-solaredge-modbus",
+  "bkbilly/medisanabp_ble",
   "bkbilly/oralb_ble",
   "bkbilly/tpms_ble",
   "blakeblackshear/frigate-hass-integration",
