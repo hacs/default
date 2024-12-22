@@ -43,6 +43,7 @@
   "alryaz/hass-pik-intercom",
   "alryaz/hass-tns-energo",
   "alryaz/hass-turkov",
+  "Altrec/remko_mqtt-ha",
   "amaximus/anniversary",
   "amaximus/bkk_stop",
   "amaximus/fire_protection_hu",
