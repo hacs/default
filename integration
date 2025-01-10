@@ -241,6 +241,7 @@
   "dahlb/ha_hatch",
   "dahlb/ha_kia_hyundai",
   "dahlb/ha_sense",
+  "dala318/python_poollab",
   "dalinicus/homeassistant-acinfinity",
   "dalinicus/homeassistant-aerogarden",
   "dan-r/HomeAssistant-NissanConnect",
