@@ -820,7 +820,7 @@
   "postlund/dlink_hnap",
   "Pouzor/freebox_player",
   "prairiesnpr/hass-tdameritrade",
-  "princekama/hacs-rako",
+  "princekama/home-assistant-rako",
   "ProudElm/solaredgeoptimizers",
   "ptimatth/GeorideHA",
   "py-smart-gardena/hass-gardena-smart-system",
@@ -992,7 +992,7 @@
   "tomaae/homeassistant-mikrotik_router",
   "tomaae/homeassistant-openmediavault",
   "tomaae/homeassistant-portainer",
-  "tomaae/homeassistant-truenas",
+  "tomaae/homeassistant-truenas",home-assistant-rako
   "tomasbedrich/home-assistant-hikconnect",
   "tomasbedrich/home-assistant-skydance",
   "tomasmcguinness/homeassistant-mixergy",
