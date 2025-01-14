@@ -551,6 +551,7 @@
   "Kartax/home-assistant-binance",
   "KartoffelToby/better_thermostat",
   "kcofoni/ha-netro-watering",
+  "kcsoft/virtual-keys",
   "kesteraernoudt/dobiss",
   "kevinhaendel/ha-ubee",
   "killer0071234/ha-hiq",
@@ -1079,5 +1080,6 @@
   "zachowj/hass-node-red",
   "zeronounours/HA-custom-component-energy-meter",
   "zigul/HomeAssistant-CEZdistribuce",
-  "ZsBT/hass-w1000-portal"
+  "ZsBT/hass-w1000-portal",
+  "zweckj/acaia"
 ]
