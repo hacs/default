@@ -576,7 +576,7 @@
   "kotborealis/home-assistant-custom-components-cover-time-based-synced",
   "koying/jellyfin_ha",
   "koying/mqtt_discoverystream_ha",
-  "koying/openrgb_ha",
+  "OpenRGB-for-HA/openrgb_ha",
   "kpoppel/homeassistant-eforsyning",
   "kpoppel/homeassistant-novafos",
   "krahabb/meross_lan",
