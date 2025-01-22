@@ -1778,42 +1778,42 @@
     "repository": "ThomasPrior/2minersInfo",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/3046"
   },
   {
     "repository": "myTselection/youfone_be",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/3046"
   },
   {
     "repository": "briis/meteobridge",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/3046"
   },
   {
     "repository": "dahlb/ha_sense",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/3046"
   },
   {
     "repository": "briis/securityspy",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/3046"
   },
   {
     "repository": "briis/weatherbit",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/3046"
   },
   {
     "repository": "al-one/hass-miio-yeelink",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/3046"
   }
 ]
