@@ -299,6 +299,7 @@
   "dmoranf/home-assistant-wattio",
   "dolezsa/thermal_comfort",
   "domalab/ha-unraid",
+  "domalab/ha-actronair-neo"
   "dominikamann/oekofen-pellematic-compact",
   "doudz/homeassistant-myjdownloader",
   "dphae/bsh",
