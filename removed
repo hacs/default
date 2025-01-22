@@ -1773,5 +1773,47 @@
     "reason": "Deprecated - moved into HA Core",
     "removal_type": "remove",
     "link": "https://github.com/music-assistant/hass-music-assistant/blob/main/README.md"
+  },
+  {
+    "repository": "ThomasPrior/2minersInfo",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "myTselection/youfone_be",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "briis/meteobridge",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "dahlb/ha_sense",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "briis/securityspy",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "briis/weatherbit",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "al-one/hass-miio-yeelink",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
   }
 ]
