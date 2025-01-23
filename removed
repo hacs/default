@@ -1845,5 +1845,11 @@
     "reason": "Request from author",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/4317"
+  },
+  {
+    "repository": "rogsme/ute_homeassistant_integration",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4254"
   }
 ]
