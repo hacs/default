@@ -1833,5 +1833,23 @@
     "reason": "Repository looks abandoned and the content is no longer working",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/3748"
+  },
+  {
+    "repository": "FaserF/ha-deutschebahn",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4391"
+  },
+  {
+    "repository": "dreed47/redfin",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4317"
+  },
+  {
+    "repository": "rogsme/ute_homeassistant_integration",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4254"
   }
 ]
