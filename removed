@@ -1821,5 +1821,11 @@
     "reason": "MijnTuin.org site stopped activities",
     "removal_type": "remove",
     "link": "https://github.com/myTselection/MijnTuin/issues/14"
+  },
+  {
+    "repository": "MesserschmittX/ha-nicehash-excavator-monitor",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4382"
   }
 ]
