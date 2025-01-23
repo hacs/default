@@ -1815,5 +1815,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/3046"
+  },
+  {
+    "repository": "myTselection/MijnTuin",
+    "reason": "MijnTuin.org site stopped activities",
+    "removal_type": "remove",
+    "link": "https://github.com/myTselection/MijnTuin/issues/14"
   }
 ]
