@@ -1773,5 +1773,65 @@
     "reason": "Deprecated - moved into HA Core",
     "removal_type": "remove",
     "link": "https://github.com/music-assistant/hass-music-assistant/blob/main/README.md"
+  },
+  {
+    "repository": "ThomasPrior/2minersInfo",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3046"
+  },
+  {
+    "repository": "myTselection/youfone_be",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3046"
+  },
+  {
+    "repository": "briis/meteobridge",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3046"
+  },
+  {
+    "repository": "dahlb/ha_sense",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3046"
+  },
+  {
+    "repository": "briis/securityspy",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3046"
+  },
+  {
+    "repository": "briis/weatherbit",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3046"
+  },
+  {
+    "repository": "al-one/hass-miio-yeelink",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3046"
+  },
+  {
+    "repository": "myTselection/MijnTuin",
+    "reason": "MijnTuin.org site stopped activities",
+    "removal_type": "remove",
+    "link": "https://github.com/myTselection/MijnTuin/issues/14"
+  },
+  {
+    "repository": "MesserschmittX/ha-nicehash-excavator-monitor",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4382"
+  },
+  {
+    "repository": "georgezhao2010/midea_ac_lan",
+    "reason": "Repository looks abandoned and the content is no longer working",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3748"
   }
 ]
