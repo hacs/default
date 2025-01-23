@@ -1833,5 +1833,11 @@
     "reason": "Repository looks abandoned and the content is no longer working",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/3748"
+  },
+  {
+    "repository": "FaserF/ha-deutschebahn",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4391"
   }
 ]
