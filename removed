@@ -1839,5 +1839,11 @@
     "reason": "Request from author",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/4391"
+  },
+  {
+    "repository": "dreed47/redfin",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4317"
   }
 ]
