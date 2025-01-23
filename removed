@@ -1827,5 +1827,11 @@
     "reason": "Request from author",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/4382"
+  },
+  {
+    "repository": "georgezhao2010/midea_ac_lan",
+    "reason": "Repository looks abandoned and the content is no longer working",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3748"
   }
 ]
