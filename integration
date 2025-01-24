@@ -733,6 +733,7 @@
   "nielsfaber/scheduler-component",
   "nimroddolev/akuvox",
   "nimroddolev/chime_tts",
+  "niktest/solaredge_ev_charger_au",
   "NinDTendo/homeassistant_gradual_volume_control",
   "NinDTendo/tobi",
   "nkvoll/home-assistant-qsys-qrc",
