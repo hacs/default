@@ -37,7 +37,7 @@ jobs:
           pip3 install \
             --disable-pip-version-check \
             --ignore-installed \
-            awscli
+            awscli==1.36.39
 
       - name: Handle the removed file
         run: |
