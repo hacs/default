@@ -1857,5 +1857,17 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/3079"
+  },
+  {
+    "repository": "isabellaalstrom/sensor.krisinformation",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4418"
+  },
+  {
+    "repository": "isabellaalstrom/krisinfo-card",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4419"
   }
 ]
