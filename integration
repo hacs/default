@@ -129,6 +129,7 @@
   "binsentsu/home-assistant-solaredge-modbus",
   "bkbilly/medisanabp_ble",
   "bkbilly/oralb_ble",
+  "bkbilly/seismoi",
   "bkbilly/tpms_ble",
   "blakeblackshear/frigate-hass-integration",
   "blear/hasslife",
