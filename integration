@@ -148,6 +148,7 @@
   "bouwew/sems2mqtt",
   "bramkragten/mind",
   "bramstroker/homeassistant-powercalc",
+  "braytonstafford/grok_conversation",
   "Breina/idrac_power_monitor",
   "Breina/nad_controller",
   "Breina/PowerTagGateway",
