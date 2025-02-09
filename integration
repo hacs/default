@@ -488,6 +488,7 @@
   "jcgoette/weight_gurus_homeassistant",
   "jcwillox/hass-auto-backup",
   "jdejaegh/irm-kmi-ha",
+  "jdolieslager/homeassistant-dynamic-dns",
   "jdrozdnovak/ha_pagerduty",
   "JeffSteinbok/hass-dreo",
   "jekalmin/extended_openai_conversation",
