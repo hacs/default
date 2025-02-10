@@ -753,7 +753,7 @@
   "ollo69/ha-samsungtv-smart",
   "ollo69/ha-smartthinq-sensors",
   "OpenEPaperLink/Home_Assistant_Integration",
-  "OpenRGB-for-HA/openrgb_ha",
+  "openrgb-ha/openrgb-ha",
   "osk2/panasonic_smart_app",
   "osohotwateriot/osoenergy_community",
   "oven-lab/tuya_cloud_map_extractor",
