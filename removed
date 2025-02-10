@@ -1850,12 +1850,12 @@
     "repository": "DarkFox/rejseplanen-stog-card",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/3118"
   },
   {
     "repository": "DarkFox/rejseplanen-card",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/3118"
   }
 ]
