@@ -731,31 +731,7 @@
     "link": "https://github.com/hacs/default/pull/1373"
   },
   {
-    "repository": "custom-cards/upcoming-media-card",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1373"
-  },
-  {
     "repository": "maykar/plex_assistant",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1373"
-  },
-  {
-    "repository": "custom-components/sensor.sonarr_upcoming_media",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1373"
-  },
-  {
-    "repository": "custom-components/sensor.radarr_upcoming_media",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1373"
-  },
-  {
-    "repository": "custom-components/sensor.plex_recently_added",
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1373"
@@ -1617,5 +1593,269 @@
     "reason": "Repository no longer exsist",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/2537"
+  },
+  {
+    "repository": "Mr-Groch/HA-Emulated-Color-Temp-Light",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2609"
+  },
+  {
+    "repository": "sakowicz/home-assistant-tenda-tracker",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2609"
+  },
+  {
+    "repository": "dynasticorpheus/gigasetelements-ha",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2666"
+  },
+  {
+    "repository": "websylv/homeassistant-meteoswiss",
+    "reason": "Repository no longer exsist",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4023"
+  },
+  {
+    "repository": "marcokreeft87/room-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2683"
+  },
+  {
+    "repository": "nagyrobi/home-assistant-custom-components-linkplay",
+    "reason": "Requested by author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4031"
+  },
+  {
+    "repository": "andrew-codechimp/HA-Mastodon-Profile-Stats",
+    "reason": "Retiring as Mastodon core duplicates functionality",
+    "removal_type": "remove",
+    "link": "https://github.com/andrew-codechimp/HA-Mastodon-Profile-Stats"
+  },
+  {
+    "repository": "safepay/sensor.willyweather",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2689"
+  },
+  {
+    "repository": "safepay/sensor.fronius",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2689"
+  },
+  {
+    "repository": "codyc1515/ha-contact-energy",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2767"
+  },
+  {
+    "repository": "daenny/climate_group",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2767"
+  },
+  {
+    "repository": "zweckj/acaia",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "a529987659852/openwbmqtt",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "TheLastProject/lovelace-media-art-background",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "Petro31/ad_simple_door_bell",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "Petro31/ad_who_used_the_door",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "Petro31/ad_sunset_lights",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "Petro31/IlluminateDoor",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "Petro31/ad_seasonal_lights",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "Petro31/ad_toggle_light",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "Petro31/ad_group_all",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "Petro31/ad_convert_media_volume",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "Petro31/ad_monitor_events",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "Petro31/ad_count_entities",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/2894"
+  },
+  {
+    "repository": "anarion80/sodexo_dla_ciebie",
+    "reason": "Deprecated and not working anymore",
+    "removal_type": "remove",
+    "link": "https://github.com/anarion80/sodexo_dla_ciebie/issues/1"
+  },
+  {
+    "repository": "music-assistant/hass-music-assistant",
+    "reason": "Deprecated - moved into HA Core",
+    "removal_type": "remove",
+    "link": "https://github.com/music-assistant/hass-music-assistant/blob/main/README.md"
+  },
+  {
+    "repository": "ThomasPrior/2minersInfo",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3046"
+  },
+  {
+    "repository": "myTselection/youfone_be",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3046"
+  },
+  {
+    "repository": "briis/meteobridge",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3046"
+  },
+  {
+    "repository": "dahlb/ha_sense",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3046"
+  },
+  {
+    "repository": "briis/securityspy",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3046"
+  },
+  {
+    "repository": "briis/weatherbit",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3046"
+  },
+  {
+    "repository": "al-one/hass-miio-yeelink",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3046"
+  },
+  {
+    "repository": "myTselection/MijnTuin",
+    "reason": "MijnTuin.org site stopped activities",
+    "removal_type": "remove",
+    "link": "https://github.com/myTselection/MijnTuin/issues/14"
+  },
+  {
+    "repository": "MesserschmittX/ha-nicehash-excavator-monitor",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4382"
+  },
+  {
+    "repository": "georgezhao2010/midea_ac_lan",
+    "reason": "Repository looks abandoned and the content is no longer working",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3748"
+  },
+  {
+    "repository": "FaserF/ha-deutschebahn",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4391"
+  },
+  {
+    "repository": "dreed47/redfin",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4317"
+  },
+  {
+    "repository": "rogsme/ute_homeassistant_integration",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4254"
+  },
+  {
+    "repository": "FaserF/ha-rewe",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3079"
+  },
+  {
+    "repository": "isabellaalstrom/sensor.krisinformation",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4418"
+  },
+  {
+    "repository": "isabellaalstrom/krisinfo-card",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4419"
+  },
+  {
+    "repository": "DarkFox/rejseplanen-stog-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3118"
+  },
+  {
+    "repository": "DarkFox/rejseplanen-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3118"
   }
 ]
