@@ -549,6 +549,7 @@
   "jxlarrea/ha-emfitqs",
   "kaechele/napoleon-efire",
   "kalanda/homeassistant-aemet-sensor",
+  "kamaradclimber/datadog-integration-ha",
   "kamaradclimber/geovelo-homeassistant",
   "kamaradclimber/heishamon-homeassistant",
   "kamaradclimber/rte-ecowatt",
