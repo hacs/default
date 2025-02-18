@@ -122,6 +122,8 @@
   "Cyr-ius/hass-hue-service-advanced",
   "daenny/climate_group",
   "dahlb/ha_sense",
+  "DarkFox/rejseplanen-card",
+  "DarkFox/rejseplanen-stog-card",
   "DavidFW1960/bom_forecast",
   "DavidMStraub/homeassistant-homeconnect",
   "DCSBL/ha-homewizard-energy",
