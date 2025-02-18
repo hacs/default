@@ -28,6 +28,8 @@
   "kprestel/appdaemon-climate",
   "ludeeus/ad-watchdog",
   "madchap/energiapro_gas_consumption",
+  "mguyard/appdaemon-coversmanager",
+  "mguyard/appdaemon-iopoolpumpmanager",
   "Mohlsson/ReplayLightsHistory",
   "nechry/elco-remocon-net-appdaemon",
   "nickneos/Appdaemon-Ring-Doorbell-Automations",
