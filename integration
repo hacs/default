@@ -196,6 +196,7 @@
   "codyc1515/ha-managemyhealth",
   "codyc1515/ha-yeelock",
   "CoMPaTech/stromer",
+  "connorgallopo/leslies-pool",
   "corporategoth/ha-powerpetdoor",
   "CreasolTech/home-assistant-creasol-dombus",
   "crowbarz/ha-sql_json",
@@ -324,7 +325,6 @@
   "eifinger/hass-foldingathomecontrol",
   "eifinger/hass-here-weather",
   "eifinger/hass-weenect",
-  "eifinger/open_route_service",
   "einToast/openai_stt_ha",
   "ekutner/home-connect-hass",
   "elad-bar/ha-blueiris",
@@ -1109,6 +1109,7 @@
   "youdroid/home-assistant-sickchill",
   "ZacheryThomas/homeassistant-smartrent",
   "zachowj/hass-node-red",
+  "zerolo/aguasgaiaHA",
   "zeronounours/HA-custom-component-energy-meter",
   "zigul/HomeAssistant-CEZdistribuce",
   "ZsBT/hass-w1000-portal"
