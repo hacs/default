@@ -1115,5 +1115,6 @@
   "zerolo/aguasgaiaHA",
   "zeronounours/HA-custom-component-energy-meter",
   "zigul/HomeAssistant-CEZdistribuce",
-  "ZsBT/hass-w1000-portal"
+  "ZsBT/hass-w1000-portal",
+  "MihVS/megad"
 ]
