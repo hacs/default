@@ -195,6 +195,7 @@
   "krissen/sixdegrees-card",
   "KTibow/fullscreen-card",
   "kverqus/lovelace-hassam-card",
+  "leshniak/hass-auth-cookie",
   "ljmerza/fitbit-card",
   "ljmerza/github-card",
   "ljmerza/harmony-remote-card",
