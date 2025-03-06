@@ -1126,6 +1126,7 @@
   "xannor/ha_reolink_discovery",
   "xiaodong-lx/tplink-ipc-control",
   "xilense/aimp_custom_component",
+  "XiaoMi/ha_xiaomi_home",
   "xirixiz/homeassistant-afvalwijzer",
   "xraver/mercedes_me_api",
   "yangqian/hass-hk_air_quality",
