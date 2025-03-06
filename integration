@@ -976,6 +976,7 @@
   "SLG/home-assistant-whatpulse",
   "slydiman/sscpoe",
   "snarky-snark/home-assistant-variables",
+  "snell-evan-itt/hassio-ecoflow-cloud-US",
   "snicker/zwift_hass",
   "snikch/climate.escea",
   "sockless-coding/garo_wallbox",
@@ -1142,5 +1143,7 @@
   "zerolo/aguasgaiaHA",
   "zeronounours/HA-custom-component-energy-meter",
   "zigul/HomeAssistant-CEZdistribuce",
+  "ZsBT/hass-w1000-portal",
+  "zweckj/acaia"
   "ZsBT/hass-w1000-portal"
 ]
