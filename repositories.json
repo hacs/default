@@ -1,0 +1,6 @@
+{
+  "name": "UniFi Bandwidth",
+  "category": "integration",
+  "repository": "https://github.com/TheFreeman/TF_hass_plugin_unifi_bandwidth"
+}
+
