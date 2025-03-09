@@ -460,6 +460,7 @@
   "hif2k1/battery_sim",
   "hmn/siku-integration",
   "hokiebrian/eia_hourly_demand",
+  "home-assistant-custom-components/frisquet-connect",
   "home-assistant-HomeWhiz/home-assistant-HomeWhiz",
   "Home-Is-Where-You-Hang-Your-Hack/sensor.goveetemp_bt_hci",
   "HomeAssistant-Mods/home-assistant-miele",
