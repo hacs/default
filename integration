@@ -78,6 +78,7 @@
   "andvikt/mega_hacs",
   "aneeshd/schedule_state",
   "ankohanse/hass-dab-pumps",
+  "ankohanse/hass-studer-xcom",
   "Anonym-tsk/homeassistant-climate-xiaomi-remote",
   "anrolosia/shopping-list-with-grocy",
   "Antoni-Czaplicki/vulcan-for-hassio",
