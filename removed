@@ -1917,5 +1917,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/3254"
+  },
+  {
+    "repository": "DurgNomis-drol/ha_toyota",
+    "reason": "Repository moved to a dedicated organization",
+    "removal_type": "move",
+    "link": "https://github.com/hacs/default/pull/3192"
   }
 ]
