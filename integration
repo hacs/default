@@ -1154,5 +1154,6 @@
   "zeronounours/HA-custom-component-energy-meter",
   "zhbjsh/homeassistant-ssh",
   "zigul/HomeAssistant-CEZdistribuce",
+  "zlangbert/ha-daikinone",
   "ZsBT/hass-w1000-portal"
 ]
