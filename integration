@@ -639,6 +639,7 @@
   "leranp/HomeAssistant-galatz-news",
   "lewei50/ha_iammeter",
   "lewei50/ha_iammeter_modbus",
+  "lewei50/ha_iammeter_link",
   "lhw/cloudweatherproxy",
   "libdyson-wg/ha-dyson",
   "lichtteil/local_luftdaten",
