@@ -122,6 +122,8 @@
   "Cyr-ius/hass-hue-service-advanced",
   "daenny/climate_group",
   "dahlb/ha_sense",
+  "dalinicus/homeassistant-aerogarden",
+  "dan-r/HomeAssistant-Ohme",
   "DarkFox/rejseplanen-card",
   "DarkFox/rejseplanen-stog-card",
   "DavidFW1960/bom_forecast",
@@ -281,6 +283,7 @@
   "rogsme/ute_homeassistant_integration",
   "rsnodgrass/hass-flo-water",
   "rsnodgrass/hass-integrations",
+  "rt400/ReversoTTS-HA",
   "ryanbateman/bvg-sensor",
   "ryannazaretian/hacs-nexia-climate-integration",
   "ryanwinter/hass-rainforest-emu-2",
@@ -316,6 +319,7 @@
   "tmechen/ber_status",
   "toringer/home-assistant-sbanken",
   "troykelly/hacs-amberelectric",
+  "troykelly/hacs-trackimo",
   "Villhellm/custom-sidebar",
   "Villhellm/lovelace-animated-background",
   "walthowd/ha-automower",
@@ -326,6 +330,7 @@
   "xaviml/z2m_ikea_controller",
   "xlcnd/meteoalarmeu",
   "xMrVizzy/button-toolbar",
+  "YorkshireIoT/ha-google-fit",
   "zha-ng/zha-map",
   "zweckj/acaia"
 ]
