@@ -1055,6 +1055,7 @@
   "thomasloven/hass-fontawesome",
   "thomasloven/hass-lovelace_gen",
   "thomasloven/hass-plejd",
+  "thomluther/ha-anker-solix",
   "tijsverkoyen/HomeAssistant-FusionSolar",
   "tikismoke/home-assistant-plcbus",
   "timmo001/homeassistant-integration-goxlr-utility",
