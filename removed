@@ -1863,5 +1863,35 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/3150"
+  },
+  {
+    "repository": "dalinicus/homeassistant-aerogarden",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3223"
+  },
+  {
+    "repository": "dan-r/HomeAssistant-Ohme",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3223"
+  },
+  {
+    "repository": "rt400/ReversoTTS-HA",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3223"
+  },
+  {
+    "repository": "troykelly/hacs-trackimo",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3223"
+  },
+  {
+    "repository": "YorkshireIoT/ha-google-fit",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3223"
   }
 ]
