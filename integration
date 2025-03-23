@@ -197,6 +197,7 @@
   "claudegel/sinope-130",
   "claudegel/sinope-gt125",
   "claytonjn/hass-circadian_lighting",
+  "cleveroom-code/ha-cleveroom-home",
   "ClusterM/skykettle-ha",
   "CM000n/qss",
   "Cmajda/ha_golemio",
@@ -1162,5 +1163,5 @@
   "zeronounours/HA-custom-component-energy-meter",
   "zhbjsh/homeassistant-ssh",
   "zigul/HomeAssistant-CEZdistribuce",
-  "ZsBT/hass-w1000-portal"
+  "ZsBT/hass-w1000-portal",
 ]
