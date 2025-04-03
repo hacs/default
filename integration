@@ -1009,6 +1009,7 @@
   "sillyfrog/Automate-Pulse-v2",
   "sirkirby/unifi-network-rules",
   "Skarbo/hass-scinan-thermostat",
+  "skodaconnect/homeassistant-myskoda",
   "Slalamander/Home-Assistant-Eetlijst",
   "slashback100/presence_simulation",
   "slesinger/HomeAssistant-BMR",
@@ -1181,5 +1182,6 @@
   "zeronounours/HA-custom-component-energy-meter",
   "zhbjsh/homeassistant-ssh",
   "zigul/HomeAssistant-CEZdistribuce",
-  "ZsBT/hass-w1000-portal"
+  "ZsBT/hass-w1000-portal",
+  "zweckj/acaia"
 ]
