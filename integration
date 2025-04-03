@@ -899,6 +899,7 @@
   "pveiga90/What-s-up-Docker-Updates-Monitor",
   "py-smart-gardena/hass-gardena-smart-system",
   "pyalarmdotcom/alarmdotcom",
+  "pypolestar/polestar_api",
   "Pyhass/Hive-Custom-Component",
   "r-renato/ha-climacell-weather",
   "radical-squared/aquatemp",
