@@ -1095,6 +1095,7 @@
   "tikismoke/home-assistant-plcbus",
   "timmo001/homeassistant-integration-goxlr-utility",
   "timniklas/hass-blitzerde",
+  "timniklas/hass-neakasa",
   "TimSoethout/goodwe-sems-home-assistant",
   "tinuva/ha-coct-loadshedding",
   "tlskinneriv/awnet_local",
