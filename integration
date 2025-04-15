@@ -167,6 +167,7 @@
   "bremor/bureau_of_meteorology",
   "bremor/public_transport_victoria",
   "brianegge/home-assistant-sdnotify",
+  "briis/meteobridge",
   "briis/weatherflow_forecast",
   "Brunas/meteo_lt",
   "bruxy70/Holidays",
@@ -1207,6 +1208,5 @@
   "zeronounours/HA-custom-component-energy-meter",
   "zhbjsh/homeassistant-ssh",
   "zigul/HomeAssistant-CEZdistribuce",
-  "ZsBT/hass-w1000-portal",
-  "briis/meteobridge"
+  "ZsBT/hass-w1000-portal"
 ]
