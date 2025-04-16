@@ -698,6 +698,7 @@
   "lizardsystems/hass-taipit",
   "lizardsystems/hass-tnse",
   "ljmerza/ha-email-sensor",
+  "lloydw/hass-spanet",
   "lociii/homeassistant-csgo",
   "lociii/homeassistant-overwolf-status",
   "lolouk44/CurrentCost_HA_CC",
