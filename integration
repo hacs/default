@@ -462,6 +462,7 @@
   "J-Lindvig/Fuelprices_DK",
   "JAAlperin/hass-bardolph",
   "JaccoR/hass-entso-e",
+  "jaidenlabelle/tuya-vacuum-maps",
   "jampez77/DVLA-Vehicle-Enquiry-Service",
   "jampez77/Ryanair",
   "JanGiese/notion_todo",
@@ -1049,6 +1050,5 @@
   "zeronounours/HA-custom-component-energy-meter",
   "zigul/HomeAssistant-CEZdistribuce",
   "ZsBT/hass-w1000-portal",
-  "zweckj/acaia",
-  "jaidenlabelle/tuya-vacuum-maps"
+  "zweckj/acaia"
 ]
