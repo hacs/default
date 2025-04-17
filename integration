@@ -1090,6 +1090,7 @@
   "tetele/hvac_group",
   "tetienne/veolia-custom-component",
   "TheByteStuff/RemoteSyslog_Service",
+  "thecem/octopus_germany",
   "thecode/ha-onewire-sysbus",
   "thecode/ha-rpi_gpio",
   "thedeemling/hass-energa-my-meter",
