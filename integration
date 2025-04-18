@@ -271,6 +271,7 @@
   "dahlb/ha_carrier",
   "dahlb/ha_hatch",
   "dahlb/ha_kia_hyundai",
+  "daikin-br/ha-custom-integration",
   "dalinicus/homeassistant-acinfinity",
   "dan-r/HomeAssistant-NissanConnect",
   "danieldiazi/homeassistant-meteogalicia",
