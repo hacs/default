@@ -122,6 +122,7 @@
   "bacco007/sensor.opennem",
   "bacco007/sensor.waternsw",
   "barban-dev/homeassistant-midea-dehumidifier",
+  "bairnhard/ha-tplink-monitor",
   "barleybobs/homeassistant-ecowater-softener",
   "basbruss/adaptive-cover",
   "basilfx/homeassistant-biketrax",
