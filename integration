@@ -1049,6 +1049,7 @@
   "snikch/climate.escea",
   "sockless-coding/garo_wallbox",
   "sockless-coding/panasonic_cc",
+  "sockless-coding/ha-eaton-ups-companion",
   "SoftXperience/home-assistant-foxess-api",
   "soloam/ha-pid-controller",
   "sopelj/hass-ember-mug-component",
