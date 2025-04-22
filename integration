@@ -1220,5 +1220,6 @@
   "zeronounours/HA-custom-component-energy-meter",
   "zhbjsh/homeassistant-ssh",
   "zigul/HomeAssistant-CEZdistribuce",
+  "zobe123/HA-Weishaupt-WCM-COM",
   "ZsBT/hass-w1000-portal"
 ]
