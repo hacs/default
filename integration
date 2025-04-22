@@ -929,6 +929,7 @@
   "pyalarmdotcom/alarmdotcom",
   "Pyhass/Hive-Custom-Component",
   "pypolestar/polestar_api",
+  "QNimbus/haefele-connect-mesh",
   "r-renato/ha-climacell-weather",
   "radical-squared/aquatemp",
   "Rain1971/V2C_trydant",
