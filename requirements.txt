@@ -1,1 +1,2 @@
-aiogithubapi==21.11.0
+aiogithubapi==24.6.0
+requests==2.32.3
