@@ -361,6 +361,7 @@
   "eifinger/hass-foldingathomecontrol",
   "eifinger/hass-here-weather",
   "eifinger/hass-weenect",
+  "einFreak/ha-regensburg-transport",
   "einToast/openai_stt_ha",
   "ekutner/home-connect-hass",
   "elad-bar/ha-blueiris",
