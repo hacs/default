@@ -94,6 +94,7 @@
   "Aohzan/ipx800v5",
   "Archef2000/homeassistant-upsplus",
   "ardevd/ha-bobcatminer",
+  "ardevd/ha-dimo",
   "arifwn/homeassistant-whatspie-integration",
   "aronkahrs-us/inumet-weather-ha",
   "artspb/homeassistant-tk-husteblume",
@@ -360,6 +361,7 @@
   "eifinger/hass-foldingathomecontrol",
   "eifinger/hass-here-weather",
   "eifinger/hass-weenect",
+  "einFreak/ha-regensburg-transport",
   "einToast/openai_stt_ha",
   "ekutner/home-connect-hass",
   "elad-bar/ha-blueiris",
@@ -480,6 +482,7 @@
   "h4de5/home-assistant-vimar",
   "ha-warmup/warmup",
   "HandyHat/ha-hildebrandglow-dcc",
+  "Hankanman/Area-Occupancy-Detection",
   "hardbyte/ha-evnex",
   "hasl-sensor/integration",
   "hasscc/hass-edge-tts",
@@ -952,6 +955,7 @@
   "rccoleman/channels_dvr_recently_recorded",
   "rdehuyss/homeassistant-custom_components-denkovi",
   "redlukas/emu_mbus_center",
+  "redpomodoro/fronius_modbus",
   "regulad/hass-lacrosseview",
   "remialban/ipx800v3",
   "remmob/itho_amber",
@@ -1234,5 +1238,6 @@
   "zeronounours/HA-custom-component-energy-meter",
   "zhbjsh/homeassistant-ssh",
   "zigul/HomeAssistant-CEZdistribuce",
-  "ZsBT/hass-w1000-portal"
+  "ZsBT/hass-w1000-portal",
+  "zubir2k/homeassistant-esolatgps"
 ]
