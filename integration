@@ -94,6 +94,7 @@
   "Aohzan/ipx800v5",
   "Archef2000/homeassistant-upsplus",
   "ardevd/ha-bobcatminer",
+  "ardevd/ha-dimo",
   "arifwn/homeassistant-whatspie-integration",
   "aronkahrs-us/inumet-weather-ha",
   "artspb/homeassistant-tk-husteblume",
@@ -1234,5 +1235,6 @@
   "zeronounours/HA-custom-component-energy-meter",
   "zhbjsh/homeassistant-ssh",
   "zigul/HomeAssistant-CEZdistribuce",
-  "ZsBT/hass-w1000-portal"
+  "ZsBT/hass-w1000-portal",
+  "zubir2k/homeassistant-esolatgps"
 ]
