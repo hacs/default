@@ -94,6 +94,7 @@
   "Aohzan/ipx800v5",
   "Archef2000/homeassistant-upsplus",
   "ardevd/ha-bobcatminer",
+  "ardevd/ha-dimo",
   "arifwn/homeassistant-whatspie-integration",
   "aronkahrs-us/inumet-weather-ha",
   "artspb/homeassistant-tk-husteblume",
@@ -480,6 +481,7 @@
   "h4de5/home-assistant-vimar",
   "ha-warmup/warmup",
   "HandyHat/ha-hildebrandglow-dcc",
+  "Hankanman/Area-Occupancy-Detection",
   "hardbyte/ha-evnex",
   "hasl-sensor/integration",
   "hasscc/hass-edge-tts",
@@ -1235,6 +1237,5 @@
   "zhbjsh/homeassistant-ssh",
   "zigul/HomeAssistant-CEZdistribuce",
   "ZsBT/hass-w1000-portal",
-  "zweckj/acaia"
-  "ZsBT/hass-w1000-portal"
+  "zubir2k/homeassistant-esolatgps"
 ]
