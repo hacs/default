@@ -1,7 +1,6 @@
 [
   "9a4gl/lovelace-centrometal-boiler-card",
   "a-p-z/datetime-card",
-  "AalianKhan/mushroom-strategy",
   "abmantis/ozw-network-visualization-card",
   "abualy/philips-tv-remote-card",
   "adizanni/floor3d-card",
@@ -91,6 +90,7 @@
   "denysdovhan/vacuum-card",
   "dermotduffy/advanced-camera-card",
   "dezihh/my-harmony-card",
+  "DigiLive/mushroom-strategy",
   "dimagoltsman/content-card-remote-control",
   "dimagoltsman/generic-remote-control-card",
   "dimagoltsman/refreshable-picture-card",
