@@ -29,6 +29,7 @@
   "benct/lovelace-github-entity-row",
   "benct/lovelace-multiple-entity-row",
   "benct/lovelace-xiaomi-vacuum-card",
+  "bendikrb/lovelace-form-card",
   "bernikr/lovelace-notify-card",
   "bernikr/lovelace-webos-keyboard-card",
   "berrywhite96/lovelace-shutter-row",
