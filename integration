@@ -1164,6 +1164,5 @@
   "zeronounours/HA-custom-component-energy-meter",
   "zhbjsh/homeassistant-ssh",
   "zigul/HomeAssistant-CEZdistribuce",
-  "ZsBT/hass-w1000-portal",
-  "zweckj/acaia"
+  "ZsBT/hass-w1000-portal"
 ]
