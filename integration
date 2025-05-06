@@ -107,6 +107,7 @@
   "asev/homeassistant-uponor",
   "astrandb/miele",
   "astrandb/sentio",
+  "astrandb/teracom_hass",
   "astrandb/viva",
   "astrandb/weatherlink",
   "ateodorescu/home-assistant-ipmi",
