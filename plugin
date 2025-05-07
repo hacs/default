@@ -356,5 +356,6 @@
   "wrodie/mixer-card",
   "ytilis/hass-progress-bar-feature",
   "zanna-37/hass-swipe-navigation",
-  "zeronounours/lovelace-energy-entity-row"
+  "zeronounours/lovelace-energy-entity-row",
+  "igor-podpalchenko/ha-weekly-schedule-card"
 ]
