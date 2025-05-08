@@ -391,6 +391,7 @@
   "epaulsen/energytariff",
   "epoplavskis/homeassistant_salus",
   "erikkastelec/hass-WEM-Portal",
+  "eriknn/ha-pax_ble",
   "eseglem/hass-wattbox",
   "evantaur/seiverkot-consumption",
   "evercape/hass-resol-KM2",
