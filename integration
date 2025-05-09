@@ -52,6 +52,7 @@
   "alryaz/hass-pik-intercom",
   "alryaz/hass-tns-energo",
   "alryaz/hass-turkov",
+  "Altrec/remko_mqtt-ha",
   "Amateur-God/home-assistant-technitiumdns",
   "amaximus/anniversary",
   "amaximus/bkk_stop",
