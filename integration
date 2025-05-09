@@ -173,6 +173,7 @@
   "bouwew/sems2mqtt",
   "bramkragten/mind",
   "bramstroker/homeassistant-powercalc",
+  "bramstroker/homeassistant-state-webhook",
   "Breina/idrac_power_monitor",
   "Breina/nad_controller",
   "Breina/PowerTagGateway",
