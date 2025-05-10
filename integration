@@ -348,6 +348,7 @@
   "dolezsa/thermal_comfort",
   "dominikamann/oekofen-pellematic-compact",
   "DominikWrobel/airmusic",
+  "Domintell/ha_domintell",
   "doudz/homeassistant-myjdownloader",
   "dphae/bsh",
   "drakhart/ha-super-soco-custom",
@@ -1267,4 +1268,3 @@
   "zigul/HomeAssistant-CEZdistribuce",
   "ZsBT/hass-w1000-portal",
   "zubir2k/homeassistant-esolatgps"
-]
