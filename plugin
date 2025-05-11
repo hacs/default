@@ -1,6 +1,6 @@
 [
+]
   "9a4gl/lovelace-centrometal-boiler-card",
-  "a-p-z/datetime-card",
   "abmantis/ozw-network-visualization-card",
   "abualy/philips-tv-remote-card",
   "adizanni/floor3d-card",
@@ -15,6 +15,7 @@
   "AmoebeLabs/swiss-army-knife-card",
   "Anonym-tsk/lovelace-starline-card",
   "Anrolosia/Shopping-List-with-Grocy-Card",
+  "a-p-z/datetime-card",
   "arallsopp/hass-hue-icons",
   "argaar/comfortable-environment-card",
   "artem-sedykh/mini-climate-card",
@@ -168,8 +169,8 @@
   "itobey/update-time-card",
   "itsbrianburton/slide-confirm",
   "itsteddyyo/strategy-pack",
-  "j-a-n/lovelace-wallpanel",
   "jampez77/multiline-entity-card",
+  "j-a-n/lovelace-wallpanel",
   "javawizard/ha-navbar-position",
   "jcwillox/lovelace-canary",
   "jcwillox/lovelace-paper-buttons-row",
@@ -260,6 +261,9 @@
   "Nicxe/home-assistant-smhialert-card",
   "nielsfaber/alarmo-card",
   "nielsfaber/scheduler-card",
+  "nutteloost/actions-card",
+  "nutteloost/simple-swipe-card",
+  "nutteloost/todo-swipe-card",
   "Nyaran/myjdownloader-card",
   "ofekashery/vertical-stack-in-card",
   "OliverEC04/compact-timetable-card",
@@ -284,8 +288,6 @@
   "punxaphil/maxi-media-player",
   "queimadus/cover-icon-element",
   "queimadus/last-changed-element",
-  "r-renato/ha-card-waze-travel-time",
-  "r-renato/ha-card-weather-conditions",
   "rautesamtr/thermal_comfort_icons",
   "rccoleman/lovelace-lamarzocco-config-card",
   "rejuvenate/lovelace-horizon-card",
@@ -298,6 +300,8 @@
   "roman-16/better-miflora-card",
   "RomRider/apexcharts-card",
   "royto/logbook-card",
+  "r-renato/ha-card-waze-travel-time",
+  "r-renato/ha-card-weather-conditions",
   "rsnodgrass/water-heater-card",
   "samuelgoodell/clock-weather-card-hui-icons",
   "Savjee/button-text-card",
@@ -358,4 +362,3 @@
   "ytilis/hass-progress-bar-feature",
   "zanna-37/hass-swipe-navigation",
   "zeronounours/lovelace-energy-entity-row"
-]
