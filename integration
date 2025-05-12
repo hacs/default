@@ -185,6 +185,7 @@
   "briis/weatherflow_forecast",
   "Brunas/meteo_lt",
   "bruxy70/Holidays",
+  "bvweerd/simple_pid_controller",
   "c-st/auto_areas",
   "c0un7-z3r0/hass-phoniebox",
   "c1pher-cn/heweather",
