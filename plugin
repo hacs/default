@@ -357,5 +357,6 @@
   "wrodie/mixer-card",
   "ytilis/hass-progress-bar-feature",
   "zanna-37/hass-swipe-navigation",
-  "zeronounours/lovelace-energy-entity-row"
+  "zeronounours/lovelace-energy-entity-row",
+  "YuzhaLab/lovelace-aqua"
 ]
