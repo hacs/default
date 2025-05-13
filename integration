@@ -1163,6 +1163,7 @@
   "thomluther/ha-anker-solix",
   "tijsverkoyen/HomeAssistant-FusionSolar",
   "tikismoke/home-assistant-plcbus",
+  "timlaing/modbus_local_gateway",
   "timmo001/homeassistant-integration-goxlr-utility",
   "timniklas/hass-blitzerde",
   "timniklas/hass-fitnesspark",
