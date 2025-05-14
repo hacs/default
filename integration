@@ -288,6 +288,7 @@
   "dahlb/ha_carrier",
   "dahlb/ha_hatch",
   "dahlb/ha_kia_hyundai",
+  "dala318/nordpool_planner",
   "dalinicus/homeassistant-acinfinity",
   "dan-r/HomeAssistant-NissanConnect",
   "danieldiazi/homeassistant-meteogalicia",
