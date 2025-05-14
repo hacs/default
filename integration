@@ -288,6 +288,7 @@
   "dahlb/ha_carrier",
   "dahlb/ha_hatch",
   "dahlb/ha_kia_hyundai",
+  "dala318/ev_load_balancing",
   "dala318/nordpool_planner",
   "dala318/python_poollab",
   "dalinicus/homeassistant-acinfinity",
