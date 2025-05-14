@@ -17,7 +17,6 @@ async def check():
                 return
 
     except AIOGitHubAPIException as e:
-        print(f"::error::{e}")
         exit(f"::error::{e}")
 
     exit(f"::error::'{repo}' has no releases")
