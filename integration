@@ -1145,6 +1145,7 @@
   "TekniskSupport/home-assistant-resrobot",
   "tetele/hvac_group",
   "tetienne/veolia-custom-component",
+  "ThaStealth/alfen_modbus",
   "TheByteStuff/RemoteSyslog_Service",
   "thecode/ha-onewire-sysbus",
   "thecode/ha-rpi_gpio",
