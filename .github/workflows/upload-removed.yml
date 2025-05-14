@@ -18,7 +18,7 @@ jobs:
     name: Upload
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@v4.1.7
+        uses: actions/checkout@v4.2.2
 
       - name: Validate with JSON schema
         uses: cardinalby/schema-validator-action@3.1.1
@@ -27,7 +27,7 @@ jobs:
           schema: 'tools/jsonschema/removed.schema.json'
 
       - name: Set up Python
-        uses: actions/setup-python@v5.2.0
+        uses: actions/setup-python@v5.6.0
         id: python
         with:
           python-version: "3.x"
@@ -37,7 +37,7 @@ jobs:
           pip3 install \
             --disable-pip-version-check \
             --ignore-installed \
-            awscli
+            awscli==1.36.39
 
       - name: Handle the removed file
         run: |
