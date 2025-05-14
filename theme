@@ -70,6 +70,7 @@
   "pbeckcom/green_slate_theme",
   "piitaya/lovelace-mushroom-themes",
   "Poeschl/slate_red",
+  "regg00/supaassistant",
   "ricardoquecria/caule-themes-pack-1",
   "robinwittebol/whatsapp-theme",
   "seangreen2/slate_theme",
@@ -78,6 +79,5 @@
   "th3jesta/ha-lcars",
   "TilmanGriesel/graphite",
   "williamahartman/noctis-solarized",
-  "wowgamr/animated-weather-card",
-  "regg00/supaassistant"
+  "wowgamr/animated-weather-card"
 ]
