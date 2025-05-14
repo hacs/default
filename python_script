@@ -7,5 +7,6 @@
   "kodi1/tracker_merge",
   "pmazz/ps_hassio_entities",
   "point-4ward/ps-date-countdown",
-  "Santobert/HA-UpdateClimate"
+  "Santobert/HA-UpdateClimate",
+  "kapkirk/Italy-Air-Quality-Index"
 ]
