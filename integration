@@ -895,6 +895,7 @@
   "openrgb-ha/openrgb-ha",
   "osk2/panasonic_smart_app",
   "osohotwateriot/osoenergy_community",
+  "OStrama/weishaupt_modbus",
   "oven-lab/tuya_cloud_map_extractor",
   "p0l0/hapetwalk",
   "pail23/stiebel_eltron_isg_component",
