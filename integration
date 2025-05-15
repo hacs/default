@@ -509,6 +509,7 @@
   "ha-warmup/warmup",
   "HandyHat/ha-hildebrandglow-dcc",
   "Hankanman/Area-Occupancy-Detection",
+  "happydev-ca/evduty-home-assistant",
   "hardbyte/ha-evnex",
   "hasl-sensor/integration",
   "hasscc/hass-edge-tts",
