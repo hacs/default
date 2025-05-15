@@ -731,31 +731,7 @@
     "link": "https://github.com/hacs/default/pull/1373"
   },
   {
-    "repository": "custom-cards/upcoming-media-card",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1373"
-  },
-  {
     "repository": "maykar/plex_assistant",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1373"
-  },
-  {
-    "repository": "custom-components/sensor.sonarr_upcoming_media",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1373"
-  },
-  {
-    "repository": "custom-components/sensor.radarr_upcoming_media",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1373"
-  },
-  {
-    "repository": "custom-components/sensor.plex_recently_added",
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1373"
@@ -1815,5 +1791,149 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/3046"
+  },
+  {
+    "repository": "myTselection/MijnTuin",
+    "reason": "MijnTuin.org site stopped activities",
+    "removal_type": "remove",
+    "link": "https://github.com/myTselection/MijnTuin/issues/14"
+  },
+  {
+    "repository": "MesserschmittX/ha-nicehash-excavator-monitor",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4382"
+  },
+  {
+    "repository": "georgezhao2010/midea_ac_lan",
+    "reason": "Repository looks abandoned and the content is no longer working",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/3748"
+  },
+  {
+    "repository": "FaserF/ha-deutschebahn",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4391"
+  },
+  {
+    "repository": "dreed47/redfin",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4317"
+  },
+  {
+    "repository": "rogsme/ute_homeassistant_integration",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4254"
+  },
+  {
+    "repository": "FaserF/ha-rewe",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3079"
+  },
+  {
+    "repository": "isabellaalstrom/sensor.krisinformation",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4418"
+  },
+  {
+    "repository": "isabellaalstrom/krisinfo-card",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4419"
+  },
+  {
+    "repository": "DarkFox/rejseplanen-stog-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3118"
+  },
+  {
+    "repository": "DarkFox/rejseplanen-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3118"
+  },
+  {
+    "repository": "eifinger/open_route_service",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3150"
+  },
+  {
+    "repository": "dalinicus/homeassistant-aerogarden",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3223"
+  },
+  {
+    "repository": "dan-r/HomeAssistant-Ohme",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3223"
+  },
+  {
+    "repository": "rt400/ReversoTTS-HA",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3223"
+  },
+  {
+    "repository": "troykelly/hacs-trackimo",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3223"
+  },
+  {
+    "repository": "YorkshireIoT/ha-google-fit",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3223"
+  },
+  {
+    "repository": "viktak/ha-cc-openweathermap_all",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3254"
+  },
+  {
+    "repository": "viktak/ha-cc-abalin-nameday",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3254"
+  },
+  {
+    "repository": "skodaconnect/homeassistant-skodaconnect",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3254"
+  },
+  {
+    "repository": "Bouni/abfallplus",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3254"
+  },
+  {
+    "repository": "ITTV-tools/homeassistant-kostalplenticore",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3360"
+  },
+  {
+    "repository": "Daanoz/ha-google-photos",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3360"
+  },
+  {
+    "repository": "iMicknl/ha-tahoma",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3360"
   }
 ]
