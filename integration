@@ -335,6 +335,7 @@
   "denysdovhan/ha-check-weather",
   "dermotduffy/hass-web-proxy-integration",
   "dext0r/yandex_smart_home",
+  "denysdovhan/ha-yasno-outages",
   "dgomes/ha_erse",
   "dgomes/ha_generic_water_heater",
   "diego7marques/ha-aws-cost",
