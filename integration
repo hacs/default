@@ -1120,6 +1120,7 @@
   "sockless-coding/garo_wallbox",
   "sockless-coding/panasonic_cc",
   "SoftXperience/home-assistant-foxess-api",
+  "soloam/ha-fireflyiii-integration",
   "soloam/ha-pid-controller",
   "sopelj/hass-ember-mug-component",
   "SpanPanel/span",
