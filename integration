@@ -534,6 +534,7 @@
   "HomeAssistant-Mods/home-assistant-miele",
   "hostcc/hass-gs-alarm",
   "HrGaertner/HA-vent-optimization",
+  "hsakoh/ha-switchbot-kvs-camera",
   "hudsonbrendon/HA-drivvo",
   "hudsonbrendon/ha_epic_games",
   "hugobloem/stateful_scenes",
