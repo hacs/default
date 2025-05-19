@@ -865,6 +865,7 @@
   "mvdwetering/huesyncbox",
   "mvdwetering/yamaha_ynca",
   "mweinelt/ha-prometheus-sensor",
+  "myhades/ha-clash-controller",
   "myhomeiot/DahuaVTO",
   "myTselection/bibliotheek_be",
   "myTselection/Carbu_com",
