@@ -521,6 +521,7 @@
   "happydev-ca/evduty-home-assistant",
   "hardbyte/ha-evnex",
   "hasl-sensor/integration",
+  "hass-uconnect/hass-uconnect",
   "hasscc/hass-edge-tts",
   "HASwitchPlate/openHASP-custom-component",
   "hcoohb/hass-yeelightbt",
