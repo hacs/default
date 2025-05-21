@@ -1194,6 +1194,7 @@
   "tetele/hvac_group",
   "tetienne/veolia-custom-component",
   "tggm/rointe-radiators",
+  "theaquaflower/AquaFlower_HA_Integration",
   "ThaStealth/alfen_modbus",
   "TheByteStuff/RemoteSyslog_Service",
   "thecode/ha-onewire-sysbus",
