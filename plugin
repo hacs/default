@@ -368,9 +368,9 @@
   "wiltodelta/homeassistant-sugartv-card",
   "WJDDesigns/Ultra-Vehicle-Card",
   "wrodie/mixer-card",
+  "xBourner/status-card",
   "ytilis/hass-progress-bar-feature",
   "zanac/temperature-heatmap-card",
-  "xBourner/status-card",
   "zanna-37/hass-swipe-navigation",
   "zeronounours/lovelace-energy-entity-row"
 ]
