@@ -1028,6 +1028,7 @@
   "rdehuyss/homeassistant-custom_components-denkovi",
   "redlukas/emu_mbus_center",
   "redpomodoro/fronius_modbus",
+  "redstone99/hass-alert2",
   "regulad/hass-lacrosseview",
   "remialban/ipx800v3",
   "remmob/itho_amber",
