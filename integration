@@ -162,6 +162,7 @@
   "BJReplay/ha-solcast-solar",
   "bkbilly/medisanabp_ble",
   "bkbilly/oralb_ble",
+  "bkbilly/seismoi",
   "bkbilly/tpms_ble",
   "blakeblackshear/frigate-hass-integration",
   "blear/hasslife",
