@@ -563,6 +563,7 @@
   "hostcc/hass-gs-alarm",
   "HrGaertner/HA-vent-optimization",
   "hudsonbrendon/HA-drivvo",
+  "hudsonbrendon/HA-solar-plus-intelbras",
   "hudsonbrendon/ha_epic_games",
   "hugobloem/stateful_scenes",
   "hultenvp/solis-sensor",
