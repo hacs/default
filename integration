@@ -786,6 +786,7 @@
   "lizardsystems/hass-tnse",
   "ljmerza/ha-email-sensor",
   "lloydw/hass-spanet",
+  "lnagel/hass-eaton-ups-mqtt",
   "lociii/homeassistant-csgo",
   "lociii/homeassistant-overwolf-status",
   "lolouk44/CurrentCost_HA_CC",
