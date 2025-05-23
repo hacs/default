@@ -1619,12 +1619,6 @@
     "link": "https://github.com/hacs/integration/issues/4023"
   },
   {
-    "repository": "marcokreeft87/room-card",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/2683"
-  },
-  {
     "repository": "nagyrobi/home-assistant-custom-components-linkplay",
     "reason": "Requested by author",
     "removal_type": "remove",
@@ -1863,5 +1857,77 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/3150"
+  },
+  {
+    "repository": "dalinicus/homeassistant-aerogarden",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3223"
+  },
+  {
+    "repository": "dan-r/HomeAssistant-Ohme",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3223"
+  },
+  {
+    "repository": "rt400/ReversoTTS-HA",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3223"
+  },
+  {
+    "repository": "troykelly/hacs-trackimo",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3223"
+  },
+  {
+    "repository": "YorkshireIoT/ha-google-fit",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3223"
+  },
+  {
+    "repository": "viktak/ha-cc-openweathermap_all",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3254"
+  },
+  {
+    "repository": "viktak/ha-cc-abalin-nameday",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3254"
+  },
+  {
+    "repository": "skodaconnect/homeassistant-skodaconnect",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3254"
+  },
+  {
+    "repository": "Bouni/abfallplus",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3254"
+  },
+  {
+    "repository": "ITTV-tools/homeassistant-kostalplenticore",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3360"
+  },
+  {
+    "repository": "Daanoz/ha-google-photos",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3360"
+  },
+  {
+    "repository": "iMicknl/ha-tahoma",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3360"
   }
 ]
