@@ -1168,6 +1168,7 @@
   "sockless-coding/garo_wallbox",
   "sockless-coding/panasonic_cc",
   "SoftXperience/home-assistant-foxess-api",
+  "sokolovs/wda-sensor",
   "soloam/ha-pid-controller",
   "sopelj/hass-ember-mug-component",
   "SpanPanel/span",
