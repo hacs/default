@@ -348,6 +348,7 @@
   "definitio/ha-rhvoice",
   "definitio/ha-sox",
   "Dekadinious/trsdm_custom_device_tracker_for_home_assistant",
+  "DeKaN/ha-boneco",
   "deler-aziz/fuel_prices_sweden",
   "delphiki/hass-pronote",
   "delphiki/hass-tarif-edf",
