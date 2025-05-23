@@ -360,6 +360,7 @@
   "dgomes/ha_erse",
   "dgomes/ha_generic_water_heater",
   "diego7marques/ha-aws-cost",
+  "DigitallyRefined/ha-cloudflare-speed-test",
   "dimagoltsman/ha-proof-dashcam-integration",
   "dingo35/ha-SmartEVSEv3",
   "djansen1987/SAJeSolar",
