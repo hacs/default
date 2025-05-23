@@ -710,6 +710,7 @@
   "kgn3400/remote_activity_monitor",
   "kgn3400/state_updated",
   "kgn3400/trafikmeldinger",
+  "kgn3400/wage_calculator",
   "killer0071234/ha-hiq",
   "KiraPC/ha-switchbot-remote",
   "kirei/hass-chargeamps",
