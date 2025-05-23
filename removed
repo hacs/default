@@ -1893,5 +1893,47 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/3223"
+  },
+  {
+    "repository": "viktak/ha-cc-openweathermap_all",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3254"
+  },
+  {
+    "repository": "viktak/ha-cc-abalin-nameday",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3254"
+  },
+  {
+    "repository": "skodaconnect/homeassistant-skodaconnect",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3254"
+  },
+  {
+    "repository": "Bouni/abfallplus",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3254"
+  },
+  {
+    "repository": "ITTV-tools/homeassistant-kostalplenticore",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3360"
+  },
+  {
+    "repository": "Daanoz/ha-google-photos",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3360"
+  },
+  {
+    "repository": "iMicknl/ha-tahoma",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3360"
   }
 ]
