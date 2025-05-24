@@ -1619,12 +1619,6 @@
     "link": "https://github.com/hacs/integration/issues/4023"
   },
   {
-    "repository": "marcokreeft87/room-card",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/2683"
-  },
-  {
     "repository": "nagyrobi/home-assistant-custom-components-linkplay",
     "reason": "Requested by author",
     "removal_type": "remove",
@@ -1917,5 +1911,23 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/3254"
+  },
+  {
+    "repository": "ITTV-tools/homeassistant-kostalplenticore",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3360"
+  },
+  {
+    "repository": "Daanoz/ha-google-photos",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3360"
+  },
+  {
+    "repository": "iMicknl/ha-tahoma",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3360"
   }
 ]
