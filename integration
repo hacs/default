@@ -1222,6 +1222,7 @@
   "tbouron/ha-agur",
   "tcarwash/home-assistant_noaa-space-weather",
   "tefinger/hass-brematic",
+  "tehlers/ha-drooff-fireplus",
   "TekniskSupport/home-assistant-resrobot",
   "tetele/hvac_group",
   "tetienne/veolia-custom-component",
