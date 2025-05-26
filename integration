@@ -736,6 +736,7 @@
   "kongo09/hass-dell-printer",
   "kongo09/philips-airpurifier-coap",
   "konnected-io/noonlight-hass",
+  "Korkuttum/Tuya_Scale",
   "kotborealis/home-assistant-custom-components-cover-time-based-synced",
   "koying/jellyfin_ha",
   "koying/mqtt_discoverystream_ha",
