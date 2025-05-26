@@ -1934,24 +1934,24 @@
     "repository": "gpambrozio/BambuAppDaemon",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "na"
+    "link": "https://github.com/hacs/default/pull/3462"
   },
   {
     "repository": "hellqvio86/home_assistant_casambi",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "na"
+    "link": "https://github.com/hacs/default/pull/3462"
   },
   {
     "repository": "custom-components/grocy",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "na"
+    "link": "https://github.com/hacs/default/pull/3462"
   },
   {
     "repository": "albinmedoc/ha-cleanmate",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "na"
+    "link": "https://github.com/hacs/default/pull/3462"
   }
 ]
