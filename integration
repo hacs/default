@@ -108,6 +108,7 @@
   "ardevd/ha-dimo",
   "arifwn/homeassistant-whatspie-integration",
   "aronkahrs-us/inumet-weather-ha",
+  "aropop/home-assistant-cronicle",
   "artspb/homeassistant-tk-husteblume",
   "asantaga/lightwaverf_HA_EnergySensor",
   "asantaga/wiserHomeAssistantPlatform",
