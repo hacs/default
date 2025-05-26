@@ -770,6 +770,7 @@
   "leorbs/airco2ntrol",
   "leranp/HomeAssistant-galatz-news",
   "lewei50/ha_iammeter",
+  "lewei50/ha_iammeter_link",
   "lewei50/ha_iammeter_modbus",
   "lhw/cloudweatherproxy",
   "libdyson-wg/ha-dyson",
