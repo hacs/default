@@ -801,6 +801,7 @@
   "ljmerza/ha-email-sensor",
   "lloydw/hass-spanet",
   "lnagel/hass-eaton-ups-mqtt",
+  "lnagel/hass-komfovent",
   "lociii/homeassistant-csgo",
   "lociii/homeassistant-overwolf-status",
   "lolouk44/CurrentCost_HA_CC",
