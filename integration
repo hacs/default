@@ -845,6 +845,7 @@
   "marq24/ha-senec-v3",
   "marq24/ha-tibber-pulse-local",
   "marq24/ha-waterkotte",
+  "martinarva/dynamic_energy_cost",
   "MartinDybal/TapHome-HomeAssistant",
   "Martinvdm/garbage-nissewaard-homeassistant",
   "masaccio/ha-kingspan-watchman-sensit",
