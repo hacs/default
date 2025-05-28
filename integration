@@ -1220,6 +1220,7 @@
   "snicker/zwift_hass",
   "snikch/climate.escea",
   "sockless-coding/garo_wallbox",
+  "sockless-coding/ha-eaton-ups-companion",
   "sockless-coding/panasonic_cc",
   "SoftXperience/home-assistant-foxess-api",
   "sokolovs/wda-sensor",
