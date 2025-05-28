@@ -809,6 +809,7 @@
   "NinDTendo/homeassistant_gradual_volume_control",
   "NinDTendo/tobi",
   "nkvoll/home-assistant-qsys-qrc",
+  "nocturno66/MicroPIC-Energy-Meter-comp",
   "nordicopen/easee_hass",
   "nstrelow/ha_philips_android_tv",
   "nyffchanium/argoclima-integration",
@@ -1177,6 +1178,5 @@
   "zeronounours/HA-custom-component-energy-meter",
   "zhbjsh/homeassistant-ssh",
   "zigul/HomeAssistant-CEZdistribuce",
-  "ZsBT/hass-w1000-portal",
-  "nocturno66/MicroPIC-Energy-Meter-comp"
+  "ZsBT/hass-w1000-portal"  
 ]
