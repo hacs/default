@@ -159,6 +159,7 @@
   "hasl-sensor/lovelace-hasl-traffic-status-card",
   "homeassistant-extras/device-card",
   "homeassistant-extras/petkit-device-cards",
+  "homeassistant-extras/pi-hole-card",
   "homeassistant-extras/room-summary-card",
   "homeassistant-extras/toolbar-status-chips",
   "homeassistant-extras/zwave-card-set",
