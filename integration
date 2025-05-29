@@ -156,6 +156,7 @@
   "bcpearce/homeassistant-gtfs-realtime",
   "bdunn44/hass-jellyfish-lighting",
   "Beat-YT/hydropeak-ha",
+  "Beat2er/homeassistant-trmnl-battery",
   "Bebbssos/ha-defa-power",
   "beecho01/material-symbols",
   "ben8p/home-assistant-bunq-balance-sensors",
@@ -587,6 +588,7 @@
   "home-assistant-HomeWhiz/home-assistant-HomeWhiz",
   "Home-Is-Where-You-Hang-Your-Hack/sensor.goveetemp_bt_hci",
   "HomeAssistant-Mods/home-assistant-miele",
+  "hopkins-tk/home-assistant-aseko-local",
   "hostcc/hass-gs-alarm",
   "houthacker/remeha-modbus",
   "HrGaertner/HA-vent-optimization",
@@ -908,6 +910,7 @@
   "MiguelAngelLV/ha-input-stats",
   "MiguelAngelLV/ha-octopus-spain",
   "MiguelAngelLV/ha-tarifa-20td",
+  "mike81gr/deddie-metering",
   "mikelawrence/senseme-hacs",
   "mill1000/midea-ac-py",
   "MineTech13/homeassistant-basestation",
@@ -1436,6 +1439,7 @@
   "zhbjsh/homeassistant-ssh",
   "zigul/HomeAssistant-CEZdistribuce",
   "ZsBT/hass-w1000-portal",
+  "zubir2k/homeassistant-dailyhadith",
   "zubir2k/homeassistant-esolatgps",
   "zubir2k/homeassistant-esolattakwim"
 ]
