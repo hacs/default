@@ -1757,12 +1757,6 @@
     "link": "https://github.com/hacs/default/pull/3046"
   },
   {
-    "repository": "briis/meteobridge",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/3046"
-  },
-  {
     "repository": "dahlb/ha_sense",
     "reason": "Repository is archived",
     "removal_type": "remove",
