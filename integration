@@ -221,6 +221,7 @@
   "caronc/ha-ultrasync",
   "cathiele/homeassistant-goecharger",
   "cavefire/Bose-Homeassistant",
+  "cavefire/hass-openid",
   "cazeaux/ha-iracing",
   "cdnninja/yoto_ha",
   "chaimchaikin/molad-ha",
