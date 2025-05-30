@@ -384,6 +384,7 @@
   "dimagoltsman/ha-proof-dashcam-integration",
   "dingo35/ha-SmartEVSEv3",
   "dinki/view_assist_integration",
+  "dirkgroenen/hass-evse-load-balancer",
   "djansen1987/SAJeSolar",
   "djbulsink/panasonic_ac",
   "djerik/beolink-ha",
