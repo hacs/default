@@ -1,5 +1,4 @@
 [
-  "goruck/home-generative-agent",
   "0xAlon/dolphin",
   "0xAlon/tami4edge",
   "3ll3d00d/jriver_homeassistant",
@@ -498,6 +497,7 @@
   "golles/ha-knmi",
   "golles/Home-Assistant-Sensor-MC66C",
   "gorfo66/flashbird-homeassistant",
+  "goruck/home-generative-agent",
   "greghesp/ha-bambulab",
   "greghesp/ha-evonic",
   "gregoryduckworth/GoogleGeocode-HASS",
