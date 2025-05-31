@@ -267,6 +267,7 @@
   "petergridge/Irrigation-Card",
   "pgorod/power-todoist-card",
   "phischdev/lovelace-mushroom-better-sliders",
+  "Pho3niX90/jk-bms-card",
   "piitaya/lovelace-climate-mode-entity-row",
   "piitaya/lovelace-mushroom",
   "PiotrMachowski/Home-Assistant-Lovelace-HTML-Jinja2-Template-card",
@@ -354,6 +355,5 @@
   "WJDDesigns/Ultra-Vehicle-Card",
   "wrodie/mixer-card",
   "zanna-37/hass-swipe-navigation",
-  "zeronounours/lovelace-energy-entity-row",
-  "Pho3niX90/jk-bms-card"
+  "zeronounours/lovelace-energy-entity-row"
 ]
