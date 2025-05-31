@@ -537,6 +537,7 @@
   "gjohansson-ST/attribute_as_sensor",
   "gjohansson-ST/response_as_sensor",
   "gjohansson-ST/sector",
+  "glenndehaan/homeassistant-hdfury",
   "gndean/home-assistant-hypervolt-charger",
   "godely/ha-dremel-3d-printer",
   "golles/ha-kamstrup_403",
