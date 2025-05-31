@@ -1619,12 +1619,6 @@
     "link": "https://github.com/hacs/integration/issues/4023"
   },
   {
-    "repository": "marcokreeft87/room-card",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/2683"
-  },
-  {
     "repository": "nagyrobi/home-assistant-custom-components-linkplay",
     "reason": "Requested by author",
     "removal_type": "remove",
@@ -1758,12 +1752,6 @@
   },
   {
     "repository": "myTselection/youfone_be",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/3046"
-  },
-  {
-    "repository": "briis/meteobridge",
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/3046"
@@ -1935,5 +1923,29 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/3360"
+  },
+  {
+    "repository": "gpambrozio/BambuAppDaemon",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3462"
+  },
+  {
+    "repository": "hellqvio86/home_assistant_casambi",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3462"
+  },
+  {
+    "repository": "custom-components/grocy",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3462"
+  },
+  {
+    "repository": "albinmedoc/ha-cleanmate",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3462"
   }
 ]
