@@ -762,6 +762,7 @@
   "kgn3400/calendar_merge",
   "kgn3400/carousel",
   "kgn3400/docker_status",
+  "kgn3400/hiper_drift",
   "kgn3400/pypi_updates",
   "kgn3400/remote_activity_monitor",
   "kgn3400/state_updated",
