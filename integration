@@ -1354,6 +1354,7 @@
   "thomluther/ha-anker-solix",
   "tijsverkoyen/HomeAssistant-FusionSolar",
   "tikismoke/home-assistant-plcbus",
+  "TilmanGriesel/ha_trmnl_weather_station",
   "timlaing/modbus_local_gateway",
   "timmo001/homeassistant-integration-goxlr-utility",
   "timniklas/hass-blitzerde",
