@@ -1,0 +1,6 @@
+{
+  "mcaonline/nanoleaf-essentials-hass": {
+    "name": "Nanoleaf Essentials",
+    "domains": ["light"]
+  }
+}
