@@ -1139,6 +1139,7 @@
   "redpomodoro/fronius_modbus",
   "redstone99/hass-alert2",
   "Refoss/refoss-homeassistant",
+  "Refoss/refoss_rpc",
   "regulad/hass-lacrosseview",
   "remialban/ipx800v3",
   "remimikalsen/ollama_vision",
