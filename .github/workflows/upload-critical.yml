@@ -8,6 +8,8 @@ on:
     paths:
       - critical
 
+permissions: {}
+
 concurrency:
   cancel-in-progress: true
   group: upload-critical
@@ -27,7 +29,7 @@ jobs:
           schema: 'tools/jsonschema/critical.schema.json'
 
       - name: Set up Python
-        uses: actions/setup-python@v5.3.0
+        uses: actions/setup-python@v5.6.0
         id: python
         with:
           python-version: "3.x"
