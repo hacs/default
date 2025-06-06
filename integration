@@ -1491,6 +1491,7 @@
   "zeronounours/HA-custom-component-energy-meter",
   "zhbjsh/homeassistant-ssh",
   "zigul/HomeAssistant-CEZdistribuce",
+  "zollak/homeassistant-syslog-receiver",
   "ZsBT/hass-w1000-portal",
   "zubir2k/homeassistant-dailyhadith",
   "zubir2k/homeassistant-esolatgps",
