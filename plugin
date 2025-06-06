@@ -190,6 +190,7 @@
   "junkfix/config-editor-card",
   "junkfix/numberbox-card",
   "JurajNyiri/PlexMeetsHomeAssistant",
+  "jwillmer/tariff-chart",
   "kalkih/mini-graph-card",
   "kalkih/mini-media-player",
   "kalkih/simple-weather-card",
@@ -370,6 +371,5 @@
   "ytilis/hass-progress-bar-feature",
   "zanac/temperature-heatmap-card",
   "zanna-37/hass-swipe-navigation",
-  "zeronounours/lovelace-energy-entity-row",
-  "jwillmer/tariff-chart"
+  "zeronounours/lovelace-energy-entity-row"  
 ]
