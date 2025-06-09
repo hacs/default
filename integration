@@ -212,6 +212,7 @@
   "bremor/bonaire_myclimate",
   "bremor/bureau_of_meteorology",
   "bremor/public_transport_victoria",
+  "brenard/hass-ftp",
   "brianegge/home-assistant-sdnotify",
   "briis/weatherflow_forecast",
   "Brunas/meteo_lt",
