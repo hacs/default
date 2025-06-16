@@ -594,6 +594,7 @@
   "hasl-sensor/integration",
   "hass-uconnect/hass-uconnect",
   "hasscc/hass-edge-tts",
+  "Haluska77/regulus-ha",
   "HASwitchPlate/openHASP-custom-component",
   "hcoohb/hass-yeelightbt",
   "HCookie/Webhook-Service-home-assistant",
