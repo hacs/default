@@ -1953,5 +1953,11 @@
     "reason": "No longer working",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/4144"
+  },
+  {
+    "repository": "bruxy70/Holidays",
+    "reason": "Deprecated - moved into HA Core",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4167"
   }
 ]
