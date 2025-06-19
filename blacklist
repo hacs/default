@@ -58,6 +58,7 @@
   "chaptergy/noctis-grey",
   "clayauld/lovelace-darksky-card",
   "codyc1515/ha-contact-energy",
+  "custom-cards/bar-card",
   "custom-cards/boilerplate-card",
   "custom-cards/button-entity-row",
   "custom-cards/camera-card",
