@@ -1959,5 +1959,11 @@
     "reason": "Deprecated - moved into HA Core",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/4167"
+  },
+  {
+    "repository": "custom-cards/bar-card",
+    "reason": "Repository is no longer maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4172"
   }
 ]
