@@ -1965,5 +1965,11 @@
     "reason": "Repository is no longer maintained",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/4172"
+  },
+  {
+    "repository": "Deejayfool/hass-shutter-card",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4199"
   }
 ]
