@@ -1953,5 +1953,23 @@
     "reason": "No longer working",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/4144"
+  },
+  {
+    "repository": "bruxy70/Holidays",
+    "reason": "Deprecated - moved into HA Core",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4167"
+  },
+  {
+    "repository": "custom-cards/bar-card",
+    "reason": "Repository is no longer maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4172"
+  },
+  {
+    "repository": "Deejayfool/hass-shutter-card",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4199"
   }
 ]
