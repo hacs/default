@@ -731,31 +731,7 @@
     "link": "https://github.com/hacs/default/pull/1373"
   },
   {
-    "repository": "custom-cards/upcoming-media-card",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1373"
-  },
-  {
     "repository": "maykar/plex_assistant",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1373"
-  },
-  {
-    "repository": "custom-components/sensor.sonarr_upcoming_media",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1373"
-  },
-  {
-    "repository": "custom-components/sensor.radarr_upcoming_media",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/1373"
-  },
-  {
-    "repository": "custom-components/sensor.plex_recently_added",
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/1373"
@@ -1643,12 +1619,6 @@
     "link": "https://github.com/hacs/integration/issues/4023"
   },
   {
-    "repository": "marcokreeft87/room-card",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/2683"
-  },
-  {
     "repository": "nagyrobi/home-assistant-custom-components-linkplay",
     "reason": "Requested by author",
     "removal_type": "remove",
@@ -1787,12 +1757,6 @@
     "link": "https://github.com/hacs/default/pull/3046"
   },
   {
-    "repository": "briis/meteobridge",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/3046"
-  },
-  {
     "repository": "dahlb/ha_sense",
     "reason": "Repository is archived",
     "removal_type": "remove",
@@ -1851,5 +1815,167 @@
     "reason": "Request from author",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/4254"
+  },
+  {
+    "repository": "FaserF/ha-rewe",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3079"
+  },
+  {
+    "repository": "isabellaalstrom/sensor.krisinformation",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4418"
+  },
+  {
+    "repository": "isabellaalstrom/krisinfo-card",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4419"
+  },
+  {
+    "repository": "DarkFox/rejseplanen-stog-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3118"
+  },
+  {
+    "repository": "DarkFox/rejseplanen-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3118"
+  },
+  {
+    "repository": "eifinger/open_route_service",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3150"
+  },
+  {
+    "repository": "dalinicus/homeassistant-aerogarden",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3223"
+  },
+  {
+    "repository": "dan-r/HomeAssistant-Ohme",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3223"
+  },
+  {
+    "repository": "rt400/ReversoTTS-HA",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3223"
+  },
+  {
+    "repository": "troykelly/hacs-trackimo",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3223"
+  },
+  {
+    "repository": "YorkshireIoT/ha-google-fit",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3223"
+  },
+  {
+    "repository": "viktak/ha-cc-openweathermap_all",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3254"
+  },
+  {
+    "repository": "viktak/ha-cc-abalin-nameday",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3254"
+  },
+  {
+    "repository": "skodaconnect/homeassistant-skodaconnect",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3254"
+  },
+  {
+    "repository": "Bouni/abfallplus",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3254"
+  },
+  {
+    "repository": "ITTV-tools/homeassistant-kostalplenticore",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3360"
+  },
+  {
+    "repository": "Daanoz/ha-google-photos",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3360"
+  },
+  {
+    "repository": "iMicknl/ha-tahoma",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3360"
+  },
+  {
+    "repository": "gpambrozio/BambuAppDaemon",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3462"
+  },
+  {
+    "repository": "hellqvio86/home_assistant_casambi",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3462"
+  },
+  {
+    "repository": "custom-components/grocy",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3462"
+  },
+  {
+    "repository": "albinmedoc/ha-cleanmate",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3462"
+  },
+  {
+    "repository": "rsnodgrass/hass-helium",
+    "reason": "No longer working",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4144"
+  },
+  {
+    "repository": "bruxy70/Holidays",
+    "reason": "Deprecated - moved into HA Core",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4167"
+  },
+  {
+    "repository": "custom-cards/bar-card",
+    "reason": "Repository is no longer maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4172"
+  },
+  {
+    "repository": "Deejayfool/hass-shutter-card",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4199"
+  },
+  {
+    "repository": "tetienne/veolia-custom-component",
+    "reason": "No longer working",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4208"
   }
 ]
