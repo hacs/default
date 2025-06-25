@@ -1982,12 +1982,12 @@
     "repository": "GuyLewin/home-assistant-lifetime-fitness",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/3649"
   },
   {
     "repository": "carleeno/elevenlabs_tts",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/3649"
   }
 ]
