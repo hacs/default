@@ -1977,5 +1977,17 @@
     "reason": "No longer working",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/4208"
+  },
+  {
+    "repository": "GuyLewin/home-assistant-lifetime-fitness",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3649"
+  },
+  {
+    "repository": "carleeno/elevenlabs_tts",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3649"
   }
 ]
