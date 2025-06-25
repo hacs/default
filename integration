@@ -1045,7 +1045,6 @@
   "NinDTendo/homeassistant_gradual_volume_control",
   "NinDTendo/tobi",
   "nkvoll/home-assistant-qsys-qrc",
-  "nocturno66/MicroPIC_Energy_Meter",
   "nordicopen/easee_hass",
   "normcyr/home-assistant-montreal-aqi",
   "nstrelow/ha_philips_android_tv",
@@ -1525,5 +1524,6 @@
   "zubir2k/homeassistant-dailyhadith",
   "zubir2k/homeassistant-esolatgps",
   "zubir2k/homeassistant-esolattakwim",
-  "zulufoxtrot/ha-zyxel"
+  "zulufoxtrot/ha-zyxel",
+  "nocturno66/MicroPIC_Energy_Meter"
 ]
