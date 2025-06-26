@@ -8,6 +8,8 @@ on:
     paths:
       - critical
 
+permissions: {}
+
 concurrency:
   cancel-in-progress: true
   group: upload-critical
