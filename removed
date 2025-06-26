@@ -1757,12 +1757,6 @@
     "link": "https://github.com/hacs/default/pull/3046"
   },
   {
-    "repository": "briis/meteobridge",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/3046"
-  },
-  {
     "repository": "dahlb/ha_sense",
     "reason": "Repository is archived",
     "removal_type": "remove",
@@ -1953,5 +1947,47 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/3462"
+  },
+  {
+    "repository": "rsnodgrass/hass-helium",
+    "reason": "No longer working",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4144"
+  },
+  {
+    "repository": "bruxy70/Holidays",
+    "reason": "Deprecated - moved into HA Core",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4167"
+  },
+  {
+    "repository": "custom-cards/bar-card",
+    "reason": "Repository is no longer maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4172"
+  },
+  {
+    "repository": "Deejayfool/hass-shutter-card",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4199"
+  },
+  {
+    "repository": "tetienne/veolia-custom-component",
+    "reason": "No longer working",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4208"
+  },
+  {
+    "repository": "GuyLewin/home-assistant-lifetime-fitness",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3649"
+  },
+  {
+    "repository": "carleeno/elevenlabs_tts",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3649"
   }
 ]
