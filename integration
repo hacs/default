@@ -321,6 +321,7 @@
   "custom-components/weatheralerts",
   "custom-components/youtube",
   "custom-components/zaptec",
+  "cvl01/ha-ovo-charge",
   "cvele/playnite_web_mqtt",
   "cyberjunky/home-assistant-arpscan_tracker",
   "cyberjunky/home-assistant-garmin_connect",
