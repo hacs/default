@@ -1284,6 +1284,7 @@
   "tomasmcguinness/homeassistant-mixergy",
   "TomBrien/cardiffwaste-ha",
   "tomer-w/ha-nmea2000",
+  "tomer-w/ha-victron-mqtt",
   "tonyroberts/hawundasmart",
   "toreamun/amshan-homeassistant",
   "toreamun/victorsmartkill-homeassistant",
