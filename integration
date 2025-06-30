@@ -800,6 +800,7 @@
   "klausj1/homeassistant-statistics",
   "Kleinrotti/hass-senertec",
   "klejejs/ha-thermia-heat-pump-integration",
+  "klokku/klokku-home-assistant-integration",
   "Knifa/led-matrix-zmq-hass",
   "knudsvik/energyscore",
   "kodi1/darksky_m",
