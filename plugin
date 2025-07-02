@@ -1,4 +1,5 @@
 [
+  "0Paul89/vienna-transport-card",
   "9a4gl/lovelace-centrometal-boiler-card",
   "a-p-z/datetime-card",
   "abmantis/ozw-network-visualization-card",
@@ -175,7 +176,6 @@
   "Hypfer/lovelace-valetudo-map-card",
   "iablon/HomeAssistant-Touchpad-Card",
   "iantrich/config-template-card",
-  "iantrich/podcast-card",
   "iantrich/radial-menu",
   "iantrich/restriction-card",
   "iantrich/roku-card",
