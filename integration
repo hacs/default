@@ -401,6 +401,7 @@
   "dext0r/yandex_smart_home",
   "dgomes/ha_erse",
   "dgomes/ha_generic_water_heater",
+  "dhover/ha-iungo",
   "diego7marques/ha-aws-cost",
   "DigitallyRefined/ha-cloudflare-speed-test",
   "dimagoltsman/ha-proof-dashcam-integration",
