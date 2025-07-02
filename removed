@@ -1989,5 +1989,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/3649"
+  },
+  {
+    "repository": "iantrich/podcast-card",
+    "reason": "Repository is no longer maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4261"
   }
 ]
