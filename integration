@@ -610,6 +610,7 @@
   "hanwg/sg-bus-arrivals",
   "happydev-ca/evduty-home-assistant",
   "hardbyte/ha-evnex",
+  "HarvsG/ha-glinet4-integration",
   "hasl-sensor/integration",
   "hass-uconnect/hass-uconnect",
   "hasscc/hass-edge-tts",
