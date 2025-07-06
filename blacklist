@@ -92,7 +92,6 @@
   "custom-components/custom_updater",
   "custom-components/fedex",
   "custom-components/google_keep",
-  "custom-components/grocy",
   "custom-components/hassbian_config",
   "custom-components/information",
   "custom-components/linksys_ap",
