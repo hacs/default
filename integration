@@ -816,6 +816,7 @@
   "klatka/nc-talk-bot-component",
   "klausj1/homeassistant-statistics",
   "Kleinrotti/hass-senertec",
+  "kleinejan/ha-trmnl-sensor-blaster",
   "klejejs/ha-thermia-heat-pump-integration",
   "klokku/klokku-home-assistant-integration",
   "Knifa/led-matrix-zmq-hass",
