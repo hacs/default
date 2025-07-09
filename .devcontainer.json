@@ -2,14 +2,6 @@
 	"name": "hacs/default",
 	"image": "mcr.microsoft.com/vscode/devcontainers/python:0-3.10",
 	"postCreateCommand": "scripts/setup",
-	"context": ".",
-	"extensions": [
-		"ms-python.python",
-		"github.vscode-pull-request-github",
-		"ryanluker.vscode-coverage-gutters",
-		"ms-python.vscode-pylance",
-		"GitHub.copilot"
-	],
 	"customizations": {
 		"vscode": {
 			"settings": {
@@ -48,6 +40,9 @@
 				"ryanluker.vscode-coverage-gutters"
 			]
 		}
+	},
+	"features": {
+		"ghcr.io/anthropics/devcontainer-features/claude-code:1.0": {}
 	},
 	"remoteUser": "vscode"
 }
