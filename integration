@@ -1,4 +1,3 @@
-[
   "0jety0/emaux_spv150",
   "0xAlon/dolphin",
   "0xAlon/tami4edge",
@@ -933,11 +932,11 @@
   "Makr91/ha_easgen",
   "Mallonbacka/custom-component-cloudwatch",
   "Mallonbacka/custom-component-digitransit",
+  "mampfes/hacs_dwd_pollenflug",
+  "mampfes/hacs_waste_collection_schedule",
   "mampfes/ha_bayernluefter",
   "mampfes/ha_epex_spot",
   "mampfes/ha_freeair_connect",
-  "mampfes/hacs_dwd_pollenflug",
-  "mampfes/hacs_waste_collection_schedule",
   "mandarons/ha-bouncie",
   "marcelwestrahome/home-assistant-niu-component",
   "marcoboers/home-assistant-quatt",
@@ -1386,12 +1385,12 @@
   "syssi/homeassistant-goecharger-mqtt",
   "syssi/nextbike",
   "syssi/philipslight",
+  "syssi/xiaomiplug",
   "syssi/xiaomi_airconditioningcompanion",
   "syssi/xiaomi_airpurifier",
   "syssi/xiaomi_cooker",
   "syssi/xiaomi_fan",
   "syssi/xiaomi_raw",
-  "syssi/xiaomiplug",
   "t0mer/manish-custom-notifier",
   "t0mer/matterbridge-custom-notifier",
   "taarskog/home-assistant-component-somweb",
@@ -1574,4 +1573,6 @@
   "zubir2k/homeassistant-esolatgps",
   "zubir2k/homeassistant-esolattakwim",
   "zulufoxtrot/ha-zyxel"
+mac8005/xiaozhi-mcp-hacs
+[
 ]
