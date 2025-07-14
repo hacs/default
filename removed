@@ -2001,5 +2001,23 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/3776"
+  },
+  {
+    "repository": "rsnodgrass/hass-sensorpush",
+    "reason": "Repository was replaced, and it is causing issues",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "rsnodgrass/water-heater-card",
+    "reason": "Repository was replaced, and it is causing issues",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "rsnodgrass/hass-adtpulse",
+    "reason": "Repository was replaced, and it is causing issues",
+    "removal_type": "remove",
+    "link": "N/A"
   }
 ]
