@@ -1989,5 +1989,35 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/3649"
+  },
+  {
+    "repository": "iantrich/podcast-card",
+    "reason": "Repository is no longer maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4261"
+  },
+  {
+    "repository": "berrywhite96/lovelace-shutter-row",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3776"
+  },
+  {
+    "repository": "rsnodgrass/hass-sensorpush",
+    "reason": "Repository was replaced, and it is causing issues",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3799"
+  },
+  {
+    "repository": "rsnodgrass/water-heater-card",
+    "reason": "Repository was replaced, and it is causing issues",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3799"
+  },
+  {
+    "repository": "rsnodgrass/hass-adtpulse",
+    "reason": "Repository was replaced, and it is causing issues",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3799"
   }
 ]
