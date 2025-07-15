@@ -256,6 +256,7 @@
   "chris-mc1/homeconnect_local_hass",
   "chris-mc1/unraid_api",
   "chriscamicas/gazdebordeaux-ha",
+  "christiaangoossens/hass-oidc-auth",
   "ChrisTracy/clickpi_garage_door",
   "Chuffnugget/volcano_integration",
   "ciejer/metservice-weather",
