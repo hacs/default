@@ -306,6 +306,7 @@
   "custom-components/climate.programmable_thermostat",
   "custom-components/feedparser",
   "custom-components/gpodder",
+  "custom-components/grocy",
   "custom-components/healthchecksio",
   "custom-components/media_player.braviatv_psk",
   "custom-components/nordpool",
