@@ -2024,6 +2024,6 @@
     "repository": "infradom/ecopower_dynamic_grid_prices",
     "reason": "Repository has been deleted",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/3827"
   }
 ]
