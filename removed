@@ -2019,5 +2019,11 @@
     "reason": "Repository was replaced, and it is causing issues",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/3799"
+  },
+  {
+    "repository": "infradom/ecopower_dynamic_grid_prices",
+    "reason": "Repository has been deleted",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3827"
   }
 ]
