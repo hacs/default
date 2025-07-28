@@ -1048,6 +1048,7 @@
   "mweinelt/ha-prometheus-sensor",
   "myhades/ha-clash-controller",
   "myhomeiot/DahuaVTO",
+  "myny-git/smappee_ev",
   "myTselection/bibliotheek_be",
   "myTselection/Carbu_com",
   "myTselection/MyEnergy",
