@@ -122,6 +122,7 @@
   "ardevd/ha-bobcatminer",
   "ardevd/ha-dimo",
   "arifwn/homeassistant-whatspie-integration",
+  "ArikShemesh/ha-simple-timer",
   "aronkahrs-us/inumet-weather-ha",
   "aropop/home-assistant-cronicle",
   "artspb/homeassistant-tk-husteblume",
