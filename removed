@@ -2025,5 +2025,11 @@
     "reason": "Repository has been deleted",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/3827"
+  },
+  {
+    "repository": "cnecrea/infpro",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3875"
   }
 ]
