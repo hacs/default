@@ -1,0 +1,13 @@
+{
+  "baillclim": {
+    "name": "BaillClim",
+    "content_in_root": false,
+    "country": "fr",
+    "description": "Piloter vos thermostats BaillConnect depuis Home Assistant.",
+    "domain": "baillclim",
+    "filename": "custom_components/baillclim/manifest.json",
+    "location": "https://github.com/hebrru/baillclim",
+    "type": "integration",
+    "authors": ["herbru"]
+  }
+}
