@@ -1,0 +1,8 @@
+{
+  "repository": "https://github.com/hebrru/baillclim",
+  "full_name": "hebrru/baillclim",
+  "category": "integration",
+  "name": "BaillClim",
+  "description": "Contrôle de climatiseur connecté via BaillConnect pour Home Assistant",
+  "authors": ["@herbru"]
+}
