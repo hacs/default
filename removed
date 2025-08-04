@@ -2031,5 +2031,23 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/3875"
+  },
+  {
+    "repository": "LAB02-Research/HASS.Agent-Integration",
+    "reason": "Repository has been abandoned",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4263"
+  },
+  {
+    "repository": "LAB02-Research/HASS.Agent-MediaPlayer",
+    "reason": "Repository has been abandoned",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4263"
+  },
+  {
+    "repository": "LAB02-Research/HASS.Agent-Notifier",
+    "reason": "Repository has been abandoned",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4263"
   }
 ]
