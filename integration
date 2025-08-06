@@ -1473,6 +1473,7 @@
   "TomBrien/cardiffwaste-ha",
   "tomer-w/ha-nmea2000",
   "tomer-w/ha-victron-mqtt",
+  "tom42530/asys_ble_ha",
   "tonyroberts/hawundasmart",
   "toreamun/amshan-homeassistant",
   "toreamun/victorsmartkill-homeassistant",
