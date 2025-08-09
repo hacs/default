@@ -141,6 +141,7 @@
   "asantaga/lightwaverf_HA_EnergySensor",
   "asantaga/wiserHomeAssistantPlatform",
   "asev/homeassistant-helios",
+  "Ashus/hass-openwrt-wakeonlan",
   "astrandb/miele",
   "astrandb/sentio",
   "astrandb/teracom_hass",
