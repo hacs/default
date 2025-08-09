@@ -131,6 +131,7 @@
   "asantaga/wiserHomeAssistantPlatform",
   "asev/homeassistant-helios",
   "asev/homeassistant-uponor",
+  "Ashus/hass-openwrt-wakeonlan",
   "astrandb/miele",
   "astrandb/sentio",
   "astrandb/teracom_hass",
