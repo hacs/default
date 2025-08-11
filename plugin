@@ -433,5 +433,6 @@
   "ytilis/hass-progress-bar-feature",
   "zanac/temperature-heatmap-card",
   "zanna-37/hass-swipe-navigation",
-  "zeronounours/lovelace-energy-entity-row"
+  "zeronounours/lovelace-energy-entity-row",
+  "DoubtfulTurnip/select-list-card"
 ]
