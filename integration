@@ -830,6 +830,7 @@
   "kirei/hass-chargeamps",
   "kirill-k2/hass-guk-krasnodar",
   "klacol/homeassistant-clage_homeserver",
+  "klaptafel/ha-previous-state-tracker",
   "klatka/nc-talk-bot-component",
   "klausj1/homeassistant-statistics",
   "Kleinrotti/hass-senertec",
