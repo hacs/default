@@ -419,6 +419,7 @@
   "dgomes/ha_erse",
   "dgomes/ha_generic_water_heater",
   "dhover/ha-iungo",
+  "dib0/ha-elro-connects-realtime",
   "diego7marques/ha-aws-cost",
   "DigitallyRefined/ha-cloudflare-speed-test",
   "dimagoltsman/ha-proof-dashcam-integration",
