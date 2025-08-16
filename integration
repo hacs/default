@@ -1525,6 +1525,7 @@
   "tykeal/homeassistant-rental-control",
   "tykovec/home-assistant-tritius",
   "TypQxQ/Sigenergy-Local-Modbus",
+  "tzachb/Homeseer-HA",
   "ualex73/monitor_docker",
   "ufozone/ha-unifi-voucher",
   "ufozone/ha-zcs-mower",
@@ -1616,5 +1617,5 @@
   "zubir2k/homeassistant-esolatgps",
   "zubir2k/homeassistant-esolattakwim",
   "zulufoxtrot/ha-zyxel"
-  "tzachb/Homeseer-HA",
+  
 
