@@ -2049,5 +2049,17 @@
     "reason": "Repository has been abandoned",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/4263"
+  },
+  {
+    "repository": "TarheelGrad1998/gallery-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/3995"
+  },
+  {
+    "repository": "msekoranja/emsc-hacs-repository",
+    "reason": "No longer working",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4275"
   }
 ]
