@@ -2064,8 +2064,8 @@
   },
   {
     "repository": "rt400/School-Vacation",
-    "reason": "Repository was replaced",
+    "reason": "Repository was replaced, and it is causing issues",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/4005"
   }
 ]
