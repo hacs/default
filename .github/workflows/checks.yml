@@ -33,7 +33,7 @@ jobs:
       removal: ${{ steps.removal.outputs.removal }}
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v5.0.0
 
       - name: Set up Python
         uses: actions/setup-python@v5.6.0
@@ -65,7 +65,7 @@ jobs:
     if: needs.preflight.outputs.removal != 'true'
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v5.0.0
 
       - name: Set up Python
         uses: actions/setup-python@v5.6.0
@@ -88,7 +88,7 @@ jobs:
     name: Editable PR
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v5.0.0
 
       - name: Set up Python
         uses: actions/setup-python@v5.6.0
@@ -111,7 +111,7 @@ jobs:
     if: needs.preflight.outputs.removal != 'true'
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v5.0.0
 
       - name: Set up Python
         uses: actions/setup-python@v5.6.0
@@ -136,7 +136,7 @@ jobs:
     if: needs.preflight.outputs.removal != 'true'
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v5.0.0
 
       - name: Set up Python
         uses: actions/setup-python@v5.6.0
@@ -160,7 +160,7 @@ jobs:
     if: needs.preflight.outputs.category == 'integration' && needs.preflight.outputs.removal != 'true'
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v5.0.0
 
       - name: Clone new addition
         run: |
