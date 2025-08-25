@@ -1,2 +1,2 @@
 aiogithubapi==25.5.0
-requests==2.32.4
+requests==2.32.5
