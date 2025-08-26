@@ -127,6 +127,7 @@
   "ExperienceLovelace/ha-floorplan",
   "eyalgal/ha-shopping-list-card",
   "eyalgal/hatch-card",
+  "eyalgal/simple-timer-card",
   "ezand/lovelace-posten-card",
   "faeibson/lovelace-multiline-text-input-card",
   "FamousWolf/week-planner-card",
