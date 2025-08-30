@@ -428,6 +428,7 @@
   "dhover/ha-iungo",
   "diego7marques/ha-aws-cost",
   "DigitallyRefined/ha-cloudflare-speed-test",
+  "DigitallyRefined/ha-hwmon_temp",
   "dimagoltsman/ha-proof-dashcam-integration",
   "dingo35/ha-SmartEVSEv3",
   "dinki/view_assist_integration",
