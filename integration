@@ -1436,6 +1436,7 @@
   "syssi/xiaomi_fan",
   "syssi/xiaomi_raw",
   "syssi/xiaomiplug",
+  "symi-daguo/ha-two-way-sync",
   "t0mer/manish-custom-notifier",
   "t0mer/matterbridge-custom-notifier",
   "taarskog/home-assistant-component-somweb",
