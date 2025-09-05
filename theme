@@ -85,6 +85,8 @@
   "th3jesta/ha-lcars",
   "TilmanGriesel/graphite",
   "veniplex/hass-idx-theme",
+  "wessamlauf/homeassistant-frosted-glass-themes",
   "williamahartman/noctis-solarized",
-  "wowgamr/animated-weather-card"
+  "wowgamr/animated-weather-card",
+  "Xitee1/ha-amoled-theme"
 ]
