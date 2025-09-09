@@ -1479,6 +1479,7 @@
   "thomasloven/hass-lovelace_gen",
   "thomasloven/hass-plejd",
   "thomluther/ha-anker-solix",
+  "tibuntu/homeassistant-kubernetes",
   "tijsverkoyen/HomeAssistant-FusionSolar",
   "tikismoke/home-assistant-plcbus",
   "TilmanGriesel/ha_trmnl_weather_station",
