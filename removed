@@ -2067,5 +2067,47 @@
     "reason": "Repository was replaced, and it is causing issues",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/4005"
+  },
+  {
+    "repository": "mguyard/appdaemon-iopoolpumpmanager",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "meichthys/uptime_kuma",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "gieljnssns/buienalarm-sensor-homeassistant",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "amosyuen/ha-eight-sleep-climate",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "Antoni-Czaplicki/vulcan-for-hassio",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "0xAlon/tami4edge",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "amosyuen/ha-registry",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
   }
 ]
