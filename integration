@@ -761,6 +761,7 @@
   "jippi/hass-nordnet",
   "jirutka/hass-smarwi",
   "jjlawren/sonos_cloud",
+  "jimmybonesde/envertech_solar",
   "jlvcm/ha-actualbudget",
   "jmacri01/homeassistant-custom-components-catholic-calendar",
   "jmcollin78/solar_optimizer",
@@ -1627,5 +1628,4 @@
   "zubir2k/homeassistant-esolatgps",
   "zubir2k/homeassistant-esolattakwim",
   "zulufoxtrot/ha-zyxel",
-  "jimmybonesde/envertech_solar"
 ]
