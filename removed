@@ -2120,6 +2120,6 @@
     "repository": "kodi1/meteoalarm",
     "reason": "Repository has been abandoned",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/integration/issues/4378"
   }
 ]
