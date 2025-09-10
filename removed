@@ -2109,5 +2109,17 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/4105"
+  },
+  {
+    "repository": "msinhore/adaptive_climate",
+    "reason": "Repository has been deleted.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4111"
+  },
+  {
+    "repository": "kodi1/meteoalarm",
+    "reason": "Repository has been abandoned",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4378"
   }
 ]
