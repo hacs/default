@@ -869,6 +869,7 @@
   "klokku/klokku-home-assistant-integration",
   "Knifa/led-matrix-zmq-hass",
   "knudsvik/energyscore",
+  "knoop7/ha_laohuangli",
   "kodi1/darksky_m",
   "kodi1/esp_wd",
   "kodi1/songpal_m",
