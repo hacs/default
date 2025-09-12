@@ -483,7 +483,7 @@
   "ebertek/ssm",
   "ec-blaster/magicswitchbot-homeassistant",
   "edekeijzer/osrm_travel_time",
-  "EdLeckert/tmobile_home_internet",
+  "EdLeckert/ha-tmobilehome",
   "EdLeckert/wine-cellar",
   "eduwardpost/aviation-weather",
   "edwork/homeassistant-peloton-sensor",
