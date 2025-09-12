@@ -1132,6 +1132,7 @@
   "nielsfaber/scheduler-component",
   "nielstron/inteno_hass",
   "niktest/solaredge_ev_charger_au",
+  "nilisos/hass-lisios-bridge",
   "nimroddolev/akuvox",
   "nimroddolev/chime_tts",
   "NinDTendo/homeassistant_gradual_volume_control",
