@@ -1489,6 +1489,7 @@
   "TheGui01/Frisquet-connect-for-home-assistant",
   "TheHolyRoger/hass-cryptoinfo",
   "TheNoctambulist/hass-airtouch",
+  "TheOneOgre/govee-cloud",
   "TheRealWaldo/thermal",
   "ThermIQ/thermiq_mqtt-ha",
   "thevoltagesource/LennoxiComfort",
