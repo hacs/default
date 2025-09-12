@@ -871,6 +871,7 @@
   "klejejs/ha-thermia-heat-pump-integration",
   "klokku/klokku-home-assistant-integration",
   "Knifa/led-matrix-zmq-hass",
+  "knoop7/ha_laohuangli",
   "knudsvik/energyscore",
   "kodi1/darksky_m",
   "kodi1/esp_wd",
