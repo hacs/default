@@ -455,6 +455,7 @@
   "DominikWrobel/airmusic",
   "Domintell/ha_domintell",
   "domness/ha_glowdreaming",
+  "domodom30/ha-octopus-french",
   "DomoticaFacile/raccolta_rifiuti",
   "doudz/homeassistant-myjdownloader",
   "dphae/bsh",
@@ -1626,6 +1627,5 @@
   "zubir2k/homeassistant-dailyhadith",
   "zubir2k/homeassistant-esolatgps",
   "zubir2k/homeassistant-esolattakwim",
-  "zulufoxtrot/ha-zyxel",
-  "domodom30/ha-octopus-french"
+  "zulufoxtrot/ha-zyxel"
 ]
