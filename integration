@@ -934,6 +934,7 @@
   "lhw/cloudweatherproxy",
   "libdyson-wg/ha-dyson",
   "lichtteil/local_luftdaten",
+  "LightwaveSmartHome/homeassistant-lightwave-smart",
   "Limych/ha-apparent-temperature",
   "Limych/ha-average",
   "Limych/ha-beward",
