@@ -2145,5 +2145,11 @@
     "reason": "Repository has been abandoned",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/4453"
+  },
+  {
+    "repository": "Andre0512/hon",
+    "reason": "Repository has been abandoned",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4457"
   }
 ]
