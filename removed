@@ -2151,5 +2151,11 @@
     "reason": "Repository has been abandoned",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/4457"
+  },
+  {
+    "repository": "eifinger/hass-here-weather",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
   }
 ]
