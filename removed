@@ -2163,5 +2163,11 @@
     "reason": "Repository has been abandoned",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/4475"
+  },
+  {
+    "repository": "austinmroczek/neovolta",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4482"
   }
 ]
