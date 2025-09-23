@@ -183,6 +183,7 @@
   "homeassistant-extras/room-summary-card",
   "homeassistant-extras/toolbar-status-chips",
   "homeassistant-extras/zwave-card-set",
+  "Hugo0485/DoubleCurtainCard",
   "hulkhaugen/hass-bha-icons",
   "hyperb1iss/hyper-light-card",
   "Hypfer/lovelace-valetudo-map-card",
