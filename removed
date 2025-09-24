@@ -2121,5 +2121,53 @@
     "reason": "Repository has been abandoned",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/4378"
+  },
+  {
+    "repository": "SirLancillottoDev/smart-irrigation-card",
+    "reason": "Repository has been deleted.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4170"
+  },
+  {
+    "repository": "garbled1/balboa_homeassistan",
+    "reason": "Repository has been abandoned",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4407"
+  },
+  {
+    "repository": "msp1974/homeassistant-jlrincontrol",
+    "reason": "No longer working",
+    "removal_type": "remove",
+    "link": "https://github.com/msp1974/homeassistant-jlrincontrol/issues/149"
+  },
+  {
+    "repository": "nervetattoo/simple-thermostat",
+    "reason": "Repository has been abandoned",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4453"
+  },
+  {
+    "repository": "Andre0512/hon",
+    "reason": "Repository has been abandoned",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4457"
+  },
+  {
+    "repository": "eifinger/hass-here-weather",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4223"
+  },
+  {
+    "repository": "pinkywafer/Calendarific",
+    "reason": "Repository has been abandoned",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4475"
+  },
+  {
+    "repository": "austinmroczek/neovolta",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4482"
   }
 ]
