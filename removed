@@ -2175,5 +2175,11 @@
     "reason": "Repository has been abandoned",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/4491"
+  },
+  {
+    "repository": "asev/homeassistant-uponor",
+    "reason": "Repository has been abandoned",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4519"
   }
 ]
