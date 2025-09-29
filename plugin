@@ -66,7 +66,6 @@
   "custom-cards/circle-sensor-card",
   "custom-cards/cover-element",
   "custom-cards/decluttering-card",
-  "custom-cards/dual-gauge-card",
   "custom-cards/entity-attributes-card",
   "custom-cards/flex-table-card",
   "custom-cards/gauge-card",

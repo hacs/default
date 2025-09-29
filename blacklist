@@ -74,6 +74,7 @@
   "custom-cards/button-entity-row",
   "custom-cards/camera-card",
   "custom-cards/custom-card-helpers",
+  "custom-cards/dual-gauge-card",
   "custom-cards/ext-weblink",
   "custom-cards/favicon-counter",
   "custom-cards/home-setter",
