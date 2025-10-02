@@ -1453,6 +1453,7 @@
   "soloam/ha-pid-controller",
   "sopelj/hass-ember-mug-component",
   "SpanPanel/span",
+  "spatecon/orcommconnect",
   "SplinterHead/ha-honeygain",
   "sprocket-9/hacs-nuvo-serial",
   "spuky/lunatone-dali-integration",
