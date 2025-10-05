@@ -2205,5 +2205,17 @@
     "reason": "Request from author",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/4567"
+  },
+  {
+    "repository": "modrzew/hass-flashforge-adventurer-3",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4578"
+  },
+  {
+    "repository": "HandyHat/ha-hildebrandglow-dcc",
+    "reason": "Repository has been abandoned",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4619"
   }
 ]
