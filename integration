@@ -1549,6 +1549,7 @@
   "thomasloven/hass-lovelace_gen",
   "thomasloven/hass-plejd",
   "thomluther/ha-anker-solix",
+  "tiagonmas/recbms",
   "tibuntu/homeassistant-kubernetes",
   "tijsverkoyen/HomeAssistant-FusionSolar",
   "tikismoke/home-assistant-plcbus",
