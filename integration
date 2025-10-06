@@ -983,6 +983,7 @@
   "LordBoos/discord_game",
   "lorenzo-deluca/homeassistant-silence",
   "loryanstrant/HA-Azure-AI-tasks",
+  "loryanstrant/HA-ElevenLabs-Custom-TTS",
   "loryanstrant/ha-jokes",
   "lovelylain/hass_ingress",
   "lsellens/thesimple-thermostat",
