@@ -930,6 +930,7 @@
   "laszlojakab/homeassistant-easycontrols",
   "LavermanJJ/home-assistant-solarfocus",
   "lbbrhzn/ocpp",
+  "ledimestari/homeassistant-storj-integration",
   "legrego/homeassistant-combustion",
   "legrego/homeassistant-elasticsearch",
   "leikoilja/ha-google-home",
