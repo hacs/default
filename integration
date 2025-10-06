@@ -1,6 +1,7 @@
 [
   "0jety0/emaux_spv150",
   "0xAHA/airtouch4_advanced",
+  "0xAHA/Growatt_ModbusTCP",
   "0xAHA/Midea-Heat-Pump-HA",
   "0xAlon/dolphin",
   "0xQuantumHome/bayrol-home-hassistant",
@@ -1372,6 +1373,7 @@
   "ryanmac8/Home-Assistant-Marta",
   "rytilahti/homeassistant-upnp-availability",
   "rzulian/lutron_lip",
+  "salihinsaealal/home-assistant-tnb-calculator",
   "samjsmart/ha-zone4",
   "samoswall/polaris-mqtt",
   "samspade21/vacasa-ha",
