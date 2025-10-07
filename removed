@@ -2217,5 +2217,11 @@
     "reason": "Repository has been abandoned",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/4619"
+  },
+  {
+    "repository": "koying/jellyfin_ha",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4658"
   }
 ]
