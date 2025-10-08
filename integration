@@ -1125,6 +1125,7 @@
   "mvdwetering/huesyncbox",
   "mvdwetering/yamaha_ynca",
   "mweinelt/ha-prometheus-sensor",
+  "my-PV/myPVHomeAssistant",
   "myhades/ha-clash-controller",
   "myhomeiot/DahuaVTO",
   "myny-git/smappee_ev",
