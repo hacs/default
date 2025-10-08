@@ -1290,6 +1290,7 @@
   "Pyhass/Hive-Custom-Component",
   "pypolestar/polestar_api",
   "pytoyoda/ha_toyota",
+  "qlerup/thermostat-pro-timeline-sync",
   "QNimbus/haefele-connect-mesh",
   "QuickMadeSimulation/QmdevHA",
   "r-renato/ha-climacell-weather",
