@@ -1291,6 +1291,7 @@
   "pypolestar/polestar_api",
   "pytoyoda/ha_toyota",
   "QNimbus/haefele-connect-mesh",
+  "QuickMadeSimulation/QmdevHA",
   "r-renato/ha-climacell-weather",
   "radical-squared/aquatemp",
   "raelix/HA-Radoff-integration",
