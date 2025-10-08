@@ -484,6 +484,7 @@
   "droans/mass_queue",
   "droso-hass/idfm",
   "dscao/ikuai",
+  "DSorlov/http_agent",
   "DSorlov/snmp_printer",
   "DSorlov/swemail",
   "dudanov/hassio-ftms",
