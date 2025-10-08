@@ -240,6 +240,7 @@
   "ljmerza/reddit-card",
   "ljmerza/waze-card",
   "lociii/homeassistant-digitalstrom",
+  "ludeeus/ad-watchdog",
   "lukich48/hass_mqtt_template_switch",
   "mac-zhou/midea-ac-py",
   "mammuth/ha-fritzbox-tools",
