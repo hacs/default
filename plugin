@@ -352,6 +352,7 @@
   "PRProd/HA-Firemote",
   "punxaphil/custom-sonos-card",
   "punxaphil/maxi-media-player",
+  "qlerup/lovelace-thermostat-pro-timeline",
   "qlerup/lovelace-pin-lock-card",
   "queimadus/cover-icon-element",
   "queimadus/last-changed-element",
