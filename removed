@@ -2247,5 +2247,11 @@
     "reason": "Request from author",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/4831"
+  },
+  {
+    "repository": "NeonGrayX/lovelace-nicehash-excavator-monitor-card",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4679"
   }
 ]
