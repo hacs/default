@@ -667,6 +667,7 @@
   "h4de5/home-assistant-vimar",
   "ha-termoweb/ha-termoweb",
   "ha-warmup/warmup",
+  "HAEdwin/homeassistant-apsystems_ecu_reader",
   "hacf-fr/hass-ecoledirecte",
   "Haluska77/regulus-ha",
   "Hankanman/Area-Occupancy-Detection",
