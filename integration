@@ -238,6 +238,7 @@
   "bremor/bureau_of_meteorology",
   "bremor/public_transport_victoria",
   "brewmarsh/meraki-homeassistant",
+  "brezlord/hass-waterco-electrochlor",
   "brianegge/home-assistant-sdnotify",
   "briis/weatherflow_forecast",
   "Brunas/meteo_lt",
