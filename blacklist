@@ -286,6 +286,7 @@
   "OpenXbox/xboxone-home-assistant",
   "opravdin/weback-hass",
   "oziee/ha-solcast-solar",
+  "pantherale0/ha-familysafety",
   "patrickhilker/tedee_hass_integration",
   "perara/systemair-save-connect",
   "peternijssen/home-assistant-jumbo",
