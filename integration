@@ -486,6 +486,7 @@
   "droso-hass/idfm",
   "dscao/ikuai",
   "DSorlov/http_agent",
+  "DSorlov/smartthingsce",
   "DSorlov/snmp_printer",
   "DSorlov/swemail",
   "dudanov/hassio-ftms",
