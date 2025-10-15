@@ -925,6 +925,8 @@
   "LaggAt/ha-jokes",
   "LaggAt/hacs-govee",
   "lambilly/hass_daily_fund",
+  "lambilly/hass_tian_free",
+  "lambilly/hass_tian_realtime",
   "larry-wong/bemfa",
   "LarsK1/hass_solvis_control",
   "laszlojakab/homeassistant-dijnet",
