@@ -920,6 +920,7 @@
   "konnected-io/noonlight-hass",
   "Korkuttum/blynk",
   "Korkuttum/tuya_body_fat_scale",
+  "Korkuttum/tuya_heat_pump",
   "Korkuttum/tuya_scale",
   "kotborealis/home-assistant-custom-components-cover-time-based-synced",
   "koying/mqtt_discoverystream_ha",
