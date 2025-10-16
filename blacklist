@@ -340,6 +340,8 @@
   "ryanbateman/bvg-sensor",
   "ryannazaretian/hacs-nexia-climate-integration",
   "ryanwinter/hass-rainforest-emu-2",
+  "safepay/cover.hd_powerview",
+  "safepay/sensor.fronius",
   "sakowicz/home-assistant-tenda-tracker",
   "sdebruyn/homeassistant-bpost-integration",
   "SebuZet/samsungrac",
