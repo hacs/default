@@ -1296,6 +1296,7 @@
   "pytoyoda/ha_toyota",
   "QNimbus/haefele-connect-mesh",
   "QuickMadeSimulation/QmdevHA",
+  "qlerup/thermostat-pro-timeline-sync",
   "r-renato/ha-climacell-weather",
   "radical-squared/aquatemp",
   "raelix/HA-Radoff-integration",
