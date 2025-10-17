@@ -276,6 +276,7 @@
   "nagyrobi/home-assistant-custom-components-pfsense-gateways",
   "natekspencer/hacs-litterrobot",
   "NemesisRE/lovelace-swipe-navigation",
+  "NeonGrayX/lovelace-nicehash-excavator-monitor-card",
   "nervetattoo/simple-thermostat",
   "nickneos/Appdaemon-Xiaomi-Doorbell",
   "nickneos/Appdaemon-Xiaomi-Smart-Button",
@@ -285,6 +286,7 @@
   "OpenXbox/xboxone-home-assistant",
   "opravdin/weback-hass",
   "oziee/ha-solcast-solar",
+  "pantherale0/ha-familysafety",
   "patrickhilker/tedee_hass_integration",
   "perara/systemair-save-connect",
   "peternijssen/home-assistant-jumbo",
@@ -371,6 +373,7 @@
   "Tiemooowh/homeassistant-teletask",
   "tikismoke/home-assistant-nespressoble",
   "timvancann/homeassistant-growatt",
+  "tinuva/ha-coct-loadshedding",
   "tmechen/ber_status",
   "toringer/home-assistant-sbanken",
   "troykelly/hacs-amberelectric",
@@ -389,5 +392,6 @@
   "xMrVizzy/button-toolbar",
   "YorkshireIoT/ha-google-fit",
   "zha-ng/zha-map",
+  "ZsBT/hass-w1000-portal",
   "zweckj/acaia"
 ]
