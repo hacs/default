@@ -2223,5 +2223,41 @@
     "reason": "Request from author",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/4658"
+  },
+  {
+    "repository": "custom-cards/spotify-card",
+    "reason": "Repository is no longer maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4661"
+  },
+  {
+    "repository": "ludeeus/ad-watchdog",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4330"
+  },
+  {
+    "repository": "tinuva/ha-coct-loadshedding",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4673"
+  },
+  {
+    "repository": "ZsBT/hass-w1000-portal",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4831"
+  },
+  {
+    "repository": "NeonGrayX/lovelace-nicehash-excavator-monitor-card",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4679"
+  },
+  {
+    "repository": "pantherale0/ha-familysafety",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4362"
   }
 ]
