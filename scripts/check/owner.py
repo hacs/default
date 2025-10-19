@@ -1,7 +1,6 @@
 import asyncio
 import os
 
-from scripts.changed.repo import get_repo
 from scripts.helpers.event import get_event
 from scripts.remove_publishers import REMOVED_PUBLISHERS
 from aiogithubapi import GitHub, AIOGitHubAPIException
@@ -11,7 +10,7 @@ TOKEN = os.getenv("GITHUB_TOKEN")
 
 async def check():
     print("Information: https://hacs.xyz/docs/publish/include#check-owner")
-    repo = get_repo()
+    repo = os.environ["REPOSITORY"]
     event = get_event()
     actor = event["pull_request"]["user"]["login"]
     repo_owner = repo.split("/")[0].lower()
