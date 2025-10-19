@@ -2121,5 +2121,143 @@
     "reason": "Repository has been abandoned",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/4378"
+  },
+  {
+    "repository": "SirLancillottoDev/smart-irrigation-card",
+    "reason": "Repository has been deleted.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4170"
+  },
+  {
+    "repository": "garbled1/balboa_homeassistan",
+    "reason": "Repository has been abandoned",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4407"
+  },
+  {
+    "repository": "msp1974/homeassistant-jlrincontrol",
+    "reason": "No longer working",
+    "removal_type": "remove",
+    "link": "https://github.com/msp1974/homeassistant-jlrincontrol/issues/149"
+  },
+  {
+    "repository": "nervetattoo/simple-thermostat",
+    "reason": "Repository has been abandoned",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4453"
+  },
+  {
+    "repository": "Andre0512/hon",
+    "reason": "Repository has been abandoned",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4457"
+  },
+  {
+    "repository": "eifinger/hass-here-weather",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4223"
+  },
+  {
+    "repository": "pinkywafer/Calendarific",
+    "reason": "Repository has been abandoned",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4475"
+  },
+  {
+    "repository": "austinmroczek/neovolta",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4482"
+  },
+  {
+    "repository": "DurgNomis-drol/ha_toyota",
+    "reason": "Repository has been abandoned",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4491"
+  },
+  {
+    "repository": "asev/homeassistant-uponor",
+    "reason": "Repository has been abandoned",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4519"
+  },
+  {
+    "repository": "Andre0512/speedport",
+    "reason": "Repository has been abandoned",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4520"
+  },
+  {
+    "repository": "Danieldiazi/honda_recall_check",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4260"
+  },
+  {
+    "repository": "custom-cards/dual-gauge-card",
+    "reason": "Repository has been abandoned",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4551"
+  },
+  {
+    "repository": "Mattat01/insnrg_chlorinator",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4567"
+  },
+  {
+    "repository": "modrzew/hass-flashforge-adventurer-3",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4578"
+  },
+  {
+    "repository": "HandyHat/ha-hildebrandglow-dcc",
+    "reason": "Repository has been abandoned",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4619"
+  },
+  {
+    "repository": "koying/jellyfin_ha",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4658"
+  },
+  {
+    "repository": "custom-cards/spotify-card",
+    "reason": "Repository is no longer maintained",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4661"
+  },
+  {
+    "repository": "ludeeus/ad-watchdog",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4330"
+  },
+  {
+    "repository": "tinuva/ha-coct-loadshedding",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4673"
+  },
+  {
+    "repository": "ZsBT/hass-w1000-portal",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4831"
+  },
+  {
+    "repository": "NeonGrayX/lovelace-nicehash-excavator-monitor-card",
+    "reason": "Request from author",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4679"
+  },
+  {
+    "repository": "pantherale0/ha-familysafety",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4362"
   }
 ]
