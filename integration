@@ -814,6 +814,7 @@
   "jmcollin78/versatile_thermostat",
   "jmcruvellier/little_monkey",
   "jmdevita/parcel-ha",
+  "jmlt/ir2mqtt",
   "jnalepka/grenton-to-homeassistant",
   "jnxxx/homeassistant-dabblerdk_powermeterreader",
   "jobvk/Home-Assistant-Windcentrale",
