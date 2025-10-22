@@ -2259,5 +2259,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/4362"
+  },
+  {
+    "repository": "jm-cook/ha-havvarsel",
+    "reason": "Repository was added as appdaemon and then integration which are conflicting",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4441"
   }
 ]

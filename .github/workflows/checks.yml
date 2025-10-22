@@ -153,6 +153,30 @@ jobs:
         env:
           REPOSITORY: ${{needs.preflight.outputs.repository}}
 
+  existing:
+    runs-on: ubuntu-latest
+    name: Existing repository
+    needs: preflight
+    if: needs.preflight.outputs.removal != 'true'
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5.0.0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6.0.0
+        with:
+          python-version-file: ".python-version"
+          cache: "pip"
+          cache-dependency-path: "requirements.txt"
+
+      - name: Install dependencies if needed
+        run: scripts/setup
+
+      - name: Run the check
+        run: python3 -m scripts.check.existing
+        env:
+          REPOSITORY: ${{needs.preflight.outputs.repository}}
+
   hassfest:
     runs-on: ubuntu-latest
     name: Hassfest
