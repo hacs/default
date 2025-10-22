@@ -2,8 +2,6 @@ import asyncio
 import os
 import requests
 
-CHECKURL = "https://data-v2.hacs.xyz/removed/repositories.json"
-
 CATEGORIES = [
     "appdaemon",
     "integration",
