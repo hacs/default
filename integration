@@ -457,6 +457,7 @@
   "dimagoltsman/ha-proof-dashcam-integration",
   "dingo35/ha-SmartEVSEv3",
   "dinki/view_assist_integration",
+  "DiUS/homeassistant-powersensor",
   "dirkgroenen/hass-evse-load-balancer",
   "djansen1987/SAJeSolar",
   "djbios/home-assistant-cat-scale",
