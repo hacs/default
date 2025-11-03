@@ -1747,6 +1747,7 @@
   "youdroid/home-assistant-gitea",
   "youdroid/home-assistant-gogs",
   "youdroid/home-assistant-sickchill",
+  "yomonpet/ha-sofabaton-hub",
   "ZacheryThomas/homeassistant-smartrent",
   "zachowj/hass-node-red",
   "zacs/ha-energycalc",
