@@ -1764,5 +1764,6 @@
   "zubir2k/homeassistant-dailyhadith",
   "zubir2k/homeassistant-esolatgps",
   "zubir2k/homeassistant-esolattakwim",
-  "zulufoxtrot/ha-zyxel"
+  "zulufoxtrot/ha-zyxel",
+  "zenguru84/ha-openaq"
 ]
