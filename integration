@@ -609,6 +609,7 @@
   "frlequ/homeassistant-mojelektro",
   "fsaris/home-assistant-awox",
   "fsaris/home-assistant-zonneplan-one",
+  "FScoua/ha-ajax-uart",
   "fuatakgun/eufy_security",
   "FUjr/homeassistant-openwrt-ubus",
   "functionpointer/home-assistant-chargecloud-integration",
