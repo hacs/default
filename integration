@@ -1331,6 +1331,7 @@
   "Pyhass/Hive-Custom-Component",
   "pypolestar/polestar_api",
   "pytoyoda/ha_toyota",
+  "qlerup/chores4kids-sync",
   "qlerup/thermostat-pro-timeline-sync",
   "QNimbus/haefele-connect-mesh",
   "QuickMadeSimulation/QmdevHA",
