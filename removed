@@ -2270,12 +2270,12 @@
     "repository": "regulad/hass-lacrosseview",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/4589"
   },
   {
     "repository": "ljmerza/ha-email-sensor",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/4589"
   }
 ]
