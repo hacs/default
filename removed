@@ -2265,5 +2265,23 @@
     "reason": "Repository was added as appdaemon and then integration which are conflicting",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/4441"
+  },
+  {
+    "repository": "regulad/hass-lacrosseview",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4589"
+  },
+  {
+    "repository": "ljmerza/ha-email-sensor",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4589"
+  },
+  {
+    "repository": "Ludy87/xplora_watch",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4599"
   }
 ]
