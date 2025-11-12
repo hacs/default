@@ -233,6 +233,7 @@
   "Bouni/drkblutspende",
   "Bouni/luxtronik",
   "bouwew/sems2mqtt",
+  "bramd/qstream-ha",
   "bramkragten/mind",
   "bramstroker/homeassistant-powercalc",
   "bramstroker/homeassistant-state-webhook",
