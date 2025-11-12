@@ -1624,6 +1624,7 @@
   "tikismoke/home-assistant-plcbus",
   "TilmanGriesel/ha_trmnl_weather_station",
   "timlaing/modbus_local_gateway",
+  "timmaurice/bergfex",
   "timmo001/homeassistant-integration-goxlr-utility",
   "timniklas/hass-blitzerde",
   "timniklas/hass-fitnesspark",
