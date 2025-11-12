@@ -248,6 +248,7 @@
   "brianegge/home-assistant-sdnotify",
   "briis/weatherflow_forecast",
   "Brunas/meteo_lt_by_brunas",
+  "bscholer/home-assistant-comma-ai",
   "bvweerd/dynamic_energy_contract_calculator",
   "bvweerd/simple_pid_controller",
   "bywciu/Home-Assistant-Custom-Components-ReversoTTS",
