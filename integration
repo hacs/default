@@ -1103,6 +1103,7 @@
   "mbillow/ha-chargepoint",
   "mbillow/ha-redpocket",
   "mbuchber/ha_heliotherm",
+  "mcapmari/ha-djv_meter",
   "mchwalisz/home-assistant-senec",
   "mcolyer/home-assistant-anova-nano",
   "mdeweerd/zha-toolkit",
