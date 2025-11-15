@@ -8,6 +8,8 @@ on:
     paths:
       - removed
 
+permissions: {}
+
 concurrency:
   cancel-in-progress: true
   group: upload-removed
@@ -18,7 +20,7 @@ jobs:
     name: Upload
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v5.0.0
 
       - name: Validate with JSON schema
         uses: cardinalby/schema-validator-action@3.1.1
@@ -27,7 +29,7 @@ jobs:
           schema: 'tools/jsonschema/removed.schema.json'
 
       - name: Set up Python
-        uses: actions/setup-python@v5.3.0
+        uses: actions/setup-python@v6.0.0
         id: python
         with:
           python-version: "3.x"
@@ -37,7 +39,7 @@ jobs:
           pip3 install \
             --disable-pip-version-check \
             --ignore-installed \
-            awscli
+            awscli==1.36.39
 
       - name: Handle the removed file
         run: |
@@ -46,7 +48,7 @@ jobs:
           jq -c '[.[].repository]' < removed > upload/removed/repositories.json
 
       - name: Upload artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@330a01c490aca151604b8cf639adc76d48f6c5d4  # v5.0.0
         with:
           name: removed
           path: upload/removed
