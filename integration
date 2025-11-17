@@ -1814,5 +1814,6 @@
   "zubir2k/homeassistant-dailyhadith",
   "zubir2k/homeassistant-esolatgps",
   "zubir2k/homeassistant-esolattakwim",
-  "zulufoxtrot/ha-zyxel"
+  "zulufoxtrot/ha-zyxel",
+  "joaofernandes/portuguese_energy_price_tracker_ha_integration"
 ]
