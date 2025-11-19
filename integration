@@ -1806,6 +1806,7 @@
   "ZacheryThomas/homeassistant-smartrent",
   "zachowj/hass-node-red",
   "zacs/ha-energycalc",
+  "zacs/ha-mattermost",
   "zagi988/HA_mdadm",
   "zanaca/ha-inmet-weather",
   "zbigniewmotyka/home-assistant-solplanet",
