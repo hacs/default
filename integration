@@ -1259,6 +1259,7 @@
   "osohotwateriot/osoenergy_community",
   "OStrama/weishaupt_modbus",
   "OtisPresley/control4-mediaplayer",
+  "OtisPresley/snmp-switch-manager",
   "oven-lab/tuya_cloud_map_extractor",
   "p0l0/hapetwalk",
   "pail23/stiebel_eltron_isg_component",
