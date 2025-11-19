@@ -560,6 +560,7 @@
   "erikkastelec/hass-WEM-Portal",
   "eriknn/ha-pax_ble",
   "ErilovNikita/ha-domru",
+  "ErilovNikita/ha-yainternetometr",
   "esbenwiberg/easyiq",
   "eseglem/hass-wattbox",
   "eseverson/hass-balena",
