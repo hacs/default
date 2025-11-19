@@ -246,6 +246,7 @@
   "Ludy87/xplora_watch",
   "lukich48/hass_mqtt_template_switch",
   "mac-zhou/midea-ac-py",
+  "mag1024/bosch-alarm-homeassistant",
   "mammuth/ha-fritzbox-tools",
   "mampfes/hacs_wiffi",
   "marcomow/ble-bulb-card",
