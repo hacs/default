@@ -2283,5 +2283,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/4599"
+  },
+  {
+    "repository": "mag1024/bosch-alarm-homeassistant",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4684"
   }
 ]
