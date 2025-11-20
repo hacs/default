@@ -216,6 +216,7 @@
   "BJReplay/EPA_AirQuality_HA",
   "BJReplay/ha-solcast-solar",
   "bkbilly/medisanabp_ble",
+  "bkbilly/MeteoGR",
   "bkbilly/mqtt_media_player",
   "bkbilly/oralb_ble",
   "bkbilly/seismoi",
