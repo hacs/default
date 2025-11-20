@@ -343,6 +343,7 @@
   "crowbarz/ha-sql_json",
   "CubicPill/china_southern_power_grid_stat",
   "CumpsD/home-assistant-leo-ntp",
+  "Currency-One/walutomat-ha",
   "custom-components/ble_monitor",
   "custom-components/brewdog",
   "custom-components/climate.e_thermostaat",
