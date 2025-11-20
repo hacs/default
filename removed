@@ -2289,5 +2289,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/4684"
+  },
+  {
+    "repository": "hekm77/reeder_dark_theme",
+    "reason": "Repository has been deleted.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4694"
   }
 ]
