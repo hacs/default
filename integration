@@ -215,6 +215,7 @@
   "bjorncs/ha-brewcreator",
   "BJReplay/EPA_AirQuality_HA",
   "BJReplay/ha-solcast-solar",
+  "bkbilly/G4S-Mobility",
   "bkbilly/medisanabp_ble",
   "bkbilly/MeteoGR",
   "bkbilly/mqtt_media_player",
