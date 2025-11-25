@@ -188,6 +188,7 @@
   "harmonie-durrant/hha-cards",
   "hasl-sensor/lovelace-hasl-departure-card",
   "hasl-sensor/lovelace-hasl-traffic-status-card",
+  "homeassistant-extras/adguard-card",
   "homeassistant-extras/device-card",
   "homeassistant-extras/petkit-device-cards",
   "homeassistant-extras/pi-hole-card",
