@@ -2295,5 +2295,23 @@
     "reason": "Repository has been deleted.",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/4694"
+  },
+  {
+    "repository": "peetereczek/ztm-stop-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4722"
+  },
+  {
+    "repository": "pantherale0/ha-nintendoparentalcontrols",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4722"
+  },
+  {
+    "repository": "peetereczek/ztm",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4722"
   }
 ]
