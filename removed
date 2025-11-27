@@ -2313,5 +2313,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/4722"
+  },
+  {
+    "repository": "TheOneOgre/govee-cloud",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4745"
   }
 ]
