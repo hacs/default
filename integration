@@ -139,6 +139,7 @@
   "Archef2000/homeassistant-upsplus",
   "ardevd/ha-bobcatminer",
   "ardevd/ha-dimo",
+  "aradlein/hass-agent-llm",
   "arevindh/ha-tinxy-cloud",
   "arifwn/homeassistant-whatspie-integration",
   "ArikShemesh/ha-simple-timer",
