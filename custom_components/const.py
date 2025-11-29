@@ -5,17 +5,16 @@ DOMAIN = "cosa"
 PLATFORM = "climate"
 
 # API Configuration
-API_BASE_URL = "https://kiwi.cosa.com.tr"
+API_BASE_URL = "https://kiwi-api.nuvia.com.tr/api"
 API_TIMEOUT = 30
 
 # API Endpoints
-ENDPOINT_LOGIN = "/api/users/login"
-ENDPOINT_GET_ENDPOINT = "/api/endpoints/getEndpoint"
-ENDPOINT_SET_MODE = "/api/endpoints/setMode"
-ENDPOINT_SET_TARGET_TEMPERATURES = "/api/endpoints/setTargetTemperatures"
-ENDPOINT_LIST_ENDPOINTS = "/api/endpoints/getEndpoints/"
-ENDPOINT_SET_OPTION = "/api/endpoints/setOption"
-ENDPOINT_USER_INFO = "/api/users/getInfo"
+ENDPOINT_LOGIN = "/users/login"
+ENDPOINT_GET_ENDPOINT = "/endpoints/getEndpoint"
+ENDPOINT_SET_MODE = "/endpoints/setMode"
+ENDPOINT_SET_TARGET_TEMPERATURES = "/endpoints/setTargetTemperatures"
+ENDPOINT_LIST_ENDPOINTS = "/endpoints/getEndpoints"
+ENDPOINT_USER_INFO = "/users/getInfo"
 
 # Headers
 USER_AGENT = "Cosa/1 CFNetwork/1498.700.2 Darwin/23.6.0"

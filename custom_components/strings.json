@@ -19,36 +19,6 @@
     "abort": {
       "already_configured": "Bu hesap zaten yapılandırılmış."
     }
-  },
-  "entity": {
-    "climate": {
-      "preset_mode": {
-        "state": {
-          "home": "Ev",
-          "away": "Dışarıda",
-          "sleep": "Uyku",
-          "custom": "Özel",
-          "auto": "Otomatik",
-          "schedule": "Program"
-        }
-      }
-    },
-    "sensor": {
-      "combi_state": {
-        "name": "Kombi Durumu"
-      },
-      "operation_mode": {
-        "name": "Çalışma Modu"
-      },
-      "temperature": {
-        "name": "Mevcut Sıcaklık"
-      },
-      "target_temperature": {
-        "name": "Hedef Sıcaklık"
-      },
-      "humidity": {
-        "name": "Nem Oranı"
-      }
-    }
   }
 }
+

@@ -6,5 +6,5 @@
   ],
   "iot_class": "Cloud Polling",
   "homeassistant": "2023.1.0",
-  "logo": "cosalogo.png"
+  "logo": "icon.svg"
 }
