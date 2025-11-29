@@ -1,0 +1,24 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "COSA Termostat Kurulumu",
+        "description": "COSA uygulamasındaki kullanıcı adı ve şifrenizi girin",
+        "data": {
+          "username": "Kullanıcı Adı",
+          "password": "Şifre",
+          "endpoint_id": "Endpoint ID (Opsiyonel)"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "COSA API'sine bağlanılamadı. Lütfen internet bağlantınızı kontrol edin.",
+      "invalid_auth": "Kullanıcı adı veya şifre hatalı. Lütfen tekrar deneyin.",
+      "unknown": "Beklenmeyen bir hata oluştu."
+    },
+    "abort": {
+      "already_configured": "Bu hesap zaten yapılandırılmış."
+    }
+  }
+}
+

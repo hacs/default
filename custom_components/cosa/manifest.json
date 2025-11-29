@@ -1,0 +1,18 @@
+{
+  "domain": "cosa",
+  "name": "COSA Termostat",
+  "version": "1.0.0",
+  "documentation": "https://github.com/ahamitd/cosa-homeassistant",
+  "issue_tracker": "https://github.com/ahamitd/cosa-homeassistant/issues",
+  "dependencies": [],
+  "codeowners": [
+    "@ahamitd"
+  ],
+  "requirements": [
+    "aiohttp>=3.8.0"
+  ],
+  "config_flow": true,
+  "iot_class": "cloud_polling",
+  "integration_type": "hub",
+  "logo": "../../cosalogo.png"
+}
