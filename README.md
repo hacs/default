@@ -6,5 +6,3 @@ If you want to publish your repositories as default in HACS have a look here:
 
 - https://hacs.xyz/docs/publish/start
 - https://hacs.xyz/docs/publish/include
-
-Updated by script: set owner to ahamitd for cosa-homeassistant (2025-11-30)
