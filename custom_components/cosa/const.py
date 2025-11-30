@@ -5,7 +5,7 @@ DOMAIN = "cosa"
 PLATFORM = "climate"
 
 # API Configuration
-API_BASE_URL = "https://kiwi.cosa.com.tr"
+API_BASE_URL = "https://kiwi-api.nuvia.com.tr"
 API_TIMEOUT = 30
 
 # API Endpoints

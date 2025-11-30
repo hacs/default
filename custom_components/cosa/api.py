@@ -291,8 +291,11 @@ class CosaAPIClient:
             payload = {
                 "endpoint": endpoint,
                 "mode": mode,
-                "option": option,
             }
+            
+            # Add option only if provided (for manual mode)
+            if option:
+                payload["option"] = option
 
             headers = self._get_headers()
             headers["provider"] = "cosa"
@@ -300,7 +303,7 @@ class CosaAPIClient:
 
             async with session.post(url, json=payload, headers=headers) as response:
                 if response.status == 200:
-                    _LOGGER.info("Successfully set mode to %s", option)
+                    _LOGGER.info("Successfully set mode to %s%s", mode, f" with option {option}" if option else "")
                     return True
                 else:
                     error_text = await response.text()
