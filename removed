@@ -2325,5 +2325,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/4784"
+  },
+  {
+    "repository": "avolmensky/panasonic_eolia",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4785"
   }
 ]
