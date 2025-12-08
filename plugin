@@ -420,6 +420,7 @@
   "studiobts/device-pulse-table-card",
   "studiobts/device-pulse-timeline-card",
   "swingerman/lovelace-fluid-level-background-card",
+  "sxdjt/canvas-gauge-card-continued",
   "sxdjt/ha-multi-status-indicator-card",
   "sxdjt/ha-nws-alert-card",
   "sxdjt/horizontal-waterfall-history-card",
