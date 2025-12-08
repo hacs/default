@@ -1445,6 +1445,7 @@
   "Riscue/ha-influxdb-query-api",
   "Riscue/ha-wallpanel-media-player",
   "rknightion/autopi-ha",
+  "rknightion/kiosker-ha",
   "rknightion/meraki-dashboard-ha",
   "rnovacek/homeassistant_cz_energy_spot_prices",
   "rob196/home-assistant-fxmarketapi",
