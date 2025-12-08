@@ -2342,30 +2342,30 @@
     "repository": "haberda/tradfri_remotes",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/4828"
   },
   {
     "repository": "haberda/light_automation",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/4828"
   },
   {
     "repository": "haberda/Periodic-lights",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/4828"
   },
   {
     "repository": "thomasddn/ha-volvo-cars",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/4828"
   },
   {
     "repository": "suppqt/hass_mars_hydro",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/4828"
   }
 ]
