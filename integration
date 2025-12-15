@@ -640,6 +640,7 @@
   "fuatakgun/eufy_security",
   "FUjr/homeassistant-openwrt-ubus",
   "functionpointer/home-assistant-chargecloud-integration",
+  "funkadelic/ha-acwd",
   "fustom/ariston-remotethermo-home-assistant-v3",
   "futuretense/keymaster",
   "g470258/hass-esplus",
