@@ -424,6 +424,7 @@
   "studiobts/device-pulse-table-card",
   "studiobts/device-pulse-timeline-card",
   "swingerman/lovelace-fluid-level-background-card",
+  "sxdjt/bignumber-card-continued",
   "sxdjt/canvas-gauge-card-continued",
   "sxdjt/ha-indicator-grid",
   "sxdjt/ha-multi-status-indicator-card",
