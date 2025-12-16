@@ -220,6 +220,7 @@
   "bjorncs/ha-brewcreator",
   "BJReplay/EPA_AirQuality_HA",
   "BJReplay/ha-solcast-solar",
+  "bkanuka/ha-run-chicken",
   "bkbilly/G4S-Mobility",
   "bkbilly/medisanabp_ble",
   "bkbilly/MeteoGR",
