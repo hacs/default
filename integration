@@ -290,6 +290,7 @@
   "cavefire/hass-openid",
   "cazeaux/ha-iracing",
   "cdnninja/yoto_ha",
+  "cedricziel/ha-matter-binding-helper",
   "cedricziel/ha-sunlit",
   "chaimchaikin/molad-ha",
   "CharlesGillanders/homeassistant-alphaESS",
