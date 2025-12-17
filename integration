@@ -1612,6 +1612,7 @@
   "sockless-coding/garo_wallbox",
   "sockless-coding/ha-eaton-ups-companion",
   "sockless-coding/panasonic_cc",
+  "solentlabs/cable_modem_monitor",
   "SoftXperience/home-assistant-foxess-api",
   "sokolovs/wda-sensor",
   "solarssk/ztm_warsaw",
