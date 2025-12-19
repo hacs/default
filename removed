@@ -2319,5 +2319,65 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/4745"
+  },
+  {
+    "repository": "timniklas/hass-govee_light_ble",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4784"
+  },
+  {
+    "repository": "avolmensky/panasonic_eolia",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4785"
+  },
+  {
+    "repository": "OliverEC04/compact-timetable-card",
+    "reason": "Repository has been deleted",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4827"
+  },
+  {
+    "repository": "haberda/tradfri_remotes",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4828"
+  },
+  {
+    "repository": "haberda/light_automation",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4828"
+  },
+  {
+    "repository": "haberda/Periodic-lights",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4828"
+  },
+  {
+    "repository": "thomasddn/ha-volvo-cars",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4828"
+  },
+  {
+    "repository": "suppqt/hass_mars_hydro",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4828"
+  },
+  {
+    "repository": "tomaae/homeassistant-portainer",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4875"
+  },
+  {
+    "repository": "omgitslurch/hass-unifi-ap-led",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4875"
   }
 ]
