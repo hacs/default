@@ -405,7 +405,6 @@
   "dahlb/ha_blueair",
   "dahlb/ha_carrier",
   "dahlb/ha_hatch",
-  "dahlb/ha_kia_hyundai",
   "daikin-br/ha-custom-integration",
   "dala318/ev_load_balancing",
   "dala318/nordpool_planner",
