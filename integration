@@ -1336,6 +1336,7 @@
   "pcourbin/ecodevices_rt2",
   "pcourbin/imaprotect",
   "pdw-mb/tsmart_ha",
+  "pehesi97/intelbras-amt-home-assistant",
   "peribeir/homeassistant-rademacher",
   "perosb/power_max_tracker",
   "perosb/qvantum_custom_component",
