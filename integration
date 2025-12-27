@@ -746,6 +746,7 @@
   "hardbyte/ha-evnex",
   "HarvsG/ha-glinet4-integration",
   "hasl-sensor/integration",
+  "hass-energy/haeo",
   "hass-uconnect/hass-uconnect",
   "hasscc/hass-edge-tts",
   "HASwitchPlate/openHASP-custom-component",
