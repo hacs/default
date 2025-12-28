@@ -1878,6 +1878,7 @@
   "zachowj/hass-node-red",
   "zacs/ha-energycalc",
   "zacs/ha-mattermost",
+  "zacs/ha-receipt_printer",
   "zagi988/HA_mdadm",
   "zanaca/ha-inmet-weather",
   "zbigniewmotyka/home-assistant-solplanet",
