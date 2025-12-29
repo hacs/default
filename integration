@@ -1673,6 +1673,7 @@
   "syssi/xiaomi_fan",
   "syssi/xiaomi_raw",
   "syssi/xiaomiplug",
+  "T-leco/investing_portfolio",
   "t0mer/manish-custom-notifier",
   "t0mer/matterbridge-custom-notifier",
   "taarskog/home-assistant-component-somweb",
