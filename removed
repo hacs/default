@@ -2384,12 +2384,12 @@
     "repository": "dahlb/ha_kia_hyundai",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/4992"
   },
   {
     "repository": "alexdelprete/ha-abb-powerone-pvi-sunspec",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/4992"
   }
 ]
