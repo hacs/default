@@ -1107,7 +1107,7 @@
   "mampfes/hacs_dwd_pollenflug",
   "mampfes/hacs_waste_collection_schedule",
   "mandarons/ha-bouncie",
-  "manjotsc/ha-smtp,
+  "manjotsc/ha_simbase",
   "marcelwestrahome/home-assistant-niu-component",
   "marcoboers/home-assistant-quatt",
   "MarcoGos/davis_vantage",
