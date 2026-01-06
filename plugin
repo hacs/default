@@ -437,6 +437,7 @@
   "sxdjt/ha-indicator-grid",
   "sxdjt/ha-multi-status-indicator-card",
   "sxdjt/ha-nws-alert-card",
+  "sxdjt/ha-temperature-heatmap",
   "sxdjt/ha-windspeed-heatmap",
   "sxdjt/horizontal-waterfall-history-card",
   "t1gr0u/rain-gauge-card",
