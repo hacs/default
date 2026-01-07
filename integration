@@ -814,6 +814,7 @@
   "itchannel/fordpass-ha",
   "itchannel/optus-ha",
   "itchannel/tdarr_ha",
+  "itning/hass-aliyun_bailian_tts",
   "ITSpecialist111/ai_automation_suggester",
   "ivanb1989/sabiana-cloud",
   "ivancoppa/homeassistant-perry-cdom",
