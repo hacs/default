@@ -95,6 +95,7 @@
   "amitfin/retry",
   "amosyuen/ha-epson-projector-link",
   "amosyuen/ha-tplink-deco",
+  "Anat0l/waterius-ha",
   "And3rsL/VisonicAlarm-for-Hassio",
   "andersevenrud/ha-nexa-bridge-x",
   "andersonshatch/midea-ac-py",
@@ -464,6 +465,7 @@
   "delphiki/hass-pronote",
   "delphiki/hass-tarif-edf",
   "DeLuca21/ynab-ha",
+  "denov/home-assistant-apex-neptune",
   "denpamusic/homeassistant-plum-ecomax",
   "denysdovhan/ha-check-weather",
   "denysdovhan/ha-lun-misto-air",
@@ -813,6 +815,7 @@
   "itchannel/fordpass-ha",
   "itchannel/optus-ha",
   "itchannel/tdarr_ha",
+  "itning/hass-aliyun_bailian_tts",
   "ITSpecialist111/ai_automation_suggester",
   "ivanb1989/sabiana-cloud",
   "ivancoppa/homeassistant-perry-cdom",
@@ -849,6 +852,7 @@
   "jasperslits/haithowifi",
   "JayBlackedOut/hass-nhlapi",
   "jaydeethree/Home-Assistant-weatherdotcom",
+  "jayjojayson/hass-victron-vrm-api",
   "jazzz/ha-evocarshare",
   "jbergler/hass-ttlock",
   "jbouwh/ha-elro-connects",
@@ -1427,6 +1431,7 @@
   "Rafciq/BM6",
   "Rain1971/V2C_trydant",
   "raman325/ha-zoom-automation",
+  "raman325/lock_code_manager",
   "randomletters/motion_dimmer",
   "rany2/ha-open-meteo-solar-forecast",
   "Raznor09/moving_intelligence",
@@ -1905,5 +1910,6 @@
   "zubir2k/homeassistant-dailyhadith",
   "zubir2k/homeassistant-esolatgps",
   "zubir2k/homeassistant-esolattakwim",
-  "zulufoxtrot/ha-zyxel"
+  "zulufoxtrot/ha-zyxel",
+  "Zwer2k/ha-pca301"
 ]
