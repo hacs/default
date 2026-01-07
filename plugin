@@ -384,6 +384,7 @@
   "PRProd/HA-Firemote",
   "punxaphil/custom-sonos-card",
   "punxaphil/maxi-media-player",
+  "qlerup/energy-graph-scheduler-card",
   "qlerup/lovelace-chores4kids-card",
   "qlerup/lovelace-pin-lock-card",
   "qlerup/lovelace-thermostat-pro-timeline",
