@@ -94,6 +94,7 @@
   "amitfin/retry",
   "amosyuen/ha-epson-projector-link",
   "amosyuen/ha-tplink-deco",
+  "Anat0l/waterius-ha",
   "And3rsL/VisonicAlarm-for-Hassio",
   "andersevenrud/ha-nexa-bridge-x",
   "andersonshatch/midea-ac-py",
@@ -233,6 +234,7 @@
   "bm1549/home-assistant-frigidaire",
   "BobTheShoplifter/HomeAssistant-Posten",
   "bodyscape/cielo_home",
+  "boot-nyxpoint/prana-wifi",
   "boralyl/kodi-recently-added",
   "boralyl/steam-wishlist",
   "borski/ha-lucidmotors",
@@ -762,6 +764,7 @@
   "Hoffmann77/ha-dwd-precipitation",
   "Hogster/BPS",
   "hokiebrian/eia_hourly_demand",
+  "hollowpnt92/lubelogger-ha",
   "home-assistant-HomeWhiz/home-assistant-HomeWhiz",
   "Home-Is-Where-You-Hang-Your-Hack/sensor.goveetemp_bt_hci",
   "HomeAssistant-Mods/home-assistant-miele",
@@ -813,6 +816,7 @@
   "itchannel/fordpass-ha",
   "itchannel/optus-ha",
   "itchannel/tdarr_ha",
+  "itning/hass-aliyun_bailian_tts",
   "ITSpecialist111/ai_automation_suggester",
   "ivanb1989/sabiana-cloud",
   "ivancoppa/homeassistant-perry-cdom",
@@ -1428,6 +1432,7 @@
   "Rafciq/BM6",
   "Rain1971/V2C_trydant",
   "raman325/ha-zoom-automation",
+  "raman325/lock_code_manager",
   "randomletters/motion_dimmer",
   "rany2/ha-open-meteo-solar-forecast",
   "Raznor09/moving_intelligence",
@@ -1907,5 +1912,6 @@
   "zubir2k/homeassistant-dailyhadith",
   "zubir2k/homeassistant-esolatgps",
   "zubir2k/homeassistant-esolattakwim",
-  "zulufoxtrot/ha-zyxel"
+  "zulufoxtrot/ha-zyxel",
+  "Zwer2k/ha-pca301"
 ]
