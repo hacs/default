@@ -265,6 +265,7 @@
   "bscholer/home-assistant-comma-ai",
   "bvweerd/dynamic_energy_contract_calculator",
   "bvweerd/simple_pid_controller",
+  "bxthomas/tesira_ttp",
   "bywciu/Home-Assistant-Custom-Components-ReversoTTS",
   "c-st/auto_areas",
   "c0un7-z3r0/hass-phoniebox",
