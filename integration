@@ -1082,6 +1082,7 @@
   "lloydw/hass-spanet",
   "lnagel/hass-eaton-ups-mqtt",
   "lnagel/hass-komfovent",
+  "lnagel/hass-navirec",
   "lociii/homeassistant-csgo",
   "lociii/homeassistant-overwolf-status",
   "lolouk44/CurrentCost_HA_CC",
