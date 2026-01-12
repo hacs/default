@@ -1124,6 +1124,7 @@
   "mampfes/hacs_dwd_pollenflug",
   "mampfes/hacs_waste_collection_schedule",
   "mandarons/ha-bouncie",
+  "manjotsc/ha-fota_teltonika",
   "manjotsc/ha-kore_wireless",
   "manjotsc/ha-simbase",
   "MarcelWepper/Inverter-Controller",
