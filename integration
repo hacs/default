@@ -1129,6 +1129,7 @@
   "mandarons/ha-bouncie",
   "manjotsc/ha-fota_teltonika",
   "manjotsc/ha-kore_wireless",
+  "manjotsc/ha-twilio_sms",
   "manjotsc/ha-simbase",
   "MarcelWepper/Inverter-Controller",
   "marcelwestrahome/home-assistant-niu-component",
