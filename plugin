@@ -521,6 +521,5 @@
   "ytilis/hass-progress-bar-feature",
   "zanac/temperature-heatmap-card",
   "zanna-37/hass-swipe-navigation",
-  "zeronounours/lovelace-energy-entity-row",
-  "lop1505/RoomCard"
+  "zeronounours/lovelace-energy-entity-row"
 ]
