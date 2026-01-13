@@ -2391,5 +2391,17 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/4992"
+  },
+  {
+    "repository": "bieniu/ha-ad-thermostats-update",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/5023"
+  },
+  {
+    "repository": "vingerha/ha_adsb_lol",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/5090"
   }
 ]
