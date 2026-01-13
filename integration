@@ -268,8 +268,8 @@
   "bvweerd/simple_pid_controller",
   "bxthomas/tesira_ttp",
   "bywciu/Home-Assistant-Custom-Components-ReversoTTS",
-  "cardouken/homeassistant-unifi-unas"
   "c-st/auto_areas",
+  "cardouken/homeassistant-unifi-unas"
   "c0un7-z3r0/hass-phoniebox",
   "c1pher-cn/ha-mcp-for-xiaozhi",
   "c1pher-cn/heweather",
