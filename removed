@@ -2367,5 +2367,41 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/4828"
+  },
+  {
+    "repository": "tomaae/homeassistant-portainer",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4875"
+  },
+  {
+    "repository": "omgitslurch/hass-unifi-ap-led",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4875"
+  },
+  {
+    "repository": "dahlb/ha_kia_hyundai",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4992"
+  },
+  {
+    "repository": "alexdelprete/ha-abb-powerone-pvi-sunspec",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4992"
+  },
+  {
+    "repository": "bieniu/ha-ad-thermostats-update",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/5023"
+  },
+  {
+    "repository": "vingerha/ha_adsb_lol",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/5090"
   }
 ]
