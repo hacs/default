@@ -581,6 +581,7 @@
   "epoplavskis/homeassistant_salus",
   "erikkastelec/hass-WEM-Portal",
   "eriknn/ha-pax_ble",
+  "eriknn/ha-modbus_devices",
   "ErilovNikita/ha-domru",
   "ErilovNikita/ha-yainternetometr",
   "esbenwiberg/easyiq",
