@@ -509,6 +509,7 @@
   "VitisEK/humidity-dewpoint-card",
   "VitisEK/temperature-thermometer-card",
   "VitisEK/uv-risk-card",
+  "VitisEK/wu-wind-compass-card",
   "Voxxie/lovelace-jumbo-card",
   "vpdchart/vpdchart-card",
   "wassy92x/lovelace-digital-clock",
