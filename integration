@@ -1758,6 +1758,7 @@
   "TheRealFalseReality/Aquarium-AI-Homeassistant",
   "TheRealWaldo/thermal",
   "ThermIQ/thermiq_mqtt-ha",
+  "thetic/hass-mytpu",
   "theundefined/enea-outages-ha",
   "theundefined/multisport-ha",
   "thevoltagesource/LennoxiComfort",
