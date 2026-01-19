@@ -537,6 +537,7 @@
   "drc38/Fronius_solarweb",
   "drlaplace/KVV_Departure_Monitor",
   "droans/mass_queue",
+  "droidgren/smhi_season",
   "droso-hass/idfm",
   "dscao/ikuai",
   "DSorlov/http_agent",
