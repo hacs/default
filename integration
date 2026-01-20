@@ -627,6 +627,7 @@
   "fabilau/hass_smart_offset_thermostat",
   "fabio-garavini/ha-openai-whisper-stt-api",
   "faizpuru/ha-ambeo_soundbar",
+  "faizpuru/ha-meteofrance-montagne",
   "faizpuru/ha-pilot-wire-climate",
   "fapfaff/homeassistant-appwash",
   "FaserF/ha-boulderwelt",
