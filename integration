@@ -598,6 +598,7 @@
   "Elwinmage/ha-reefbeat-component",
   "emes30/facebook_messenger",
   "emics/ham_radio_propagation",
+  "energy-tracker/home-assistant-energy-tracker",
   "enes-oerdek/Home-Assistant-Helium-Integration",
   "enkama/hass-variables",
   "enoch85/ge-spot",
