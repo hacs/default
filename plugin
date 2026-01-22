@@ -252,6 +252,7 @@
   "jtbgroup/kodi-playlist-card",
   "jtbgroup/kodi-search-card",
   "jtubb/generator-hmi-card",
+  "jtubb/Pylontech-Battery-Card",
   "junalmeida/homeassistant-minimalistic-area-card",
   "junkfix/config-editor-card",
   "junkfix/numberbox-card",
