@@ -1338,6 +1338,7 @@
   "Nicxe/krisinformation",
   "nielsfaber/alarmo",
   "nielsfaber/scheduler-component",
+  "nielsfaber/zoned-heating",
   "nielstron/inteno_hass",
   "niktest/solaredge_ev_charger_au",
   "nilisos/hass-lisios-bridge",
