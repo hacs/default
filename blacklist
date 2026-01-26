@@ -72,6 +72,7 @@
   "clayauld/lovelace-darksky-card",
   "cnecrea/infpro",
   "codyc1515/ha-contact-energy",
+  "crowbarz/ha-sql_json",
   "custom-cards/bar-card",
   "custom-cards/boilerplate-card",
   "custom-cards/button-entity-row",
