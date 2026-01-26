@@ -180,6 +180,7 @@
   "ericpignet/home-assistant-tplink_router",
   "estevez-dev/extended-banner-card",
   "eyalcha/thermal",
+  "farosch/hp_aruba_switch",
   "faserf/ha-deutschebahn",
   "faserf/ha-rewe",
   "fineemb/lynk-co",
