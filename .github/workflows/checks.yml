@@ -33,10 +33,10 @@ jobs:
       removal: ${{ steps.removal.outputs.removal }}
     steps:
       - name: Check out repository
-        uses: actions/checkout@v6.0.1
+        uses: actions/checkout@v6.0.2
 
       - name: Set up Python
-        uses: actions/setup-python@v6.1.0
+        uses: actions/setup-python@v6.2.0
         with:
           python-version-file: ".python-version"
 
@@ -65,10 +65,10 @@ jobs:
     if: needs.preflight.outputs.removal != 'true'
     steps:
       - name: Check out repository
-        uses: actions/checkout@v6.0.1
+        uses: actions/checkout@v6.0.2
 
       - name: Set up Python
-        uses: actions/setup-python@v6.1.0
+        uses: actions/setup-python@v6.2.0
         with:
           python-version-file: ".python-version"
           cache: "pip"
@@ -88,10 +88,10 @@ jobs:
     name: Editable PR
     steps:
       - name: Check out repository
-        uses: actions/checkout@v6.0.1
+        uses: actions/checkout@v6.0.2
 
       - name: Set up Python
-        uses: actions/setup-python@v6.1.0
+        uses: actions/setup-python@v6.2.0
         with:
           python-version-file: ".python-version"
           cache: "pip"
@@ -111,10 +111,10 @@ jobs:
     if: needs.preflight.outputs.removal != 'true'
     steps:
       - name: Check out repository
-        uses: actions/checkout@v6.0.1
+        uses: actions/checkout@v6.0.2
 
       - name: Set up Python
-        uses: actions/setup-python@v6.1.0
+        uses: actions/setup-python@v6.2.0
         with:
           python-version-file: ".python-version"
           cache: "pip"
@@ -136,10 +136,10 @@ jobs:
     if: needs.preflight.outputs.removal != 'true'
     steps:
       - name: Check out repository
-        uses: actions/checkout@v6.0.1
+        uses: actions/checkout@v6.0.2
 
       - name: Set up Python
-        uses: actions/setup-python@v6.1.0
+        uses: actions/setup-python@v6.2.0
         with:
           python-version-file: ".python-version"
           cache: "pip"
@@ -160,10 +160,10 @@ jobs:
     if: needs.preflight.outputs.removal != 'true'
     steps:
       - name: Check out repository
-        uses: actions/checkout@v6.0.1
+        uses: actions/checkout@v6.0.2
 
       - name: Set up Python
-        uses: actions/setup-python@v6.1.0
+        uses: actions/setup-python@v6.2.0
         with:
           python-version-file: ".python-version"
           cache: "pip"
@@ -184,7 +184,7 @@ jobs:
     if: needs.preflight.outputs.category == 'integration' && needs.preflight.outputs.removal != 'true'
     steps:
       - name: Check out repository
-        uses: actions/checkout@v6.0.1
+        uses: actions/checkout@v6.0.2
 
       - name: Clone new addition
         run: |
