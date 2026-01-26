@@ -2408,6 +2408,6 @@
     "repository": "crowbarz/ha-sql_json",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/5284"
   }
 ]
