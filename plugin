@@ -160,6 +160,7 @@
   "flixlix/energy-gauge-bundle-card",
   "flixlix/energy-period-selector-plus",
   "flixlix/power-flow-card-plus",
+  "https://github.com/levonisyas/floor3dpro-card"
   "flyrmyr/system-flow-card",
   "francois-le-ko4la/lovelace-entity-progress-card",
   "fratsloos/fr24_card",
