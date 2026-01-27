@@ -274,6 +274,7 @@
   "brezlord/hass-waterco-electrochlor",
   "brianegge/home-assistant-sdnotify",
   "briis/weatherflow_forecast",
+  "brott8/ha-crowdsec",
   "Brunas/meteo_lt_by_brunas",
   "bscholer/home-assistant-comma-ai",
   "bvweerd/dynamic_energy_contract_calculator",
