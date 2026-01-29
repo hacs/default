@@ -1297,7 +1297,7 @@
   "NinDTendo/tobi",
   "NirBY/ha-mashov",
   "nitaybz/optimistic_feedback",
-  "njobrien1006/hass_traeger",  
+  "njobrien1006/hass_traeger",
   "nkvoll/home-assistant-qsys-qrc",
   "nnnlog/homeassistant-cvnet-smarthome",
   "nordicopen/easee_hass",
@@ -1649,6 +1649,7 @@
   "starwarsfan/shadow-control",
   "steamEngineer/bravia-quad-homeassistant",
   "stefanes/tibber-graph",
+  "stefanseeger/ecotracker",
   "stephan192/hochwasserportal",
   "StephanJoubert/home_assistant_solarman",
   "stevesinchak/ha-weatherlink-live",
@@ -1912,6 +1913,5 @@
   "zubir2k/homeassistant-esolatgps",
   "zubir2k/homeassistant-esolattakwim",
   "zulufoxtrot/ha-zyxel",
-  "Zwer2k/ha-pca301",
-  "stefanseeger/ecotracker"
+  "Zwer2k/ha-pca301"
 ]
