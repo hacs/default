@@ -2403,5 +2403,35 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/5090"
+  },
+  {
+    "repository": "crowbarz/ha-sql_json",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/5284"
+  },
+  {
+    "repository": "farosch/hp_aruba_switch",
+    "reason": "Repository has been deleted",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/5287"
+  },
+  {
+    "repository": "giovannilamarmora/lovelace-google-components",
+    "reason": "Repository has been deleted",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/5314"
+  },
+  {
+    "repository": "codyc1515/ha-em6",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/5315"
+  },
+  {
+    "repository": "codyc1515/ha-managemyhealth",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/5315"
   }
 ]
