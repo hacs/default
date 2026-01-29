@@ -2426,12 +2426,12 @@
     "repository": "codyc1515/ha-em6",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/5315"
   },
   {
     "repository": "codyc1515/ha-managemyhealth",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/5315"
   }
 ]
