@@ -2014,5 +2014,6 @@
   "zubir2k/homeassistant-esolatgps",
   "zubir2k/homeassistant-esolattakwim",
   "zulufoxtrot/ha-zyxel",
-  "Zwer2k/ha-pca301"
+  "Zwer2k/ha-pca301",
+  "salvatore-disavio/ha-popup-blueprints"
 ]
