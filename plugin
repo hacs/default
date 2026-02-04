@@ -283,6 +283,7 @@
   "leshniak/hass-auth-cookie",
   "LesTR/homeassistant-minimalistic-area-card",
   "levonisyas/floor3dpro-card",
+  "levonisyas/overlaypro-card",
   "ljmerza/fitbit-card",
   "ljmerza/github-card",
   "ljmerza/harmony-remote-card",
