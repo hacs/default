@@ -103,6 +103,7 @@
   "ambientika/HomeAssistant-integration-for-Ambientika",
   "amitfin/daily_schedule",
   "amitfin/oref_alert",
+  "amitfin/pima_force",
   "amitfin/retry",
   "amosyuen/ha-epson-projector-link",
   "amosyuen/ha-tplink-deco",
