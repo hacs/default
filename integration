@@ -1733,6 +1733,7 @@
   "solentlabs/cable_modem_monitor",
   "soloam/ha-pid-controller",
   "sopelj/hass-ember-mug-component",
+  "sotoniak/home-assistant-emergency-stop",
   "soulripper13/blueprint-studio",
   "soulripper13/hass-speedtest-ookla",
   "soulripper13/hass-waviot",
