@@ -458,6 +458,7 @@
   "slipx06/sunsynk-power-flow-card",
   "snootched/cb-lcars",
   "sopelj/lovelace-kanji-clock-card",
+  "soestin/hass_periodic_card_reload",
   "stefmde/HomeAssistant-TwitchFollowedLiveStreamsCard",
   "studiobts/device-pulse-table-card",
   "studiobts/device-pulse-timeline-card",
