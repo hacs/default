@@ -1726,6 +1726,7 @@
   "sockless-coding/garo_wallbox",
   "sockless-coding/ha-eaton-ups-companion",
   "sockless-coding/panasonic_cc",
+  "soestin/hass_periodic_card_reload",
   "SoftXperience/home-assistant-foxess-api",
   "sokolovs/wda-sensor",
   "solarcube-io/solar-cube-integration",
