@@ -1430,6 +1430,8 @@
   "pcourbin/imaprotect",
   "pdw-mb/tsmart_ha",
   "Pehesi97/intelbras-amt-home-assistant",
+  "pentafive/8311-ha-bridge",
+  "pentafive/pskr-ha-bridge",
   "peribeir/homeassistant-rademacher",
   "perosb/power_max_tracker",
   "perosb/qvantum_custom_component",
