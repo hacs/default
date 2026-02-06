@@ -433,6 +433,7 @@
   "dahlb/ha_carrier",
   "dahlb/ha_hatch",
   "daikin-br/ha-custom-integration",
+  "dakahler/ha_stopfinder",
   "dakahler/homeassistant-birdfy",
   "dala318/ev_load_balancing",
   "dala318/nordpool_planner",
