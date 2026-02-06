@@ -508,6 +508,7 @@
   "VitisEK/barometric-pressure-card",
   "VitisEK/humidity-dewpoint-card",
   "VitisEK/minmax-avg-bar-card",
+  "VitisEK/rain-bar-card",
   "VitisEK/temperature-thermometer-card",
   "VitisEK/uv-risk-card",
   "VitisEK/wu-wind-compass-card",
