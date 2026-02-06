@@ -558,6 +558,7 @@
   "DSorlov/http_agent",
   "DSorlov/snmp_printer",
   "DSorlov/swemail",
+  "DTekNO/norway_alerts",
   "dudanov/hassio-ftms",
   "duhow/hass-aigues-barcelona",
   "duhow/hass-cover-time-based",
