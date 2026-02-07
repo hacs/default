@@ -1796,6 +1796,7 @@
   "thecode/ha-onewire-sysbus",
   "thecode/ha-rpi_gpio",
   "thedeemling/hass-energa-my-meter",
+  "thefunkygibbon/eafm-enhanced",
   "TheGui01/Frisquet-connect-for-home-assistant",
   "TheHolyRoger/hass-cryptoinfo",
   "TheNoctambulist/hass-airtouch",
