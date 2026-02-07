@@ -115,8 +115,8 @@
   "drakulis/jb-battery-card",
   "drkpxl/printwatch-card",
   "drlaplace/kvv-departures-card",
-  "droans/mass-player-card",
   "droans/mass_card",
+  "droans/mass-player-card",
   "dropqube/pv-forecast-card",
   "dvb6666/homed-zigbee-networkmap",
   "dylandoamaral/uptime-card",
@@ -347,6 +347,7 @@
   "nielsfaber/alarmo-card",
   "nielsfaber/scheduler-card",
   "nitaybz/apple-home-dashboard",
+  "noambergauz/dreame-vacuum-map-card",
   "nutteloost/actions-card",
   "nutteloost/simple-swipe-card",
   "nutteloost/todo-swipe-card",
@@ -509,6 +510,5 @@
   "ytilis/hass-progress-bar-feature",
   "zanac/temperature-heatmap-card",
   "zanna-37/hass-swipe-navigation",
-  "zeronounours/lovelace-energy-entity-row",
-  "noambergauz/dreame-vacuum-map-card"
+  "zeronounours/lovelace-energy-entity-row"
 ]
