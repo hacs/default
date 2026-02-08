@@ -1508,6 +1508,7 @@
   "pyalarmdotcom/alarmdotcom",
   "Pyhass/Hive-Custom-Component",
   "pypolestar/polestar_api",
+  "pyrech/homewizard_cloud_watermeter",
   "pytoyoda/ha_toyota",
   "qlerup/chores4kids-sync",
   "qlerup/thermostat-pro-timeline",
