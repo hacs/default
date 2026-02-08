@@ -1,6 +1,8 @@
 {
   "name": "Ariston Lydos Boiler Card",
   "description": "Custom Lovelace card for Ariston Lydos WiFi water heaters",
+  "category": "Frontend",
   "type": "plugin",
-  "repository": "djtech84/boiler-card"
+  "url": "https://github.com/djtech84/boiler-card",
+  "chip": false
 }
