@@ -1,0 +1,8 @@
+{
+  "name": "Ariston Boiler Card",
+  "description": "Custom Lovelace card per il controllo dei boiler Ariston Lydos WiFi",
+  "category": "Frontend",
+  "type": "plugin",
+  "url": "https://github.com/DJTech84/boiler-card",
+  "chip": false
+}
