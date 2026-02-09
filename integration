@@ -701,6 +701,7 @@
   "geertmeersman/yoin",
   "geertmeersman/youfone",
   "gensyn/task_tracker",
+  "gensyn/ssh_command",
   "gentslava/elektronny-gorod",
   "geoffreylagaisse/Hass-Microsoft-Graph",
   "GeorgeSG/ha-slack-user",
