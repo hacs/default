@@ -2433,5 +2433,35 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/5315"
+  },
+  {
+    "repository": "netsoft-ruidias/ha-custom-component-myedenred",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "netsoft-ruidias/ha-custom-component-sodexo",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "netsoft-ruidias/ha-custom-component-coverflex",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "CodeFoodPixels/robovac",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "andijakl/nrgkick-homeassistant",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
   }
 ]
