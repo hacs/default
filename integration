@@ -1177,6 +1177,7 @@
   "manjotsc/ha-fota_teltonika",
   "manjotsc/ha-kore_wireless",
   "manjotsc/ha-simbase",
+  "manjotsc/ha-twilio_sms_ui",
   "MarcelWepper/Inverter-Controller",
   "marcelwestrahome/home-assistant-niu-component",
   "marcoboers/home-assistant-quatt",
