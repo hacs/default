@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Particle Cloud Card",
+    "author": "Christian Gruffman",
+    "description": "Ambient particle visualization card with swarm and vortex motion",
+    "category": "plugin",
+    "repository": "sonite/particle-cloud-card",
+    "type": "lovelace"
+  }
+]
