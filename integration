@@ -42,6 +42,7 @@
   "akasma74/Hass-Custom-Alarm",
   "akinin/ha_keenetic",
   "al-one/hass-xiaomi-miot",
+  "alakdae/AquastillaHA",
   "alaltitov/homeassistant-display-tools",
   "alaltitov/homeassistant-frontend-translations",
   "aLAN-LDZ/ThesslaGreen_HA",
@@ -1178,6 +1179,8 @@
   "manjotsc/ha-fota_teltonika",
   "manjotsc/ha-kore_wireless",
   "manjotsc/ha-simbase",
+  "manjotsc/ha-tvoverlay_ui",
+  "manjotsc/ha-twilio_sms_ui",
   "MarcelWepper/Inverter-Controller",
   "marcelwestrahome/home-assistant-niu-component",
   "marcoboers/home-assistant-quatt",
@@ -2024,5 +2027,6 @@
   "zubir2k/homeassistant-esolatgps",
   "zubir2k/homeassistant-esolattakwim",
   "zulufoxtrot/ha-zyxel",
+  "zupancicmarko/JellyHA",
   "Zwer2k/ha-pca301"
 ]
