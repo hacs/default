@@ -524,6 +524,7 @@
   "dingo35/ha-SmartEVSEv3",
   "dinki/view_assist_integration",
   "dirkgroenen/hass-evse-load-balancer",
+  "DisplacedForest/ha-hevy-tracker",
   "DiUS/homeassistant-powersensor",
   "djansen1987/SAJeSolar",
   "djbios/home-assistant-cat-scale",
