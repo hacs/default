@@ -24,6 +24,7 @@
   "AboveColin/HA-Philips-Pet-Series",
   "absent42/Aqara-Advanced-Lighting",
   "aburow/apc-modbus-snmp-ha",
+  "aburow/cyberpower-modbus-ha",
   "aceindy/Duepi_EVO",
   "acesyde/hassio_mylight_integration",
   "achilleasa/flamerite_ha",
