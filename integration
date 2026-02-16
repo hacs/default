@@ -718,6 +718,7 @@
   "geertmeersman/robonect",
   "geertmeersman/yoin",
   "geertmeersman/youfone",
+  "gensyn/ssh_command",
   "gensyn/task_tracker",
   "gentslava/elektronny-gorod",
   "geoffreylagaisse/Hass-Microsoft-Graph",
