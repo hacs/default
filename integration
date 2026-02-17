@@ -945,6 +945,7 @@
   "john-lazarus/HomeAssistant-SolisCloudMonitoring",
   "JohNan/homeassistant-homevolt-local",
   "JohNan/homeassistant-wellbeing",
+  "johnfromul/terma_moa_blue",
   "johnnybegood/ha-ksenia-lares",
   "johnvoipguy/Traeger-WiFire",
   "Johnwulp/rad-afval",
@@ -2014,6 +2015,5 @@
   "zubir2k/homeassistant-esolatgps",
   "zubir2k/homeassistant-esolattakwim",
   "zulufoxtrot/ha-zyxel",
-  "Zwer2k/ha-pca301",
-  "johnfromul/terma_moa_blue"
+  "Zwer2k/ha-pca301"
 ]
