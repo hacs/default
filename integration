@@ -58,6 +58,7 @@
   "AlbrechtL/hass-padersprinter",
   "alceasan/ha-deepgram-tts",
   "aldweb/ha-lg-hombot",
+  "aldweb/ha-openwrt-mqtt",
   "Aleks130699/ha-fpp",
   "alemuro/ha-cecotec-conga",
   "alengwenus/ha-sma-ev-charger",
