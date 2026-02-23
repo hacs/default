@@ -2463,5 +2463,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/5498"
+  },
+  {
+    "repository": "amaximus/garbage-collection-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
   }
 ]

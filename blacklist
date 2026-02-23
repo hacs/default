@@ -13,6 +13,7 @@
   "alryaz/hass-component-yandex-smart-home",
   "alryaz/hass-mosenergosbyt",
   "amaximus/bkk_stop_card",
+  "amaximus/garbage-collection-card",
   "amelchio/logbook_cache",
   "amosyuen/ha-eight-sleep-climate",
   "amosyuen/ha-registry",
