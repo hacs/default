@@ -1173,6 +1173,7 @@
   "lnagel/hass-eaton-ups-mqtt",
   "lnagel/hass-komfovent",
   "lnagel/hass-navirec",
+  "lnagel/hass-ufh-controller",
   "lociii/homeassistant-csgo",
   "lociii/homeassistant-overwolf-status",
   "lolouk44/CurrentCost_HA_CC",
