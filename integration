@@ -1240,6 +1240,7 @@
   "marnixt/PowerClimate",
   "marotoweb/home-assistant-vacuum-viomise",
   "marq24/ha-evcc",
+  "marq24/ha-fordconnect-query",
   "marq24/ha-goecharger-api2",
   "marq24/ha-senec-v3",
   "marq24/ha-tibber-pulse-local",
