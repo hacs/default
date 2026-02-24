@@ -2103,5 +2103,6 @@
   "zubir2k/homeassistant-esolattakwim",
   "zulufoxtrot/ha-zyxel",
   "zupancicmarko/JellyHA",
-  "Zwer2k/ha-pca301"
+  "Zwer2k/ha-pca301",
+  "fangwenyi-dev/ha-window-controller-gateway"
 ]
