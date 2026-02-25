@@ -1227,6 +1227,7 @@
   "manjotsc/ha-simbase",
   "manjotsc/ha-tvoverlay_ui",
   "manjotsc/ha-twilio_sms_ui",
+  "Manschitz/brunner-eas-integration",
   "MarcelWepper/Inverter-Controller",
   "marcelwestrahome/home-assistant-niu-component",
   "marcoboers/home-assistant-quatt",
