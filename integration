@@ -131,6 +131,7 @@
   "andrew-codechimp/HA-Hive-Local-Thermostat",
   "andrew-codechimp/HA-Label-State",
   "andrew-codechimp/HA-Periodic-Min-Max",
+  "andrew-codechimp/HA-Wasp-In-A-Box",
   "andrew-codechimp/tsmart_ha",
   "andrewjswan/SwatchTime",
   "andrzejchm/blebox_shutterbox_tilt",
