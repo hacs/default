@@ -2463,5 +2463,17 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/5498"
+  },
+  {
+    "repository": "amaximus/garbage-collection-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/5769"
+  },
+  {
+    "repository": "jxlarrea/Voice-Satellite-Card-for-Home-Assistant",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/5793"
   }
 ]
