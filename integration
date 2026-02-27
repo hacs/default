@@ -1080,6 +1080,7 @@
   "KiraPC/ha-switchbot-remote",
   "kirei/hass-chargeamps",
   "kirill-k2/hass-guk-krasnodar",
+  "kizs/smalltv-cameras",
   "klacol/homeassistant-clage_homeserver",
   "klaptafel/ha-previous-state-tracker",
   "klatka/nc-talk-bot-component",
