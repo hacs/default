@@ -20,7 +20,7 @@ jobs:
     name: Upload
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@v6.0.1
+        uses: actions/checkout@v6.0.2
 
       - name: Validate with JSON schema
         uses: cardinalby/schema-validator-action@3.1.1
@@ -29,7 +29,7 @@ jobs:
           schema: 'tools/jsonschema/removed.schema.json'
 
       - name: Set up Python
-        uses: actions/setup-python@v6.1.0
+        uses: actions/setup-python@v6.2.0
         id: python
         with:
           python-version: "3.x"
