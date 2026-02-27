@@ -376,6 +376,7 @@
   "cnecrea/erovinieta",
   "cnecrea/hidroelectrica",
   "cnecrea/myelectrica",
+  "cnecrea/opcom",
   "cnecrea/smsto",
   "cnstudio/Taipower-Bimonthly-Energy-Cost-homeassistant",
   "cobryan05/ha-color-notify",
