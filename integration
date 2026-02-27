@@ -657,6 +657,7 @@
   "exxamalte/home-assistant-custom-components-nsw-rural-fire-service-fire-danger",
   "eyalcha/kan_program",
   "eyalcha/read_your_meter",
+  "eyalgal/album_slideshow",
   "faanskit/ha-esolar",
   "fabilau/hass_smart_offset_thermostat",
   "fabio-garavini/ha-openai-whisper-stt-api",
