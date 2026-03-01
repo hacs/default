@@ -1596,6 +1596,7 @@
   "rbrunt/paprika-ha",
   "rccoleman/channels_dvr_recently_recorded",
   "rdehuyss/homeassistant-custom_components-denkovi",
+  "RedFirebreak/ha-osrs-data",
   "redlukas/emu_mbus_center",
   "redpomodoro/fronius_modbus",
   "redstone99/hass-alert2",
