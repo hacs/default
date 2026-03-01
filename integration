@@ -1350,6 +1350,7 @@
   "Mr-Groch/ambihue",
   "Mr-Groch/HA-ESA-NASK-Air-Quality",
   "MrBearPresident/JBL_Soundbar",
+  "mrhedstrom/ha-tibber-pulse-mqtt",
   "mrk-its/homeassistant-blitzortung",
   "MrSjodin/HomeAssistant_Trafiklab_Integration",
   "MrSleeps/Juwel-HeliaLux-Home-Assistant-Custom-Component",
