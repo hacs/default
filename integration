@@ -1157,6 +1157,7 @@
   "lewei50/ha_iammeter",
   "lewei50/ha_iammeter_link",
   "lewei50/ha_iammeter_modbus",
+  "lfasci/homeassistant-metar",
   "lhw/cloudweatherproxy",
   "libdyson-wg/ha-dyson",
   "lichtteil/local_luftdaten",
