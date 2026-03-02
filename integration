@@ -27,6 +27,7 @@
   "aburow/apc-modbus-snmp-ha",
   "aburow/cyberpower-modbus-ha",
   "aburow/ups-snmp-ha",
+  "acato/ha-joule",
   "aceindy/Duepi_EVO",
   "acesyde/hassio_mylight_integration",
   "achilleasa/flamerite_ha",
