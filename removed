@@ -2481,5 +2481,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/5839"
+  },
+  {
+    "repository": "jcgoette/weight_gurus_homeassistant",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/5961"
   }
 ]
