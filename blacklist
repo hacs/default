@@ -226,6 +226,7 @@
   "isabellaalstrom/krisinfo-card",
   "isabellaalstrom/sensor.krisinformation",
   "ITTV-tools/homeassistant-kostalplenticore",
+  "jcgoette/weight_gurus_homeassistant",
   "jensweimann/awb",
   "jessevl/homeassistant-greenchoice",
   "jihao/colorfulclouds-hass",
