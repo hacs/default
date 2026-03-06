@@ -1,0 +1,2 @@
+Retrying the HACS submission after fixing integration-repo validation blockers in koosoli/ESPHomeDesigner.
+This file is only a temporary marker for submission context and can be removed after the PR is created.
