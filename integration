@@ -1084,6 +1084,7 @@
   "jozefnad/homeassistant-quick_timer",
   "jozefnad/homeassistant-smartspaclient",
   "jpawlowski/hass.tibber_prices",
+  "jquirke/ha-solshare",
   "jrfernandes/ontario_energy_board",
   "jrgim/Zaragoza_tram",
   "jrmattila/ha-elenia",
