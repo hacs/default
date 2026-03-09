@@ -2099,6 +2099,7 @@
   "wolffshots/hass-audiobookshelf",
   "Woulve/phonetrack",
   "Wouter0100/homeassistant-nanokvm",
+  "wpatrik14/home-assistant-aquarea",
   "wrodie/ha_behringer_mixer",
   "WulfgarW/homeassistant-pycupra",
   "wuwentao/midea_ac_lan",
@@ -2148,6 +2149,5 @@
   "zubir2k/homeassistant-esolattakwim",
   "zulufoxtrot/ha-zyxel",
   "zupancicmarko/JellyHA",
-  "Zwer2k/ha-pca301",
-  "wpatrik14/home-assistant-aquarea"
+  "Zwer2k/ha-pca301"
 ]
