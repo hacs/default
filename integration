@@ -1813,6 +1813,7 @@
   "smarthomeblack/npc",
   "smarthomeblack/zalo_bot",
   "SmartyVan/hass-geolocator",
+  "smck83/ha-connectmypool",
   "Smiley73/ha-scheduler",
   "smkrv/ha-text-ai",
   "smkrv/ha-weathersense",
