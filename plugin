@@ -468,6 +468,7 @@
   "soestin/hass_periodic_card_reload",
   "sonite/particle-cloud-card",
   "sopelj/lovelace-kanji-clock-card",
+  "SpanPanel/span-card",
   "stefmde/HomeAssistant-TwitchFollowedLiveStreamsCard",
   "studiobts/device-pulse-table-card",
   "studiobts/device-pulse-timeline-card",
