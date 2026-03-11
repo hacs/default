@@ -1294,6 +1294,7 @@
   "MateoGreil/homeassistant-comwatt",
   "matfroh/abl_emh1_modbus",
   "matfroh/sax_battery_ha",
+  "MathewUlanowski/ha-rainsoft",
   "mathieu-mp/homeassistant-intex-spa",
   "matt-richardson/home-assistant-firefly-cloud",
   "matt-richardson/home-assistant-qustodio",
