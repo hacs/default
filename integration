@@ -734,7 +734,7 @@
   "gabest11/homeassistant-brother_scanner",
   "gadgetchnnel/entities_calendar",
   "ganhammar/hass-mcp-server",
-  "ganhammar/hass-oidc-auth",
+  "ganhammar/hass-oidc-server",
   "garbled1/homeassistant_ecowitt",
   "GarthDB/ha-wattbox",
   "gazoodle/gecko-home-assistant",
