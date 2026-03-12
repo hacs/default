@@ -2493,5 +2493,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/5983"
+  },
+  {
+    "repository": "cjaliaga/home-assistant-aquarea",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/6158"
   }
 ]
