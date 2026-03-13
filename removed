@@ -2481,5 +2481,23 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/5839"
+  },
+  {
+    "repository": "jcgoette/weight_gurus_homeassistant",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/5961"
+  },
+  {
+    "repository": "glenndehaan/homeassistant-hdfury",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/5983"
+  },
+  {
+    "repository": "cjaliaga/home-assistant-aquarea",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/6158"
   }
 ]
