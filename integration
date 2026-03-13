@@ -1606,6 +1606,7 @@
   "Prosono/SMARTi_BaseComponent",
   "ProudElm/solaredgeoptimizers",
   "ptimatth/GeorideHA",
+  "ptrkoz/ha-smogtok",
   "PTST/LibreView-HomeAssistant",
   "pveiga90/What-s-up-Docker-Updates-Monitor",
   "pvyleta/xcc-integration",
