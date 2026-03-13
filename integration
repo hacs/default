@@ -394,6 +394,7 @@
   "connorgallopo/leslies-pool",
   "connorgallopo/Superior-Plus-Propane",
   "contextablemark/home-agui-agent",
+  "CooLajz/ha-zivy-obraz",
   "corporategoth/ha-powerpetdoor",
   "cowboyrushforth/home-assistant-molekule",
   "craibo/ha-red-energy-au",
@@ -2148,6 +2149,5 @@
   "zubir2k/homeassistant-esolattakwim",
   "zulufoxtrot/ha-zyxel",
   "zupancicmarko/JellyHA",
-  "Zwer2k/ha-pca301",
-  "CooLajz/ha-zivy-obraz"
+  "Zwer2k/ha-pca301"
 ]
