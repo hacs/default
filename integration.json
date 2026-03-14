@@ -1,0 +1,9 @@
+{
+  "name": "BN Prayer Times",
+  "description": "Prayer times integration for Brunei Darussalam.",
+  "domain": "bn_prayer_times",
+  "homeassistant": "2024.6.0",
+  "iot_class": "local_polling",
+  "render_readme": true,
+  "country": "BN"
+}
