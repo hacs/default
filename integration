@@ -1617,6 +1617,7 @@
   "pyalarmdotcom/alarmdotcom",
   "Pyhass/Hive-Custom-Component",
   "pypolestar/polestar_api",
+  "Pyrdon/ha-log-manager",
   "pyrech/homewizard_cloud_watermeter",
   "pytoyoda/ha_toyota",
   "qlerup/chores4kids",
