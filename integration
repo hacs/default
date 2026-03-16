@@ -754,6 +754,7 @@
   "geertmeersman/yoin",
   "geertmeersman/youfone",
   "gensyn/ssh_command",
+  "gensyn/ssh_docker",
   "gensyn/task_tracker",
   "gentslava/elektronny-gorod",
   "geoffreylagaisse/Hass-Microsoft-Graph",
