@@ -1621,6 +1621,7 @@
   "pypolestar/polestar_api",
   "pyrech/homewizard_cloud_watermeter",
   "pytoyoda/ha_toyota",
+  "qcgzxw/hass-lierda-iot",
   "qlerup/chores4kids",
   "qlerup/thermostat-pro-timeline",
   "QNimbus/haefele-connect-mesh",
