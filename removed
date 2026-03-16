@@ -2469,5 +2469,47 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/5769"
+  },
+  {
+    "repository": "jxlarrea/Voice-Satellite-Card-for-Home-Assistant",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/5793"
+  },
+  {
+    "repository": "iantrich/roku-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/5839"
+  },
+  {
+    "repository": "jcgoette/weight_gurus_homeassistant",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/5961"
+  },
+  {
+    "repository": "glenndehaan/homeassistant-hdfury",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/5983"
+  },
+  {
+    "repository": "cjaliaga/home-assistant-aquarea",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/6158"
+  },
+  {
+    "repository": "ad-ha/kidschores-ha",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/6318"
+  },
+  {
+    "repository": "neggert/hass-egauge",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/6318"
   }
 ]
