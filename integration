@@ -1620,6 +1620,7 @@
   "princekama/home-assistant-rako",
   "Prosono/SMARTi_BaseComponent",
   "ProudElm/solaredgeoptimizers",
+  "proxmox-homeassistant/proxmoxve-custom",
   "ptimatth/GeorideHA",
   "PTST/LibreView-HomeAssistant",
   "pveiga90/What-s-up-Docker-Updates-Monitor",
