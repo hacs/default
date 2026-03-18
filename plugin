@@ -199,6 +199,7 @@
   "hasl-sensor/lovelace-hasl-departure-card",
   "hasl-sensor/lovelace-hasl-traffic-status-card",
   "hepter/ha-tplink-router-card",
+  "hiall-fyi/pulse-card",
   "homeassistant-extras/adguard-card",
   "homeassistant-extras/device-card",
   "homeassistant-extras/ohm-assistant",
