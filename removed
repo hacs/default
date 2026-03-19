@@ -2499,5 +2499,23 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/6158"
+  },
+  {
+    "repository": "ad-ha/kidschores-ha",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/6318"
+  },
+  {
+    "repository": "neggert/hass-egauge",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/6318"
+  },
+  {
+    "repository": "bouwew/sems2mqtt",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/6394"
   }
 ]
