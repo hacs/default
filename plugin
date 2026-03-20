@@ -341,7 +341,7 @@
   "mathoudebine/homeassistant-browser-control-card",
   "mattieha/select-list-card",
   "mawinkler/astroweather-card",
-  "maxfok/nimbus-weather-card",
+  "maxfok/nimbus-weather-card", 
   "maxwroc/battery-state-card",
   "maxwroc/github-flexi-card",
   "maybetaken/ha-makeskyblue-mppt-card",
