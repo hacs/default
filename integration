@@ -543,6 +543,10 @@
   "Desmond-Dong/zhipuai",
   "devinslick/home-assistant-fmd",
   "dext0r/yandex_smart_home",
+  "de-andrei/de_ble_blood_pressure_monitor",
+  "de-andrei/de_ble_fingertip_oximeter",
+  "de-andrei/de_ble_kitchen_scale",
+  "de-andrei/de_ble_thermometer",
   "dgomes/ha_erse",
   "dgomes/ha_generic_water_heater",
   "dhover/ha-cumulusmx",
@@ -2200,3 +2204,10 @@
   "zupancicmarko/JellyHA",
   "Zwer2k/ha-pca301"
 ]
+
+Add DE BLE integrations (4 devices)
+
+- de_ble_kitchen_scale - Nutridays KT630LB kitchen scale
+- de_ble_fingertip_oximeter - Contec PC-60FW pulse oximeter
+- de_ble_blood_pressure_monitor - Medisana BU 575 blood pressure monitor
+- de_ble_thermometer - Relsib WT50 thermometer
