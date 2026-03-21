@@ -834,6 +834,7 @@
   "hardbyte/ha-evnex",
   "HarvsG/ha-glinet4-integration",
   "hasl-sensor/integration",
+  "hass-cortex/azure-speech-stt",
   "hass-energy/amber-express",
   "hass-energy/haeo",
   "hass-uconnect/hass-uconnect",
