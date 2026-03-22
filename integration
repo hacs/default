@@ -2122,6 +2122,7 @@
   "WeaveHubHQ/ha-tovala",
   "WeaveHubHQ/ha-u-by-moen",
   "WeaveHubHQ/robinhood_crypto",
+  "webbson/homeassistant-message-queue",
   "weiangongsi/ddns",
   "Weissnix4711/hass-listenbrainz",
   "weltenwort/home-assistant-rct-power-integration",
