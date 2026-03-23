@@ -1865,6 +1865,7 @@
   "smart-ishhome/temperature_alarm",
   "smarthomeblack/npc",
   "smarthomeblack/zalo_bot",
+  "smartpricing/homeassistant-smartpms",
   "SmartyVan/hass-geolocator",
   "Smiley73/ha-scheduler",
   "smkrv/ha-text-ai",
