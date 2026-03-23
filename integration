@@ -1947,6 +1947,7 @@
   "syssi/xiaomi_fan",
   "syssi/xiaomi_raw",
   "syssi/xiaomiplug",
+  "szajbergyerek/ha-ship24",
   "T-leco/investing_portfolio",
   "t0mer/manish-custom-notifier",
   "t0mer/matterbridge-custom-notifier",
