@@ -1883,6 +1883,7 @@
   "solentlabs/cable_modem_monitor",
   "soloam/ha-pid-controller",
   "sopelj/hass-ember-mug-component",
+  "SourceLabOrg/HomeAssistant-PVOutputPublisher",
   "sotoniak/home-assistant-emergency-stop-public",
   "soulripper13/blueprint-studio",
   "soulripper13/hass-speedtest-ookla",
