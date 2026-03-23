@@ -1273,6 +1273,7 @@
   "mampfes/hacs_dwd_pollenflug",
   "mampfes/hacs_waste_collection_schedule",
   "mandarons/ha-bouncie",
+  "mandinger/fork-ha-octopus-spain",
   "manjotsc/ha-fota_teltonika",
   "manjotsc/ha-kore_wireless",
   "manjotsc/ha-simbase",
