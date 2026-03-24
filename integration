@@ -693,6 +693,7 @@
   "elden1337/hass-peaqnext",
   "ElectroceanTech/HomeAssistant",
   "ElektroBeckhoff/ha-twincat-iot-communicator",
+  "eliaslecomte/ecopower-dynamic-prices",
   "Elijaht-dev/ovh_ipv6",
   "elik745i/MQTT-Remote-Buttons-Remap",
   "elsbrock/cowboy-ha",
