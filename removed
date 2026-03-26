@@ -2522,6 +2522,6 @@
     "repository": "timmo001/homeassistant-integration-goxlr-utility",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/6546"
   }
 ]
