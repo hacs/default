@@ -35,6 +35,7 @@
   "adamf83/my-rail-commute",
   "adammcdonagh/home-assistant-powervault",
   "adamoutler/anycubic-homeassistant",
+  "adiami14/homeassistant-auto-updater",
   "adonixis/ufanet_intercom_ha",
   "aegjoyce/custom-ambilight",
   "aesoftsolutions/Home-Assistant-custom-components-GTT",
@@ -2244,4 +2245,3 @@
   "zupancicmarko/JellyHA",
   "Zwer2k/ha-pca301"
 ]
-adiami14/homeassistant-auto-updater
