@@ -1976,6 +1976,7 @@
   "swingerman/ha-dual-smart-thermostat",
   "switch180/RiverLink-SDVoE",
   "Syonix/ha-wiser-by-feller",
+  "synctacles/synctacles-integration",
   "syssi/homeassistant-goecharger-mqtt",
   "syssi/nextbike",
   "syssi/philipslight",
