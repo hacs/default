@@ -2242,5 +2242,6 @@
   "zubir2k/homeassistant-esolattakwim",
   "zulufoxtrot/ha-zyxel",
   "zupancicmarko/JellyHA",
-  "Zwer2k/ha-pca301"
+  "Zwer2k/ha-pca301",
+  darksider4all/homelab-netatmo-integration
 ]
