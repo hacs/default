@@ -314,6 +314,7 @@
   "bremor/public_transport_victoria",
   "brewmarsh/meraki-homeassistant",
   "brezlord/hass-waterco-electrochlor",
+  "brianegge/ha-upgrade-advisor",
   "brianegge/home-assistant-sdnotify",
   "briis/weatherflow_forecast",
   "brott8/ha-crowdsec",
