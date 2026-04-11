@@ -755,6 +755,7 @@
   "evilmarty/mjpeg-timelapse",
   "evilmarty/switch_fan",
   "EvotecIT/homeassistant-devialet",
+  "EvotecIT/homeassistant-kef",
   "EvotecIT/homeassistant-siegenia",
   "EVWorth/hass-adtpulse",
   "exavizco/ha-poe-plugin",
