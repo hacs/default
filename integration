@@ -1243,6 +1243,7 @@
   "lizardsystems/hass-tnse",
   "ljbotero/hvac-vent-optimizer",
   "lloydw/hass-spanet",
+  "lmt-lv/lmt-iot-ha-integration",
   "lnagel/hass-eaton-ups-mqtt",
   "lnagel/hass-komfovent",
   "lnagel/hass-navirec",
