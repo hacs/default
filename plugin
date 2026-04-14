@@ -512,6 +512,7 @@
   "thomasloven/lovelace-slider-entity-row",
   "thomasloven/lovelace-state-switch",
   "thomasloven/lovelace-template-entity-row",
+  "thybag/ha-energy-entity-card",
   "timmaurice/lovelace-background-graph-entities",
   "timmaurice/lovelace-bergfex-card",
   "timmaurice/lovelace-blitzortung-lightning-card",
