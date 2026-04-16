@@ -1574,6 +1574,7 @@
   "PatrickSt1991/ha-afvalcontainer-cleaning",
   "Paul-dH/Home-Assisant-Sensor-OvApi",
   "PaulAnnekov/home-assistant-padavan-tracker",
+  "PaulBiod/ha-esphome-smart-updater",
   "PaulVanSchayck/ha-nl-weather",
   "pawelhulek/kontomierz-sensor",
   "pawelhulek/pgnig-sensor",
@@ -2248,6 +2249,5 @@
   "zubir2k/homeassistant-esolattakwim",
   "zulufoxtrot/ha-zyxel",
   "zupancicmarko/JellyHA",
-  "Zwer2k/ha-pca301",
-  "PaulBiod/ha-esphome-smart-updater"
+  "Zwer2k/ha-pca301"
 ]
