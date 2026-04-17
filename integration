@@ -1262,6 +1262,7 @@
   "LordBoos/discord_game",
   "lorenzo-deluca/homeassistant-silence",
   "loryanstrant/HA-Azure-AI-tasks",
+  "loryanstrant/HA-CustomComponentMonitor",
   "loryanstrant/HA-ElevenLabs-Custom-TTS",
   "loryanstrant/ha-jokes",
   "loryanstrant/HA-LocalAI-Monitor",
