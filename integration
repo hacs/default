@@ -230,6 +230,8 @@
   "basilfx/homeassistant-biketrax",
   "basnijholt/adaptive-lighting",
   "basschipper/homeassistant-generic-hygrostat",
+  "Basti-Fantasti/hacs-permanent-disable-dev-update",
+  "Basti-Fantasti/hacs-timebutler",
   "bbckr/ha-synology-tasks",
   "bbr111/byd_hvs",
   "bcpearce/homeassistant-gtfs-realtime",
