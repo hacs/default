@@ -2553,5 +2553,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/6962"
+  },
+  {
+    "repository": "Nicxe/home-assistant-smhialert-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
   }
 ]
