@@ -813,6 +813,7 @@
   "gorfo66/flashbird-homeassistant",
   "goruck/home-generative-agent",
   "GrandstreamEngineering/grandstream_home",
+  "Grandys/otel-exporter",
   "greghesp/ha-bambulab",
   "greghesp/ha-evonic",
   "gregoryduckworth/GoogleGeocode-HASS",
