@@ -317,6 +317,7 @@
   "brianegge/home-assistant-sdnotify",
   "brianegge/homeassistant-magewell",
   "briis/weatherflow_forecast",
+  "brmccrary/nuvo_simple",
   "brmccrary/nuvo_tuner",
   "brott8/ha-crowdsec",
   "Brunas/meteo_lt_by_brunas",
