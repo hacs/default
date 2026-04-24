@@ -666,6 +666,7 @@
   "emics/ham_radio_propagation",
   "energy-tracker/home-assistant-energy-tracker",
   "enes-oerdek/Home-Assistant-Helium-Integration",
+  "engedics/ha-homekit-avahi-proxy",
   "enoch85/ge-spot",
   "enoch85/ovms-home-assistant",
   "enovates/home-assistant-enovates",
