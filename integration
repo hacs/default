@@ -1459,6 +1459,7 @@
   "muhlba91/onyx-homeassistant-integration",
   "mukaschultze/ha-must-inverter",
   "mullerdavid/hass_GreeExt",
+  "murraybiscuit/ha_netgear_lte_sms_manager",
   "mutilator/Clockwork",
   "mutilator/homeassistant-iqua-softener",
   "mutilator/homeassistant-zone-label-trigger",
