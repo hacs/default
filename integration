@@ -28,6 +28,7 @@
   "aburow/apc-modbus-snmp-ha",
   "aburow/cyberpower-modbus-ha",
   "aburow/ups-snmp-ha",
+  "acc0j/home-assistant-nats",
   "aceindy/Duepi_EVO",
   "acesyde/hassio_mylight_integration",
   "achilleasa/flamerite_ha",
