@@ -1707,6 +1707,7 @@
   "RedFirebreak/ha-osrs-data",
   "redlukas/emu_mbus_center",
   "redpomodoro/fronius_modbus",
+  "redsklns/ha-millesime"
   "redstone99/hass-alert2",
   "Refoss/refoss-homeassistant",
   "Refoss/refoss_rpc",
