@@ -1148,7 +1148,7 @@
   "kimjohnsson/wiheat",
   "KipK/marees_france",
   "KiraPC/ha-switchbot-remote",
-  "kirei/hass-chargeamps",
+  "hass-chargeamps/hass-chargeamps",
   "kirill-k2/hass-guk-krasnodar",
   "klacol/homeassistant-clage_homeserver",
   "klaptafel/ha-previous-state-tracker",
