@@ -1672,6 +1672,7 @@
   "princekama/home-assistant-rako",
   "Prosono/SMARTi_BaseComponent",
   "ProudElm/solaredgeoptimizers",
+  "proxmox-homeassistant/proxmoxve-custom",
   "ptimatth/GeorideHA",
   "ptrkoz/ha-smogtok",
   "PTST/LibreView-HomeAssistant",
