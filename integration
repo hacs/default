@@ -1150,6 +1150,7 @@
   "KiraPC/ha-switchbot-remote",
   "kirei/hass-chargeamps",
   "kirill-k2/hass-guk-krasnodar",
+  "Kirorus/neptun4hass",
   "klacol/homeassistant-clage_homeserver",
   "klaptafel/ha-previous-state-tracker",
   "klatka/nc-talk-bot-component",
