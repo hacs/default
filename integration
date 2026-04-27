@@ -1598,6 +1598,7 @@
   "perosb/power_max_tracker",
   "perosb/qvantum_custom_component",
   "PersephoneKarnstein/ha-bluesky-feed",
+  "PersephoneKarnstein/ha-citizen-incidents",
   "PersephoneKarnstein/ha-estrannaise",
   "PersephoneKarnstein/ha-seedtime",
   "persuader72/silla-prism-integration",
