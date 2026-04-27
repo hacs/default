@@ -858,6 +858,7 @@
   "hardbyte/ha-evnex",
   "HarvsG/ha-glinet4-integration",
   "hasl-sensor/integration",
+  "hass-cortex/xiaomi-mimo-tts",
   "hass-energy/amber-express",
   "hass-energy/haeo",
   "hass-uconnect/hass-uconnect",
