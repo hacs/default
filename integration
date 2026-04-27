@@ -991,6 +991,7 @@
   "hass-cortex/azure-speech-stt",
   "hass-cortex/cortex-stt",
   "hass-cortex/stt-corrector",
+  "hass-cortex/xiaomi-mimo-tts",
   "hass-energy/amber-express",
   "hass-energy/haeo",
   "hass-uconnect/hass-uconnect",
