@@ -1910,6 +1910,7 @@
   "smartpricing/homeassistant-smartpms",
   "SmartyVan/hass-geolocator",
   "Smiley73/ha-scheduler",
+  "smkrv/ha-metar-weather",
   "smkrv/ha-text-ai",
   "smkrv/ha-weathersense",
   "snarky-snark/home-assistant-variables",
