@@ -15,7 +15,7 @@
   "5high/phicomm-dc1-homeassistant",
   "62fixolab/HA-Panda-PWR",
   "8none1/lednetwf_ble",
-  "9a4gl/hass-centrometal-boiler",
+  "9a4gl/hass-centrometal-boiler",h
   "AaronDavidSchneider/SonosAlarm",
   "Aasikki/daily-fingerpori",
   "abhichandra21/ha-flavoroftheday",
@@ -840,7 +840,7 @@
   "GuySie/ha-meural",
   "gvigroux/hon",
   "GyroGearl00se/ha_froeling_lambdatronic_modbus",
-  "h4de5/home-assistant-toshiba_ac",
+  "vmvelev/home-assistant-toshiba_ac",
   "h4de5/home-assistant-vimar",
   "ha-china/ai_hub",
   "ha-china/virtual_devices",
