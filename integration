@@ -1389,6 +1389,7 @@
   "mguyard/hass-diagral",
   "mguyard/hass-iopool",
   "mholzi/beatify",
+  "michaeldwan/ha-cloudflare-ai-gateway",
   "michaellunzer/Home-Assistant-Custom-Component-Fortnite",
   "MichaelPihlblad/flowerhub_homeassistant_integration",
   "MichelFR/ha_ghostfolio",
