@@ -352,6 +352,7 @@
   "microteq/extended-gauge",
   "Mihonarium/hass-spatial-lights-card",
   "MindFreeze/ha-sankey-chart",
+  "mistic100/hass-automation-glance",
   "mlamberts78/weather-chart-card",
   "Mofeywalker/openmensa-lovelace-card",
   "molant/device-monitor-card",
