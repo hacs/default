@@ -765,6 +765,7 @@
   "ganhammar/hass-mcp-server",
   "ganhammar/hass-oidc-server",
   "garbled1/homeassistant_ecowitt",
+  "GardenTrib/ha-ecowitt-cloud",
   "GarthDB/ha-wattbox",
   "gazoodle/gecko-home-assistant",
   "gbroeckling/padspanHA",
