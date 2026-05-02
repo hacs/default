@@ -2016,6 +2016,7 @@
   "tdragon/reef-pi-hass-custom",
   "tefinger/hass-brematic",
   "tehlers/ha-drooff-fireplus",
+  "tellblom/shelly-schedule-manager",
   "TekniskSupport/home-assistant-resrobot",
   "tetele/hvac_group",
   "TetianaKolpakova/save_eco_bot_air_quality",
