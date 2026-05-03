@@ -564,6 +564,7 @@
   "dhover/ha-iungo",
   "dib0/ha-elro-connects-realtime",
   "diego7marques/ha-aws-cost",
+  "DigitalBites/LabelMateScene",
   "DigitallyRefined/ha-cloudflare-speed-test",
   "DigitallyRefined/ha-hwmon_temp",
   "dimagoltsman/ha-proof-dashcam-integration",
@@ -2261,6 +2262,5 @@
   "zubir2k/homeassistant-esolattakwim",
   "zulufoxtrot/ha-zyxel",
   "zupancicmarko/JellyHA",
-  "Zwer2k/ha-pca301",
-  "DigitalBites/LabelMateScene"
+  "Zwer2k/ha-pca301"
 ]
