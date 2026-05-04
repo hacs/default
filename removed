@@ -2564,6 +2564,6 @@
     "repository": "alves-dev/stackspot-homeassistant",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/7413"
   }
 ]
