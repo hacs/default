@@ -13,6 +13,7 @@
   "alexdelprete/ha-abb-powerone-pvi-sunspec",
   "alryaz/hass-component-yandex-smart-home",
   "alryaz/hass-mosenergosbyt",
+  "alves-dev/stackspot-homeassistant",
   "amaximus/bkk_stop_card",
   "amaximus/garbage-collection-card",
   "amelchio/logbook_cache",
