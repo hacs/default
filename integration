@@ -268,6 +268,7 @@
   "binarylogic/stewart-filmscreen-homeassistant",
   "binarylogic/trinnov-altitude-homeassistant",
   "binsentsu/home-assistant-solaredge-modbus",
+  "bjhiltbrand/drone_mobile_home_assistant"
   "bjorncs/ha-brewcreator",
   "BJReplay/EPA_AirQuality_HA",
   "BJReplay/ha-solcast-solar",
