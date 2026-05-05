@@ -1257,6 +1257,7 @@
   "lizardsystems/hass-taipit",
   "lizardsystems/hass-tnse",
   "ljbotero/hvac-vent-optimizer",
+  "ljmerza/utilities_email_tracker",
   "lloydw/hass-spanet",
   "lnagel/hass-eaton-ups-mqtt",
   "lnagel/hass-komfovent",
