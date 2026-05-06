@@ -574,6 +574,7 @@
   "DiUS/homeassistant-powersensor",
   "Dixet/homeassistant_hetzner",
   "djansen1987/SAJeSolar",
+  "DJBenson/ha-nationalgrid-powercut",
   "djbios/home-assistant-cat-scale",
   "djbulsink/panasonic_ac",
   "djerik/beolink-ha",
