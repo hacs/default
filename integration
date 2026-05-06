@@ -755,6 +755,7 @@
   "FUjr/homeassistant-openwrt-ubus",
   "functionpointer/home-assistant-chargecloud-integration",
   "funkadelic/ha-acwd",
+  "funkadelic/ha-rainpoint",
   "fustom/ariston-remotethermo-home-assistant-v3",
   "futuretense/keymaster",
   "FWeinb/ha-sg-150",
