@@ -2030,6 +2030,7 @@
   "tdragon/reef-pi-hass-custom",
   "tefinger/hass-brematic",
   "teh-hippo/ha-govee-led-ble",
+  "teh-hippo/ha-porkbun",
   "tehlers/ha-drooff-fireplus",
   "TekniskSupport/home-assistant-resrobot",
   "tetele/hvac_group",
