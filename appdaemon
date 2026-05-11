@@ -26,6 +26,7 @@
   "madchap/energiapro_gas_consumption",
   "mguyard/appdaemon-coversmanager",
   "Mohlsson/ReplayLightsHistory",
+  "m-zenker/kermi-ha-bridge"
   "nechry/elco-remocon-net-appdaemon",
   "nickneos/Appdaemon-Ring-Doorbell-Automations",
   "nickneos/Appdaemon-ZHA-Hue-Dimmer-Switch",
