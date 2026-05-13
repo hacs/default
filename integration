@@ -643,6 +643,7 @@
   "earendil06/Windy-Webcams",
   "EarthGoodness/egi",
   "ebertek/ssm",
+  "eburi/hass_ruuvi_gateway_bluetooth_proxy",
   "ec-blaster/magicswitchbot-homeassistant",
   "echocat/ha-companion-media-player",
   "edekeijzer/osrm_travel_time",
