@@ -1,6 +1,7 @@
 [
   "jazzyisj/speech-helpers-jinja",
   "langestefan/auto-sun-blind",
+  "marisma-mhe/ha-victron-ess-frontend",
   "Nuhser/battery-icons",
   "Nuhser/jinja-id-generators",
   "Nuhser/jinja-speech-helpers-german",
