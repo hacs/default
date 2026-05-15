@@ -47,6 +47,7 @@
   "home-assistant-community-themes/teal",
   "home-assistant-community-themes/vaporwave-pink",
   "houtknots/UglyChristmas-Theme",
+  "iosue-iulianus/homeassistant-pipboy-theme",
   "JOHLC/transparentblue",
   "JuanMTech/google-theme",
   "JuanMTech/google_dark_theme",
@@ -91,5 +92,6 @@
   "wessamlauf/homeassistant-frosted-glass-themes",
   "williamahartman/noctis-solarized",
   "wowgamr/animated-weather-card",
-  "Xitee1/ha-amoled-theme"
+  "Xitee1/ha-amoled-theme",
+  "yakidd/NeumorphixHome"
 ]
