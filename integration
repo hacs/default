@@ -728,6 +728,7 @@
   "FaserF/ha-db_infoscreen",
   "FaserF/ha-foodsharing",
   "FaserF/ha-kadermanager",
+  "FaserF/ha-openwrt",
   "FaserF/ha-whatsapp",
   "Favio25/Kronoterm-homeassistant",
   "FeatherKing/ha-matriocontrol",
