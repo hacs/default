@@ -886,6 +886,7 @@
   "happydev-ca/spypoint-home-assistant",
   "hardbyte/ha-evnex",
   "HarvsG/ha-glinet4-integration",
+  "hasgp/hasgp",
   "hasl-sensor/integration",
   "hass-cortex/stt-corrector",
   "hass-energy/amber-express",
