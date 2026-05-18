@@ -671,6 +671,7 @@
   "elad-bar/ha-edgeos",
   "elad-bar/ha-hpprinter",
   "elad-bar/ha-shinobi",
+  "eladnahum5/ha-vouchervault",
   "elahd/ha-cyclepay",
   "elahd/ha-nyc311",
   "elboletaire/ha-weatherxm",
