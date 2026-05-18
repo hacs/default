@@ -2523,5 +2523,41 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/6546"
+  },
+  {
+    "repository": "Santobert/HA-UpdateClimate",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/6962"
+  },
+  {
+    "repository": "Rain1971/V2C_trydant",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/6962"
+  },
+  {
+    "repository": "openrgb-ha/openrgb-ha",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/6962"
+  },
+  {
+    "repository": "mletenay/home-assistant-ev-charge-control",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/6962"
+  },
+  {
+    "repository": "artspb/homeassistant-tk-husteblume",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/6962"
+  },
+  {
+    "repository": "Nicxe/home-assistant-smhialert-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/7183"
   }
 ]
