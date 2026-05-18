@@ -1231,6 +1231,7 @@
   "kpoppel/homeassistant-eforsyning",
   "kpoppel/homeassistant-novafos",
   "krahabb/meross_lan",
+  "kramttocs/ha-gluetun",
   "krasnoukhov/homeassistant-nova-poshta",
   "krasnoukhov/homeassistant-oncharger",
   "krasnoukhov/homeassistant-smart-maic",
