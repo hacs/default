@@ -689,6 +689,7 @@
   "ElektroBeckhoff/ha-twincat-iot-communicator",
   "Elijaht-dev/ovh_ipv6",
   "elsbrock/cowboy-ha",
+  "Elwinmage/ha-aquamedic-component",
   "Elwinmage/ha-reefbeat-component",
   "Elwinmage/ha-usr-r16-component",
   "emanuelbesliu/homeassistant-bft",
