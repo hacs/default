@@ -1,0 +1,211 @@
+name: Check
+
+on:
+  pull_request:
+    types:
+      - opened
+      - synchronize
+      - reopened
+      - unlabeled
+    branches:
+      - master
+    paths:
+      - appdaemon
+      - integration
+      - plugin
+      - python_script
+      - template
+      - theme
+
+concurrency:
+  group: checks-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions: {}
+
+jobs:
+  preflight:
+    runs-on: ubuntu-latest
+    name: Preflight
+    outputs:
+      repository: ${{ steps.repository.outputs.repository }}
+      category: ${{ steps.category.outputs.category }}
+      removal: ${{ steps.removal.outputs.removal }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6.0.2
+
+      - name: Set up Python
+        uses: actions/setup-python@v6.2.0
+        with:
+          python-version-file: ".python-version"
+
+      - name: Clone origin
+        run: git clone --depth 1 https://github.com/hacs/default /tmp/repositories/default
+
+      - name: Set repository
+        id: repository
+        run: echo "repository=$(python3 -m scripts.changed.repo)" >> $GITHUB_OUTPUT
+
+      - name: Set category
+        id: category
+        run: echo "category=$(python3 -m scripts.changed.category)" >> $GITHUB_OUTPUT
+
+      - name: Check removal
+        id: removal
+        run: |
+          if [ "${{ steps.repository.outputs.repository }}" == "Bad data []" ]; then
+            echo "removal=true" >> $GITHUB_OUTPUT
+          fi
+
+  owner:
+    runs-on: ubuntu-latest
+    name: Owner
+    needs: preflight
+    if: needs.preflight.outputs.removal != 'true'
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6.0.2
+
+      - name: Set up Python
+        uses: actions/setup-python@v6.2.0
+        with:
+          python-version-file: ".python-version"
+          cache: "pip"
+          cache-dependency-path: "requirements.txt"
+
+      - name: Install dependencies if needed
+        run: scripts/setup
+
+      - name: Run the check
+        run: python3 -m scripts.check.owner
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: ${{needs.preflight.outputs.repository}}
+
+  editable:
+    runs-on: ubuntu-latest
+    name: Editable PR
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6.0.2
+
+      - name: Set up Python
+        uses: actions/setup-python@v6.2.0
+        with:
+          python-version-file: ".python-version"
+          cache: "pip"
+          cache-dependency-path: "requirements.txt"
+
+
+      - name: Install dependencies if needed
+        run: scripts/setup
+
+      - name: Run the check
+        run: python3 -m scripts.check.edits
+
+  releases:
+    runs-on: ubuntu-latest
+    name: Releases
+    needs: preflight
+    if: needs.preflight.outputs.removal != 'true'
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6.0.2
+
+      - name: Set up Python
+        uses: actions/setup-python@v6.2.0
+        with:
+          python-version-file: ".python-version"
+          cache: "pip"
+          cache-dependency-path: "requirements.txt"
+
+      - name: Install dependencies if needed
+        run: scripts/setup
+
+      - name: Run the check
+        run: python3 -m scripts.check.releases
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: ${{needs.preflight.outputs.repository}}
+
+  removed:
+    runs-on: ubuntu-latest
+    name: Removed repository
+    needs: preflight
+    if: needs.preflight.outputs.removal != 'true'
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6.0.2
+
+      - name: Set up Python
+        uses: actions/setup-python@v6.2.0
+        with:
+          python-version-file: ".python-version"
+          cache: "pip"
+          cache-dependency-path: "requirements.txt"
+
+      - name: Install dependencies if needed
+        run: scripts/setup
+
+      - name: Run the check
+        run: python3 -m scripts.check.removed
+        env:
+          REPOSITORY: ${{needs.preflight.outputs.repository}}
+
+  existing:
+    runs-on: ubuntu-latest
+    name: Existing repository
+    needs: preflight
+    if: needs.preflight.outputs.removal != 'true'
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6.0.2
+
+      - name: Set up Python
+        uses: actions/setup-python@v6.2.0
+        with:
+          python-version-file: ".python-version"
+          cache: "pip"
+          cache-dependency-path: "requirements.txt"
+
+      - name: Install dependencies if needed
+        run: scripts/setup
+
+      - name: Run the check
+        run: python3 -m scripts.check.existing
+        env:
+          REPOSITORY: ${{needs.preflight.outputs.repository}}
+
+  hassfest:
+    runs-on: ubuntu-latest
+    name: Hassfest
+    needs: preflight
+    if: needs.preflight.outputs.category == 'integration' && needs.preflight.outputs.removal != 'true'
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6.0.2
+
+      - name: Clone new addition
+        run: |
+          git clone --depth 1 "https://github.com/${{needs.preflight.outputs.repository}}" /tmp/repositories/addition
+
+      - name: Run hassfest
+        run: |
+          integration=$(python3 -m scripts.helpers.integration_path)
+          domain=$(python3 -m scripts.helpers.domain)
+          docker run --rm \
+            -v "$integration":"/github/workspace/$domain" \
+            ghcr.io/home-assistant/hassfest:latest
+
+  hacs:
+    runs-on: ubuntu-latest
+    name: HACS action
+    needs: preflight
+    if: needs.preflight.outputs.removal != 'true'
+    steps:
+      - name: HACS action
+        uses: hacs/action@main
+        with:
+          repository: ${{needs.preflight.outputs.repository}}
+          category: ${{needs.preflight.outputs.category}}
