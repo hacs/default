@@ -824,6 +824,7 @@
   "geertmeersman/robonect",
   "geertmeersman/yoin",
   "geertmeersman/youfone",
+  "GeiserX/duplicacy-ha",
   "gensyn/ssh_command",
   "gensyn/ssh_docker",
   "gensyn/task_tracker",
