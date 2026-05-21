@@ -553,6 +553,7 @@
   "dcmeglio/homeassistant-petsafe",
   "dcmeglio/homeassistant-waste_management",
   "ddanssaert/home-assistant-ipcamlive",
+  "ddebaets/belgium-energy-costs",
   "ddrimus/ha-tper-tracker",
   "deadbeef3137/ha-cloudflare-tunnel-monitor",
   "deanlongstaff/home-assistant-moodo-integration",
