@@ -1,4 +1,4 @@
-# Default repositories
+# Default repositories 
 
 This is where HACS gets its default repositories from to show in the "store".
 
