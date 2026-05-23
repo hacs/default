@@ -2127,6 +2127,7 @@
   "swingerman/ha-dual-smart-thermostat",
   "switch180/RiverLink-SDVoE",
   "Syonix/ha-wiser-by-feller",
+  "SyntaxSorcerer7/envertech-local-hacs",
   "syssi/homeassistant-goecharger-mqtt",
   "syssi/nextbike",
   "syssi/philipslight",
