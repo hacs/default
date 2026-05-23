@@ -260,6 +260,7 @@
   "JonasDoebertin/ha-today-card",
   "jonkristian/entur-card",
   "joseluis9595/lovelace-navbar-card",
+  "jpettitt/weather-radar-card",
   "jtbgroup/kodi-playlist-card",
   "jtbgroup/kodi-search-card",
   "jtubb/generator-hmi-card",
@@ -334,8 +335,7 @@
   "maglerod/andy-stats-clock",
   "maglerod/andy-temperature-card",
   "Makin-Things/bom-radar-card",
-  "Makin-Things/platinum-weather-card",
-  "Makin-Things/weather-radar-card",
+  "Makin-Things/platinum-weather-card"
   "malcolmrigg/wizard-clock-card",
   "mampfes/ha-knx-uf-iconset",
   "ManfredTremmel/lovelace-heat-pump-card",
