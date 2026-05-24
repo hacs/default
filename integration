@@ -691,6 +691,7 @@
   "elden1337/hass-peaq",
   "elden1337/hass-peaqhvac",
   "elden1337/hass-peaqnext",
+  "ElectroAttacks/lametric-hass-local",
   "ElectroceanTech/HomeAssistant",
   "ElektroBeckhoff/ha-twincat-iot-communicator",
   "Elijaht-dev/ovh_ipv6",
