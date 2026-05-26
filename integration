@@ -1295,6 +1295,7 @@
   "legrego/homeassistant-elasticsearch",
   "leikoilja/ha-google-home",
   "Lektrico/ha_lektrico",
+  "Lemcke-solutions/Salt-sentry-ha-integration",
   "leonardlcl/general_link",
   "leonardlcl/mhtzn",
   "leorbs/airco2ntrol",
