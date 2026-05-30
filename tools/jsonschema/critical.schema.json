@@ -1,0 +1,26 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Schema for critical repositories",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "repository": {
+                "type": "string",
+                "pattern": "^[\\w\\.-]+\/[\\w\\.-]+$"
+            },
+            "reason": {
+                "type": "string"
+            },
+            "link": {
+                "type": "string",
+                "format": "uri"
+            }
+        },
+        "required": [
+            "repository",
+            "reason",
+            "link"
+        ]
+    }
+}
