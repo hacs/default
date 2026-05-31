@@ -1306,6 +1306,7 @@
   "lewei50/ha_iammeter_modbus",
   "lhw/cloudweatherproxy",
   "libdyson-wg/ha-dyson",
+  "LiBe-net/history_table_card",
   "lichtteil/local_luftdaten",
   "lientry/homeassistant-vivosun-growhub",
   "LightwaveSmartHome/homeassistant-lightwave-smart",
