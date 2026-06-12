@@ -258,6 +258,7 @@
   "bendikrb/ha-politikontroller",
   "BenJamesAndo/ha-propresenter",
   "benjamin-dcs/file-plusplus",
+  "Benjamin-LY777/dercvne_bus",
   "benjycov/exo_pool",
   "benleb/sureha",
   "Bennett-Wendorf/hass-uplift-desk",
@@ -2415,6 +2416,6 @@
   "zubir2k/homeassistant-esolattakwim",
   "zulufoxtrot/ha-zyxel",
   "zupancicmarko/JellyHA",
-  "Zwer2k/ha-pca301",
-  "Benjamin-LY777/dercvne_bus"
+  "Zwer2k/ha-pca301"
+  
 ]
