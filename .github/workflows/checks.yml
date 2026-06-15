@@ -218,3 +218,24 @@ jobs:
         with:
           repository: ${{needs.preflight.outputs.repository}}
           category: ${{needs.preflight.outputs.category}}
+
+  completed:
+    runs-on: ubuntu-slim
+    name: Action checks completed
+    needs:
+      - preflight
+      - owner
+      - editable
+      - releases
+      - removed
+      - existing
+      - hassfest
+      - hacs
+    if: always()
+    steps:
+      - name: Fail if any dependency failed or was cancelled
+        run: |
+          if ${{ contains(needs.*.result, 'failure') || contains(needs.*.result, 'cancelled') }}; then
+            exit 1
+          fi
+          exit 0
