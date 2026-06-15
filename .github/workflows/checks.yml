@@ -46,6 +46,8 @@ jobs:
       - name: Check out repository
         if: steps.run_type.outputs.run_type == 'new-repository'
         uses: actions/checkout@v6.0.2
+        with:
+          persist-credentials: false
 
       - name: Set up Python
         if: steps.run_type.outputs.run_type == 'new-repository'
@@ -75,6 +77,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v6.0.2
+        with:
+          persist-credentials: false
 
       - name: Set up Python
         uses: actions/setup-python@v6.2.0
@@ -98,6 +102,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v6.0.2
+        with:
+          persist-credentials: false
 
       - name: Set up Python
         uses: actions/setup-python@v6.2.0
@@ -121,6 +127,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v6.0.2
+        with:
+          persist-credentials: false
 
       - name: Set up Python
         uses: actions/setup-python@v6.2.0
@@ -146,6 +154,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v6.0.2
+        with:
+          persist-credentials: false
 
       - name: Set up Python
         uses: actions/setup-python@v6.2.0
@@ -170,6 +180,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v6.0.2
+        with:
+          persist-credentials: false
 
       - name: Set up Python
         uses: actions/setup-python@v6.2.0
@@ -194,6 +206,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v6.0.2
+        with:
+          persist-credentials: false
 
       - name: Clone new addition
         run: |
