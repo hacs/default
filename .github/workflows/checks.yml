@@ -55,7 +55,7 @@ jobs:
           elif [ "$HAS_NEW_REPO" == "true" ]; then
             echo "run-type=new-repository" >> $GITHUB_OUTPUT
           elif [ "$HAS_RENAMED" == "true" ]; then
-            echo "run-type=renamed" >> $GITHUB_OUTPUT
+            echo "run-type=rename" >> $GITHUB_OUTPUT
           else
             echo "run-type=unknown" >> $GITHUB_OUTPUT
           fi
