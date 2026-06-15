@@ -40,22 +40,12 @@ jobs:
           HAS_NEW_REPO: ${{ contains(github.event.pull_request.labels.*.name, 'New default repository') }}
           HAS_RENAMED: ${{ contains(github.event.pull_request.labels.*.name, 'renamed-repositories') }}
         run: |
-          count=0
-          [ "$HAS_REMOVAL" == "true" ] && count=$((count + 1))
-          [ "$HAS_NEW_REPO" == "true" ] && count=$((count + 1))
-          [ "$HAS_RENAMED" == "true" ] && count=$((count + 1))
-
-          if [ "$count" -gt 1 ]; then
-            echo "::error::Only one of the labels 'remove-repositories', 'New default repository', 'renamed-repositories' may be set" >&2
-            exit 1
-          fi
-
-          if [ "$HAS_REMOVAL" == "true" ]; then
-            echo "run_type=removal" >> $GITHUB_OUTPUT
-          elif [ "$HAS_NEW_REPO" == "true" ]; then
+          if [ "$HAS_NEW_REPO" == "true" ]; then
             echo "run_type=new-repository" >> $GITHUB_OUTPUT
           elif [ "$HAS_RENAMED" == "true" ]; then
             echo "run_type=rename" >> $GITHUB_OUTPUT
+          elif [ "$HAS_REMOVAL" == "true" ]; then
+            echo "run_type=removal" >> $GITHUB_OUTPUT
           else
             echo "run_type=unknown" >> $GITHUB_OUTPUT
           fi
