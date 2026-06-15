@@ -224,9 +224,9 @@ jobs:
       - hacs
     if: always()
     steps:
-      - name: Fail if any dependency failed
+      - name: Fail if any dependency failed or was cancelled
         run: |
-          if ${{ contains(needs.*.result, 'failure') }}; then
+          if ${{ contains(needs.*.result, 'failure') || contains(needs.*.result, 'cancelled') }}; then
             exit 1
           fi
           exit 0
