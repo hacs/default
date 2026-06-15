@@ -6,6 +6,7 @@ on:
       - opened
       - synchronize
       - reopened
+      - labeled
       - unlabeled
     branches:
       - master
@@ -30,39 +31,64 @@ jobs:
     outputs:
       repository: ${{ steps.repository.outputs.repository }}
       category: ${{ steps.category.outputs.category }}
-      removal: ${{ steps.removal.outputs.removal }}
+      run-type: ${{ steps.run-type.outputs.run-type }}
     steps:
+      - name: Determine run type
+        id: run-type
+        env:
+          HAS_REMOVAL: ${{ contains(github.event.pull_request.labels.*.name, 'remove-repositories') }}
+          HAS_NEW_REPO: ${{ contains(github.event.pull_request.labels.*.name, 'New default repository') }}
+          HAS_RENAMED: ${{ contains(github.event.pull_request.labels.*.name, 'renamed-repositories') }}
+        run: |
+          count=0
+          [ "$HAS_REMOVAL" == "true" ] && count=$((count + 1))
+          [ "$HAS_NEW_REPO" == "true" ] && count=$((count + 1))
+          [ "$HAS_RENAMED" == "true" ] && count=$((count + 1))
+
+          if [ "$count" -gt 1 ]; then
+            echo "::error::Only one of the labels 'remove-repositories', 'New default repository', 'renamed-repositories' may be set" >&2
+            exit 1
+          fi
+
+          if [ "$HAS_REMOVAL" == "true" ]; then
+            echo "run-type=removal" >> $GITHUB_OUTPUT
+          elif [ "$HAS_NEW_REPO" == "true" ]; then
+            echo "run-type=new-repository" >> $GITHUB_OUTPUT
+          elif [ "$HAS_RENAMED" == "true" ]; then
+            echo "run-type=renamed" >> $GITHUB_OUTPUT
+          else
+            echo "run-type=unknown" >> $GITHUB_OUTPUT
+          fi
+
       - name: Check out repository
+        if: steps.run-type.outputs.run-type == 'new-repository'
         uses: actions/checkout@v6.0.2
 
       - name: Set up Python
+        if: steps.run-type.outputs.run-type == 'new-repository'
         uses: actions/setup-python@v6.2.0
         with:
           python-version-file: ".python-version"
 
       - name: Clone origin
+        if: steps.run-type.outputs.run-type == 'new-repository'
         run: git clone --depth 1 https://github.com/hacs/default /tmp/repositories/default
 
       - name: Set repository
         id: repository
+        if: steps.run-type.outputs.run-type == 'new-repository'
         run: echo "repository=$(python3 -m scripts.changed.repo)" >> $GITHUB_OUTPUT
 
       - name: Set category
         id: category
+        if: steps.run-type.outputs.run-type == 'new-repository'
         run: echo "category=$(python3 -m scripts.changed.category)" >> $GITHUB_OUTPUT
-
-      - name: Check removal
-        id: removal
-        run: |
-          if [ "${{ steps.repository.outputs.repository }}" == "Bad data []" ]; then
-            echo "removal=true" >> $GITHUB_OUTPUT
-          fi
 
   owner:
     runs-on: ubuntu-latest
     name: Owner
     needs: preflight
-    if: needs.preflight.outputs.removal != 'true'
+    if: needs.preflight.outputs.run-type == 'new-repository'
     steps:
       - name: Check out repository
         uses: actions/checkout@v6.0.2
@@ -108,7 +134,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Releases
     needs: preflight
-    if: needs.preflight.outputs.removal != 'true'
+    if: needs.preflight.outputs.run-type == 'new-repository'
     steps:
       - name: Check out repository
         uses: actions/checkout@v6.0.2
@@ -133,7 +159,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Removed repository
     needs: preflight
-    if: needs.preflight.outputs.removal != 'true'
+    if: needs.preflight.outputs.run-type == 'new-repository'
     steps:
       - name: Check out repository
         uses: actions/checkout@v6.0.2
@@ -157,7 +183,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Existing repository
     needs: preflight
-    if: needs.preflight.outputs.removal != 'true'
+    if: needs.preflight.outputs.run-type == 'new-repository'
     steps:
       - name: Check out repository
         uses: actions/checkout@v6.0.2
@@ -181,7 +207,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Hassfest
     needs: preflight
-    if: needs.preflight.outputs.category == 'integration' && needs.preflight.outputs.removal != 'true'
+    if: needs.preflight.outputs.category == 'integration' && needs.preflight.outputs.run-type == 'new-repository'
     steps:
       - name: Check out repository
         uses: actions/checkout@v6.0.2
@@ -202,7 +228,7 @@ jobs:
     runs-on: ubuntu-latest
     name: HACS action
     needs: preflight
-    if: needs.preflight.outputs.removal != 'true'
+    if: needs.preflight.outputs.run-type == 'new-repository'
     steps:
       - name: HACS action
         uses: hacs/action@main
