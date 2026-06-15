@@ -10,13 +10,6 @@ on:
       - unlabeled
     branches:
       - master
-    paths:
-      - appdaemon
-      - integration
-      - plugin
-      - python_script
-      - template
-      - theme
 
 concurrency:
   group: checks-${{ github.ref }}
