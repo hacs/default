@@ -6,6 +6,7 @@ on:
       - opened
       - synchronize
       - reopened
+      - labeled
       - unlabeled
     branches:
       - master
@@ -27,6 +28,7 @@ jobs:
   preflight:
     runs-on: ubuntu-latest
     name: Preflight
+    if: ${{ !contains(github.event.pull_request.labels.*.name, 'renamed-repositories') }}
     outputs:
       repository: ${{ steps.repository.outputs.repository }}
       category: ${{ steps.category.outputs.category }}
