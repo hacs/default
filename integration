@@ -2168,6 +2168,7 @@
   "thecode/ha-rpi_gpio",
   "thedeemling/hass-energa-my-meter",
   "thefunkygibbon/eafm-enhanced",
+  "thirdreality/ha-thirdreality-scale",
   "TheGui01/Frisquet-connect-for-home-assistant",
   "TheHolyRoger/hass-cryptoinfo",
   "TheMegamind/PurpleAir_AQI",
