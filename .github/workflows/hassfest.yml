@@ -1,12 +1,10 @@
-name: Validate
+name: Hassfest
 on:
   push:
   pull_request:
   workflow_dispatch:
 jobs:
-  validate-hacs:
+  hassfest:
     runs-on: ubuntu-latest
     steps:
-      - uses: hacs/action@main
-        with:
-          category: integration
+      - uses: home-assistant/actions/hassfest@master
