@@ -1057,6 +1057,7 @@
   "javaDevJT/DTE-Rates-for-Home-Assistant",
   "JayBlackedOut/hass-nhlapi",
   "jaycollett/OpenIRBlaster",
+  "jaycollett/gabbwireless_mqtt",
   "jaydeethree/Home-Assistant-weatherdotcom",
   "jayjojayson/hass-victron-vrm-api",
   "jazzz/ha-evocarshare",
