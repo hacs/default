@@ -1571,6 +1571,7 @@
   "myTselection/pixometer",
   "myTselection/smartschool_ha",
   "myTselection/telenet_telemeter",
+  "n-IA-hane/esphome-intercom",
   "N0ciple/hass-kef-connector",
   "Nailik/blanco_unit",
   "Nailik/vogels_motion_mount_ble",
