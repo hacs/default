@@ -1,0 +1,27 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Schema for removed repositories",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "link": {
+                "type": "string"
+            },
+            "reason": {
+                "type": "string"
+            },
+            "removal_type": {
+                "type": "string"
+            },
+            "repository": {
+                "type": "string",
+                "pattern": "^[\\w\\.-]+\/[\\w\\.-]+$"
+            }
+        },
+        "required": [
+            "removal_type",
+            "repository"
+        ]
+    }
+}
