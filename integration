@@ -414,6 +414,7 @@
   "ClusterM/flipper_rc",
   "ClusterM/localtuya_rc",
   "ClusterM/skykettle-ha",
+  "cm-makes/aurum-ha",
   "CM000n/qss",
   "Cmajda/ha_cez_distribuce",
   "Cmajda/ha_golemio",
