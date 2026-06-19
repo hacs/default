@@ -834,6 +834,7 @@
   "geertmeersman/robonect",
   "geertmeersman/yoin",
   "geertmeersman/youfone",
+  "GeiserX/cashpilot-ha",
   "GeiserX/genieacs-ha",
   "gensyn/ssh_command",
   "gensyn/ssh_docker",
