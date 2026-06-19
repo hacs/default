@@ -2190,6 +2190,8 @@
   "thecem/octopus_germany",
   "thecode/ha-onewire-sysbus",
   "thecode/ha-rpi_gpio",
+  "TheDave94/airwatch",
+  "TheDave94/pollenwatch",
   "thedeemling/hass-energa-my-meter",
   "thefunkygibbon/eafm-enhanced",
   "TheGui01/Frisquet-connect-for-home-assistant",
