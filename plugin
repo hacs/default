@@ -509,6 +509,7 @@
   "soestin/hass_periodic_card_reload",
   "sonite/particle-cloud-card",
   "sopelj/lovelace-kanji-clock-card",
+  "Springvar/home-assistant-flightradar24-card",
   "starwarsfan/qclock-card",
   "stefmde/HomeAssistant-TwitchFollowedLiveStreamsCard",
   "studiobts/device-pulse-table-card",
