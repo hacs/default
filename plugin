@@ -350,6 +350,7 @@
   "ManfredTremmel/lovelace-heat-pump-card",
   "marcelhoogantink/enhanced-shutter-card",
   "marcintk/ha-planetary-solar-system-card",
+  "marcintk/ha-yahoofinance-board-card",
   "marcokreeft87/formulaone-card",
   "Mariusthvdb/custom-attributes",
   "Mariusthvdb/custom-icon-color",
@@ -630,4 +631,3 @@
   "zanna-37/hass-swipe-navigation",
   "zeronounours/lovelace-energy-entity-row"
 ]
-
