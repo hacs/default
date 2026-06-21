@@ -1441,6 +1441,7 @@
   "mandinger/fork-ha-octopus-spain",
   "manjotsc/ha-fota_teltonika",
   "manjotsc/ha-kore_wireless",
+  "manjotsc/ha-quebec_fuel",
   "manjotsc/ha-simbase",
   "manjotsc/ha-tvoverlay_ui",
   "manjotsc/ha-twilio_sms_ui",
