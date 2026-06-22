@@ -1778,6 +1778,7 @@
   "pawkakol1/worlds-air-quality-index",
   "pcourbin/ecodevices_rt2",
   "pcourbin/imaprotect",
+  "pcs-agent/pcs-agent-ha",
   "pdw-mb/tsmart_ha",
   "Pehesi97/intelbras-amt-home-assistant",
   "pekur/amit_ha_integration",
