@@ -1780,6 +1780,7 @@
   "patrickvonwiegen/TaskOrganizer",
   "Paul-dH/Home-Assisant-Sensor-OvApi",
   "PaulAnnekov/home-assistant-padavan-tracker",
+  "PaulBiod/ha-esphome-smart-updater",
   "PaulVanSchayck/ha-nl-weather",
   "PavelD/ha-unban_ip",
   "pawelhulek/kontomierz-sensor",
