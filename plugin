@@ -628,6 +628,7 @@
   "xBourner/header-position-card",
   "xBourner/status-card",
   "xplanes/ha-plant-diary-card",
+  "Yeelight/ha_yeelight_dashboard",
   "yohaybn/lovelace-aliexpress-package-card",
   "ytilis/hass-progress-bar-feature",
   "yuri-val/th-sensor-card",
