@@ -648,6 +648,7 @@
   "djtimca/hasatellitetracker",
   "dkarv/ha-bwt-perla",
   "dkarv/ha-komodo",
+  "dkk54/ha-aseko-cloud",
   "dknowles2/ha-pitboss",
   "dlarrick/hass-kumo",
   "dlashua/templatebinarysensor",
