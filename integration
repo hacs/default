@@ -2159,6 +2159,7 @@
   "smarthomeblack/npc",
   "smarthomeblack/zalo_bot",
   "smartpricing/homeassistant-smartpms",
+  "SmartServicePL/worx_vision_cloud_plus_github",
   "SmartyVan/hass-geolocator",
   "Smiley73/ha-scheduler",
   "smkrv/ha-metar-weather",
