@@ -1730,6 +1730,7 @@
   "NinDTendo/homeassistant_gradual_volume_control",
   "NinDTendo/tobi",
   "NirBY/ha-mashov",
+  "NirushaD/BOMWeather",
   "nitaybz/optimistic_feedback",
   "njobrien1006/hass_traeger",
   "nkvoll/home-assistant-qsys-qrc",
@@ -2554,4 +2555,4 @@
   "zulufoxtrot/ha-zyxel",
   "zupancicmarko/JellyHA",
   "Zwer2k/ha-pca301"
-]
+  ]
