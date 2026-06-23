@@ -45,7 +45,7 @@ jobs:
 
       - name: Check out repository
         if: steps.run_type.outputs.run_type == 'new-repository'
-        uses: actions/checkout@v6.0.3
+        uses: actions/checkout@v7.0.0
         with:
           persist-credentials: false
 
@@ -76,7 +76,7 @@ jobs:
     if: needs.preflight.outputs.run_type == 'new-repository'
     steps:
       - name: Check out repository
-        uses: actions/checkout@v6.0.3
+        uses: actions/checkout@v7.0.0
         with:
           persist-credentials: false
 
@@ -101,7 +101,7 @@ jobs:
     name: Editable PR
     steps:
       - name: Check out repository
-        uses: actions/checkout@v6.0.3
+        uses: actions/checkout@v7.0.0
         with:
           persist-credentials: false
 
@@ -126,7 +126,7 @@ jobs:
     if: needs.preflight.outputs.run_type == 'new-repository'
     steps:
       - name: Check out repository
-        uses: actions/checkout@v6.0.3
+        uses: actions/checkout@v7.0.0
         with:
           persist-credentials: false
 
@@ -153,7 +153,7 @@ jobs:
     if: needs.preflight.outputs.run_type == 'new-repository'
     steps:
       - name: Check out repository
-        uses: actions/checkout@v6.0.3
+        uses: actions/checkout@v7.0.0
         with:
           persist-credentials: false
 
@@ -179,7 +179,7 @@ jobs:
     if: needs.preflight.outputs.run_type == 'new-repository'
     steps:
       - name: Check out repository
-        uses: actions/checkout@v6.0.3
+        uses: actions/checkout@v7.0.0
         with:
           persist-credentials: false
 
@@ -205,7 +205,7 @@ jobs:
     if: needs.preflight.outputs.category == 'integration' && needs.preflight.outputs.run_type == 'new-repository'
     steps:
       - name: Check out repository
-        uses: actions/checkout@v6.0.3
+        uses: actions/checkout@v7.0.0
         with:
           persist-credentials: false
 
