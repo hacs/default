@@ -1301,6 +1301,7 @@
   "Kleinrotti/hass-senertec",
   "klejejs/ha-thermia-heat-pump-integration",
   "klokku/klokku-home-assistant-integration",
+  "kmich/ha_ws_core",
   "kneave/climate-scheduler",
   "Knifa/led-matrix-zmq-hass",
   "knirzinger/hargassner-ha",
