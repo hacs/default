@@ -1326,6 +1326,7 @@
   "Korkuttum/tuya_body_fat_scale",
   "Korkuttum/tuya_heat_pump",
   "Korkuttum/tuya_scale",
+  "kororos/ha-soniox",
   "kotborealis/home-assistant-custom-components-cover-time-based-synced",
   "koying/mqtt_discoverystream_ha",
   "kpoppel/homeassistant-eforsyning",
