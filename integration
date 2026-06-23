@@ -1,4 +1,3 @@
-[
   "0jety0/emaux_spv150",
   "0xAHA/airtouch4_advanced",
   "0xAHA/Growatt_ModbusTCP",
@@ -2555,4 +2554,6 @@
   "zulufoxtrot/ha-zyxel",
   "zupancicmarko/JellyHA",
   "Zwer2k/ha-pca301"
+[
 ]
+zollak/homeassistant-mikrotik_swos
