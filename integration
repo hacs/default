@@ -253,6 +253,7 @@
   "barleybobs/homeassistant-ecowater-softener",
   "barneyonline/groq_tts",
   "barneyonline/ha-enphase-energy",
+  "barneyonline/ha-groq",
   "barreeeiroo/Home-Assistant-Electric-Ireland",
   "barto95100/synology-download-station",
   "basbruss/adaptive-cover",
