@@ -647,6 +647,7 @@
   "DigitalBites/LabelMateScene",
   "DigitallyRefined/ha-cloudflare-speed-test",
   "DigitallyRefined/ha-hwmon_temp",
+  "dim4k/ha-naolib",
   "dimagoltsman/ha-proof-dashcam-integration",
   "dingo35/ha-SmartEVSEv3",
   "dinki/view_assist_integration",
