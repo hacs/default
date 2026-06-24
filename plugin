@@ -564,6 +564,7 @@
   "sxdjt/ha-weather-heatmap-card",
   "sxdjt/ha-windspeed-heatmap",
   "sxdjt/horizontal-waterfall-history-card",
+  "Symphy24/homeassistant-ventilation-card",
   "t1gr0u/rain-gauge-card",
   "t1gr0u/uv-index-card",
   "tcarlsen/lovelace-light-with-profiles",
