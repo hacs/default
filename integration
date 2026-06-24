@@ -756,6 +756,7 @@
   "elden1337/hass-peaq",
   "elden1337/hass-peaqhvac",
   "elden1337/hass-peaqnext",
+  "electrification-bus/span-hass",
   "ElectroceanTech/HomeAssistant",
   "ElektroBeckhoff/ha-twincat-iot-communicator",
   "eliaslecomte/ecopower-dynamic-prices",
