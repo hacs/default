@@ -298,6 +298,7 @@
   "bigmoby/ialarm_controller",
   "BigNocciolino/CryptoTracker",
   "BigPiloto/ha-drugstore-stock",
+  "billgeo/ha-daikin-airbase-hotwater",
   "binarydev/ha-generac",
   "binarylogic/madvr-envy-homeassistant",
   "binarylogic/stewart-filmscreen-homeassistant",
