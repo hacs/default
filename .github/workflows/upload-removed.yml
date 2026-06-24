@@ -20,7 +20,9 @@ jobs:
     name: Upload
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v7.0.0
+        with:
+          persist-credentials: false
 
       - name: Validate with JSON schema
         uses: cardinalby/schema-validator-action@3.1.1
