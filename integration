@@ -1675,6 +1675,7 @@
   "mrebbert/1komma5-ha",
   "mretallack/ukfuelfinder-ha",
   "mrhedstrom/ha-tibber-pulse-mqtt",
+  "MrInterBugs/ha-sunriser",
   "mrk-its/homeassistant-blitzortung",
   "MrSjodin/HomeAssistant_Trafiklab_Integration",
   "MrSleeps/Juwel-HeliaLux-Home-Assistant-Custom-Component",
