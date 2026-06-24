@@ -989,6 +989,7 @@
   "hasgp/hasgp",
   "hasl-sensor/integration",
   "hass-cortex/azure-speech-stt",
+  "hass-cortex/cortex-stt",
   "hass-cortex/stt-corrector",
   "hass-energy/amber-express",
   "hass-energy/haeo",
