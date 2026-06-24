@@ -1556,6 +1556,7 @@
   "Master13011/Mailcow-HA",
   "Master13011/SNCF-API-HA",
   "Master13011/vacances-scolaire-HA",
+  "mastertape/z906-ir-remote-ha",
   "Mat931/digitalstrom-homeassistant",
   "matbott/ha-inumet-uruguay",
   "matbott/home_assistant_Spritmonitor",
