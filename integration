@@ -1457,6 +1457,7 @@
   "lizardsystems/hass-taipit",
   "lizardsystems/hass-tnse",
   "ljbotero/hvac-vent-optimizer",
+  "ljmerza/ac-infinity-airtap-ble",
   "ljmerza/orbit-bhyve-ble",
   "lloydw/hass-spanet",
   "lmt-lv/lmt-iot-ha-integration",
