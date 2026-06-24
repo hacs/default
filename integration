@@ -636,6 +636,7 @@
   "dib0/ha-elro-connects-realtime",
   "dibi73/ha-bookstack-sync",
   "diego7marques/ha-aws-cost",
+  "DigitalBites/LabelMateScene",
   "DigitallyRefined/ha-cloudflare-speed-test",
   "DigitallyRefined/ha-hwmon_temp",
   "dimagoltsman/ha-proof-dashcam-integration",
