@@ -2432,6 +2432,7 @@
   "toggm/askoheat",
   "Tom-Bom-badil/home-assistant_helios-vallox",
   "Tom-Bom-badil/home-assistant_ugreen-nas",
+  "tom-tagmdl/asset_intelligence",
   "tom-winkler/ha-webfleet-integration",
   "tom42530/asys_ble_ha",
   "tomaae/homeassistant-mikrotik_router",
@@ -2635,6 +2636,5 @@
   "zubir2k/homeassistant-esolattakwim",
   "zulufoxtrot/ha-zyxel",
   "zupancicmarko/JellyHA",
-  "Zwer2k/ha-pca301",
-  "tom-tagmdl/asset_intelligence"
+  "Zwer2k/ha-pca301"
 ]
