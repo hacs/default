@@ -1816,6 +1816,7 @@
   "ohheyrj/home-assistant-aws-codepipeline",
   "okkine/HA-Luna",
   "okkine/HA-Sol",
+  "OleSint/ha-connection-observer",
   "olibos/HomeAssistant-RecycleApp",
   "olivierplante/ec-weather",
   "olivierplante/popup-card",
