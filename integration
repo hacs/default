@@ -1949,6 +1949,7 @@
   "popeen/Home-Assistant-Custom-Component-TCL-Remote",
   "popeen/Home-Assistant-Custom-Component-Temperatur-Nu",
   "PorlyBe/glance_clock_ha",
+  "portbusy/ha-input-boolean-group",
   "portbusy/smart-presence-notify",
   "Poshy163/HomeAssistant-Sharesight",
   "postlund/dlink_hnap",
