@@ -1475,6 +1475,7 @@
   "loryanstrant/HA-CustomComponentMonitor",
   "loryanstrant/HA-ElevenLabs-Custom-TTS",
   "loryanstrant/ha-jokes",
+  "loryanstrant/HA-LG-webOSTV",
   "loryanstrant/HA-LocalAI-Monitor",
   "louispires/Oura-Home-Assistant-Integration",
   "lovelylain/hass_ingress",
