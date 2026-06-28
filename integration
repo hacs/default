@@ -492,6 +492,7 @@
   "cryptotomte/ev-charging-manager",
   "cryptotomte/ev-load-balancer",
   "Csontikka/ha-syncthing-extended",
+  "Csontikka/ha-telink-manager",
   "CubicPill/china_southern_power_grid_stat",
   "cubinet-code/ha-parqet-companion",
   "CumpsD/home-assistant-leo-ntp",
