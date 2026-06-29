@@ -6,16 +6,10 @@ on:
       - opened
       - synchronize
       - reopened
+      - labeled
       - unlabeled
     branches:
       - master
-    paths:
-      - appdaemon
-      - integration
-      - plugin
-      - python_script
-      - template
-      - theme
 
 concurrency:
   group: checks-${{ github.ref }}
@@ -30,45 +24,64 @@ jobs:
     outputs:
       repository: ${{ steps.repository.outputs.repository }}
       category: ${{ steps.category.outputs.category }}
-      removal: ${{ steps.removal.outputs.removal }}
+      run_type: ${{ steps.run_type.outputs.run_type }}
     steps:
+      - name: Determine run type
+        id: run_type
+        env:
+          HAS_REMOVAL: ${{ contains(github.event.pull_request.labels.*.name, 'remove-repositories') }}
+          HAS_NEW_REPO: ${{ contains(github.event.pull_request.labels.*.name, 'New default repository') }}
+          HAS_RENAMED: ${{ contains(github.event.pull_request.labels.*.name, 'renamed-repositories') }}
+        run: |
+          if [ "$HAS_NEW_REPO" == "true" ]; then
+            echo "run_type=new-repository" >> $GITHUB_OUTPUT
+          elif [ "$HAS_RENAMED" == "true" ]; then
+            echo "run_type=rename" >> $GITHUB_OUTPUT
+          elif [ "$HAS_REMOVAL" == "true" ]; then
+            echo "run_type=removal" >> $GITHUB_OUTPUT
+          else
+            echo "run_type=unknown" >> $GITHUB_OUTPUT
+          fi
+
       - name: Check out repository
-        uses: actions/checkout@v6.0.2
+        if: steps.run_type.outputs.run_type == 'new-repository'
+        uses: actions/checkout@v7.0.0
+        with:
+          persist-credentials: false
 
       - name: Set up Python
-        uses: actions/setup-python@v6.2.0
+        if: steps.run_type.outputs.run_type == 'new-repository'
+        uses: actions/setup-python@v6.3.0
         with:
           python-version-file: ".python-version"
 
       - name: Clone origin
+        if: steps.run_type.outputs.run_type == 'new-repository'
         run: git clone --depth 1 https://github.com/hacs/default /tmp/repositories/default
 
       - name: Set repository
         id: repository
+        if: steps.run_type.outputs.run_type == 'new-repository'
         run: echo "repository=$(python3 -m scripts.changed.repo)" >> $GITHUB_OUTPUT
 
       - name: Set category
         id: category
+        if: steps.run_type.outputs.run_type == 'new-repository'
         run: echo "category=$(python3 -m scripts.changed.category)" >> $GITHUB_OUTPUT
-
-      - name: Check removal
-        id: removal
-        run: |
-          if [ "${{ steps.repository.outputs.repository }}" == "Bad data []" ]; then
-            echo "removal=true" >> $GITHUB_OUTPUT
-          fi
 
   owner:
     runs-on: ubuntu-latest
     name: Owner
     needs: preflight
-    if: needs.preflight.outputs.removal != 'true'
+    if: needs.preflight.outputs.run_type == 'new-repository'
     steps:
       - name: Check out repository
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v7.0.0
+        with:
+          persist-credentials: false
 
       - name: Set up Python
-        uses: actions/setup-python@v6.2.0
+        uses: actions/setup-python@v6.3.0
         with:
           python-version-file: ".python-version"
           cache: "pip"
@@ -88,10 +101,12 @@ jobs:
     name: Editable PR
     steps:
       - name: Check out repository
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v7.0.0
+        with:
+          persist-credentials: false
 
       - name: Set up Python
-        uses: actions/setup-python@v6.2.0
+        uses: actions/setup-python@v6.3.0
         with:
           python-version-file: ".python-version"
           cache: "pip"
@@ -108,13 +123,15 @@ jobs:
     runs-on: ubuntu-latest
     name: Releases
     needs: preflight
-    if: needs.preflight.outputs.removal != 'true'
+    if: needs.preflight.outputs.run_type == 'new-repository'
     steps:
       - name: Check out repository
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v7.0.0
+        with:
+          persist-credentials: false
 
       - name: Set up Python
-        uses: actions/setup-python@v6.2.0
+        uses: actions/setup-python@v6.3.0
         with:
           python-version-file: ".python-version"
           cache: "pip"
@@ -133,13 +150,15 @@ jobs:
     runs-on: ubuntu-latest
     name: Removed repository
     needs: preflight
-    if: needs.preflight.outputs.removal != 'true'
+    if: needs.preflight.outputs.run_type == 'new-repository'
     steps:
       - name: Check out repository
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v7.0.0
+        with:
+          persist-credentials: false
 
       - name: Set up Python
-        uses: actions/setup-python@v6.2.0
+        uses: actions/setup-python@v6.3.0
         with:
           python-version-file: ".python-version"
           cache: "pip"
@@ -157,13 +176,15 @@ jobs:
     runs-on: ubuntu-latest
     name: Existing repository
     needs: preflight
-    if: needs.preflight.outputs.removal != 'true'
+    if: needs.preflight.outputs.run_type == 'new-repository'
     steps:
       - name: Check out repository
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v7.0.0
+        with:
+          persist-credentials: false
 
       - name: Set up Python
-        uses: actions/setup-python@v6.2.0
+        uses: actions/setup-python@v6.3.0
         with:
           python-version-file: ".python-version"
           cache: "pip"
@@ -181,10 +202,12 @@ jobs:
     runs-on: ubuntu-latest
     name: Hassfest
     needs: preflight
-    if: needs.preflight.outputs.category == 'integration' && needs.preflight.outputs.removal != 'true'
+    if: needs.preflight.outputs.category == 'integration' && needs.preflight.outputs.run_type == 'new-repository'
     steps:
       - name: Check out repository
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v7.0.0
+        with:
+          persist-credentials: false
 
       - name: Clone new addition
         run: |
@@ -202,10 +225,31 @@ jobs:
     runs-on: ubuntu-latest
     name: HACS action
     needs: preflight
-    if: needs.preflight.outputs.removal != 'true'
+    if: needs.preflight.outputs.run_type == 'new-repository'
     steps:
       - name: HACS action
         uses: hacs/action@main
         with:
           repository: ${{needs.preflight.outputs.repository}}
           category: ${{needs.preflight.outputs.category}}
+
+  completed:
+    runs-on: ubuntu-slim
+    name: Action checks completed
+    needs:
+      - preflight
+      - owner
+      - editable
+      - releases
+      - removed
+      - existing
+      - hassfest
+      - hacs
+    if: always()
+    steps:
+      - name: Fail if any dependency failed or was cancelled
+        run: |
+          if ${{ contains(needs.*.result, 'failure') || contains(needs.*.result, 'cancelled') }}; then
+            exit 1
+          fi
+          exit 0
