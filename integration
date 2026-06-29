@@ -849,6 +849,7 @@
   "flexopus/flexopus-hass-sensor",
   "Flo-Schilli/ha-grohe_smarthome",
   "florianbaethge/simple_irrigation",
+  "Folkman/ha-fcast",
   "fondberg/spotcast",
   "foureight84/CallAttendantNext_Monitor",
   "Foxi352/pollen_lu",
