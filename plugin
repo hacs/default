@@ -280,6 +280,7 @@
   "john-lazarus/HomeAssistantLGThinkQCards",
   "johro897/docker-card-extended",
   "johro897/electricity-cost-card",
+  "johro897/tplink-switch-card",
   "jonahkr/power-distribution-card",
   "JonasDoebertin/ha-today-card",
   "jonkristian/entur-card",
