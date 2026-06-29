@@ -655,6 +655,7 @@
   "DigitallyRefined/ha-cloudflare-speed-test",
   "DigitallyRefined/ha-hwmon_temp",
   "dimagoltsman/ha-proof-dashcam-integration",
+  "dimgen/homeassistant-vmc-ubbink",
   "dingo35/ha-SmartEVSEv3",
   "dinki/view_assist_integration",
   "dirkgroenen/hass-evse-load-balancer",
