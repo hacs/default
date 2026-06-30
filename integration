@@ -967,6 +967,7 @@
   "gunnjr/ha-logger-manager",
   "gurrier/localvolts",
   "gurux13/hass-alarm",
+  "GuyKh/aqi-in-custom-component",
   "GuyKh/iec-custom-component",
   "GuyKh/ims-custom-component",
   "GuyKh/ims-envista-custom-component",
