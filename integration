@@ -1458,6 +1458,7 @@
   "lizardsystems/hass-tnse",
   "ljbotero/hvac-vent-optimizer",
   "ljmerza/orbit-bhyve-ble",
+  "ljschmitt/hass-anycubic_cloud_v3",
   "lloydw/hass-spanet",
   "lmt-lv/lmt-iot-ha-integration",
   "lnagel/hass-eaton-ups-mqtt",
