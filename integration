@@ -1466,6 +1466,7 @@
   "lnagel/hass-ufh-controller",
   "lociii/homeassistant-csgo",
   "lociii/homeassistant-overwolf-status",
+  "LocknAlert-Pty-LTD/locknalert_mqtt",
   "lolouk44/CurrentCost_HA_CC",
   "Looking4Cache/home-assistant-remote-assistant",
   "loopj/home-assistant-vantage",
