@@ -1641,6 +1641,7 @@
   "mguyard/hass-diagral",
   "mguyard/hass-iopool",
   "mholzi/beatify",
+  "michael-adler/ha-ocpp-relay",
   "Michael-Civitillo/trimlight-edge-ha",
   "michaeldwan/ha-cloudflare-ai-gateway",
   "michaellunzer/Home-Assistant-Custom-Component-Fortnite",
