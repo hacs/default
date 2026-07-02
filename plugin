@@ -350,6 +350,7 @@
   "MacSiem/ha-data-exporter",
   "MacSiem/ha-device-health",
   "MacSiem/ha-energy-optimizer",
+  "MacSiem/ha-trace-viewer",
   "madmicio/ampli-panel-card",
   "madmicio/channel-pad",
   "madmicio/LG-WebOS-Remote-Control",
