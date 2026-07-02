@@ -362,6 +362,7 @@
   "brettmeyerowitz/homeassistant-homgar",
   "brewmarsh/meraki-homeassistant",
   "brezlord/hass-waterco-electrochlor",
+  "brianegge/ha-upgrade-advisor",
   "brianegge/home-assistant-sdnotify",
   "brianegge/homeassistant-magewell",
   "brianegge/homeassistant-obs-studio",
