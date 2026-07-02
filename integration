@@ -1584,6 +1584,7 @@
   "Material-Home-Assistant/material-home-assistant-integration",
   "matfroh/abl_emh1_modbus",
   "matfroh/sax_battery_ha",
+  "MathewUlanowski/ha-rainsoft",
   "mathieu-mp/homeassistant-intex-spa",
   "matt-richardson/home-assistant-bus-minder",
   "matt-richardson/home-assistant-firefly-cloud",
