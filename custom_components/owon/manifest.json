@@ -1,0 +1,12 @@
+{
+  "domain": "owon",
+  "name": "OWON",
+  "codeowners": ["@zzdota"],
+  "config_flow": true,
+  "dependencies": ["mqtt"],
+  "documentation": "https://github.com/zzdota/ha-owon",
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/zzdota/ha-owon/issues",
+  "requirements": [],
+  "version": "0.0.2"
+}

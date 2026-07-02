@@ -1,0 +1,63 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "OWON",
+        "description": "点击提交以设置 OWON 集成。请确保 MQTT 已配置且设备已连接。"
+      }
+    },
+    "abort": {
+      "already_configured": "该集成已配置。"
+    }
+  },
+  "entity": {
+    "sensor": {
+      "voltage_a": { "name": "A相电压" },
+      "current_a": { "name": "A相电流" },
+      "active_power_a": { "name": "A相有功功率" },
+      "power_factor_a": { "name": "A相功率因数" },
+      "energy_consumed_a": { "name": "A相电量" },
+      "voltage_b": { "name": "B相电压" },
+      "current_b": { "name": "B相电流" },
+      "active_power_b": { "name": "B相有功功率" },
+      "power_factor_b": { "name": "B相功率因数" },
+      "energy_consumed_b": { "name": "B相电量" },
+      "voltage_c": { "name": "C相电压" },
+      "current_c": { "name": "C相电流" },
+      "active_power_c": { "name": "C相有功功率" },
+      "power_factor_c": { "name": "C相功率因数" },
+      "energy_consumed_c": { "name": "C相电量" },
+      "energy_consumed_total": { "name": "总消耗电量" },
+      "energy_generated_total": { "name": "总产生电量" },
+      "current_total": { "name": "总电流" },
+      "active_power_total": { "name": "总功率" },
+      "frequency": { "name": "频率" },
+      "temperature": { "name": "设备温度" },
+      "rssi": { "name": "信号强度" },
+      "ct_insertion": { "name": "CT插入位图" },
+      "sub_circuit_active_power": { "name": "子线路{circuit_id}有功功率" },
+      "sub_circuit_current": { "name": "子线路{circuit_id}电流" },
+      "sub_circuit_energy_consumed": { "name": "子线路{circuit_id}消耗电量" },
+      "sub_circuit_energy_generated": { "name": "子线路{circuit_id}产生电量" },
+      "device_id": { "name": "1 设备ID" },
+      "device_model": { "name": "2 设备主类型" },
+      "device_sub_model": { "name": "3 设备子类型" },
+      "firmware_version": { "name": "4 固件版本" },
+      "sub_firmware_version": { "name": "子固件版本" },
+      "hardware_version": { "name": "硬件版本" },
+      "device_status": { "name": "设备状态" },
+      "measurement_type": { "name": "5 测量类型" },
+      "voltage_phase_seq": {
+        "name": "电压相序检测",
+        "state": {
+          "phase_missing": "有某相没有接",
+          "abc_different": "A、B、C三相各不同相",
+          "abc_same": "A、B、C三相都在同一相",
+          "ab_same_c_different": "A、B同相，C不同相",
+          "bc_same_a_different": "B、C同相，A不同相",
+          "ac_same_b_different": "A、C同相，B不同相"
+        }
+      }
+    }
+  }
+}

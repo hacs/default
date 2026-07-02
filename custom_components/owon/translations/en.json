@@ -1,0 +1,69 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "OWON",
+        "description": "Click submit to set up the OWON integration. Make sure MQTT is configured and the device is connected."
+      }
+    },
+    "abort": {
+      "already_configured": "This integration is already configured."
+    }
+  },
+  "entity": {
+    "sensor": {
+      "voltage_a": { "name": "Phase A voltage" },
+      "current_a": { "name": "Phase A current" },
+      "active_power_a": { "name": "Phase A active power" },
+      "power_factor_a": { "name": "Phase A power factor" },
+      "energy_consumed_a": { "name": "Phase A energy" },
+      "voltage_b": { "name": "Phase B voltage" },
+      "current_b": { "name": "Phase B current" },
+      "active_power_b": { "name": "Phase B active power" },
+      "power_factor_b": { "name": "Phase B power factor" },
+      "energy_consumed_b": { "name": "Phase B energy" },
+      "voltage_c": { "name": "Phase C voltage" },
+      "current_c": { "name": "Phase C current" },
+      "active_power_c": { "name": "Phase C active power" },
+      "power_factor_c": { "name": "Phase C power factor" },
+      "energy_consumed_c": { "name": "Phase C energy" },
+      "energy_consumed_total": { "name": "Total energy" },
+      "energy_generated_total": { "name": "Total generated energy" },
+      "current_total": { "name": "Total current" },
+      "active_power_total": { "name": "Total active power" },
+      "frequency": { "name": "Frequency" },
+      "temperature": { "name": "Device temperature" },
+      "rssi": { "name": "RSSI" },
+      "ct_insertion": { "name": "CT insertion bitmap" },
+      "sub_circuit_active_power": {
+        "name": "Sub-circuit {circuit_id} active power"
+      },
+      "sub_circuit_current": { "name": "Sub-circuit {circuit_id} current" },
+      "sub_circuit_energy_consumed": {
+        "name": "Sub-circuit {circuit_id} energy consumed"
+      },
+      "sub_circuit_energy_generated": {
+        "name": "Sub-circuit {circuit_id} energy generated"
+      },
+      "device_id": { "name": "1 Device ID" },
+      "device_model": { "name": "2 Device model" },
+      "device_sub_model": { "name": "3 Device sub model" },
+      "firmware_version": { "name": "4 Firmware version" },
+      "sub_firmware_version": { "name": "Sub firmware version" },
+      "hardware_version": { "name": "Hardware version" },
+      "device_status": { "name": "Device status" },
+      "measurement_type": { "name": "5 Measurement type" },
+      "voltage_phase_seq": {
+        "name": "Voltage phase sequence",
+        "state": {
+          "phase_missing": "Phase missing",
+          "abc_different": "A, B, C all different",
+          "abc_same": "A, B, C all same",
+          "ab_same_c_different": "A, B same; C different",
+          "bc_same_a_different": "B, C same; A different",
+          "ac_same_b_different": "A, C same; B different"
+        }
+      }
+    }
+  }
+}

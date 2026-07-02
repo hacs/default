@@ -1,0 +1,69 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "OWON",
+        "description": "Cliquez sur Envoyer pour configurer l'integration OWON. Assurez-vous que MQTT est configure et que l'appareil est connecte."
+      }
+    },
+    "abort": {
+      "already_configured": "Cette integration est deja configuree."
+    }
+  },
+  "entity": {
+    "sensor": {
+      "voltage_a": { "name": "Tension phase A" },
+      "current_a": { "name": "Courant phase A" },
+      "active_power_a": { "name": "Puissance active phase A" },
+      "power_factor_a": { "name": "Facteur de puissance phase A" },
+      "energy_consumed_a": { "name": "Energie phase A" },
+      "voltage_b": { "name": "Tension phase B" },
+      "current_b": { "name": "Courant phase B" },
+      "active_power_b": { "name": "Puissance active phase B" },
+      "power_factor_b": { "name": "Facteur de puissance phase B" },
+      "energy_consumed_b": { "name": "Energie phase B" },
+      "voltage_c": { "name": "Tension phase C" },
+      "current_c": { "name": "Courant phase C" },
+      "active_power_c": { "name": "Puissance active phase C" },
+      "power_factor_c": { "name": "Facteur de puissance phase C" },
+      "energy_consumed_c": { "name": "Energie phase C" },
+      "energy_consumed_total": { "name": "Energie totale" },
+      "energy_generated_total": { "name": "Energie totale produite" },
+      "current_total": { "name": "Courant total" },
+      "active_power_total": { "name": "Puissance active totale" },
+      "frequency": { "name": "Frequence" },
+      "temperature": { "name": "Temperature de l'appareil" },
+      "rssi": { "name": "RSSI" },
+      "ct_insertion": { "name": "Bitmap d'insertion TC" },
+      "sub_circuit_active_power": {
+        "name": "Puissance active sous-circuit {circuit_id}"
+      },
+      "sub_circuit_current": { "name": "Courant sous-circuit {circuit_id}" },
+      "sub_circuit_energy_consumed": {
+        "name": "Energie consommee sous-circuit {circuit_id}"
+      },
+      "sub_circuit_energy_generated": {
+        "name": "Energie produite sous-circuit {circuit_id}"
+      },
+      "device_id": { "name": "1 ID de l'appareil" },
+      "device_model": { "name": "2 Modele de l'appareil" },
+      "device_sub_model": { "name": "3 Sous-modele de l'appareil" },
+      "firmware_version": { "name": "4 Version du firmware" },
+      "sub_firmware_version": { "name": "Version du sous-firmware" },
+      "hardware_version": { "name": "Version du materiel" },
+      "device_status": { "name": "Etat de l'appareil" },
+      "measurement_type": { "name": "5 Type de mesure" },
+      "voltage_phase_seq": {
+        "name": "Sequence des phases de tension",
+        "state": {
+          "phase_missing": "Phase manquante",
+          "abc_different": "A, B, C toutes differentes",
+          "abc_same": "A, B, C toutes identiques",
+          "ab_same_c_different": "A et B identiques ; C differente",
+          "bc_same_a_different": "B et C identiques ; A differente",
+          "ac_same_b_different": "A et C identiques ; B differente"
+        }
+      }
+    }
+  }
+}

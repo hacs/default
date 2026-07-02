@@ -1,0 +1,71 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "OWON",
+        "description": "Haz clic en Enviar para configurar la integracion OWON. Asegurate de que MQTT este configurado y de que el dispositivo este conectado."
+      }
+    },
+    "abort": {
+      "already_configured": "Esta integracion ya esta configurada."
+    }
+  },
+  "entity": {
+    "sensor": {
+      "voltage_a": { "name": "Voltaje de fase A" },
+      "current_a": { "name": "Corriente de fase A" },
+      "active_power_a": { "name": "Potencia activa de fase A" },
+      "power_factor_a": { "name": "Factor de potencia de fase A" },
+      "energy_consumed_a": { "name": "Energia de fase A" },
+      "voltage_b": { "name": "Voltaje de fase B" },
+      "current_b": { "name": "Corriente de fase B" },
+      "active_power_b": { "name": "Potencia activa de fase B" },
+      "power_factor_b": { "name": "Factor de potencia de fase B" },
+      "energy_consumed_b": { "name": "Energia de fase B" },
+      "voltage_c": { "name": "Voltaje de fase C" },
+      "current_c": { "name": "Corriente de fase C" },
+      "active_power_c": { "name": "Potencia activa de fase C" },
+      "power_factor_c": { "name": "Factor de potencia de fase C" },
+      "energy_consumed_c": { "name": "Energia de fase C" },
+      "energy_consumed_total": { "name": "Energia total" },
+      "energy_generated_total": { "name": "Energia total generada" },
+      "current_total": { "name": "Corriente total" },
+      "active_power_total": { "name": "Potencia activa total" },
+      "frequency": { "name": "Frecuencia" },
+      "temperature": { "name": "Temperatura del dispositivo" },
+      "rssi": { "name": "RSSI" },
+      "ct_insertion": { "name": "Mapa de bits de insercion TC" },
+      "sub_circuit_active_power": {
+        "name": "Potencia activa del subcircuito {circuit_id}"
+      },
+      "sub_circuit_current": {
+        "name": "Corriente del subcircuito {circuit_id}"
+      },
+      "sub_circuit_energy_consumed": {
+        "name": "Energia consumida del subcircuito {circuit_id}"
+      },
+      "sub_circuit_energy_generated": {
+        "name": "Energia generada del subcircuito {circuit_id}"
+      },
+      "device_id": { "name": "1 ID del dispositivo" },
+      "device_model": { "name": "2 Modelo del dispositivo" },
+      "device_sub_model": { "name": "3 Submodelo del dispositivo" },
+      "firmware_version": { "name": "4 Version de firmware" },
+      "sub_firmware_version": { "name": "Version de subfirmware" },
+      "hardware_version": { "name": "Version de hardware" },
+      "device_status": { "name": "Estado del dispositivo" },
+      "measurement_type": { "name": "5 Tipo de medicion" },
+      "voltage_phase_seq": {
+        "name": "Secuencia de fase de voltaje",
+        "state": {
+          "phase_missing": "Fase ausente",
+          "abc_different": "A, B, C todas diferentes",
+          "abc_same": "A, B, C todas iguales",
+          "ab_same_c_different": "A y B iguales; C diferente",
+          "bc_same_a_different": "B y C iguales; A diferente",
+          "ac_same_b_different": "A y C iguales; B diferente"
+        }
+      }
+    }
+  }
+}
