@@ -649,6 +649,7 @@
   "xBourner/header-position-card",
   "xBourner/status-card",
   "xplanes/ha-plant-diary-card",
+  "Yeelight/ha_yeelight_dashboard",
   "yohaybn/lovelace-aliexpress-package-card",
   "yshaish1/ha-google-fonts",
   "ytilis/hass-progress-bar-feature",
