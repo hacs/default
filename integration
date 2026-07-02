@@ -661,6 +661,7 @@
   "dingo35/ha-SmartEVSEv3",
   "dinki/view_assist_integration",
   "dirkgroenen/hass-evse-load-balancer",
+  "DiscountDarcy/ha-renpho-health",
   "DisplacedForest/ha-hevy-tracker",
   "DiUS/homeassistant-powersensor",
   "Dixet/homeassistant_hetzner",
