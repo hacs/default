@@ -92,6 +92,7 @@
   "alexlenk/ecowitt_local",
   "alexlenk/ha-dev-tools",
   "alexlenk/ha-everhome",
+  "alexostleitner/homeassistant-wiener-luft",
   "Alexwijn/SAT",
   "AlexxIT/Jura",
   "AlexxIT/SonoffLAN",
