@@ -1347,6 +1347,7 @@
   "kimjohnsson/wiheat",
   "KipK/marees_france",
   "KipK/vtherm_hysteresis",
+  "KipK/vtherm_smartpi",
   "KiraPC/ha-switchbot-remote",
   "kirei/hass-chargeamps",
   "kirill-k2/hass-guk-krasnodar",
