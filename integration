@@ -1474,6 +1474,7 @@
   "lizardsystems/hass-tnse",
   "ljbotero/hvac-vent-optimizer",
   "ljmerza/orbit-bhyve-ble",
+  "ljmerza/tracking-numbers",
   "lloydw/hass-spanet",
   "lmt-lv/lmt-iot-ha-integration",
   "lnagel/hass-eaton-ups-mqtt",
