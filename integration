@@ -2235,6 +2235,7 @@
   "sfstar/hass-victron",
   "sftgunner/edinplus-integration",
   "sftgunner/heatmiseredge-integration",
+  "sgielen/ha-ecohome",
   "sginestrini/home-assistant-tada-integration",
   "sh00t2kill/dolphin-robot",
   "sh00t2kill/ha-dorsalwatch",
