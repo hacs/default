@@ -2653,6 +2653,7 @@
   "xr686/reCamer_HA",
   "xraver/mercedes_me_api",
   "xtimmy86x/ha-s7plc",
+  "xyzmos/hass_weather_tencent",
   "yandex/pogoda-home-assistant",
   "yangqian/hass-hk_air_quality",
   "yashijoe/ha-cameconnect",
@@ -2696,6 +2697,5 @@
   "zubir2k/homeassistant-esolattakwim",
   "zulufoxtrot/ha-zyxel",
   "zupancicmarko/JellyHA",
-  "Zwer2k/ha-pca301",
-  "xyzmos/hass_weather_tencent"
+  "Zwer2k/ha-pca301"
 ]
