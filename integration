@@ -721,6 +721,7 @@
   "drlaplace/KVV_Departure_Monitor",
   "droans/mass_queue",
   "droidgren/smhi_season",
+  "droomurray/hass-intesishome-local",
   "droso-hass/idfm",
   "dscao/ikuai",
   "DSorlov/http_agent",
