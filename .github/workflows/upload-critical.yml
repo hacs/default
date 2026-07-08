@@ -20,7 +20,9 @@ jobs:
     name: Upload
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v7.0.0
+        with:
+          persist-credentials: false
 
       - name: Validate with JSON schema
         uses: cardinalby/schema-validator-action@3.1.1
@@ -29,7 +31,7 @@ jobs:
           schema: 'tools/jsonschema/critical.schema.json'
 
       - name: Set up Python
-        uses: actions/setup-python@v6.2.0
+        uses: actions/setup-python@v6.3.0
         id: python
         with:
           python-version: "3.x"
@@ -48,7 +50,7 @@ jobs:
           jq -c '[.[].repository]' < critical > upload/critical/repositories.json
 
       - name: Upload artifacts
-        uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f  # v6.0.0
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a  # v7.0.1
         with:
           name: critical
           path: upload/critical
