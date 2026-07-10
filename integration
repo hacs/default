@@ -350,6 +350,7 @@
   "BottlecapDave/HomeAssistant-Smol",
   "BottlecapDave/HomeAssistant-TargetTimeframes",
   "botts7/ha-insights",
+  "botts7/hass-wallbox-gateway",
   "Bouni/drkblutspende",
   "Bouni/luxtronik",
   "bramd/qstream-ha",
