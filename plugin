@@ -354,6 +354,7 @@
   "MacSiem/ha-data-exporter",
   "MacSiem/ha-device-health",
   "MacSiem/ha-energy-optimizer",
+  "MacSiem/ha-storage-monitor",
   "MacSiem/ha-yaml-checker",
   "madmicio/ampli-panel-card",
   "madmicio/channel-pad",
