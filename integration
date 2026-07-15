@@ -707,6 +707,7 @@
   "Domoriks/demand_control",
   "DomoticaFacile/battery_monitor",
   "DomoticaFacile/raccolta_rifiuti",
+  "DomoticaFacile/smart_home_pantry",
   "doron1/ha-palgate",
   "dotelpenguin/ha-integration-jirafilters",
   "doubleukay/godaikin-ha",
