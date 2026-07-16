@@ -670,6 +670,7 @@
   "dimagoltsman/ha-proof-dashcam-integration",
   "dingo35/ha-SmartEVSEv3",
   "dinki/view_assist_integration",
+  "diRk262/ha-unitree-go2",
   "dirkgroenen/hass-evse-load-balancer",
   "DisplacedForest/ha-hevy-tracker",
   "DiUS/homeassistant-powersensor",
