@@ -2585,6 +2585,7 @@
   "vinteo/hass-opensprinkler",
   "viragelabs/virage_dashboard",
   "vithurshanselvarajah/ha-glinet",
+  "vithurshanselvarajah/ha-ollama-cloud-limit-viewer",
   "VitisEK/nibe_energy_conversion",
   "vivo/ha_vivohomebridge",
   "vlumikero/home-assistant-securitas",
