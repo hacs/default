@@ -2563,6 +2563,7 @@
   {
     "repository": "ulic75/power-flow-card",
     "reason": "Repository is archived",
-    "removal_type": "remove"
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/9325"
   }
 ]
