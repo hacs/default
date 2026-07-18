@@ -2559,5 +2559,10 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/7183"
+  },
+  {
+    "repository": "ulic75/power-flow-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove"
   }
 ]
