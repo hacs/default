@@ -412,6 +412,7 @@
   "mrded/ha-air-comfort-card",
   "MrSjodin/HomeAssistant_Trafiklab_Timetable_Card",
   "MrSjodin/HomeAssistant_Trafiklab_TravelSearch_Card",
+  "mrtncode/ha-fritzbox-call-card",
   "mtheli/gardena-smart-system-card",
   "mtheli/toothbrush-card",
   "mutilator/homeassistant-solar-panel-preview",
