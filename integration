@@ -1648,6 +1648,7 @@
   "mguyard/hass-diagral",
   "mguyard/hass-iopool",
   "mholzi/beatify",
+  "mholzi/quizify",
   "michael-adler/ha-ocpp-relay",
   "Michael-Civitillo/trimlight-edge-ha",
   "michaeldwan/ha-cloudflare-ai-gateway",
