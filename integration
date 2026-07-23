@@ -1659,6 +1659,7 @@
   "mickeyschwab/haven-hass",
   "micpub/homeassistant-wanas",
   "microd2/ha-motorline-mconnect",
+  "MicroNateId/MocreoHACS",
   "microteq/email_notifier",
   "microteq/whatsigram_messenger",
   "midstar/heatmiser_wifi_ha",
