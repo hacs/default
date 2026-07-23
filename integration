@@ -2106,6 +2106,7 @@
   "RogerSelwyn/Home_Assistant_SkyQ_MediaPlayer",
   "RogerSelwyn/mqtt_discoverystream_ha",
   "RogerSelwyn/MS365-Calendar",
+  "RogerSelwyn/MS365-Contacts", 
   "RogerSelwyn/MS365-Mail",
   "RogerSelwyn/MS365-Teams",
   "RogerSelwyn/MS365-ToDo",
