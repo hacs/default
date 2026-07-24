@@ -1748,6 +1748,7 @@
   "mvdwetering/huesyncbox",
   "mvdwetering/yamaha_ynca",
   "mweinelt/ha-prometheus-sensor",
+  "mwjsmith7/nexgen-iot-ha-bridge",
   "mwolter805/meshcore-ha-chat",
   "mxshmh/ha-metric",
   "myhades/ha-clash-controller",
