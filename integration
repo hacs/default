@@ -1486,6 +1486,7 @@
   "ljbotero/hvac-vent-optimizer",
   "ljmerza/orbit-bhyve-ble",
   "ljmerza/tracking-numbers",
+  "ljmerza/utilities_email_tracker",
   "lloydw/hass-spanet",
   "lmt-lv/lmt-iot-ha-integration",
   "lnagel/hass-eaton-ups-mqtt",
