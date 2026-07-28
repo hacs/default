@@ -2559,5 +2559,10 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/7183"
+  },
+  {
+    "repository": "pjordanandrsn/ha-generac",
+    "reason": "Reconverged with upstream binarydev/ha-generac, which is in the default store",
+    "removal_type": "remove"
   }
 ]
