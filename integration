@@ -946,6 +946,7 @@
   "geertmeersman/youfone",
   "GeiserX/cashpilot-ha",
   "GeiserX/genieacs-ha",
+  "genericJE/ha-heating-schedule",
   "gensyn/ssh_command",
   "gensyn/ssh_docker",
   "gensyn/task_tracker",
