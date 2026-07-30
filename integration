@@ -1530,6 +1530,7 @@
   "loryanstrant/HA-Azure-AI-tasks",
   "loryanstrant/HA-CustomComponentMonitor",
   "loryanstrant/HA-ElevenLabs-Custom-TTS",
+  "loryanstrant/HA-HidrateSpark-Bluetooth-Proxy",
   "loryanstrant/ha-jokes",
   "loryanstrant/HA-LocalAI-Monitor",
   "loryanstrant/HA-Personal-Hydration-Manager",
