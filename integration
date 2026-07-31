@@ -1712,6 +1712,7 @@
   "MattieGit/qube_heatpump",
   "mattrayner/pod-point-home-assistant-component",
   "MattXcz/CEZ",
+  "MauroDruwel/HeyTelecomHA",
   "mawinkler/astroweather",
   "maxbeizer/homeassistant-nes",
   "MaxensF/personal_weather_station",
@@ -2849,4 +2850,3 @@
   "zupancicmarko/JellyHA",
   "Zwer2k/ha-pca301"
 ]
-
