@@ -425,6 +425,7 @@
   "cavefire/hass-openid",
   "caveman2024/sossen-ha",
   "cazeaux/ha-iracing",
+  "cchip201/pikvm-control-homeassistant",
   "cdnninja/yoto_ha",
   "cedricziel/ha-matter-binding-helper",
   "cedricziel/ha-sunlit",
