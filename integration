@@ -636,6 +636,7 @@
   "davesmeghead/visonic",
   "DavidBilodeau1/saguenay_collection",
   "daviddelahoz/BLEAdjustableBase",
+  "daviddelahoz/ha-hondalink",
   "davidepalleschi/zepp2hass",
   "davidrapan/ha-solarman",
   "dawg-io/homeassistant-fluxcd",
@@ -2849,4 +2850,3 @@
   "zupancicmarko/JellyHA",
   "Zwer2k/ha-pca301"
 ]
-
