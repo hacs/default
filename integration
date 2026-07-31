@@ -1919,6 +1919,7 @@
   "ohrensessel/bev_insights",
   "okkine/HA-Luna",
   "okkine/HA-Sol",
+  "OleSint/ha-connection-observer",
   "olibos/HomeAssistant-RecycleApp",
   "olivierplante/ec-weather",
   "olivierplante/popup-card",
