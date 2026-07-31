@@ -2565,6 +2565,7 @@
   "TheRealFalseReality/Aquarium-AI-Homeassistant",
   "TheRealWaldo/thermal",
   "ThermIQ/thermiq_mqtt-ha",
+  "thenixan/ha-isp-balance",
   "thermozona/thermozona",
   "thetic/hass-consumable-tracker",
   "thetic/hass-mytpu",
