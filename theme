@@ -28,6 +28,7 @@
   "f17mkx/everyday-themes",
   "fi-sch/ux_goodie_theme",
   "flejz/hass-cyberpunk-2077-theme",
+  "florent6901/home-assistant-nuit_mediterraneenne",
   "home-assistant-community-themes/amoled",
   "home-assistant-community-themes/aqua-fiesta",
   "home-assistant-community-themes/blackened",
@@ -49,6 +50,7 @@
   "home-assistant-community-themes/vaporwave-pink",
   "houtknots/UglyChristmas-Theme",
   "iosue-iulianus/homeassistant-pipboy-theme",
+  "jbsky/ha-glass-dashboard",
   "JOHLC/transparentblue",
   "JuanMTech/google-theme",
   "JuanMTech/google_dark_theme",
@@ -89,6 +91,7 @@
   "SnakeFist007/ha_vastayan_bond",
   "Stormrage-DJ/ha_theme_star_wars_dark",
   "Stormrage-DJ/ha_theme_star_wars_light",
+  "studio-prisma/homeassistant-theme-liquid-glass",
   "taikun114/Blue-Theme-by-taikun114",
   "tgcowell/waves",
   "th3jesta/ha-lcars",
@@ -98,5 +101,6 @@
   "williamahartman/noctis-solarized",
   "wowgamr/animated-weather-card",
   "Xitee1/ha-amoled-theme",
-  "yakidd/NeumorphixHome"
+  "yakidd/NeumorphixHome",
+  "Yeelight/ha_yeelight_themes"
 ]
