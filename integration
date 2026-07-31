@@ -769,6 +769,8 @@
   "eduwardpost/aviation-weather",
   "edwork/homeassistant-peloton-sensor",
   "EffortlessHome/EffortlessHome",
+  "EffortlessHome/Oasira_B2C",
+  "EffortlessHome/Oasira_B2B",    
   "egmen/moscow_transport",
   "egordanilenko/ha-voyah-ru",
   "EHylands/ha-qolsys-panel",
