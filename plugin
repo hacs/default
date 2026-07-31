@@ -142,6 +142,7 @@
   "droans/mass-player-card",
   "droans/mass_card",
   "dropqube/pv-forecast-card",
+  "DTekNO/ha-alert-card",
   "DTekNO/lovelace-meteogram-card",
   "dvb6666/homed-zigbee-networkmap",
   "dylandoamaral/uptime-card",
