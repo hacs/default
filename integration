@@ -2440,6 +2440,7 @@
   "Rooterts/HA_supertronics_hat_ups_x120x",
   "roquerodrigo/ha-metro-sp",
   "roquerodrigo/ha-midea-dishwasher",
+  "roquerodrigo/ha-tplink-deco",
   "roquerodrigo/ha-ttlock-ble",
   "rosch100/fritzbox-vpn",
   "rosenkolev/home-assistant-gpio-integration",
