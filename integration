@@ -2721,6 +2721,7 @@
   "TheMegamind/PurpleAir_AQI",
   "thenixan/ha-isp-balance",
   "TheNoctambulist/hass-airtouch",
+  "theoabw/ha-openwrt-presence",
   "TheRealFalseReality/Aquarium-AI-Homeassistant",
   "TheRealWaldo/thermal",
   "ThermIQ/thermiq_mqtt-ha",
