@@ -1679,6 +1679,7 @@
   "mariusz-ostoja-swierczynski/tech-controllers",
   "markaggar/ha-media-index",
   "markaggar/Water-Monitor",
+  "MarkAtwood/ha-mqtt-device-sync",
   "markfrancisonly/ha-cameralux",
   "markgdev/home-assistant_OctopusAgile",
   "markuzzi/somfy_cul_integration",
