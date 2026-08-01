@@ -2870,6 +2870,7 @@
   "TomBrien/cardiffwaste-ha",
   "tomer-w/ha-nmea2000",
   "tomer-w/ha-victron-mqtt",
+  "tomislavherman/ha-window-state",
   "TomTuTHub/mitsubishi-outlander-phev-eu",
   "tonyroberts/hawundasmart",
   "toreamun/amshan-homeassistant",
