@@ -2563,6 +2563,7 @@
   "smart-ishhome/temperature_alarm",
   "smarthomeblack/npc",
   "smarthomeblack/zalo_bot",
+  "smarthomeshop/home-assistant-integration",
   "smartpricing/homeassistant-smartpms",
   "SmartServicePL/worx_vision_cloud_plus_github",
   "SmartyVan/hass-geolocator",
