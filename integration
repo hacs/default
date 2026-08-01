@@ -1088,6 +1088,7 @@
   "gieljnssns/kostalpiko-sensor-homeassistant",
   "gillesvs/librelink",
   "gilsonmandalogo/hacs-minerstat",
+  "GImDX/huawei-esm48100-hacs",
   "GimpArm/schellenberg_usb",
   "gjocys/ha-recom-modbus",
   "gjohansson-ST/attribute_as_sensor",
