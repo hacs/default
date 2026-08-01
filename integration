@@ -750,6 +750,7 @@
   "DigitallyRefined/ha-hwmon_temp",
   "dim4k/ha-naolib",
   "dimagoltsman/ha-proof-dashcam-integration",
+  "dimgen/homeassistant-vmc-ubbink",
   "dingo35/ha-SmartEVSEv3",
   "dinki/view_assist_integration",
   "dirkgroenen/hass-evse-load-balancer",
