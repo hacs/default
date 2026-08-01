@@ -1208,6 +1208,7 @@
   "it00x32/lancom-lmc-ha",
   "italo-lombardi/Home-Assistant-EntityAvailability",
   "italo-lombardi/Home-Assistant-EntityDistance",
+  "italo-lombardi/Home-Assistant-EntityGuard",
   "italo-lombardi/Home-Assistant-FuelCompare",
   "italo-lombardi/Home-Assistant-WashWise",
   "itchannel/apex-ha",
