@@ -84,6 +84,7 @@
   "AlbrechtL/hass-padersprinter",
   "alceasan/ha-deepgram-tts",
   "AldenDana/ha-zte-fibra",
+  "aldweb/ha-egl-water",
   "aldweb/ha-lg-hombot",
   "aldweb/ha-openwrt-mqtt",
   "aldweb/ha-tasmota-mielhvac",
