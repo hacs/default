@@ -1636,6 +1636,7 @@
   "loopj/home-assistant-vantage",
   "LordBoos/discord_game",
   "lorenzo-deluca/homeassistant-silence",
+  "lorosystems/lorobot-homeassistant",
   "loryanstrant/HA-Azure-AI-tasks",
   "loryanstrant/HA-CustomComponentMonitor",
   "loryanstrant/HA-ElevenLabs-Custom-TTS",
