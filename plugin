@@ -254,6 +254,7 @@
   "homeassistant-extras/toolbar-status-chips",
   "homeassistant-extras/whisker",
   "homeassistant-extras/zwave-card-set",
+  "hsolgaard/zha-bindings-manager",
   "hudsonbrendon/nintendo-switch-card",
   "Hugo0485/DoubleCurtainCard",
   "hulkhaugen/hass-bha-icons",
