@@ -2653,6 +2653,7 @@
   "soloam/ha-pid-controller",
   "somansch/annuals",
   "somansch/blitzer",
+  "somansch/lufop_radar",
   "sopelj/hass-ember-mug-component",
   "sotoniak/home-assistant-emergency-stop-public",
   "soulripper13/blueprint-studio",
