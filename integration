@@ -775,6 +775,7 @@
   "Dixet/homeassistant_geopulse",
   "Dixet/homeassistant_hetzner",
   "djansen1987/SAJeSolar",
+  "DJBenson/ha-nationalgrid-powercut",
   "djbios/home-assistant-cat-scale",
   "djbulsink/panasonic_ac",
   "djchen/ha-unifi-presence",
