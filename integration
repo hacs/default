@@ -1280,6 +1280,7 @@
   "ishiharas/shelly_plug_led",
   "IT-my-PV/myPVHomeAssistant",
   "it00x32/lancom-lmc-ha",
+  "italo-lombardi/DashSnap-Integration",
   "italo-lombardi/Home-Assistant-EntityAvailability",
   "italo-lombardi/Home-Assistant-EntityDistance",
   "italo-lombardi/Home-Assistant-EntityGuard",
