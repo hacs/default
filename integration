@@ -2213,6 +2213,7 @@
   "popeen/Home-Assistant-Custom-Component-Temperatur-Nu",
   "porech/samsung_ac_dplug",
   "PorlyBe/glance_clock_ha",
+  "portbusy/ha-input-boolean-group",
   "portbusy/smart-presence-notify",
   "pos-ei-don/ha-recorder-throttle",
   "Poshy163/HomeAssistant-Sharesight",
