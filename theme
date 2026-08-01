@@ -28,6 +28,7 @@
   "f17mkx/everyday-themes",
   "fi-sch/ux_goodie_theme",
   "flejz/hass-cyberpunk-2077-theme",
+  "florent6901/home-assistant-nuit_mediterraneenne",
   "home-assistant-community-themes/amoled",
   "home-assistant-community-themes/aqua-fiesta",
   "home-assistant-community-themes/blackened",
@@ -83,6 +84,7 @@
   "Poeschl/slate_red",
   "Raznor09/raznor-obsidian",
   "ricardoquecria/caule-themes-pack-1",
+  "robex2005/MorphHomeX",
   "robinwittebol/whatsapp-theme",
   "seangreen2/slate_theme",
   "silasmariusz/Bubble_Theme_2026",
@@ -100,5 +102,6 @@
   "williamahartman/noctis-solarized",
   "wowgamr/animated-weather-card",
   "Xitee1/ha-amoled-theme",
-  "yakidd/NeumorphixHome"
+  "yakidd/NeumorphixHome",
+  "Yeelight/ha_yeelight_themes"
 ]
