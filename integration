@@ -1146,6 +1146,7 @@
   "ha-china/cn_im_hub",
   "ha-china/virtual_devices",
   "ha-parcel-integrations/ha-dpd",
+  "ha-parcel-integrations/ha-packeta",
   "ha-securemtr/ha-securemtr",
   "ha-termoweb/ha-termoweb",
   "ha-warmup/warmup",
