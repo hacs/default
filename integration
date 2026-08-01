@@ -2537,6 +2537,7 @@
   "stockhausenj/ha-stt-parasail",
   "stockhausenj/ha-tts-parasail",
   "stoppegp/ha-dwd-precipitation-forecast",
+  "strepto42/foobar2k_custom_component",
   "strepto42/homeassistant-esptimecast",
   "strepto42/TeslaBluetoothSolarCharger",
   "Strixx76/mold_risk_index",
