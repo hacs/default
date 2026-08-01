@@ -2740,6 +2740,7 @@
   "tronikos/google_assistant_sdk_custom",
   "tronikos/nest_legacy",
   "troykelly/homeassistant-au-nsw-covid",
+  "Trusties13/sourdough-manager",
   "trvqhuy/nestup_evn",
   "tschamm/boschshc-hass",
   "TTLucian/ha-electrolux",
@@ -2941,4 +2942,3 @@
   "zupancicmarko/JellyHA",
   "Zwer2k/ha-pca301"
 ]
-
