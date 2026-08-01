@@ -421,6 +421,7 @@
   "bvweerd/battery_controller",
   "bvweerd/dynamic_energy_contract_calculator",
   "bvweerd/simple_pid_controller",
+  "bwcon/homeassistant-crestron-home",
   "bxthomas/tesira_ttp",
   "bywciu/Home-Assistant-Custom-Components-ReversoTTS",
   "c-st/auto_areas",
