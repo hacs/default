@@ -1761,6 +1761,7 @@
   "manjotsc/ha-kore_wireless",
   "manjotsc/ha-quebec_fuel",
   "manjotsc/ha-simbase",
+  "manjotsc/ha-tvassist",
   "manjotsc/ha-tvoverlay_ui",
   "manjotsc/ha-twilio_sms_ui",
   "mannotfood/healthsync",
