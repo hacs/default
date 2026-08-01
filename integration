@@ -1720,6 +1720,7 @@
   "manjotsc/ha-simbase",
   "manjotsc/ha-tvoverlay_ui",
   "manjotsc/ha-twilio_sms_ui",
+  "mannotfood/healthsync",
   "manos/HomeAssistant-Lippert-OneControl-Integration",
   "Manschitz/brunner-eas-integration",
   "marccatalano/ha-powerpanel-cloud",
