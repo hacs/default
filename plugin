@@ -1,4 +1,4 @@
-[
+
   "0Paul89/vienna-transport-card",
   "0xAHA/solar-bar-card",
   "404GamerNotFound/ha-solar-dashboard",
@@ -599,6 +599,7 @@
   "skeefee/android-tv-remote-card",
   "skydarc/Venus-OS-Dashboard",
   "slipx06/sunsynk-power-flow-card",
+  "smokedropp23/ha-litter-robot-card",
   "snootched/cb-lcars",
   "soestin/hass_periodic_card_reload",
   "Solst1cee/HA-PC-control-card",
