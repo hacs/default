@@ -1151,6 +1151,7 @@
   "ha-parcel-integrations/ha-dpd",
   "ha-securemtr/ha-securemtr",
   "ha-termoweb/ha-termoweb",
+  "HA-Update-Manager/ha-update-manager",
   "ha-warmup/warmup",
   "hacf-fr/hass-ecoledirecte",
   "Hackashaq666/apple-music-custom",
