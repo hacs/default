@@ -1133,6 +1133,7 @@
   "gurrier/localvolts",
   "gurux13/hass-alarm",
   "GuyKh/air-sviva-custom-component",
+  "GuyKh/aqi-in-custom-component",
   "GuyKh/iec-custom-component",
   "GuyKh/ims-custom-component",
   "GuyKh/ims-envista-custom-component",
