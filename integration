@@ -885,6 +885,7 @@
   "elden1337/hass-peaq",
   "elden1337/hass-peaqhvac",
   "elden1337/hass-peaqnext",
+  "electrification-bus/span-hass",
   "ElectroAttacks/lametric-hass-local",
   "ElectroceanTech/HomeAssistant",
   "ElektroBeckhoff/ha-twincat-iot-communicator",
