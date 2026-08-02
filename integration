@@ -474,6 +474,7 @@
   "cavefire/hass-openid",
   "caveman2024/sossen-ha",
   "cazeaux/ha-iracing",
+  "ccsliinc/ha-smart-lock-manager",
   "ccsliinc/ha-smart-sprinkler-control",
   "cdnninja/yoto_ha",
   "Cebbas/smart_pump_scheduler",
