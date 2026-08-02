@@ -774,6 +774,7 @@
   "DiUS/homeassistant-powersensor",
   "Dixet/homeassistant_geopulse",
   "Dixet/homeassistant_hetzner",
+  "DjangoToni/aprs-tracker",
   "djansen1987/SAJeSolar",
   "djbios/home-assistant-cat-scale",
   "djbulsink/panasonic_ac",
