@@ -958,6 +958,7 @@
   "fancyui/Gobel-Battery-HA-Integration",
   "fapfaff/homeassistant-appwash",
   "fapgomes/ha-agere-price-calculator",
+  "fapgomes/ha-lywsd02-clock",
   "FaserF/ha-boulderwelt",
   "FaserF/ha-chefkoch",
   "FaserF/ha-db_infoscreen",
