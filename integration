@@ -2382,6 +2382,7 @@
   "rhizomatics/remote_logger",
   "rhizomatics/supernotify",
   "richardvinger/f1-25-telemetry-for-home-assistant",
+  'rickertie/Poolsmart',
   "rickmoonex/hass-lighting-zone",
   "rihokirss/homeasisstant-rn301",
   "rine77/homeassistantedupage",
