@@ -998,6 +998,7 @@
   "flexopus/flexopus-hass-sensor",
   "Flo-Schilli/ha-grohe_smarthome",
   "florianbaethge/simple_irrigation",
+  "fmastrella/ha-dohome-rgb-using-mac-addr",
   "Folkman/ha-fcast",
   "fondberg/spotcast",
   "foureight84/CallAttendantNext_Monitor",
