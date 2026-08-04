@@ -740,6 +740,7 @@
   "denysdovhan/ha-check-weather",
   "denysdovhan/ha-lun-misto-air",
   "denysdovhan/ha-yasno-outages",
+  "derekclapham/ha-mempool",
   "derliebemarcus/homeassistant_teltonika_rms",
   "dermotduffy/hass-web-proxy-integration",
   "derolli1976/enpal",
