@@ -996,6 +996,7 @@
   "flashg1/SolarCharger",
   "flcdrg/flipped_energy_ha",
   "flexopus/flexopus-hass-sensor",
+  "flimo44/ha-voice-label-sync",
   "Flo-Schilli/ha-grohe_smarthome",
   "florianbaethge/simple_irrigation",
   "Folkman/ha-fcast",
