@@ -1325,6 +1325,7 @@
   "denysdovhan/ha-yasno-outages",
   "Der-Jan/midea-ble",
   "der-pw/When-to-Ventilate",
+  "derekclapham/ha-mempool",
   "derekclapham/ha-powerpool",
   "Derinbay-Labs/ha-blink-live",
   "derliebemarcus/homeassistant_teltonika_rms",
