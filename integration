@@ -242,6 +242,8 @@
   "asantaga/lightwaverf_HA_EnergySensor",
   "asantaga/wiserHomeAssistantPlatform",
   "asev/homeassistant-helios",
+ "asherbfromtheministry/ha-lmkw",
+
   "Ashus/hass-openwrt-wakeonlan",
   "aspenrt78/button-builder",
   "astrandb/miele",
