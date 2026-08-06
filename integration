@@ -1784,6 +1784,7 @@
   "mannotfood/healthsync",
   "manos/HomeAssistant-Lippert-OneControl-Integration",
   "Manschitz/brunner-eas-integration",
+  "manuelkleinert/ha-domain-monitor",
   "marccatalano/ha-powerpanel-cloud",
   "MarcelWepper/Inverter-Controller",
   "marcelwestrahome/home-assistant-niu-component",
