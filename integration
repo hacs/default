@@ -408,6 +408,7 @@
   "bramstroker/homeassistant-powercalc",
   "bramstroker/homeassistant-state-webhook",
   "braytonstafford/grok_conversation",
+  "breed007/ha-fleetdm",
   "Breina/idrac_power_monitor",
   "Breina/nad_controller",
   "Breina/PowerTagGateway",
