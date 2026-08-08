@@ -1664,6 +1664,7 @@
   "lewei50/ha_iammeter_link",
   "lewei50/ha_iammeter_modbus",
   "lhw/cloudweatherproxy",
+  "liampetti/fulloch",
   "libdyson-wg/ha-dyson",
   "LiBe-net/ha_pv_history_forecast",
   "lichtteil/local_luftdaten",
