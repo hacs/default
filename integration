@@ -320,6 +320,7 @@
   "beMoD/homeassistant-hyperliquid",
   "ben8p/home-assistant-bunq-balance-sensors",
   "BenAhrdt/home-assistant-lorawan",
+  "BenAhrdt/home-assistant-lorawan-iobroker",
   "bendikrb/ha-devtools",
   "bendikrb/ha-politikontroller",
   "BenJamesAndo/ha-propresenter",
