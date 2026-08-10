@@ -93,6 +93,7 @@
   "alepee/hass-hitachi_yutaki",
   "ALERTua/hass-gaggiuino",
   "alex-jung/ha-departures",
+  "alex89rm/ha-ocpp",
   "AlexandrErohin/home-assistant-flightradar24",
   "AlexandrErohin/home-assistant-tplink-router",
   "alexbbt/ha-moen-smart-water",
