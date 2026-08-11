@@ -411,6 +411,7 @@
   "Breina/idrac_power_monitor",
   "Breina/nad_controller",
   "Breina/PowerTagGateway",
+  "BremerLabs/assist-entity-manager",
   "bremor/bonaire_myclimate",
   "bremor/bureau_of_meteorology",
   "bremor/public_transport_victoria",
