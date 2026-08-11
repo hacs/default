@@ -1868,6 +1868,7 @@
   "mb-software/homeassistant-powerbrain",
   "mbillow/ha-chargepoint",
   "mbillow/ha-redpocket",
+  "mbillow/localthings",
   "mbuchber/ha_heliotherm",
   "mcapmari/ha-djv_meter",
   "mcgeezy/relaytv-ha",
