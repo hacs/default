@@ -426,6 +426,7 @@
   "briis/weatherflow_forecast",
   "brmccrary/nuvo_tuner",
   "brott8/ha-crowdsec",
+  "bru-living/ha-nuvo-m3",
   "Brunas/meteo_lt_by_brunas",
   "bscholer/home-assistant-comma-ai",
   "buchuman/hisense_vrf",
