@@ -239,6 +239,7 @@
   "ArtLogicIKE/frixos-ha-integration",
   "arunrajiah/cctvql",
   "arypien/ha_thesslagreen_airpack_usb",
+  "asamofalov/zont-local",
   "asantaga/lightwaverf_HA_EnergySensor",
   "asantaga/wiserHomeAssistantPlatform",
   "asev/homeassistant-helios",
