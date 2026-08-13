@@ -65,6 +65,7 @@
   "akasma74/Hass-Custom-Alarm",
   "akentner/homeassistant-kroki-integration",
   "akinin/ha_keenetic",
+  "akinin/wirenboard-discovery",
   "akshimassar/ha-fortum",
   "akustikrausch/gonzales-integration",
   "al-one/hass-xiaomi-miot",
