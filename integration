@@ -1362,6 +1362,7 @@
   "jbergler/hass-ttlock",
   "jbouwh/ha-elro-connects",
   "jcgoette/baby_buddy_homeassistant",
+  "JCSharpIII/ha-portacool-apex",
   "jcwillox/hass-auto-backup",
   "jdejaegh/irm-kmi-ha",
   "jdrozdnovak/ha_pagerduty",
