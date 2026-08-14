@@ -516,6 +516,7 @@
   "CJNE/ha-myenergi",
   "CJNE/ha-porscheconnect",
   "CJNE/ha-sunspec",
+  "cjw85/ha-glowmarkt",
   "ckadluba/ha-polleninformation-at",
   "ckarrie/ha-netgear-plus",
   "ckrl/ha-gitops",
