@@ -1,0 +1,49 @@
+name: Normalize Marstek BLE HACS diff
+
+on:
+  push:
+    branches:
+      - add-marstek-ble
+    paths:
+      - .github/workflows/fix-marstek-entry.yml
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out branch
+        uses: actions/checkout@v7.0.0
+        with:
+          ref: add-marstek-ble
+
+      - name: Restore upstream formatting and add only Marstek BLE
+        run: |
+          git fetch origin master
+          git show FETCH_HEAD:integration > integration
+          python3 - <<'PY'
+          from pathlib import Path
+
+          path = Path("integration")
+          text = path.read_text()
+          entry = '  "Cappa83/marstek-ble-ha",\n'
+          needle = '  "caplaz/micro-weather-station",\n'
+          if entry not in text:
+              if needle not in text:
+                  raise SystemExit("Insertion point not found")
+              text = text.replace(needle, needle + entry, 1)
+          path.write_text(text)
+          PY
+
+      - name: Remove one-time workflow
+        run: rm .github/workflows/fix-marstek-entry.yml
+
+      - name: Commit clean diff
+        run: |
+          git config user.name "Cappa83"
+          git config user.email "86222596+Cappa83@users.noreply.github.com"
+          git add integration .github/workflows/fix-marstek-entry.yml
+          git commit -m "Keep HACS default diff minimal"
+          git push origin HEAD:add-marstek-ble
