@@ -218,7 +218,7 @@ jobs:
           integration=$(python3 -m scripts.helpers.integration_path)
           domain=$(python3 -m scripts.helpers.domain)
           docker run --rm \
-            -v "$integration":"/github/workspace/$domain" \
+            -v "$integration":"/github/workspace/custom_components/$domain" \
             ghcr.io/home-assistant/hassfest:latest
 
   hacs:
