@@ -2645,6 +2645,7 @@
   "sockless-coding/ha-eaton-ups-companion",
   "sockless-coding/panasonic_cc",
   "sockless-coding/senz-wifi",
+  "SoftwareSchmied/ha-bosch-buderus-heating",
   "SoftXperience/home-assistant-foxess-api",
   "sokolovs/wda-sensor",
   "solarcube-io/solar-cube-integration",
