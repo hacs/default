@@ -1,4 +1,4 @@
-    "szymkiewiczmathieu/ha_enocean_custom",
+[
   "007hacky007/car_maintenance",
   "0jety0/emaux_spv150",
   "0xAHA/airtouch4_advanced",
@@ -2141,6 +2141,7 @@
   "oMtQB4/HomeAssistant-Pracht-Alpha-Wallbox-Custom-Component",
   "onpremcloudguy/HelloSmart_HomeAssistant",
   "oooohhoo/tokit_cooker",
+  "oooshk/ha-conversation-router",
   "OpenDisplay/Home_Assistant_Integration",
   "OpenEPaperLink/Home_Assistant_Integration",
   "OpenGrow-Box/OpenGrowBox-HA",
@@ -2321,7 +2322,7 @@
   "QuickMadeSimulation/QmdevHA",
   "qwqqq6/tclplus-ac",
   "r-renato/ha-climacell-weather",
-  "rabits/ha-ef-ble",  
+  "rabits/ha-ef-ble",
   "Racailloux/mylight150_ha",
   "radical-squared/aquatemp",
   "raelix/HA-Radoff-integration",
@@ -2745,6 +2746,7 @@
   "syssi/xiaomi_fan",
   "syssi/xiaomi_raw",
   "syssi/xiaomiplug",
+  "szymkiewiczmathieu/ha_enocean_custom",
   "T-leco/investing_portfolio",
   "t0mer/manish-custom-notifier",
   "t0mer/matterbridge-custom-notifier",
@@ -2877,6 +2879,7 @@
   "toringer/home-assistant-metnowcast",
   "toringer/home-assistant-sildre",
   "toringer/home-assistant-thermostat-setback",
+  "totalitarian/ha-zeromouse",
   "totoantibes/golmar-quvii-ha",
   "Toxo666/ha_froeling_modbus",
   "tr4nt0r/rubber_duck",
@@ -3085,7 +3088,6 @@
   "zbigniewmotyka/home-assistant-solplanet",
   "Zendure/Zendure-HA",
   "zenguru84/ha-openaq",
-  "zeromouse": "totalitarian/ha-zeromouse",
   "zeronounours/HA-custom-component-energy-meter",
   "zhbjsh/homeassistant-ssh",
   "zheffie/mijn_waterlink",
@@ -3103,7 +3105,4 @@
   "zulufoxtrot/ha-zyxel",
   "zupancicmarko/JellyHA",
   "Zwer2k/ha-pca301"
-"oooshk/ha-conversation-router",
-[
 ]
-totalitarian/ha-zeromouse
