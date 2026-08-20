@@ -112,6 +112,7 @@
   "aegjoyce/custom-ambilight",
   "aesoftsolutions/Home-Assistant-custom-components-GTT",
   "Aetf/hass-hackrf-proxy",
+  "Aetf/hass-proflame",
   "aevans0001/ha-intermatic-connect",
   "aex351/home-assistant-neerslag-app",
   "agapovmax/ha-energomera-ble",
