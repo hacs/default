@@ -387,6 +387,7 @@
   "MacSiem/ha-device-health",
   "MacSiem/ha-energy-optimizer",
   "MacSiem/ha-smart-reports",
+  "MacSiem/ha-trace-viewer",
   "MacSiem/ha-yaml-checker",
   "madmicio/ampli-panel-card",
   "madmicio/channel-pad",
