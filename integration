@@ -1599,6 +1599,7 @@
   "Korkuttum/tuya_heat_pump",
   "Korkuttum/tuya_scale",
   "kotborealis/home-assistant-custom-components-cover-time-based-synced",
+  "KovacDamjan/homeassistant-datakom",
   "koying/mqtt_discoverystream_ha",
   "kpoppel/homeassistant-eforsyning",
   "kpoppel/homeassistant-novafos",
