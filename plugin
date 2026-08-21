@@ -399,6 +399,7 @@
   "MacSiem/ha-energy-optimizer",
   "MacSiem/ha-entity-renamer",
   "MacSiem/ha-smart-reports",
+  "MacSiem/ha-storage-monitor",
   "MacSiem/ha-trace-viewer",
   "MacSiem/ha-yaml-checker",
   "madmicio/ampli-panel-card",
