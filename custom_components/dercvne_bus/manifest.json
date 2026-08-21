@@ -1,0 +1,19 @@
+{
+  "domain": "dercvne_bus",
+  "name": "Dercvne Bus",
+  "after_dependencies": [
+    "switch_as_x"
+  ],
+  "codeowners": [
+    "@Benjamin-LY777"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/Benjamin-LY777/dercvne_bus",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/Benjamin-LY777/dercvne_bus/issues",
+  "requirements": [
+    "pyserial>=3.5"
+  ],
+  "version": "1.3.5"
+}
