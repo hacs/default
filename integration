@@ -1836,6 +1836,7 @@
   "markaggar/Water-Monitor",
   "MarkAtwood/ha-mqtt-device-sync",
   "markfrancisonly/ha-cameralux",
+  "markfrancisonly/ha-videocall",
   "markgdev/home-assistant_OctopusAgile",
   "markminnoye/HA-IPBuilding",
   "markuzzi/somfy_cul_integration",
