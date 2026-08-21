@@ -2425,6 +2425,7 @@
   "RF1705/shelly-saldation",
   "rgc99/irrigation_unlimited",
   "rgerbranda/rbfa",
+  "Rhaiderr/homeassistant-cloudflare-ip-sync",
   "rhanekom/hass-qwikswitch-api",
   "rhizomatics/autoarm",
   "rhizomatics/remote_logger",
