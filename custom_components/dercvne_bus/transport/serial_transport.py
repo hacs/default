@@ -137,7 +137,7 @@ class SerialTransport(DALITransport):
             return False
         async with self._write_lock:
             try:
-                loop = asyncio.get_event_loop()
+                loop = asyncio.get_running_loop()
 
                 def _write():
                     self._serial.write(data)
@@ -169,7 +169,7 @@ class SerialTransport(DALITransport):
         if not self._connected or self._serial is None:
             return None
         try:
-            loop = asyncio.get_event_loop()
+            loop = asyncio.get_running_loop()
 
             def _read():
                 return self._serial.read(n)
