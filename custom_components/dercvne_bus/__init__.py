@@ -9,7 +9,13 @@ from homeassistant.helpers import config_validation as cv
 from homeassistant.config import ConfigType
 from homeassistant.helpers import device_registry as dr
 
-from .const import DOMAIN
+from .const import (
+    DOMAIN,
+    CLASS_BRIGHTNESS,
+    CLASS_CT,
+    CLASS_COLOR,
+    CLASS_SATURATION,
+)
 from .config_flow import _migrate_data
 
 _LOGGER = logging.getLogger(__name__)
