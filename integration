@@ -2365,6 +2365,7 @@
   "Pyrdon/ha-log-manager",
   "pyrech/homewizard_cloud_watermeter",
   "pytoyoda/ha_toyota",
+  "Q-Squared-Systems/q2-osc-bridge",
   "qcgzxw/hass-lierda-iot",
   "qlerup/chores4kids",
   "qlerup/thermostat-pro-timeline",
