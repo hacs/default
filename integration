@@ -2051,6 +2051,7 @@
   "mvdwetering/yamaha_ynca",
   "MVtag/TapCocktail",
   "mweinelt/ha-prometheus-sensor",
+  "mwjsmith7/nexgen-iot-ha-bridge",
   "mwolter805/meshcore-ha-chat",
   "mxkissnr/glp-integration",
   "mxshmh/ha-metric",
