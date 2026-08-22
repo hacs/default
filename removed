@@ -202,6 +202,11 @@
     "repository": "kethoth/green_slate_theme"
   },
   {
+    "reason": "it is no longer maintained, and the same result can be had with the built-in Remote Calendar integration subscribed to the official Éducation nationale ICS feeds — one per zone, listed at https://data.education.gouv.fr/explore/assets/fr-en-calendrier-scolaire/ — plus a few template sensors",
+    "removal_type": "remove",
+    "repository": "lalexdotcom/ha-vacances-fr"
+  },
+  {
     "removal_type": "blacklist",
     "repository": "ljmerza/waze-card"
   },
