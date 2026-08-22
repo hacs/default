@@ -2351,6 +2351,7 @@
   "Prosono/SMARTi_BaseComponent",
   "ProudElm/solaredgeoptimizers",
   "Proxy-alt/cync-lan",
+  "pslowak/vienna-transport-ha",
   "ptimatth/GeorideHA",
   "ptrkoz/ha-smogtok",
   "PTST/LibreView-HomeAssistant",
