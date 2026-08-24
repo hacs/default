@@ -255,6 +255,7 @@
   "astrandb/teracom_hass",
   "astrandb/viva",
   "astrandb/weatherlink",
+  "Astute4185/home-assistant-reprapfirmware",
   "ateodorescu/home-assistant-ipmi",
   "Athozs/hass-additional-ca",
   "attilaszasz/vonage-homeassistant",
@@ -3175,6 +3176,5 @@
   "zubir2k/homeassistant-esolattakwim",
   "zulufoxtrot/ha-zyxel",
   "zupancicmarko/JellyHA",
-  "Zwer2k/ha-pca301",
-  "Astute4185/home-assistant-reprapfirmware"
+  "Zwer2k/ha-pca301"
 ]
