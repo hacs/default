@@ -25,7 +25,7 @@ jobs:
           persist-credentials: false
 
       - name: Validate with JSON schema
-        uses: cardinalby/schema-validator-action@3.1.2
+        uses: cardinalby/schema-validator-action@3.1.1
         with:
           file: 'critical'
           schema: 'tools/jsonschema/critical.schema.json'
