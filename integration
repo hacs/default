@@ -1653,6 +1653,7 @@
   "KriVaTri/ESPHome-Update-Manager",
   "KriVaTri/EVCM",
   "KriVaTri/SolarDelta",
+  "KRoperUK/dimplex-controller-hass",
   "KRoperUK/sungrow-hass",
   "krozgrov/ha-omlet-integration",
   "kryptt/ha-zitadel-bridge",
