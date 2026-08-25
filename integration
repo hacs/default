@@ -1784,6 +1784,7 @@
   "maciej-or/hikvision_next",
   "macsatcom/totalkredit-ha",
   "MacSiem/ha-network-map",
+  "MacSiem/ha-sentence-manager",
   "MacSiem/ha-vacuum-water-monitor",
   "macxq/foxess-ha",
   "MadOne/hass_gira_iot_api",
