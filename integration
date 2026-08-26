@@ -486,6 +486,7 @@
   "cazeaux/ha-iracing",
   "cbetz/ratebook-homeassistant",
   "ccsliinc/ha-smart-sprinkler-control",
+  "cddu33/ha-action_control",
   "cdnninja/yoto_ha",
   "Cebbas/smart_pump_scheduler",
   "cedricziel/ha-matter-binding-helper",
