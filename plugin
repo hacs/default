@@ -747,6 +747,7 @@
   "xBourner/header-position-card",
   "xBourner/status-card",
   "xplanes/ha-plant-diary-card",
+  "YaddyVirus/ha-device-default-dashboard",
   "Yeelight/ha_yeelight_dashboard",
   "yohaybn/lovelace-aliexpress-package-card",
   "yosef-chai/ha-checklist-card",
