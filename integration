@@ -927,6 +927,7 @@
   "Elwinmage/ha-reefbeat-component",
   "Elwinmage/ha-usr-r16-component",
   "eman/ha_nwp500",
+  "eman/homeassistant-quilt-hp",
   "emanuelbesliu/homeassistant-bft",
   "emanuelegreco29/Ksenia_Lares_4.0-HASS_Addon",
   "emes30/facebook_messenger",
