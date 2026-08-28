@@ -745,6 +745,7 @@
   "DefinitelyADev/custom-areas-integration",
   "definitio/ha-rhvoice",
   "definitio/ha-sox",
+  "defre92/caveia_ha",
   "Dekadinious/trsdm_custom_device_tracker_for_home_assistant",
   "DeKaN/ha-boneco",
   "deler-aziz/fuel_prices_sweden",
