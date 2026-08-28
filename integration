@@ -360,6 +360,7 @@
   "biclighter81/wattwallet-ha",
   "bieniu/ha-meteo-imgw-pib",
   "bieniu/ha-perplexity",
+  "bieskholodov/Huawei-HS8545M"
   "bigmoby/fglair_for_homeassistant",
   "bigmoby/home-assistant-candy",
   "bigmoby/ialarm_controller",
@@ -3221,5 +3222,4 @@
   "zulufoxtrot/ha-zyxel",
   "zupancicmarko/JellyHA",
   "Zwer2k/ha-pca301"
-  "bieskholodov/Huawei-HS8545M"
 ]
