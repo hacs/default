@@ -1725,6 +1725,7 @@
   "lewei50/ha_iammeter",
   "lewei50/ha_iammeter_link",
   "lewei50/ha_iammeter_modbus",
+  "lfavole/ha-algopattern",
   "lhw/cloudweatherproxy",
   "libdyson-wg/ha-dyson",
   "LiBe-net/ha_pv_history_forecast",
