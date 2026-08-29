@@ -574,6 +574,7 @@
   "redstone99/hass-alert2-ui",
   "ReikanYsora/Helios",
   "rejuvenate/lovelace-horizon-card",
+  "rellerton/lovelace-noaa-nhc-card",
   "renespeaker/ha-family-board-card",
   "reptilex/tesla-style-solar-power-card",
   "RF1705/fritzbox-calllist-card",
