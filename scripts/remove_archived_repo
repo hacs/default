@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+if [ -z "$1" ]; then
+    read -p 'Repository: ' repository
+else
+    repository="$1"
+fi
+
+echo $repository
+
+python3 $(dirname "$0")/remove_repo.py "$repository" "remove" "Repository is archived" "N/A" || exit 0
