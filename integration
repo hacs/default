@@ -448,6 +448,7 @@
   "buggedcom/Enion-hass",
   "bullitt186/ha-omada-open-api",
   "bvis/aegis-hass",
+  "bvis/fermax-blue-hass",
   "bvweerd/battery_controller",
   "bvweerd/dynamic_energy_contract_calculator",
   "bvweerd/simple_pid_controller",
