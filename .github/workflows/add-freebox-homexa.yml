@@ -12,27 +12,25 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: add-freebox-homexa-hacs
           fetch-depth: 0
-      - name: Insert repository alphabetically
+      - name: Create clean branch and insert one line
         run: |
+          set -euo pipefail
+          git checkout -B add-freebox-homexa-clean 765ba16f0af673fbc521fc7d9e086d1ec2b2c2b7
           python3 <<'PY'
-          import json
           from pathlib import Path
           p = Path('integration')
-          data = json.loads(p.read_text())
-          entry = 'XAV59213/freebox_homexa'
-          if entry not in data:
-              idx = data.index('xathon/Allianz-BonusDrive-HomeAssistant') + 1
-              data.insert(idx, entry)
-          p.write_text(json.dumps(data, indent=2) + '\n')
-          print('count', len(data), 'index', data.index(entry))
+          text = p.read_text()
+          needle = '  "xathon/Allianz-BonusDrive-HomeAssistant",\n  "Xerolux/idm-heatpump-hass",'
+          insert = '  "xathon/Allianz-BonusDrive-HomeAssistant",\n  "XAV59213/freebox_homexa",\n  "Xerolux/idm-heatpump-hass",'
+          if 'XAV59213/freebox_homexa' not in text:
+              if needle not in text:
+                  raise SystemExit('anchor not found')
+              p.write_text(text.replace(needle, insert, 1))
+          print('ok')
           PY
-      - name: Commit and push
-        run: |
           git config user.name "XAV59213"
           git config user.email "153436936+XAV59213@users.noreply.github.com"
           git add integration
-          if git diff --cached --quiet; then echo 'no change'; exit 0; fi
           git commit -m "Adds new integration [XAV59213/freebox_homexa]"
-          git push origin add-freebox-homexa-hacs
+          git push -u origin add-freebox-homexa-clean
