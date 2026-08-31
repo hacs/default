@@ -1,0 +1,38 @@
+name: Add freebox_homexa
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  insert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: add-freebox-homexa-hacs
+          fetch-depth: 0
+      - name: Insert repository alphabetically
+        run: |
+          python3 <<'PY'
+          import json
+          from pathlib import Path
+          p = Path('integration')
+          data = json.loads(p.read_text())
+          entry = 'XAV59213/freebox_homexa'
+          if entry not in data:
+              idx = data.index('xathon/Allianz-BonusDrive-HomeAssistant') + 1
+              data.insert(idx, entry)
+          p.write_text(json.dumps(data, indent=2) + '\n')
+          print('count', len(data), 'index', data.index(entry))
+          PY
+      - name: Commit and push
+        run: |
+          git config user.name "XAV59213"
+          git config user.email "153436936+XAV59213@users.noreply.github.com"
+          git add integration
+          if git diff --cached --quiet; then echo 'no change'; exit 0; fi
+          git commit -m "Adds new integration [XAV59213/freebox_homexa]"
+          git push origin add-freebox-homexa-hacs
