@@ -11,51 +11,61 @@ permissions: {}
 
 concurrency:
   group: lint-${{ github.ref }}
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
-  insert_freesmsxa:
-    name: Insert freesmsxa
-    if: github.event_name == 'push' && contains(github.event.head_commit.message, 'INSERT_FREESMSXA')
+  jq:
+    name: JQ
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7.0.1
         with:
-          fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Insert XAV59213/freesmsxa on clean upstream branch
-        run: |
-          set -euo pipefail
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git remote add upstream https://github.com/hacs/default.git || true
-          git fetch upstream master
-          git checkout -B add-xav59213-freesmsxa upstream/master
-          python3 - <<'PY'
-          from pathlib import Path
-          path = Path("integration")
-          lines = path.read_text().splitlines(keepends=True)
-          entry = '  "XAV59213/freesmsxa",
-'
-          if any('XAV59213/freesmsxa' in line for line in lines):
-              print("already present")
-          else:
-              inserted = False
-              out = []
-              for line in lines:
-                  if (not inserted) and '"Xerolux/idm-heatpump-hass"' in line:
-                      out.append(entry)
-                      inserted = True
-                  out.append(line)
-              if not inserted:
-                  raise SystemExit('insertion point not found')
-              path.write_text(''.join(out))
-              print('inserted')
-          PY
-          git add integration
-          git diff --cached --stat
-          git commit -m "Adds new integration [XAV59213/freesmsxa]"
-          git push --force origin add-xav59213-freesmsxa
+          persist-credentials: false
+
+      - name: Validate
+        run: jq --raw-output . appdaemon blacklist critical integration netdaemon plugin python_script removed template theme
+
+  jsonschema:
+    name: JSON schema
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Critical
+        uses: cardinalby/schema-validator-action@3.1.1
+        with:
+          file: "critical"
+          schema: "tools/jsonschema/critical.schema.json"
+
+      - name: Repositories
+        uses: cardinalby/schema-validator-action@3.1.1
+        with:
+          file: "appdaemon|blacklist|integration|netdaemon|plugin|python_script|template|theme"
+          schema: "tools/jsonschema/repositories.schema.json"
+
+      - name: Removed
+        uses: cardinalby/schema-validator-action@3.1.1
+        with:
+          file: "removed"
+          schema: "tools/jsonschema/removed.schema.json"
+
+  sorted:
+    name: Sorted
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v7.0.0
+        with:
+          python-version-file: ".python-version"
+
+      - name: Check lists
+        run: python3 scripts/is_sorted.py
