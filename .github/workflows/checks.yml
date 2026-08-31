@@ -1,7 +1,6 @@
 name: Check
 
 on:
-  workflow_dispatch:
   pull_request:
     types:
       - opened
@@ -14,49 +13,243 @@ on:
 
 concurrency:
   group: checks-${{ github.ref }}
-  cancel-in-progress: false
+  cancel-in-progress: true
 
-permissions:
-  contents: write
+permissions: {}
 
 jobs:
-  insert_freesmsxa:
-    if: github.event_name == 'workflow_dispatch'
+  preflight:
     runs-on: ubuntu-latest
+    name: Preflight
+    outputs:
+      repository: ${{ steps.repository.outputs.repository }}
+      category: ${{ steps.category.outputs.category }}
+      run_type: ${{ steps.run_type.outputs.run_type }}
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Insert XAV59213/freesmsxa on clean upstream branch
+      - name: Determine run type
+        id: run_type
+        env:
+          HAS_REMOVAL: ${{ contains(github.event.pull_request.labels.*.name, 'remove-repositories') }}
+          HAS_NEW_REPO: ${{ contains(github.event.pull_request.labels.*.name, 'New default repository') }}
+          HAS_RENAMED: ${{ contains(github.event.pull_request.labels.*.name, 'renamed-repositories') }}
         run: |
-          set -euo pipefail
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git remote add upstream https://github.com/hacs/default.git || true
-          git fetch upstream master
-          git checkout -B add-xav59213-freesmsxa upstream/master
-          python3 - <<'PY'
-          from pathlib import Path
-          path = Path("integration")
-          lines = path.read_text().splitlines(keepends=True)
-          entry = '  "XAV59213/freesmsxa",
-'
-          if any('XAV59213/freesmsxa' in line for line in lines):
-              print("already present")
-          else:
-              inserted = False
-              out = []
-              for line in lines:
-                  if (not inserted) and '"Xerolux/idm-heatpump-hass"' in line:
-                      out.append(entry)
-                      inserted = True
-                  out.append(line)
-              if not inserted:
-                  raise SystemExit('insertion point not found')
-              path.write_text(''.join(out))
-              print('inserted')
-          PY
-          git add integration
-          git commit -m "Adds new integration [XAV59213/freesmsxa]"
-          git push --force origin add-xav59213-freesmsxa
+          if [ "$HAS_NEW_REPO" == "true" ]; then
+            echo "run_type=new-repository" >> $GITHUB_OUTPUT
+          elif [ "$HAS_RENAMED" == "true" ]; then
+            echo "run_type=rename" >> $GITHUB_OUTPUT
+          elif [ "$HAS_REMOVAL" == "true" ]; then
+            echo "run_type=removal" >> $GITHUB_OUTPUT
+          else
+            echo "run_type=unknown" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Check out repository
+        if: steps.run_type.outputs.run_type == 'new-repository'
+        uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Set up Python
+        if: steps.run_type.outputs.run_type == 'new-repository'
+        uses: actions/setup-python@v7.0.0
+        with:
+          python-version-file: ".python-version"
+
+      - name: Clone origin
+        if: steps.run_type.outputs.run_type == 'new-repository'
+        run: git clone --depth 1 https://github.com/hacs/default /tmp/repositories/default
+
+      - name: Set repository
+        id: repository
+        if: steps.run_type.outputs.run_type == 'new-repository'
+        run: echo "repository=$(python3 -m scripts.changed.repo)" >> $GITHUB_OUTPUT
+
+      - name: Set category
+        id: category
+        if: steps.run_type.outputs.run_type == 'new-repository'
+        run: echo "category=$(python3 -m scripts.changed.category)" >> $GITHUB_OUTPUT
+
+  owner:
+    runs-on: ubuntu-latest
+    name: Owner
+    needs: preflight
+    if: needs.preflight.outputs.run_type == 'new-repository'
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v7.0.0
+        with:
+          python-version-file: ".python-version"
+          cache: "pip"
+          cache-dependency-path: "requirements.txt"
+
+      - name: Install dependencies if needed
+        run: scripts/setup
+
+      - name: Run the check
+        run: python3 -m scripts.check.owner
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: ${{needs.preflight.outputs.repository}}
+
+  editable:
+    runs-on: ubuntu-latest
+    name: Editable PR
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v7.0.0
+        with:
+          python-version-file: ".python-version"
+          cache: "pip"
+          cache-dependency-path: "requirements.txt"
+
+
+      - name: Install dependencies if needed
+        run: scripts/setup
+
+      - name: Run the check
+        run: python3 -m scripts.check.edits
+
+  releases:
+    runs-on: ubuntu-latest
+    name: Releases
+    needs: preflight
+    if: needs.preflight.outputs.run_type == 'new-repository'
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v7.0.0
+        with:
+          python-version-file: ".python-version"
+          cache: "pip"
+          cache-dependency-path: "requirements.txt"
+
+      - name: Install dependencies if needed
+        run: scripts/setup
+
+      - name: Run the check
+        run: python3 -m scripts.check.releases
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: ${{needs.preflight.outputs.repository}}
+
+  removed:
+    runs-on: ubuntu-latest
+    name: Removed repository
+    needs: preflight
+    if: needs.preflight.outputs.run_type == 'new-repository'
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v7.0.0
+        with:
+          python-version-file: ".python-version"
+          cache: "pip"
+          cache-dependency-path: "requirements.txt"
+
+      - name: Install dependencies if needed
+        run: scripts/setup
+
+      - name: Run the check
+        run: python3 -m scripts.check.removed
+        env:
+          REPOSITORY: ${{needs.preflight.outputs.repository}}
+
+  existing:
+    runs-on: ubuntu-latest
+    name: Existing repository
+    needs: preflight
+    if: needs.preflight.outputs.run_type == 'new-repository'
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v7.0.0
+        with:
+          python-version-file: ".python-version"
+          cache: "pip"
+          cache-dependency-path: "requirements.txt"
+
+      - name: Install dependencies if needed
+        run: scripts/setup
+
+      - name: Run the check
+        run: python3 -m scripts.check.existing
+        env:
+          REPOSITORY: ${{needs.preflight.outputs.repository}}
+
+  hassfest:
+    runs-on: ubuntu-latest
+    name: Hassfest
+    needs: preflight
+    if: needs.preflight.outputs.category == 'integration' && needs.preflight.outputs.run_type == 'new-repository'
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Clone new addition
+        run: |
+          git clone --depth 1 "https://github.com/${{needs.preflight.outputs.repository}}" /tmp/repositories/addition
+
+      - name: Run hassfest
+        run: |
+          integration=$(python3 -m scripts.helpers.integration_path)
+          domain=$(python3 -m scripts.helpers.domain)
+          docker run --rm \
+            -v "$integration":"/github/workspace/custom_components/$domain" \
+            ghcr.io/home-assistant/hassfest:latest
+
+  hacs:
+    runs-on: ubuntu-latest
+    name: HACS action
+    needs: preflight
+    if: needs.preflight.outputs.run_type == 'new-repository'
+    steps:
+      - name: HACS action
+        uses: hacs/action@main
+        with:
+          repository: ${{needs.preflight.outputs.repository}}
+          category: ${{needs.preflight.outputs.category}}
+
+  completed:
+    runs-on: ubuntu-slim
+    name: Action checks completed
+    needs:
+      - preflight
+      - owner
+      - editable
+      - releases
+      - removed
+      - existing
+      - hassfest
+      - hacs
+    if: always()
+    steps:
+      - name: Fail if any dependency failed or was cancelled
+        run: |
+          if ${{ contains(needs.*.result, 'failure') || contains(needs.*.result, 'cancelled') }}; then
+            exit 1
+          fi
+          exit 0
