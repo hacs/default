@@ -436,6 +436,7 @@
   "brianegge/ha-upgrade-advisor",
   "brianegge/home-assistant-sdnotify",
   "brianegge/homeassistant-magewell",
+  "brianegge/homeassistant-netgear-poe",
   "brianegge/homeassistant-obs-studio",
   "briis/pollen_dk",
   "briis/weatherflow_forecast",
