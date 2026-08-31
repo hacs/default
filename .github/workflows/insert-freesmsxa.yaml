@@ -10,13 +10,12 @@ jobs:
   insert:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout master
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Reset target branch to upstream and insert repo
+      - name: Insert XAV59213/freesmsxa alphabetically
+        shell: bash
         run: |
           set -euo pipefail
           git config user.name github-actions[bot]
@@ -24,10 +23,12 @@ jobs:
           git remote add upstream https://github.com/hacs/default.git || true
           git fetch upstream master
           git checkout -B add-xav59213-freesmsxa upstream/master
-          python3 -c 'from pathlib import Path; p=Path("integration"); t=p.read_text(); n="XAV59213/freesmsxa"; e="  \"%s\",\n" % n; a="  \"Xerolux/idm-heatpump-hass\"";
-assert n not in t; assert a in t; p.write_text(t.replace(a, e+a, 1)); print("inserted")'
+          if grep -F XAV59213/freesmsxa integration; then
+            echo already-present
+          else
+            sed -i '/Xerolux\/idm-heatpump-hass/i \  "XAV59213/freesmsxa",' integration
+          fi
+          grep -n -C1 XAV59213/freesmsxa integration
           git add integration
-          git status --short
-          git diff --cached -- integration | head -n 20
           git commit -m "Adds new integration [XAV59213/freesmsxa]"
           git push --force origin add-xav59213-freesmsxa
