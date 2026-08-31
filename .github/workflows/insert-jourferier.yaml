@@ -1,0 +1,34 @@
+name: Insert jourferier
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  insert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Reset target branch to upstream and insert repo
+        run: |
+          set -euo pipefail
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git remote add upstream https://github.com/hacs/default.git || true
+          git fetch upstream master
+          git checkout -B add-xav59213-jourferier upstream/master
+          grep -F 'XAV59213/jourferier' integration && echo already present && exit 0 || true
+          grep -F 'Xerolux/idm-heatpump-hass' integration
+          python3 -c "from pathlib import Path;p=Path('integration');t=p.read_text();a='  \"Xerolux/idm-heatpump-hass\"';e='  \"XAV59213/jourferier\",\n';assert a in t;p.write_text(t.replace(a,e+a,1));print('inserted')"
+          git add integration
+          git status --short
+          git diff --cached -- integration | head -n 20
+          git commit -m "Adds new integration [XAV59213/jourferier]"
+          git push --force origin add-xav59213-jourferier
