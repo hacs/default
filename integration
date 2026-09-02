@@ -219,6 +219,7 @@
   "ankohanse/hass-studer-xcom",
   "Anonym-tsk/homeassistant-climate-xiaomi-remote",
   "Anonymous-AAA/ha-qubo",
+  "Anonymouse0104/ha-magenta",
   "Anrolosia/docker_lens",
   "Anrolosia/ha-webauthn-mfa",
   "anrolosia/shopping-list-with-grocy",
@@ -3258,6 +3259,6 @@
   "zubir2k/homeassistant-esolatgps",
   "zubir2k/homeassistant-esolattakwim",
   "zulufoxtrot/ha-zyxel",
-  "zupancicmarko/JellyHA",
-  "Zwer2k/ha-pca301"
+  "zupancicmarko/JellyHA", 
+  "Zwer2k/ha-pca301" 
 ]
