@@ -2972,6 +2972,7 @@
   "tikismoke/home-assistant-plcbus",
   "TilmanGriesel/ha_trmnl_weather_station",
   "Timandes/fnos-home-assistant",
+  "timlaing/ha_tuya_ble",
   "timlaing/modbus_local_gateway",
   "timmaurice/bergfex",
   "timmaurice/sea-temperatures",
