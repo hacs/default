@@ -1352,6 +1352,7 @@
   "italo-lombardi/Home-Assistant-EntityAvailability",
   "italo-lombardi/Home-Assistant-EntityDistance",
   "italo-lombardi/Home-Assistant-EntityGuard",
+  "italo-lombardi/Home-Assistant-EntityStateTracker",
   "italo-lombardi/Home-Assistant-FuelCompare",
   "italo-lombardi/Home-Assistant-WashWise",
   "itchannel/apex-ha",
