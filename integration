@@ -870,6 +870,7 @@
   "droomurray/hass-intesishome-local",
   "droso-hass/idfm",
   "dscao/ikuai",
+  "DSorlov/badtemperatur",
   "DSorlov/http_agent",
   "DSorlov/snmp_printer",
   "DSorlov/swemail",
