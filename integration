@@ -1645,6 +1645,7 @@
   "klokku/klokku-home-assistant-integration",
   "kmich/ha_ws_core",
   "kneave/climate-scheduler",
+  "Knetus56/solax_local_x1_micro",
   "Knifa/led-matrix-zmq-hass",
   "knirzinger/hargassner-ha",
   "knudsvik/energyscore",
