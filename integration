@@ -1436,7 +1436,7 @@
   "JeffSteinbok/hass-dreo",
   "jekalmin/extended_openai_conversation",
   "jellespijker/home-assistant-ultimaker",
-  "Jellyfin-PG/JellyEmu-HomeAssistant-Plugin"
+  "Jellyfin-PG/JellyEmu-HomeAssistant-Plugin",
   "jelmer/homeassistant-intervalsicu",
   "jelmer/homeassistant-switch2",
   "jelmer/homeassistant-thameswater",
