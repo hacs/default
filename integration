@@ -1975,6 +1975,7 @@
   "memphi2/ha-bticino-c300x",
   "memphi2/ha-dhe-connect",
   "memphi2/ha-unifi-drive",
+  "merlijntishauser/ha-usage-score",
   "merlijntishauser/unifi-network-maps-ha",
   "metbril/home-assistant-brandstofprijzen",
   "mguyard/hass-diagral",
