@@ -936,6 +936,7 @@
   "elninotech/inkview-home-assistant",
   "elsbrock/cowboy-ha",
   "Elwinmage/ha-aquamedic-component",
+  "Elwinmage/ha-reef-maintenance-component",
   "Elwinmage/ha-reefbeat-component",
   "Elwinmage/ha-usr-r16-component",
   "eman/ha_nwp500",
