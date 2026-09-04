@@ -1330,6 +1330,7 @@
   "iluvdata/pdf_scrape",
   "imhotep/hass-unifi-access",
   "iMicknl/ha-nest-protect",
+  "iMike78/udm_pwm",
   "iml885203/trash_tracking",
   "imonlinux/configurable-llm",
   "Imou-OpenPlatform/Imou-Home-Assistant",
@@ -3260,6 +3261,5 @@
   "zubir2k/homeassistant-esolattakwim",
   "zulufoxtrot/ha-zyxel",
   "zupancicmarko/JellyHA",
-  "Zwer2k/ha-pca301",
-  "iMike78/udm_pwm"
+  "Zwer2k/ha-pca301"
 ]
