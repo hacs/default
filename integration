@@ -1,4 +1,5 @@
 [
+  
   "007hacky007/car_maintenance",
   "0jety0/emaux_spv150",
   "0xAHA/airtouch4_advanced",
@@ -3204,6 +3205,7 @@
   "xraver/mercedes_me_api",
   "xtimmy86x/ha-s7plc",
   "Xunil99/ha-bosch-ebike",
+  "Xygen/EcoFlow-PowerPulse-2-for-Home-Assistant",
   "yandex/pogoda-home-assistant",
   "yangqian/hass-hk_air_quality",
   "yashijoe/ha-cameconnect",
