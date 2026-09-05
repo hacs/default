@@ -346,6 +346,7 @@
   "bennydiamond/vertiv_powerassist",
   "BenPru/luxtronik",
   "BenPru/novus300_Rs485",
+  "bensonrodney/ha-warning-aggregator",
   "bensonrodney/homeassistant-discord",
   "benvanmierloo/ha-vitotrol",
   "benwittbrodt/Metra-Tracker",
