@@ -2058,6 +2058,7 @@
   "moryoav/ha-addons",
   "moryoav/ha-anylist",
   "moryoav/ha-gwm-ev",
+  "moryoav/ha-gwm_ora",
   "moryoav/ha-knob-navigation",
   "moryoav/ha-panda",
   "moryoav/home-assistant-codex",
