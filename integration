@@ -496,6 +496,7 @@
   "cazeaux/ha-iracing",
   "cbetz/ratebook-homeassistant",
   "ccsliinc/ha-smart-sprinkler-control",
+  "cdmicacc/delta-voiceiq-2.0-ha",
   "cdnninja/yoto_ha",
   "Cebbas/smart_pump_scheduler",
   "cedricziel/ha-matter-binding-helper",
