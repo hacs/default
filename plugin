@@ -260,6 +260,7 @@
   "hasl-sensor/lovelace-hasl-traffic-status-card",
   "hatools93/climate-timer",
   "hepter/ha-tplink-router-card",
+  "hoizi89/power-origin-card",
   "homeassistant-extras/adguard-card",
   "homeassistant-extras/device-card",
   "homeassistant-extras/ohm-assistant",
