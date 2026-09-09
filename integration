@@ -1322,6 +1322,7 @@
   "flashg1/SolarCharger",
   "flatsheep/scheduling-manager",
   "flcdrg/flipped_energy_ha",
+  "flcdrg/sapowernetworks-meterdata-ha",
   "flexopus/flexopus-hass-sensor",
   "flimo44/ha-voice-label-sync",
   "Flo-Schilli/ha-grohe_smarthome",
