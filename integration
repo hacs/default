@@ -497,6 +497,7 @@
   "cbetz/ratebook-homeassistant",
   "ccsliinc/ha-smart-sprinkler-control",
   "cdnninja/yoto_ha",
+  "Cebbas/cal_combiner",
   "Cebbas/smart_pump_scheduler",
   "cedricziel/ha-matter-binding-helper",
   "cedricziel/ha-sunlit",
