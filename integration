@@ -2756,6 +2756,7 @@
   "smarthomeblack/npc",
   "smarthomeblack/zalo_bot",
   "smarthomeshop/home-assistant-integration",
+  "SmartLedMessenger/ha-smart-led-messenger",
   "smartpricing/homeassistant-smartpms",
   "SmartServicePL/worx_vision_cloud_plus_github",
   "SmartyVan/hass-geolocator",
