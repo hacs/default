@@ -1039,6 +1039,7 @@
   "flame4ever/homeassistant-controme-integration",
   "flashg1/SolarCharger",
   "flcdrg/flipped_energy_ha",
+  "flcdrg/sapowernetworks-meterdata-ha",
   "flexopus/flexopus-hass-sensor",
   "Flo-Schilli/ha-grohe_smarthome",
   "florianbaethge/simple_irrigation",
