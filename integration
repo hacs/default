@@ -3243,7 +3243,6 @@
   "zbigniewmotyka/home-assistant-solplanet",
   "zeddicus76/library",
   "Zendure/Zendure-HA",
-  "Zver5/ZverTBot-ha",
   "zenguru84/ha-openaq",
   "zeronounours/HA-custom-component-energy-meter",
   "zhbjsh/homeassistant-ssh",
@@ -3261,5 +3260,6 @@
   "zubir2k/homeassistant-esolattakwim",
   "zulufoxtrot/ha-zyxel",
   "zupancicmarko/JellyHA",
+  "Zver5/ZverTBot-ha",
   "Zwer2k/ha-pca301"
 ]
