@@ -1223,6 +1223,7 @@
   "hass-cortex/assist-monitor",
   "hass-cortex/azure-speech-stt",
   "hass-cortex/cortex-stt",
+  "hass-cortex/cortex-tts",
   "hass-cortex/stt-corrector",
   "hass-cortex/xiaomi-mimo-tts",
   "hass-energy/amber-express",
