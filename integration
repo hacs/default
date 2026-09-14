@@ -239,6 +239,7 @@
   "ardevd/ha-bobcatminer",
   "ardevd/ha-dimo",
   "arevindh/ha-tinxy-cloud",
+  "arevindh/tinxylocal",
   "arifwn/homeassistant-whatspie-integration",
   "ArikShemesh/ha-simple-timer",
   "aritmeester/tennet_balance",
