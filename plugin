@@ -465,6 +465,7 @@
   "microteq/extended-gauge",
   "Mihonarium/hass-spatial-lights-card",
   "MindFreeze/ha-sankey-chart",
+  "miplatas/energy-heatmap-card",
   "mishasyrbu/sunset-predictor-card",
   "mistic100/hass-automation-glance",
   "mkshb/hass-evcc-card",
