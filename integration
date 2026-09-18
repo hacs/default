@@ -1,4 +1,4 @@
-    "szymkiewiczmathieu/ha_enocean_custom",
+[
   "007hacky007/car_maintenance",
   "0jety0/emaux_spv150",
   "0xAHA/airtouch4_advanced",
@@ -457,6 +457,7 @@
   "bwcon/homeassistant-crestron-home",
   "bxthomas/tesira_ttp",
   "bywciu/Home-Assistant-Custom-Components-ReversoTTS",
+  "bzsasson/livetrafficcam-homeassistant",
   "C-Damo/uniview-nvr-events",
   "c-st/auto_areas",
   "c0un7-z3r0/hass-phoniebox",
@@ -690,7 +691,7 @@
   "damanic/ha-integration-mempool",
   "Dams51/Pleinchamp",
   "dan-r/HomeAssistant-NissanConnect",
-  "dancmorgan/fortigate-policy-automation-ha",  
+  "dancmorgan/fortigate-policy-automation-ha",
   "daniel-medin/home-assistant-shoppingtajm",
   "danielcherubini/elegoo-homeassistant",
   "danieldiazi/homeassistant-meteogalicia",
@@ -1983,7 +1984,7 @@
   "mholzi/quizify",
   "michael-adler/ha-ocpp-relay",
   "Michael-Civitillo/trimlight-edge-ha",
-  "Michael-O-Power/ha_astrobox",  
+  "Michael-O-Power/ha_astrobox",
   "Michael-O-Power/ha_emerald_electricity_advisor",
   "michaeldwan/ha-cloudflare-ai-gateway",
   "michaellunzer/Home-Assistant-Custom-Component-Fortnite",
@@ -2253,6 +2254,7 @@
   "oMtQB4/HomeAssistant-Pracht-Alpha-Wallbox-Custom-Component",
   "onpremcloudguy/HelloSmart_HomeAssistant",
   "oooohhoo/tokit_cooker",
+  "oooshk/ha-conversation-router",
   "OpenDisplay/Home_Assistant_Integration",
   "OpenEPaperLink/Home_Assistant_Integration",
   "OpenGrow-Box/OpenGrowBox-HA",
@@ -2280,7 +2282,7 @@
   "pajew-ski/ha-speedport",
   "PalmManiac/battery-smartflow-ai",
   "PanSzelescik/home-assistant-enea",
-  "pant3ras/ha-apavital", 
+  "pant3ras/ha-apavital",
   "pant3ras/ha-digi-ro",
   "pant3ras/ha-orange-ro",
   "parautenbach/hass-shairport-sync",
@@ -2440,7 +2442,7 @@
   "QuickMadeSimulation/QmdevHA",
   "qwqqq6/tclplus-ac",
   "r-renato/ha-climacell-weather",
-  "rabits/ha-ef-ble",  
+  "rabits/ha-ef-ble",
   "Racailloux/mylight150_ha",
   "radical-squared/aquatemp",
   "raelix/HA-Radoff-integration",
@@ -2885,6 +2887,7 @@
   "syssi/xiaomi_fan",
   "syssi/xiaomi_raw",
   "syssi/xiaomiplug",
+  "szymkiewiczmathieu/ha_enocean_custom",
   "T-leco/investing_portfolio",
   "t0mer/manish-custom-notifier",
   "t0mer/matterbridge-custom-notifier",
@@ -3259,7 +3262,4 @@
   "zulufoxtrot/ha-zyxel",
   "zupancicmarko/JellyHA",
   "Zwer2k/ha-pca301"
-"oooshk/ha-conversation-router",
-[
 ]
-bzsasson/livetrafficcam-homeassistant
