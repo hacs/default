@@ -1768,6 +1768,7 @@
   "lizardsystems/hass-tnse",
   "ljbotero/hvac-vent-optimizer",
   "ljmerza/ac-infinity-airtap-ble",
+  "ljmerza/irrigation_manager",
   "ljmerza/orbit-bhyve-ble",
   "ljmerza/tracking-numbers",
   "ljmerza/utilities_email_tracker",
