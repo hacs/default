@@ -1090,6 +1090,7 @@
   "gadgetchnnel/entities_calendar",
   "GaillardTom/SherbrookePoubelle-HA",
   "GamingonTour1/ha-groupalarm-api",
+  "GamingonTour1/ha-smartmeal-planner",
   "ganhammar/hass-mcp-server",
   "ganhammar/hass-oidc-server",
   "garbled1/homeassistant_ecowitt",
