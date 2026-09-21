@@ -1218,6 +1218,7 @@
   "happydev-ca/spypoint-home-assistant",
   "hardbyte/ha-evnex",
   "HarvsG/ha-glinet4-integration",
+  "harzt/virtual_ev_charging_station",
   "hasgp/hasgp",
   "hasl-sensor/integration",
   "hass-cortex/assist-monitor",
