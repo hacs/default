@@ -335,6 +335,7 @@
   "jtbgroup/kodi-search-card",
   "jtubb/generator-hmi-card",
   "jtubb/Pylontech-Battery-Card",
+  "Ju0506us/ha-battery-status-monitor-card",
   "junalmeida/homeassistant-minimalistic-area-card",
   "junkfix/config-editor-card",
   "junkfix/numberbox-card",
