@@ -930,6 +930,7 @@
   "ElectroceanTech/HomeAssistant",
   "ElektroBeckhoff/ha-twincat-iot-communicator",
   "eliaslecomte/ecopower-dynamic-prices",
+  "eliasweingaertner/epever-ble",
   "Elijaht-dev/mistralai-conversation",
   "Elijaht-dev/ovh_ipv6",
   "elik745i/MQTT-Remote-Buttons-Remap",
