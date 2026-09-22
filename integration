@@ -425,6 +425,7 @@
   "bramstroker/homeassistant-powercalc",
   "bramstroker/homeassistant-state-webhook",
   "braytonstafford/grok_conversation",
+  "Brazen00/victron-evse-homeassistant",
   "Breina/idrac_power_monitor",
   "Breina/nad_controller",
   "Breina/PowerTagGateway",
