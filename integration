@@ -1851,6 +1851,7 @@
   "mallewski/ha-multical_21",
   "Mallonbacka/custom-component-cloudwatch",
   "Mallonbacka/custom-component-digitransit",
+  "mallorybowes/ha-coleman-mach-ble",
   "mamo-nick/chmi_hydrology",
   "mampfes/ha_bayernluefter",
   "mampfes/ha_epex_spot",
