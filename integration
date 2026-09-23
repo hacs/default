@@ -1777,6 +1777,7 @@
   "lnagel/hass-komfovent",
   "lnagel/hass-navirec",
   "lnagel/hass-ufh-controller",
+  "LNNRT-STN/ha-pro-weather",
   "lociii/homeassistant-csgo",
   "lociii/homeassistant-overwolf-status",
   "LocknAlert-Pty-LTD/locknalert_mqtt",
