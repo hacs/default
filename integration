@@ -1076,6 +1076,7 @@
   "FUjr/homeassistant-openwrt-ubus",
   "functionpointer/home-assistant-chargecloud-integration",
   "funkadelic/ha-acwd",
+  "funkadelic/ha-gutcheck",
   "funkadelic/ha-rainpoint",
   "fustom/ariston-remotethermo-home-assistant-v3",
   "futuretense/keymaster",
