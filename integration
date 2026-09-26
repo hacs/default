@@ -2126,7 +2126,7 @@
   "myTselection/MyEnergy",
   "myTselection/pixometer",
   "myTselection/smartschool_ha",
-  "myTselection/telenet_telemeter",
+  "myTselectionPublic/telenet_telemeter",
   "n-IA-hane/esphome-intercom",
   "N0ciple/hass-kef-connector",
   "N4S4/homeassistant-synology-pro",
