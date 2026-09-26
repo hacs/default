@@ -2328,6 +2328,7 @@
   "petergridge/irrigation-V5",
   "petergridge/openweathermaphistory",
   "peterklijn/casambi-mqtt",
+  "PeterLinuxOSS/ha-cover-logic",
   "PeterLinuxOSS/iSauna",
   "peternijssen/ha-postcodeloterij",
   "peterturza/home-assistant-jablotron-futura",
