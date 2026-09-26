@@ -1729,6 +1729,7 @@
   "legrego/homeassistant-combustion",
   "legrego/homeassistant-elasticsearch",
   "leikoilja/ha-google-home",
+  "LeighCurran/AuroraPlusHA",
   "Lektrico/ha_lektrico",
   "Lemcke-solutions/Salt-sentry-ha-integration",
   "leonardlcl/general_link",
