@@ -62,6 +62,7 @@
   "aesoftsolutions/Home-Assistant-custom-components-GTT",
   "aex351/home-assistant-neerslag-app",
   "agittins/bermuda",
+  "aharjajarvi/ha-eb300-ble",
   "airalab/altruist-homeassistant-integration",
   "airalab/homeassistant-robonomics-integration",
   "ajachierno/Aromadd",
