@@ -1159,6 +1159,7 @@
   "GrandstreamEngineering/grandstream_home",
   "Grandys/otel-exporter",
   "graysky2/ha-raspi-sump",
+  "GregersK/homeassistant-techpoint",
   "greghesp/ha-bambulab",
   "greghesp/ha-evonic",
   "gregoryduckworth/GoogleGeocode-HASS",
