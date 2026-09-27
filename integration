@@ -796,6 +796,7 @@
   "dibi73/ha-bookstack-sync",
   "diego7marques/ha-aws-cost",
   "dietrichmax/colota-home-assistant",
+  "DigiMeld/pushmeld-home-assistant",
   "DigitalBites/LabelMateScene",
   "DigitallyRefined/ha-cloudflare-speed-test",
   "DigitallyRefined/ha-hwmon_temp",
