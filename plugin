@@ -648,6 +648,7 @@
   "Springvar/home-assistant-flightradar24-card",
   "Springvar/home-assistant-nordpool-chargeulator-card",
   "Springvar/home-assistant-whereabouts-card",
+  "stacknoise/detailed-energy-card",
   "starwarsfan/qclock-card",
   "stefanschaedeli/media-gallery-list-card",
   "stefmde/HomeAssistant-TwitchFollowedLiveStreamsCard",
