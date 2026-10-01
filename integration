@@ -800,6 +800,7 @@
   "DigitallyRefined/ha-cloudflare-speed-test",
   "DigitallyRefined/ha-hwmon_temp",
   "dim4k/ha-naolib",
+  "dimac-h/Home-Assistant-Notes",
   "dimagoltsman/ha-proof-dashcam-integration",
   "dimgen/homeassistant-vmc-ubbink",
   "dingo35/ha-SmartEVSEv3",
