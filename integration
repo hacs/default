@@ -1857,6 +1857,7 @@
   "mampfes/ha_freeair_connect",
   "mampfes/hacs_dwd_pollenflug",
   "mampfes/hacs_waste_collection_schedule",
+  "ManClone/ledatroniclt3",
   "mandarons/ha-bouncie",
   "mandinger/fork-ha-octopus-spain",
   "mandinger/lowi-spain",
