@@ -1228,6 +1228,7 @@
   "hass-energy/amber-express",
   "hass-energy/haeo",
   "hass-uconnect/hass-uconnect",
+  "hassanxs/smartsolar-ha",
   "hasscc/hass-edge-tts",
   "HASwitchPlate/openHASP-custom-component",
   "hcoohb/hass-yeelightbt",
