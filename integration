@@ -774,6 +774,7 @@
   "denpamusic/homeassistant-plum-ecomax",
   "denysdovhan/ha-check-weather",
   "denysdovhan/ha-lun-misto-air",
+  "denysdovhan/ha-ukr-hmc",
   "denysdovhan/ha-yasno-outages",
   "derliebemarcus/homeassistant_teltonika_rms",
   "dermotduffy/hass-web-proxy-integration",
