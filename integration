@@ -1,4 +1,4 @@
-[
+﻿[
   "007hacky007/car_maintenance",
   "0jety0/emaux_spv150",
   "0xAHA/airtouch4_advanced",
@@ -1232,6 +1232,7 @@
   "HASwitchPlate/openHASP-custom-component",
   "hcoohb/hass-yeelightbt",
   "HCookie/Webhook-Service-home-assistant",
+  "heatvent/ha-amp-zone-player",
   "hebrru/baillclim",
   "hebrru/Hager-local",
   "hectorespert/som-energia-hass",
