@@ -2256,6 +2256,7 @@
 "oooshk/ha-conversation-router",
   "OpenDisplay/Home_Assistant_Integration",
   "OpenEPaperLink/Home_Assistant_Integration",
+  "openfirenet/open-firenet-ha",
   "OpenGrow-Box/OpenGrowBox-HA",
   "orandasoft/universal-remote",
   "orevron/ha-interqr",
