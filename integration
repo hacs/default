@@ -456,6 +456,7 @@
   "bvweerd/simple_pid_controller",
   "bwcon/homeassistant-crestron-home",
   "bxthomas/tesira_ttp",
+  "bygadd/network-tracker-zones",
   "bywciu/Home-Assistant-Custom-Components-ReversoTTS",
   "C-Damo/uniview-nvr-events",
   "c-st/auto_areas",
