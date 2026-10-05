@@ -2952,6 +2952,7 @@
   "thizanchettin/home-assistant-epson-snmp",
   "thokaro/solarwatt-manager-homeassistant",
   "thomas-svrts/blossom_be",
+  "thomasgregg/homecall",
   "thomasgregg/intex-ha",
   "thomasgregg/oralb-ha",
   "thomasgriebner/retention_cleaner",
