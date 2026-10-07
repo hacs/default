@@ -1831,6 +1831,7 @@
   "MacSiem/ha-sentence-manager",
   "MacSiem/ha-tools-email-integration",
   "MacSiem/ha-vacuum-water-monitor",
+  "MacSiem/ha-yaml-checker",
   "macxq/foxess-ha",
   "MadOne/hass_gira_iot_api",
   "madpilot/hass-amber-electric",
