@@ -540,6 +540,7 @@
   "CJNE/ha-sunspec",
   "ckadluba/ha-polleninformation-at",
   "ckarrie/ha-netgear-plus",
+  "cklit/ha-beo4-infrared",
   "ckrl/ha-gitops",
   "Clap404/ha-danfoss-eco",
   "claudegel/sinope-1",
