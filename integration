@@ -2076,6 +2076,7 @@
   "mrhedstrom/ha-tibber-pulse-mqtt",
   "MrInterBugs/ha-sunriser",
   "mrk-its/homeassistant-blitzortung",
+  "MrMooreUK/fluvalble",
   "MrSjodin/HomeAssistant_Trafiklab_Integration",
   "MrSleeps/Juwel-HeliaLux-Home-Assistant-Custom-Component",
   "Mrtenz/hass-free-sleep",
