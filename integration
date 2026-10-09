@@ -2500,6 +2500,7 @@
   "rgerbranda/rbfa",
   "Rhaiderr/homeassistant-cloudflare-ip-sync",
   "rhanekom/hass-qwikswitch-api",
+  "rhizomatics/appliances_autonotify",
   "rhizomatics/autoarm",
   "rhizomatics/remote_logger",
   "rhizomatics/supernotify",
