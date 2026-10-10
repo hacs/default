@@ -1,4 +1,5 @@
 [
+
   "007hacky007/car_maintenance",
   "0jety0/emaux_spv150",
   "0xAHA/airtouch4_advanced",
@@ -1975,6 +1976,7 @@
   "memphi2/ha-bticino-c300x",
   "memphi2/ha-dhe-connect",
   "memphi2/ha-unifi-drive",
+"meokey/smart-fuel-price",
   "merlijntishauser/unifi-network-maps-ha",
   "metbril/home-assistant-brandstofprijzen",
   "mguyard/hass-diagral",
