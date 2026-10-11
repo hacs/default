@@ -34,15 +34,16 @@ async def check():
             contributors = [
                 {"login": x["login"], "contributions": x["contributions"]}
                 for x in request.data or []
+                if x.get("type") != "Bot"
             ]
             _sorted = sorted(
                 contributors, key=lambda x: x["contributions"], reverse=True
             )
 
-            _top = _sorted[0]["contributions"]
-
             if actor not in [x["login"] for x in _sorted]:
                 exit(f"::error::'{actor}' is not a contributor to '{repo}'")
+
+            _top = _sorted[0]["contributions"]
 
             if [x["contributions"] for x in _sorted if x["login"] == actor].pop() >= (
                 _top / 3
