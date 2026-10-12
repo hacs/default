@@ -1,5 +1,4 @@
 [
-  "jacardbr/ha-pet-care",
   "007hacky007/car_maintenance",
   "0jety0/emaux_spv150",
   "0xAHA/airtouch4_advanced",
@@ -1381,6 +1380,7 @@
   "j9brown/victron-mk3-hass",
   "JAAlperin/hass-bardolph",
   "Jabber-se/ha-microart",
+  "jacardbr/ha-pet-care",
   "JaccoR/hass-entso-e",
   "JackDempsey9/homeassistant-emergencyapi",
   "JackJPowell/hass-unfoldedcircle",
