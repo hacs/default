@@ -2559,5 +2559,17 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/7183"
+  },
+  {
+    "repository": "Kaluzaburza/Hoymiles_HIT_xxL_G3_ModBus",
+    "reason": "Repository is private; removal requested by its owner.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/10003"
+  },
+  {
+    "repository": "Kaluzaburza/hoymiles-hit-g3-ems",
+    "reason": "Repository is private; removal requested by its owner.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/10003"
   }
 ]
