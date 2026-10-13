@@ -2561,6 +2561,12 @@
     "link": "https://github.com/hacs/default/pull/7183"
   },
   {
+    "repository": "ulic75/power-flow-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/9325"
+  },
+  {
     "repository": "Kaluzaburza/Hoymiles_HIT_xxL_G3_ModBus",
     "reason": "Repository is private; removal requested by its owner.",
     "removal_type": "remove",
