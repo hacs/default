@@ -1427,6 +1427,7 @@
   "jbergler/hass-ttlock",
   "jbouwh/ha-elro-connects",
   "jcgoette/baby_buddy_homeassistant",
+  "jcortizronda/ebroAuto_homeAssistant",
   "jcwillox/hass-auto-backup",
   "jdejaegh/irm-kmi-ha",
   "jdrozdnovak/ha_pagerduty",
