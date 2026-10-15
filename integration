@@ -1536,6 +1536,7 @@
   "joyfulhouse/moogo",
   "joyfulhouse/thermacell_liv",
   "jozef-moravcik-homeassistant/GoodWe-SEC1000S",
+  "jozef-moravcik-homeassistant/power-meter-jsy",
   "jozefnad/homeassistant-quick_timer",
   "jozefnad/homeassistant-smartspaclient",
   "jpawlowski/hass.tibber_prices",
