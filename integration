@@ -1723,6 +1723,7 @@
   "LawPaul/HA_Solar_Shade",
   "LayerTM/claude-ha",
   "LayerTM/unifi-unas-ha",
+  "lazyvolt/lazyvolt-home-assistant",
   "lbbrhzn/ocpp",
   "ledimestari/homeassistant-precious-metals",
   "ledimestari/homeassistant-storj-integration",
