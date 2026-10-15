@@ -2565,5 +2565,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/9325"
+  },
+  {
+    "repository": "timmaurice/lovelace-bergfex-card",
+    "reason": "Card is now bundled with the Bergfex Snow Report integration",
+    "removal_type": "replaced",
+    "link": "https://github.com/timmaurice/bergfex"
   }
 ]
