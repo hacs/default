@@ -9,7 +9,7 @@ CHECKURL = "https://next.home-assistant.io/integrations.json"
 
 
 async def check():
-    print("Information: https://hacs.xyz/docs/publish/include#check-core-domain")
+    print("Information: https://hacs.xyz/docs/publish/include#check-core-domain-conflict")
     domain = get_domain()
     if not domain:
         exit("::error::The integration manifest has no domain")

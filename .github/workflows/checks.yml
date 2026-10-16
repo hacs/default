@@ -224,7 +224,7 @@ jobs:
         run: scripts/setup
 
       - name: Run the check
-        run: python3 -m scripts.check.core_domain
+        run: python3 -m scripts.check.core_domain_conflict
 
   hassfest:
     runs-on: ubuntu-latest
