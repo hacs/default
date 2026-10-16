@@ -15,7 +15,7 @@ async def check():
         exit("::error::The integration manifest has no domain")
 
     try:
-        core_domains = requests.get(CHECKURL).json()
+        core_domains = requests.get(CHECKURL, timeout=30).json()
         if domain in core_domains:
             exit(f"::error::'{domain}' is the domain of a Home Assistant core integration")
     except Exception as e:
