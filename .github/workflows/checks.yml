@@ -198,7 +198,7 @@ jobs:
         env:
           REPOSITORY: ${{needs.preflight.outputs.repository}}
 
-  core_domain:
+  core_domain_conflict:
     runs-on: ubuntu-latest
     name: Core domain conflict
     needs: preflight
@@ -271,7 +271,7 @@ jobs:
       - releases
       - removed
       - existing
-      - core_domain
+      - core_domain_conflict
       - hassfest
       - hacs
     if: always()
