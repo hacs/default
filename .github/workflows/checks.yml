@@ -198,6 +198,34 @@ jobs:
         env:
           REPOSITORY: ${{needs.preflight.outputs.repository}}
 
+  core_domain:
+    runs-on: ubuntu-latest
+    name: Core domain
+    needs: preflight
+    if: needs.preflight.outputs.category == 'integration' && needs.preflight.outputs.run_type == 'new-repository'
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v7.0.0
+        with:
+          python-version-file: ".python-version"
+          cache: "pip"
+          cache-dependency-path: "requirements.txt"
+
+      - name: Clone new addition
+        run: |
+          git clone --depth 1 "https://github.com/${{needs.preflight.outputs.repository}}" /tmp/repositories/addition
+
+      - name: Install dependencies if needed
+        run: scripts/setup
+
+      - name: Run the check
+        run: python3 -m scripts.check.core_domain
+
   hassfest:
     runs-on: ubuntu-latest
     name: Hassfest
@@ -243,6 +271,7 @@ jobs:
       - releases
       - removed
       - existing
+      - core_domain
       - hassfest
       - hacs
     if: always()
