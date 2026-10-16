@@ -200,7 +200,7 @@ jobs:
 
   core_domain:
     runs-on: ubuntu-latest
-    name: Core domain
+    name: Core domain conflict
     needs: preflight
     if: needs.preflight.outputs.category == 'integration' && needs.preflight.outputs.run_type == 'new-repository'
     steps:
