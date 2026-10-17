@@ -2639,6 +2639,48 @@
     "link": "https://github.com/hacs/default/pull/12093"
   },
   {
+    "repository": "Sian-Lee-SA/Home-Assistant-Switch-Manager",
+    "reason": "Deprecated by the owner",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5496"
+  },
+  {
+    "repository": "AaronDavidSchneider/SonosAlarm",
+    "reason": "Deprecated by the owner",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5450"
+  },
+  {
+    "repository": "zigul/HomeAssistant-CEZdistribuce",
+    "reason": "Deprecated by the owner",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5535"
+  },
+  {
+    "repository": "hacf-fr/EcoleDirecteHACards",
+    "reason": "Deprecated by the owner",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5222"
+  },
+  {
+    "repository": "StyraHem/ShellyForHASS",
+    "reason": "Deprecated by the owner",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4999"
+  },
+  {
+    "repository": "thomasloven/hass-fontawesome",
+    "reason": "Deprecated by the owner",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4836"
+  },
+  {
+    "repository": "mlamberts78/weather-chart-card",
+    "reason": "Deprecated by the owner",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5053"
+  },
+  {
     "repository": "Kaluzaburza/Hoymiles_HIT_xxL_G3_ModBus",
     "reason": "Removal requested by the owner, the repository is private",
     "removal_type": "remove",
