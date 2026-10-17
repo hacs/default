@@ -2859,6 +2859,7 @@
   "syssi/xiaomi_fan",
   "syssi/xiaomi_raw",
   "syssi/xiaomiplug",
+  "Sythos/Classeviva-Dashboard",
     "szymkiewiczmathieu/ha_enocean_custom",
   "T-leco/investing_portfolio",
   "t0mer/manish-custom-notifier",
