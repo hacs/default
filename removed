@@ -2640,7 +2640,13 @@
   },
   {
     "repository": "Kaluzaburza/Hoymiles_HIT_xxL_G3_ModBus",
-    "reason": "Removal requested by the owner, the repository no longer exists",
+    "reason": "Removal requested by the owner, the repository is private",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5582"
+  },
+  {
+    "repository": "Kaluzaburza/hoymiles-hit-g3-ems",
+    "reason": "Removal requested by the owner, the repository is private",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/5582"
   },
