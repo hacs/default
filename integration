@@ -1949,6 +1949,7 @@
   "mayerwin/HA-Merge-Sensor-History",
   "mayerwin/HA-Real-Last-Changed-Reported-Seen-Sensors",
   "mb-software/homeassistant-powerbrain",
+  "mbaumannn/home-assistant-anova-local",
   "mbillow/ha-chargepoint",
   "mbillow/ha-redpocket",
   "mbillow/localthings",
