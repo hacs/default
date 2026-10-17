@@ -2805,5 +2805,11 @@
     "reason": "No activity in the repository for over two years",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/5273"
+  },
+  {
+    "repository": "BetaHydri/hymer-connect-ha-ble",
+    "reason": "Removal requested by the owner, the repository is private",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5605"
   }
 ]
