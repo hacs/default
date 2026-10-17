@@ -2816,90 +2816,90 @@
     "repository": "alves-dev/stackspot-homeassistant",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/12122"
   },
   {
     "repository": "And3rsL/VisonicAlarm-for-Hassio",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/12122"
   },
   {
     "repository": "bkbilly/oralb_ble",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/12122"
   },
   {
     "repository": "brianegge/home-assistant-sdnotify",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/12122"
   },
   {
     "repository": "cyberjunky/home-assistant-shell_recharge",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/12122"
   },
   {
     "repository": "daernsinstantfortress/cupra_we_connect",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/12122"
   },
   {
     "repository": "duhow/hass-aigues-barcelona",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/12122"
   },
   {
     "repository": "getuhoo/uhooair-homeassistant",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/12122"
   },
   {
     "repository": "gieljnssns/kostalpiko-sensor-homeassistant",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/12122"
   },
   {
     "repository": "mbillow/ha-redpocket",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/12122"
   },
   {
     "repository": "QuickMadeSimulation/QmdevHA",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/12122"
   },
   {
     "repository": "RobHofmann/HomeAssistant-PhilipsAndroid2014",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/12122"
   },
   {
     "repository": "ryanbdclark/owlet",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/12122"
   },
   {
     "repository": "bessertristan09/graphite-nightshade-theme",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/12122"
   },
   {
     "repository": "Tristan762-4/graphite-nightshade-theme",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/12122"
   }
 ]
