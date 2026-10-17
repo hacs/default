@@ -2757,5 +2757,53 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/5312"
+  },
+  {
+    "repository": "ricardoquecria/caule-themes-pack-1",
+    "reason": "No activity in the repository for over two years",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5493"
+  },
+  {
+    "repository": "flixlix/energy-period-selector-plus",
+    "reason": "No activity in the repository for over two years",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5160"
+  },
+  {
+    "repository": "rautesamtr/thermal_comfort_icons",
+    "reason": "No activity in the repository for over two years",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5272"
+  },
+  {
+    "repository": "dmamontov/hass-miwifi",
+    "reason": "No activity in the repository for over two years",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5545"
+  },
+  {
+    "repository": "blindlight86/HA_USR-R16",
+    "reason": "No activity in the repository for over two years",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5515"
+  },
+  {
+    "repository": "wez/govee-lan-hass",
+    "reason": "No activity in the repository for over two years",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4789"
+  },
+  {
+    "repository": "StephanJoubert/home_assistant_solarman",
+    "reason": "No activity in the repository for over two years",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4933"
+  },
+  {
+    "repository": "Makin-Things/platinum-weather-card",
+    "reason": "No activity in the repository for over two years",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5273"
   }
 ]
