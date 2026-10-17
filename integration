@@ -1707,6 +1707,7 @@
   "LayerTM/claude-ha",
   "LayerTM/unifi-unas-ha",
   "lbbrhzn/ocpp",
+  "leanderdl2/hass-tuya-lock-bridge",
   "ledimestari/homeassistant-precious-metals",
   "ledimestari/homeassistant-storj-integration",
   "legrego/homeassistant-combustion",
