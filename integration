@@ -592,6 +592,7 @@
   "cqrt/dual_logic_thermostat",
   "craibo/ha-red-energy-au",
   "craibo/ha_strava",
+  "crandler/CoverAutomatic",
   "crankynetman/ha-cumtd",
   "Crazy-Duck/home-assistant-fiftyfive",
   "CreasolTech/home-assistant-creasol-dombus",
