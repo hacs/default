@@ -2565,5 +2565,77 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/9325"
+  },
+  {
+    "repository": "ericmatte/ad-media-lights-sync",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12093"
+  },
+  {
+    "repository": "mguyard/appdaemon-coversmanager",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12093"
+  },
+  {
+    "repository": "tofuSCHNITZEL/home-assistant-wienerlinien",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12093"
+  },
+  {
+    "repository": "vigonotion/hass-simpleicons",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12093"
+  },
+  {
+    "repository": "elyobelyob/octopus-energy-greenness-forecast-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12093"
+  },
+  {
+    "repository": "finity69x2/fan-control-entity-row",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12093"
+  },
+  {
+    "repository": "grinstantin/todoist-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12093"
+  },
+  {
+    "repository": "petergridge/Irrigation-Card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12093"
+  },
+  {
+    "repository": "Voxxie/lovelace-jumbo-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12093"
+  },
+  {
+    "repository": "chaptergy/homeassistant-theme-dark-pastel",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12093"
+  },
+  {
+    "repository": "Matt-PMCT/Green-and-Dark-HA-Theme",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12093"
+  },
+  {
+    "repository": "Mariusthvdb/Custom-icons",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12093"
   }
 ]
