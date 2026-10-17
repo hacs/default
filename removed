@@ -1817,12 +1817,6 @@
     "link": "https://github.com/hacs/integration/issues/4254"
   },
   {
-    "repository": "FaserF/ha-rewe",
-    "reason": "Repository is archived",
-    "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/3079"
-  },
-  {
     "repository": "isabellaalstrom/sensor.krisinformation",
     "reason": "Request from author",
     "removal_type": "remove",
