@@ -2565,5 +2565,77 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/9325"
+  },
+  {
+    "repository": "ericmatte/ad-media-lights-sync",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "mguyard/appdaemon-coversmanager",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "tofuSCHNITZEL/home-assistant-wienerlinien",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "vigonotion/hass-simpleicons",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "elyobelyob/octopus-energy-greenness-forecast-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "finity69x2/fan-control-entity-row",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "grinstantin/todoist-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "petergridge/Irrigation-Card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "Voxxie/lovelace-jumbo-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "chaptergy/homeassistant-theme-dark-pastel",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "Matt-PMCT/Green-and-Dark-HA-Theme",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "Mariusthvdb/Custom-icons",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
   }
 ]
