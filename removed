@@ -2637,5 +2637,77 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/12093"
+  },
+  {
+    "repository": "Kaluzaburza/Hoymiles_HIT_xxL_G3_ModBus",
+    "reason": "Removal requested by the owner, the repository no longer exists",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5582"
+  },
+  {
+    "repository": "sxdjt/ha-temperature-heatmap",
+    "reason": "Removal requested by the owner, the repository no longer exists",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5270"
+  },
+  {
+    "repository": "sxdjt/ha-windspeed-heatmap",
+    "reason": "Removal requested by the owner, the repository no longer exists",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5269"
+  },
+  {
+    "repository": "MTrab/webastoconnect",
+    "reason": "Removal requested by the owner, the repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5534"
+  },
+  {
+    "repository": "moryoav/ha-gwm_ora",
+    "reason": "Removal requested by the owner, the repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5528"
+  },
+  {
+    "repository": "andrew-codechimp/HA-Hive-Local-Thermostat",
+    "reason": "Removal requested by the owner",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5186"
+  },
+  {
+    "repository": "amitfin/lovelace-daily-schedule-card",
+    "reason": "Removal requested by the owner",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5170"
+  },
+  {
+    "repository": "barneyonline/groq_tts",
+    "reason": "Removal requested by the owner",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5259"
+  },
+  {
+    "repository": "Giorgio866/lumina-energy-card",
+    "reason": "Removal requested by the owner",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5038"
+  },
+  {
+    "repository": "myTselection/bibliotheek_be",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5468"
+  },
+  {
+    "repository": "shpongledsummer/atmospheric-weather-card",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5344"
+  },
+  {
+    "repository": "IT-my-PV/myPVHomeAssistant",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5312"
   }
 ]
