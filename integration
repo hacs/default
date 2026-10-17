@@ -1103,6 +1103,7 @@
   "GeiserX/cashpilot-ha",
   "GeiserX/duplicacy-ha",
   "GeiserX/genieacs-ha",
+  "GeiserX/pumperly-ha",
   "genericJE/ha-heating-schedule",
   "gensyn/ssh_command",
   "gensyn/ssh_docker",
