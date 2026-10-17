@@ -1625,6 +1625,7 @@
   "klausj1/homeassistant-statistics",
   "Kleinrotti/hass-senertec",
   "klejejs/ha-thermia-heat-pump-integration",
+  "klethimonier-ux/ha-star-rennes-live",
   "klokku/klokku-home-assistant-integration",
   "kmich/ha_ws_core",
   "kneave/climate-scheduler",
