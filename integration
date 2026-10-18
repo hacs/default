@@ -1216,6 +1216,7 @@
   "ha-parcel-integrations/ha-hermes",
   "ha-parcel-integrations/ha-nova-post",
   "ha-parcel-integrations/ha-oesterreichische-post",
+  "ha-parcel-integrations/ha-ontrac",
   "ha-parcel-integrations/ha-orlen-paczka",
   "ha-parcel-integrations/ha-packeta",
   "ha-parcel-integrations/ha-parcel-aggregator",
