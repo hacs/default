@@ -760,6 +760,7 @@
   "Yeelight/ha_yeelight_dashboard",
   "yohaybn/lovelace-aliexpress-package-card",
   "yosef-chai/ha-checklist-card",
+  "yroffin/hass-shutter",
   "yshaish1/ha-google-fonts",
   "ytilis/hass-progress-bar-feature",
   "yuri-val/th-sensor-card",
