@@ -2985,5 +2985,59 @@
     "reason": "Repository no longer exists, the author's GitHub account has been removed",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/12137"
+  },
+  {
+    "repository": "hudsonbrendon/HA-drivvo",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "ohheyrj/home-assistant-aws-codepipeline",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "rknightion/kiosker-ha",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "seadillpicklerooster/hass-lea-amp",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "smarthomeblack/npc",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "smarthomeblack/zalo_bot",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "teamsuperpanda/local_intesis",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "Imbuzi/meteo-france-weather-card",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "ziffmafiya/zambretti_sager",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "N/A"
   }
 ]
