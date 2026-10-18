@@ -2097,6 +2097,7 @@
   "mvdwetering/yamaha_ynca",
   "MVtag/TapCocktail",
   "mweinelt/ha-prometheus-sensor",
+  "mwlh/light-phases-integration",
   "mwolter805/meshcore-ha-chat",
   "mxkissnr/glp-integration",
   "mxshmh/ha-metric",
