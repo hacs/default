@@ -1218,6 +1218,7 @@
   "ha-parcel-integrations/ha-oesterreichische-post",
   "ha-parcel-integrations/ha-packeta",
   "ha-parcel-integrations/ha-parcel-aggregator",
+  "ha-parcel-integrations/ha-planzer",
   "ha-parcel-integrations/ha-swiss-post",
   "ha-parcel-integrations/ha-trunkrs",
   "ha-parcel-integrations/ha-vinted-go",
