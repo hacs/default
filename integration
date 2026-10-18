@@ -249,6 +249,7 @@
   "aritmeester/tennet_balance",
   "arkane-systems/ha-accent-signal-light",
   "arkane-systems/ha-dev-to-bin",
+  "arkane-systems/notify_mqtt",
   "arnoudkooi/ha-hid-usbrelay",
   "ArnyminerZ/ha-axpert-inverter",
   "ArnyminerZ/ha-nuki-web",
