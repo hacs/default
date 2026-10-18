@@ -1224,6 +1224,7 @@
   "ha-parcel-integrations/ha-gls",
   "ha-parcel-integrations/ha-hermes",
   "ha-parcel-integrations/ha-inpost",
+  "ha-parcel-integrations/ha-magyar-posta",
   "ha-parcel-integrations/ha-nova-post",
   "ha-parcel-integrations/ha-nz-post",
   "ha-parcel-integrations/ha-oesterreichische-post",
