@@ -2906,36 +2906,36 @@
     "repository": "timniklas/hass-blitzerde",
     "reason": "Repository no longer exists, the author's GitHub account has been removed",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/12136"
   },
   {
     "repository": "timniklas/hass-fitnesspark",
     "reason": "Repository no longer exists, the author's GitHub account has been removed",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/12136"
   },
   {
     "repository": "timniklas/hass-fitx",
     "reason": "Repository no longer exists, the author's GitHub account has been removed",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/12136"
   },
   {
     "repository": "timniklas/hass-neakasa",
     "reason": "Repository no longer exists, the author's GitHub account has been removed",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/12136"
   },
   {
     "repository": "timniklas/hass-smartme",
     "reason": "Repository no longer exists, the author's GitHub account has been removed",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/12136"
   },
   {
     "repository": "timniklas/hass-wellyou",
     "reason": "Repository no longer exists, the author's GitHub account has been removed",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/12136"
   }
 ]
