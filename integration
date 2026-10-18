@@ -1206,6 +1206,7 @@
   "ha-china/cn_im_hub",
   "ha-china/virtual_devices",
   "ha-parcel-integrations/ha-4px",
+  "ha-parcel-integrations/ha-acs-courier",
   "ha-parcel-integrations/ha-ampere",
   "ha-parcel-integrations/ha-an-post",
   "ha-parcel-integrations/ha-better-trucks",
