@@ -1206,6 +1206,7 @@
   "ha-parcel-integrations/ha-dhl-nl",
   "ha-parcel-integrations/ha-dpd",
   "ha-parcel-integrations/ha-gls",
+  "ha-parcel-integrations/ha-parcel-aggregator",
   "ha-securemtr/ha-securemtr",
   "ha-termoweb/ha-termoweb",
   "ha-warmup/warmup",
