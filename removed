@@ -3039,5 +3039,11 @@
     "reason": "Repository no longer exists, the author's GitHub account has been removed",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/12140"
+  },
+  {
+    "repository": "custom-components/ups",
+    "reason": "No activity in the repository for over five years; its domain is taken over by ha-parcel-integrations/ha-ups",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/10886"
   }
 ]

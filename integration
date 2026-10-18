@@ -638,7 +638,6 @@
   "custom-components/sensor.stadtreinigung_hamburg",
   "custom-components/sensor.trakt",
   "custom-components/sensor.unifigateway",
-  "custom-components/ups",
   "custom-components/weatheralerts",
   "custom-components/youtube",
   "custom-components/zaptec",
