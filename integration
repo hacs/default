@@ -2434,6 +2434,7 @@
   "prusuino/ha_innoxel_master3",
   "prusuino/ha_swiss_avalanche_bulletin",
   "prusuino/ha_swiss_solar_reference_price",
+  "prusuino/ha_swiss_transport",
   "ptimatth/GeorideHA",
   "ptrkoz/ha-smogtok",
   "PTST/LibreView-HomeAssistant",
