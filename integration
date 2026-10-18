@@ -1209,6 +1209,7 @@
   "ha-parcel-integrations/ha-dragonfly",
   "ha-parcel-integrations/ha-gls",
   "ha-parcel-integrations/ha-parcel-aggregator",
+  "ha-parcel-integrations/ha-vinted-go",
   "ha-securemtr/ha-securemtr",
   "ha-termoweb/ha-termoweb",
   "ha-warmup/warmup",
