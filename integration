@@ -1203,6 +1203,7 @@
   "ha-china/ai_hub",
   "ha-china/cn_im_hub",
   "ha-china/virtual_devices",
+  "ha-parcel-integrations/ha-budbee",
   "ha-parcel-integrations/ha-delhivery",
   "ha-parcel-integrations/ha-dhl-nl",
   "ha-parcel-integrations/ha-dpd",
