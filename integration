@@ -1215,6 +1215,7 @@
   "ha-parcel-integrations/ha-ceska-posta",
   "ha-parcel-integrations/ha-ctt",
   "ha-parcel-integrations/ha-delhivery",
+  "ha-parcel-integrations/ha-dhl",
   "ha-parcel-integrations/ha-dhl-nl",
   "ha-parcel-integrations/ha-dpd",
   "ha-parcel-integrations/ha-dragonfly",
