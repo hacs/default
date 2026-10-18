@@ -1423,6 +1423,7 @@
   "ha-parcel-integrations/ha-swiss-post",
   "ha-parcel-integrations/ha-trunkrs",
   "ha-parcel-integrations/ha-ups",
+  "ha-parcel-integrations/ha-usps",
   "ha-parcel-integrations/ha-vinted-go",
   "HA-Pulse/home-assistant-global-health-score",
   "ha-securemtr/ha-securemtr",
