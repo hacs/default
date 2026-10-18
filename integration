@@ -1213,6 +1213,7 @@
   "ha-parcel-integrations/ha-budbee",
   "ha-parcel-integrations/ha-canpar",
   "ha-parcel-integrations/ha-ceska-posta",
+  "ha-parcel-integrations/ha-correos",
   "ha-parcel-integrations/ha-ctt",
   "ha-parcel-integrations/ha-delhivery",
   "ha-parcel-integrations/ha-dhl-nl",
