@@ -431,6 +431,7 @@
   "bramstroker/homeassistant-state-webhook",
   "braviafanboy/bravia-tv-grpc-homeassistant",
   "braytonstafford/grok_conversation",
+  "breed007/ha-fleetdm",
   "Breina/idrac_power_monitor",
   "Breina/nad_controller",
   "Breina/PowerTagGateway",
