@@ -3122,6 +3122,7 @@
   "SoftwareSchmied/ha-ambientika-ventilation",
   "SoftXperience/home-assistant-foxess-api",
   "sokolovs/wda-sensor",
+  "SolarBuffer/solarbuffer-homeassistant",
   "solarcube-io/solar-cube-integration",
   "solarssk/ztm_warsaw",
   "solentlabs/cable_modem_monitor",
