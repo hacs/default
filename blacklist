@@ -157,6 +157,7 @@
   "custom-components/templatesensor",
   "custom-components/uilogs",
   "custom-components/unsplash",
+  "custom-components/ups",
   "custom-components/usps_mail",
   "custom-components/wienerlinien",
   "cyberjunky/home-assistant-plugwise",
