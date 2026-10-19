@@ -536,6 +536,7 @@
   "cbetz/ratebook-homeassistant",
   "ccsliinc/ha-smart-sprinkler-control",
   "cddu33/ha-action_control",
+  "cdmicacc/delta-voiceiq-2.0-ha",
   "cdnninja/yoto_ha",
   "Cebbas/smart_pump_scheduler",
   "cedricziel/ha-matter-binding-helper",
