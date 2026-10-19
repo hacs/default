@@ -2565,5 +2565,485 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/9325"
+  },
+  {
+    "repository": "ericmatte/ad-media-lights-sync",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12093"
+  },
+  {
+    "repository": "mguyard/appdaemon-coversmanager",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12093"
+  },
+  {
+    "repository": "tofuSCHNITZEL/home-assistant-wienerlinien",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12093"
+  },
+  {
+    "repository": "vigonotion/hass-simpleicons",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12093"
+  },
+  {
+    "repository": "elyobelyob/octopus-energy-greenness-forecast-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12093"
+  },
+  {
+    "repository": "finity69x2/fan-control-entity-row",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12093"
+  },
+  {
+    "repository": "grinstantin/todoist-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12093"
+  },
+  {
+    "repository": "petergridge/Irrigation-Card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12093"
+  },
+  {
+    "repository": "Voxxie/lovelace-jumbo-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12093"
+  },
+  {
+    "repository": "chaptergy/homeassistant-theme-dark-pastel",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12093"
+  },
+  {
+    "repository": "Matt-PMCT/Green-and-Dark-HA-Theme",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12093"
+  },
+  {
+    "repository": "Mariusthvdb/Custom-icons",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12093"
+  },
+  {
+    "repository": "Sian-Lee-SA/Home-Assistant-Switch-Manager",
+    "reason": "Deprecated by the owner",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5496"
+  },
+  {
+    "repository": "AaronDavidSchneider/SonosAlarm",
+    "reason": "Deprecated by the owner",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5450"
+  },
+  {
+    "repository": "zigul/HomeAssistant-CEZdistribuce",
+    "reason": "Deprecated by the owner",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5535"
+  },
+  {
+    "repository": "hacf-fr/EcoleDirecteHACards",
+    "reason": "Deprecated by the owner",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5222"
+  },
+  {
+    "repository": "StyraHem/ShellyForHASS",
+    "reason": "Deprecated by the owner",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4999"
+  },
+  {
+    "repository": "thomasloven/hass-fontawesome",
+    "reason": "Deprecated by the owner",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4836"
+  },
+  {
+    "repository": "mlamberts78/weather-chart-card",
+    "reason": "Deprecated by the owner",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5053"
+  },
+  {
+    "repository": "Kaluzaburza/Hoymiles_HIT_xxL_G3_ModBus",
+    "reason": "Removal requested by the owner, the repository is private",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5582"
+  },
+  {
+    "repository": "Kaluzaburza/hoymiles-hit-g3-ems",
+    "reason": "Removal requested by the owner, the repository is private",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5582"
+  },
+  {
+    "repository": "sxdjt/ha-temperature-heatmap",
+    "reason": "Removal requested by the owner, the repository no longer exists",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5270"
+  },
+  {
+    "repository": "sxdjt/ha-windspeed-heatmap",
+    "reason": "Removal requested by the owner, the repository no longer exists",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5269"
+  },
+  {
+    "repository": "MTrab/webastoconnect",
+    "reason": "Removal requested by the owner, the repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5534"
+  },
+  {
+    "repository": "moryoav/ha-gwm_ora",
+    "reason": "Removal requested by the owner, the repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5528"
+  },
+  {
+    "repository": "andrew-codechimp/HA-Hive-Local-Thermostat",
+    "reason": "Removal requested by the owner",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5186"
+  },
+  {
+    "repository": "amitfin/lovelace-daily-schedule-card",
+    "reason": "Removal requested by the owner",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5170"
+  },
+  {
+    "repository": "barneyonline/groq_tts",
+    "reason": "Removal requested by the owner",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5259"
+  },
+  {
+    "repository": "Giorgio866/lumina-energy-card",
+    "reason": "Removal requested by the owner",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5038"
+  },
+  {
+    "repository": "myTselection/bibliotheek_be",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5468"
+  },
+  {
+    "repository": "shpongledsummer/atmospheric-weather-card",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5344"
+  },
+  {
+    "repository": "IT-my-PV/myPVHomeAssistant",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5312"
+  },
+  {
+    "repository": "ricardoquecria/caule-themes-pack-1",
+    "reason": "No activity in the repository for over two years",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5493"
+  },
+  {
+    "repository": "flixlix/energy-period-selector-plus",
+    "reason": "No activity in the repository for over two years",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5160"
+  },
+  {
+    "repository": "rautesamtr/thermal_comfort_icons",
+    "reason": "No activity in the repository for over two years",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5272"
+  },
+  {
+    "repository": "dmamontov/hass-miwifi",
+    "reason": "No activity in the repository for over two years",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5545"
+  },
+  {
+    "repository": "blindlight86/HA_USR-R16",
+    "reason": "No activity in the repository for over two years",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5515"
+  },
+  {
+    "repository": "wez/govee-lan-hass",
+    "reason": "No activity in the repository for over two years",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4789"
+  },
+  {
+    "repository": "StephanJoubert/home_assistant_solarman",
+    "reason": "No activity in the repository for over two years",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/4933"
+  },
+  {
+    "repository": "Makin-Things/platinum-weather-card",
+    "reason": "No activity in the repository for over two years",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5273"
+  },
+  {
+    "repository": "BetaHydri/hymer-connect-ha-ble",
+    "reason": "Removal requested by the owner, the repository is private",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5605"
+  },
+  {
+    "repository": "alves-dev/stackspot-homeassistant",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12122"
+  },
+  {
+    "repository": "And3rsL/VisonicAlarm-for-Hassio",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12122"
+  },
+  {
+    "repository": "bkbilly/oralb_ble",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12122"
+  },
+  {
+    "repository": "brianegge/home-assistant-sdnotify",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12122"
+  },
+  {
+    "repository": "cyberjunky/home-assistant-shell_recharge",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12122"
+  },
+  {
+    "repository": "daernsinstantfortress/cupra_we_connect",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12122"
+  },
+  {
+    "repository": "duhow/hass-aigues-barcelona",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12122"
+  },
+  {
+    "repository": "getuhoo/uhooair-homeassistant",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12122"
+  },
+  {
+    "repository": "gieljnssns/kostalpiko-sensor-homeassistant",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12122"
+  },
+  {
+    "repository": "mbillow/ha-redpocket",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12122"
+  },
+  {
+    "repository": "QuickMadeSimulation/QmdevHA",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12122"
+  },
+  {
+    "repository": "RobHofmann/HomeAssistant-PhilipsAndroid2014",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12122"
+  },
+  {
+    "repository": "ryanbdclark/owlet",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12122"
+  },
+  {
+    "repository": "bessertristan09/graphite-nightshade-theme",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12122"
+  },
+  {
+    "repository": "Tristan762-4/graphite-nightshade-theme",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12122"
+  },
+  {
+    "repository": "timniklas/hass-blitzerde",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12136"
+  },
+  {
+    "repository": "timniklas/hass-fitnesspark",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12136"
+  },
+  {
+    "repository": "timniklas/hass-fitx",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12136"
+  },
+  {
+    "repository": "timniklas/hass-neakasa",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12136"
+  },
+  {
+    "repository": "timniklas/hass-smartme",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12136"
+  },
+  {
+    "repository": "timniklas/hass-wellyou",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12136"
+  },
+  {
+    "repository": "myTselection/Carbu_com",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12137"
+  },
+  {
+    "repository": "myTselection/CityParking",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12137"
+  },
+  {
+    "repository": "myTselection/delhaize_ha",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12137"
+  },
+  {
+    "repository": "myTselection/EVChargingStations",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12137"
+  },
+  {
+    "repository": "myTselection/MyEnergy",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12137"
+  },
+  {
+    "repository": "myTselection/pixometer",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12137"
+  },
+  {
+    "repository": "myTselection/smartschool_ha",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12137"
+  },
+  {
+    "repository": "myTselection/telenet_telemeter",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12137"
+  },
+  {
+    "repository": "hudsonbrendon/HA-drivvo",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12140"
+  },
+  {
+    "repository": "ohheyrj/home-assistant-aws-codepipeline",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12140"
+  },
+  {
+    "repository": "rknightion/kiosker-ha",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12140"
+  },
+  {
+    "repository": "seadillpicklerooster/hass-lea-amp",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12140"
+  },
+  {
+    "repository": "smarthomeblack/npc",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12140"
+  },
+  {
+    "repository": "smarthomeblack/zalo_bot",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12140"
+  },
+  {
+    "repository": "teamsuperpanda/local_intesis",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12140"
+  },
+  {
+    "repository": "Imbuzi/meteo-france-weather-card",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12140"
+  },
+  {
+    "repository": "ziffmafiya/zambretti_sager",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12140"
+  },
+  {
+    "repository": "custom-components/ups",
+    "reason": "No activity in the repository for over five years; its domain is taken over by ha-parcel-integrations/ha-ups",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/10886"
   }
 ]
