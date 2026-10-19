@@ -935,6 +935,7 @@
   "DSorlov/badtemperatur",
   "DSorlov/http_agent",
   "DSorlov/insidethebox",
+  "DSorlov/RFLinkUI",
   "DSorlov/snmp_printer",
   "DSorlov/swemail",
   "DTekNO/ha-entur_sx",
