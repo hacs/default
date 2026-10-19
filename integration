@@ -493,6 +493,7 @@
   "bvdcode/home-assistant-nissan-connect",
   "bvdcode/myq-home-assistant",
   "bvis/aegis-hass",
+  "bvis/ezviz-cloud-hass",
   "bvweerd/battery_controller",
   "bvweerd/dynamic_energy_contract_calculator",
   "bvweerd/simple_pid_controller",
