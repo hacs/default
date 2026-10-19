@@ -2901,5 +2901,143 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/12122"
+  },
+  {
+    "repository": "timniklas/hass-blitzerde",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12136"
+  },
+  {
+    "repository": "timniklas/hass-fitnesspark",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12136"
+  },
+  {
+    "repository": "timniklas/hass-fitx",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12136"
+  },
+  {
+    "repository": "timniklas/hass-neakasa",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12136"
+  },
+  {
+    "repository": "timniklas/hass-smartme",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12136"
+  },
+  {
+    "repository": "timniklas/hass-wellyou",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12136"
+  },
+  {
+    "repository": "myTselection/Carbu_com",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12137"
+  },
+  {
+    "repository": "myTselection/CityParking",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12137"
+  },
+  {
+    "repository": "myTselection/delhaize_ha",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12137"
+  },
+  {
+    "repository": "myTselection/EVChargingStations",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12137"
+  },
+  {
+    "repository": "myTselection/MyEnergy",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12137"
+  },
+  {
+    "repository": "myTselection/pixometer",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12137"
+  },
+  {
+    "repository": "myTselection/smartschool_ha",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12137"
+  },
+  {
+    "repository": "myTselection/telenet_telemeter",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12137"
+  },
+  {
+    "repository": "hudsonbrendon/HA-drivvo",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12140"
+  },
+  {
+    "repository": "ohheyrj/home-assistant-aws-codepipeline",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12140"
+  },
+  {
+    "repository": "rknightion/kiosker-ha",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12140"
+  },
+  {
+    "repository": "seadillpicklerooster/hass-lea-amp",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12140"
+  },
+  {
+    "repository": "smarthomeblack/npc",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12140"
+  },
+  {
+    "repository": "smarthomeblack/zalo_bot",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12140"
+  },
+  {
+    "repository": "teamsuperpanda/local_intesis",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12140"
+  },
+  {
+    "repository": "Imbuzi/meteo-france-weather-card",
+    "reason": "Repository no longer exists",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12140"
+  },
+  {
+    "repository": "ziffmafiya/zambretti_sager",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12140"
   }
 ]
