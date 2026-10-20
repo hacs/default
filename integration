@@ -1216,6 +1216,7 @@
   "functionpointer/home-assistant-chargecloud-integration",
   "funkadelic/ha-acwd",
   "funkadelic/ha-rainpoint",
+  "furth3st/ha-danalock-cloud",
   "fustom/ariston-remotethermo-home-assistant-v3",
   "futuretense/keymaster",
   "FWeinb/ha-sg-150",
