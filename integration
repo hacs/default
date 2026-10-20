@@ -3177,6 +3177,7 @@
   "sockless-coding/panasonic_cc",
   "sockless-coding/senz-wifi",
   "SoftwareSchmied/ha-ambientika-ventilation",
+  "SoftwareSchmied/ha-bosch-buderus-heating",
   "SoftXperience/home-assistant-foxess-api",
   "sokolovs/wda-sensor",
   "SolarBuffer/solarbuffer-homeassistant",
