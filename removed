@@ -3075,5 +3075,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/12289"
+  },
+  {
+    "repository": "Dixet/homeassistant_geopulse",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12323"
   }
 ]
