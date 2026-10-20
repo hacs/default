@@ -2833,7 +2833,7 @@
   "pvyleta/xcc-integration",
   "PXLJAKE/ROI-Tracker",
   "py-smart-gardena/hass-gardena-smart-system",
-  "pyalarmdotcom/alarmdotcom",
+  "ibasebcast/ha-alarmdotcom",
   "Pyhass/Hive-Custom-Component",
   "pypolestar/polestar_api",
   "Pyrdon/ha-log-manager",
