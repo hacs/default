@@ -3057,5 +3057,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/12249"
+  },
+  {
+    "repository": "astrandb/miele",
+    "reason": "Deprecated - moved into HA Core",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5632"
   }
 ]
