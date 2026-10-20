@@ -2052,6 +2052,7 @@
   "lewei50/ha_iammeter",
   "lewei50/ha_iammeter_link",
   "lewei50/ha_iammeter_modbus",
+  "Lex-campbell/centsys_remote",
   "lhw/cloudweatherproxy",
   "liampetti/fulloch",
   "libdyson-wg/ha-dyson",
