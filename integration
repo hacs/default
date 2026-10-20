@@ -421,6 +421,7 @@
   "binarylogic/stewart-filmscreen-homeassistant",
   "binarylogic/trinnov-altitude-homeassistant",
   "binsentsu/home-assistant-solaredge-modbus",
+  "bisman-automations/ha-holiday-lighting",
   "Bitf1ip/ha-hydros",
   "bjhiltbrand/drone_mobile_home_assistant",
   "bjorncs/ha-brewcreator",
