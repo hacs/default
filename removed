@@ -3057,5 +3057,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/12249"
+  },
+  {
+    "repository": "epoplavskis/homeassistant_salus",
+    "reason": "No activity in the repository since January 2025; its domain is taken over by the maintained fork Jordi-14/homeassistant_salus",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/9741"
   }
 ]
