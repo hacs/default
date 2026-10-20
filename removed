@@ -3051,5 +3051,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/12249"
+  },
+  {
+    "repository": "timmaurice/lovelace-bergfex-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12249"
   }
 ]
