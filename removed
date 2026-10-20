@@ -3063,5 +3063,11 @@
     "reason": "Replaced by the Miele integration in Home Assistant core",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/5632"
+  },
+  {
+    "repository": "pajeronda/xai_conversation",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12289"
   }
 ]
