@@ -1818,6 +1818,7 @@
   "jrmattila/ha-elenia",
   "jrx-code/hassio-integration-birdnet",
   "jrx-code/hassio-integration-weber",
+  "jrx-code/hassio-toshiba-modbus",
   "jschroeter/HomeAssistant-Limodor-AirOdor",
   "jscruz/sensor.carbon_intensity_uk",
   "jseidl/magic-areas",
