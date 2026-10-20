@@ -1276,6 +1276,7 @@
   "GeiserX/genieacs-ha",
   "GeiserX/pumperly-ha",
   "general-galactic/home-assistant-crystal-water-monitor",
+  "GeneralFuturics/ha-flappyboard",
   "genericJE/ha-heating-schedule",
   "gensyn/ssh_command",
   "gensyn/ssh_docker",
