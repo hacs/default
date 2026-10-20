@@ -271,6 +271,7 @@
   "ArikShemesh/ha-simple-timer",
   "aritmeester/tennet_balance",
   "arkane-systems/ha-accent-signal-light",
+  "arkane-systems/ha-alert-redux",
   "arkane-systems/ha-dev-to-bin",
   "arkane-systems/ha-notify-to-persistent",
   "arkane-systems/notify_mqtt",
