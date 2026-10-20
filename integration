@@ -1033,6 +1033,7 @@
   "EHylands/ha-qolsys-panel",
   "eifinger/hass-foldingathomecontrol",
   "eifinger/hass-weenect",
+  "eigger/hass-ble-esl",
   "eigger/hass-lywsd02",
   "eigger/hass-marklife",
   "eigger/hass-minibig",
