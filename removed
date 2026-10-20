@@ -3063,5 +3063,17 @@
     "reason": "No activity in the repository since January 2025; its domain is taken over by the maintained fork Jordi-14/homeassistant_salus",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/9741"
+  },
+  {
+    "repository": "astrandb/miele",
+    "reason": "Replaced by the Miele integration in Home Assistant core",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5632"
+  },
+  {
+    "repository": "pajeronda/xai_conversation",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12289"
   }
 ]
