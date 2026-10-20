@@ -3060,7 +3060,7 @@
   },
   {
     "repository": "astrandb/miele",
-    "reason": "Deprecated - moved into HA Core",
+    "reason": "Replaced by the Miele integration in Home Assistant core",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/5632"
   }
