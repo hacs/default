@@ -2785,6 +2785,7 @@
   "pail23/stiebel_eltron_isg_component",
   "pajew-ski/ha-speedport",
   "pallemannen/hass-calendar-admin",
+  "pallemannen/hass-scrape-att-gateway",
   "PalmManiac/battery-smartflow-ai",
   "PalmManiac/statfusion",
   "PanSzelescik/home-assistant-enea",
