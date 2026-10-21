@@ -92,6 +92,7 @@
   "akentner/homeassistant-kroki-integration",
   "akinin/ha_keenetic",
   "akinin/wirenboard-discovery",
+  "akoonet-homeassistant/volets_intelligents",
   "akshimassar/ha-fortum",
   "akustikrausch/gonzales-integration",
   "al-one/hass-xiaomi-miot",
