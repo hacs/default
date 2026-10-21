@@ -1073,6 +1073,7 @@
   "eigger/hass-niimbot",
   "eigger/hass-omron",
   "eigger/hass-opinet",
+  "eigger/hass-sip",
   "eigger/hass-ws-bridge",
   "einFreak/ha-regensburg-transport",
   "einToast/openai_stt_ha",
