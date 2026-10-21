@@ -527,6 +527,7 @@
   "bvweerd/simple_pid_controller",
   "bwcon/homeassistant-crestron-home",
   "bxthomas/tesira_ttp",
+  "bygadd/network-tracker-zones",
   "bytenik/ha-scoped-assist",
   "bywciu/Home-Assistant-Custom-Components-ReversoTTS",
   "bzsasson/livetrafficcam-homeassistant",
