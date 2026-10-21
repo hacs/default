@@ -536,6 +536,7 @@
   "microteq/extended-gauge",
   "Mihonarium/hass-spatial-lights-card",
   "mimikm/Home-Power-Flow-Card",
+  "mimikm/Predbat-Card",
   "MindFreeze/ha-sankey-chart",
   "mishasyrbu/sunset-predictor-card",
   "mistic100/hass-automation-glance",
