@@ -2120,6 +2120,7 @@
   "ledimestari/homeassistant-precious-metals",
   "ledimestari/homeassistant-storj-integration",
   "leequixxx/onvif-ptz",
+  "legrand-link/ha_legrand_home",
   "legrego/homeassistant-combustion",
   "legrego/homeassistant-elasticsearch",
   "leikoilja/ha-google-home",
