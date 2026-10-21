@@ -942,6 +942,7 @@
   "dietrichmax/colota-home-assistant",
   "DigiMeld/pushmeld-home-assistant",
   "DigitalBites/LabelMateScene",
+  "DigitalIQ/ha-guestbook",
   "DigitallyRefined/ha-cloudflare-speed-test",
   "DigitallyRefined/ha-hwmon_temp",
   "dim4k/ha-naolib",
