@@ -2393,6 +2393,7 @@
   "maxbanton/hass-deye-cloud",
   "maxbanton/hass-deye-local",
   "maxbeizer/homeassistant-nes",
+  "MaxDrattcev/waviot-hass",
   "MaxensF/personal_weather_station",
   "maxfok/nimbus-climate-scheduler",
   "MaxGrmm/EF-PowerOcean-TcpModbus",
