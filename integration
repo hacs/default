@@ -1690,6 +1690,7 @@
   "JackDempsey9/homeassistant-emergencyapi",
   "JackJPowell/hass-unfoldedcircle",
   "jackpf/ha-redodo-mppt",
+  "jackrayner/ha-pypowerwall",
   "jacobbjerregaard/homeassistant-growatt-modbus",
   "jacobbjerregaard/homeassistant-rain-forecast",
   "jagduvi1/ha-cellarion",
