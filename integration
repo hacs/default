@@ -3973,5 +3973,6 @@
   "zuyan9/ha-dji-power-ble",
   "zuyan9/ha-wallecube-ble",
   "Zwer2k/ha-pca301",
-  "zzdota/ha-owon"
+  "zzdota/ha-owon",
+  "FilipposPirpilidis/homebudddy-access"
 ]
