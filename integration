@@ -1088,6 +1088,7 @@
   "ElectroceanTech/HomeAssistant",
   "ElektroBeckhoff/ha-twincat-iot-communicator",
   "eliaslecomte/ecopower-dynamic-prices",
+  "eliaslecomte/homeassistant-sanutal-air",
   "eliasweingaertner/epever-ble",
   "Elijaht-dev/mistralai-conversation",
   "Elijaht-dev/ovh_ipv6",
