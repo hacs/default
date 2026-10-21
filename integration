@@ -1355,6 +1355,7 @@
   "greghesp/ha-bambulab",
   "greghesp/ha-evonic",
   "gregoryduckworth/GoogleGeocode-HASS",
+  "Greminn/ha-spatial-context",
   "Grewa-water/homeassistant-grewa",
   "grid-coordination/openadr3-ven-hass",
   "grimmpp/home-assistant-eltako",
