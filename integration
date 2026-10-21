@@ -1524,6 +1524,7 @@
   "heidrickla/ha-att-router-reboot",
   "heidrickla/ha-culligan-azure",
   "heidrickla/ha-glkvm",
+  "heidrickla/ha-sslreverseproxy",
   "heidrickla/ha-tuxedo-touch",
   "heindrichpaul/ennatuurlijk_disruptions",
   "helgeklein/ha-smart-cover-automation",
