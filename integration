@@ -1066,6 +1066,7 @@
   "eigger/hass-niimbot",
   "eigger/hass-omron",
   "eigger/hass-opinet",
+  "eigger/hass-ws-bridge",
   "einFreak/ha-regensburg-transport",
   "einToast/openai_stt_ha",
   "EiS94/db_info",
