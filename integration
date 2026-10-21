@@ -1210,6 +1210,7 @@
   "fhfhg1/smart-dehumidifier",
   "figorr/meteocat",
   "FilipChalupa/store-app-version",
+  "FilipposPirpilidis/homebudddy-access",
   "filipvh/hass-nhc2",
   "finder39/ha-dockge",
   "fineemb/Colorfulclouds-weather",
@@ -3973,6 +3974,5 @@
   "zuyan9/ha-dji-power-ble",
   "zuyan9/ha-wallecube-ble",
   "Zwer2k/ha-pca301",
-  "zzdota/ha-owon",
-  "FilipposPirpilidis/homebudddy-access"
+  "zzdota/ha-owon"
 ]
