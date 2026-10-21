@@ -2105,6 +2105,7 @@
   "lewei50/ha_iammeter",
   "lewei50/ha_iammeter_link",
   "lewei50/ha_iammeter_modbus",
+  "lfavole/ha-algopattern",
   "lhw/cloudweatherproxy",
   "liampetti/fulloch",
   "libdyson-wg/ha-dyson",
