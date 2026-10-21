@@ -437,6 +437,7 @@
   "binarylogic/stewart-filmscreen-homeassistant",
   "binarylogic/trinnov-altitude-homeassistant",
   "binsentsu/home-assistant-solaredge-modbus",
+  "bionic-tech/ha-cluster-state-sync",
   "BirknerAlex/ha-1komma5grad",
   "birniger/soundbox-home-assistant",
   "Bitf1ip/ha-hydros",
