@@ -3074,6 +3074,7 @@
   "Rhaiderr/homeassistant-cloudflare-ip-sync",
   "rhanekom/hass-qwikswitch-api",
   "rhizomatics/autoarm",
+  "rhizomatics/camera_autonotify",
   "rhizomatics/remote_logger",
   "rhizomatics/supernotify",
   "richardvinger/f1-25-telemetry-for-home-assistant",
