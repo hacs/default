@@ -988,6 +988,7 @@
   "dneprojects/ebus_bridge",
   "dneprojects/habitron",
   "dneprojects/mypv",
+  "doccodyblue/ha-pvstrings",
   "dolezsa/thermal_comfort",
   "dominikamann/oekofen-pellematic-compact",
   "dominikgysin/HomeAssistant-Jura-WiFi-Integration",
