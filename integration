@@ -3269,6 +3269,7 @@
   "SectorTll/wattcast-homeassistant",
   "sedward5/nws_spc_outlook",
   "Selectra-Dev/selectra-ha",
+  "self-labs/controlart",
   "self-labs/tasmota-ir",
   "semichcsc-byte/broadlink-commands",
   "senalse/ha-alphaess-modbus",
