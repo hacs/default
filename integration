@@ -2552,6 +2552,7 @@
   "MrHC1983/FoxESS-Export-Control",
   "mrhedstrom/ha-tibber-pulse-mqtt",
   "MrInterBugs/ha-sunriser",
+  "MrJiggs0003/ha-dreame-air",
   "mrk-its/homeassistant-blitzortung",
   "MrSjodin/HomeAssistant_Trafiklab_Integration",
   "MrSleeps/Brighton-Bus-Times-Home-Assistant-Custom-Component",
