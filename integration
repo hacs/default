@@ -682,6 +682,7 @@
   "cneuen/ha-rgds",
   "cnstudio/Taipower-Bimonthly-Energy-Cost-homeassistant",
   "cobryan05/ha-color-notify",
+  "CodeArcade-ctrl/airing-advisor",
   "codebyant/esphome-rf-cloner",
   "CoderAS-ru/hass-neatsvor",
   "codyc1515/ha-yeelock",
@@ -3983,3 +3984,4 @@
   "Zwer2k/ha-pca301",
   "zzdota/ha-owon"
 ]
+
