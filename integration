@@ -1852,6 +1852,7 @@
   "JohNan/homeassistant-wellbeing",
   "johnbr/ha-ffl-yahoo",
   "johnbr/ha-protect-media-viewer",
+  "johnbr/ha-tesla-fleet-telemetry",
   "johnbr/ha-teslamate-cards",
   "johnbr/mlb-live-scoreboard",
   "johnf/actron-air-esphome",
