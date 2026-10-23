@@ -2316,6 +2316,7 @@
   "markaggar/ha-media-index",
   "markaggar/Water-Monitor",
   "MarkAtwood/ha-mqtt-device-sync",
+  "MarkBovee/vaillant-ebus",
   "Marker284/ha-minecraft-realms",
   "markfrancisonly/ha-cameralux",
   "markfrancisonly/ha-videocall",
