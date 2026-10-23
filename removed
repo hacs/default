@@ -3086,12 +3086,12 @@
     "repository": "DaanVervacke/hass-engie-be",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/12483"
   },
   {
     "repository": "isabellaalstrom/lovelace-grocy-chores-card",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/12483"
   }
 ]
