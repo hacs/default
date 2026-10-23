@@ -3548,6 +3548,7 @@
   "tbouron/ha-agur",
   "tcareyintx/skybellgen",
   "tcarwash/home-assistant_noaa-space-weather",
+  "TCzerny/ha-modbus-manager",
   "tdragon/reef-pi-hass-custom",
   "tefinger/hass-brematic",
   "teh-hippo/ha-govee-led-ble",
