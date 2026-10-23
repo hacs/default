@@ -3087,5 +3087,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "N/A"
+  },
+  {
+    "repository": "isabellaalstrom/lovelace-grocy-chores-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
   }
 ]
