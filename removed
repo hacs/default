@@ -3045,5 +3045,53 @@
     "reason": "No activity in the repository for over five years; its domain is taken over by ha-parcel-integrations/ha-ups",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/10886"
+  },
+  {
+    "repository": "fufar/simple-clock-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12249"
+  },
+  {
+    "repository": "timmaurice/lovelace-bergfex-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12249"
+  },
+  {
+    "repository": "epoplavskis/homeassistant_salus",
+    "reason": "No activity in the repository since January 2025; its domain is taken over by the maintained fork Jordi-14/homeassistant_salus",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/9741"
+  },
+  {
+    "repository": "astrandb/miele",
+    "reason": "Replaced by the Miele integration in Home Assistant core",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5632"
+  },
+  {
+    "repository": "pajeronda/xai_conversation",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12289"
+  },
+  {
+    "repository": "Dixet/homeassistant_geopulse",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12323"
+  },
+  {
+    "repository": "DaanVervacke/hass-engie-be",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12483"
+  },
+  {
+    "repository": "isabellaalstrom/lovelace-grocy-chores-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12483"
   }
 ]
