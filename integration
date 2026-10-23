@@ -2137,6 +2137,7 @@
   "lewei50/ha_iammeter_link",
   "lewei50/ha_iammeter_modbus",
   "lfavole/ha-algopattern",
+  "lgladdy/ha-southglos-recycling",
   "lhw/cloudweatherproxy",
   "liampetti/fulloch",
   "libdyson-wg/ha-dyson",
