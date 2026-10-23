@@ -3093,5 +3093,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/12483"
+  },
+  {
+    "repository": "moryoav/ha-gwm",
+    "reason": "Removal requested by the owner, the repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/integration/issues/5528"
   }
 ]
