@@ -1577,6 +1577,7 @@
   "ha-parcel-integrations/ha-paack",
   "ha-parcel-integrations/ha-packeta",
   "ha-parcel-integrations/ha-parcel-aggregator",
+  "ha-parcel-integrations/ha-pdn-express",
   "ha-parcel-integrations/ha-planzer",
   "ha-parcel-integrations/ha-poczta-polska",
   "ha-parcel-integrations/ha-poste-italiane",
