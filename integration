@@ -1554,6 +1554,7 @@
   "heidrickla/ha-att-router-reboot",
   "heidrickla/ha-culligan-azure",
   "heidrickla/ha-glkvm",
+  "heidrickla/ha-power-fingerprint",
   "heidrickla/ha-tuxedo-touch",
   "heindrichpaul/ennatuurlijk_disruptions",
   "helgeklein/ha-pi-thermostat-cca-control",
