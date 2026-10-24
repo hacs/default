@@ -335,6 +335,7 @@
   "mletenay/home-assistant-ev-charge-control",
   "mlowijs/HomeAssistant-TeslaCustomComponent",
   "modrzew/hass-flashforge-adventurer-3",
+  "moryoav/ha-gwm",
   "moryoav/ha-gwm_ora",
   "Mr-Groch/HA-Emulated-Color-Temp-Light",
   "msekoranja/emsc-hacs-repository",
