@@ -658,6 +658,7 @@
   "christianvaes/homeassistant-apsystems_modbus",
   "christofpichler/ha-solar-load-controller",
   "ChristopherJacob/ha-countrymod-ac",
+  "ChristophKomenda/pironman5-homeassistant-container",
   "ChrisTracy/clickpi_garage_door",
   "Chuffnugget/volcano_integration",
   "ciejer/metservice-weather",
