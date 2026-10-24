@@ -1891,6 +1891,7 @@
   "jayjojayson/hass-victron-vrm-api",
   "jayzuccarelli/ha-memory",
   "jazzz/ha-evocarshare",
+  "jbdelavoix/evsemasterudp",
   "jbergler/hass-ttlock",
   "jbouwh/ha-elro-connects",
   "jcgoette/baby_buddy_homeassistant",
