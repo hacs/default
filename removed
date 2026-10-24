@@ -3096,8 +3096,8 @@
   },
   {
     "repository": "OtisPresley/snmp-switch-manager-card",
-    "reason": "Removal requested by the owner",
+    "reason": "Repository no longer exists",
     "removal_type": "remove",
-    "link": "https://github.com/hacs/default/pull/8900"
+    "link": "https://github.com/hacs/default/pull/12526"
   }
 ]
