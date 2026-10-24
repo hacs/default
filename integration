@@ -1489,6 +1489,7 @@
   "ha-parcel-integrations/ha-bpost",
   "ha-parcel-integrations/ha-budbee",
   "ha-parcel-integrations/ha-canpar",
+  "ha-parcel-integrations/ha-cargus",
   "ha-parcel-integrations/ha-ceska-posta",
   "ha-parcel-integrations/ha-correos",
   "ha-parcel-integrations/ha-ctt",
