@@ -60,6 +60,7 @@
   "bbbenji/synthwave-hass-extras",
   "BeGiBue/home-assistant-eaton-ups-card",
   "BeGiBue/home-assistant-nas-card",
+  "BeGiBue/home-assistant-system-monitor-card",
   "BeGiBue/home-assistant-touchkio-card",
   "ben8p/lovelace-auto-reload-card",
   "ben8p/lovelace-tab-redirect-card",
