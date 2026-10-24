@@ -879,6 +879,7 @@
   "danobot/entity-controller",
   "DanPir/by-alarm-saig-ha-integration",
   "danq8/neo_watcher",
+  "danrspencer/flare",
   "danwoodsy/autel-maxicharger-ha",
   "darek-margas/ha-pvoutput-uploader",
   "Daring-Designs/meshtastic-ui-ha",
