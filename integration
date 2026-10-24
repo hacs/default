@@ -1134,6 +1134,7 @@
   "Elwinmage/ha-aquamedic-component",
   "Elwinmage/ha-reef-maintenance-component",
   "Elwinmage/ha-reefbeat-component",
+  "Elwinmage/ha-reeftank-component", 
   "Elwinmage/ha-usr-r16-component",
   "eman/ha_nwp500",
   "eman/homeassistant-quilt-hp",
