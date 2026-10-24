@@ -2729,6 +2729,7 @@
   "mullender/ha-tides",
   "mullerdavid/hass_GreeExt",
   "Multigestern/Kostal-Piko-Solar-Monitor",
+  "muradjabir/ha-ceb-electricity-bill",
   "mutilator/Clockwork",
   "mutilator/homeassistant-iqua-softener",
   "mutilator/homeassistant-zone-label-trigger",
