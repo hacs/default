@@ -2226,6 +2226,7 @@
   "louispires/Oura-Home-Assistant-Integration",
   "louisremi/ha-aohi-charger",
   "lovelylain/hass_ingress",
+  "lowlysre/ha-backup-resilio",
   "lrehmann/pihole_presence",
   "lsellens/thesimple-thermostat",
   "LucaFSmart/codex-usage",
