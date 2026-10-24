@@ -480,6 +480,7 @@
   "blakeblackshear/frigate-hass-integration",
   "blear/hasslife",
   "blues-sechseck/Mitsubishi-WF-RAC-Integration",
+  "bluetti-community/hassio-bluetti-modbus",
   "bm1549/home-assistant-frigidaire",
   "bndtblds/homeassistant-vorwerk",
   "bobbesnl/growatt_thor",
