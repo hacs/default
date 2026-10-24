@@ -857,6 +857,7 @@
   "dankeder/HomeAssistant-MeteoBlue",
   "DannyOosterveer/ourgrid",
   "danobot/entity-controller",
+  "DanPir/by-alarm-saig-ha-integration",
   "danq8/neo_watcher",
   "danwoodsy/autel-maxicharger-ha",
   "darek-margas/ha-pvoutput-uploader",
