@@ -1497,6 +1497,7 @@
   "ha-parcel-integrations/ha-dpd",
   "ha-parcel-integrations/ha-dragonfly",
   "ha-parcel-integrations/ha-dynalogic",
+  "ha-parcel-integrations/ha-early-bird",
   "ha-parcel-integrations/ha-econt",
   "ha-parcel-integrations/ha-fan-courier",
   "ha-parcel-integrations/ha-gls",
