@@ -3635,6 +3635,7 @@
   "sockless-coding/senz-wifi",
   "SocrateMobile/DomoLink-Planification",
   "SocrateMobile/Domolink-Pool-Control",
+  "SocrateMobile/Domolink-Scale",
   "SocrateMobile/Domolink-transport",
   "SocrateMobile/home-architect",
   "softi-dev/tag-historian-clients",
