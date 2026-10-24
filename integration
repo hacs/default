@@ -2907,6 +2907,7 @@
   "olzeug/ha-vacation-mode",
   "oMtQB4/HomeAssistant-Pracht-Alpha-Wallbox-Custom-Component",
   "oMtQB4/HomeAssistant-Tinkerforge-Warp-Wallbox-Custom-Component",
+  "Onixarts/ha_hapcan",
   "onpremcloudguy/HelloSmart_HomeAssistant",
   "oooohhoo/tokit_cooker",
   "oooshk/ha-conversation-router",
