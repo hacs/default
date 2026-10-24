@@ -1535,6 +1535,7 @@
   "ha-parcel-integrations/ha-ics-courier",
   "ha-parcel-integrations/ha-inpost",
   "ha-parcel-integrations/ha-laposte",
+  "ha-parcel-integrations/ha-magyar-posta",
   "ha-parcel-integrations/ha-matkahuolto",
   "ha-parcel-integrations/ha-mondial-relay",
   "ha-parcel-integrations/ha-nova-post",
