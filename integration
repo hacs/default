@@ -1520,6 +1520,7 @@
   "ha-parcel-integrations/ha-dynalogic",
   "ha-parcel-integrations/ha-econt",
   "ha-parcel-integrations/ha-fan-courier",
+  "ha-parcel-integrations/ha-fedex",
   "ha-parcel-integrations/ha-gls",
   "ha-parcel-integrations/ha-gobolt",
   "ha-parcel-integrations/ha-hermes",
