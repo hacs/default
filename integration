@@ -1531,6 +1531,7 @@
   "ha-parcel-integrations/ha-colis-prive",
   "ha-parcel-integrations/ha-correos",
   "ha-parcel-integrations/ha-ctt",
+  "ha-parcel-integrations/ha-dao",
   "ha-parcel-integrations/ha-delhivery",
   "ha-parcel-integrations/ha-dhl",
   "ha-parcel-integrations/ha-dhl-nl",
