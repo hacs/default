@@ -1517,6 +1517,7 @@
   "ha-parcel-integrations/ha-canpar",
   "ha-parcel-integrations/ha-cdl-last-mile",
   "ha-parcel-integrations/ha-ceska-posta",
+  "ha-parcel-integrations/ha-colis-prive",
   "ha-parcel-integrations/ha-correos",
   "ha-parcel-integrations/ha-ctt",
   "ha-parcel-integrations/ha-delhivery",
