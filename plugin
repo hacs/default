@@ -285,6 +285,7 @@
   "go-hass/go-hass-cards",
   "goggybox/compact-light-card",
   "GpsM2/flightradar24-splitflap-card",
+  "gratak/solar-flow-card",
   "grigorii-horos/ha-plugins",
   "guiohm79/custom-gauge-card",
   "guiohm79/dual_gauge",
