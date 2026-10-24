@@ -3405,6 +3405,7 @@
   "sockless-coding/ha-eaton-ups-companion",
   "sockless-coding/panasonic_cc",
   "sockless-coding/senz-wifi",
+  "soerenadk/pillefyr-ha",
   "SoftwareSchmied/ha-ambientika-ventilation",
   "SoftwareSchmied/ha-bosch-buderus-heating",
   "SoftXperience/home-assistant-foxess-api",
