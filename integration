@@ -617,6 +617,7 @@
   "cdmicacc/delta-voiceiq-2.0-ha",
   "cdnninja/yoto_ha",
   "Cebbas/smart_pump_scheduler",
+  "cedhuf/ha-braun-ble",
   "cedricziel/ha-matter-binding-helper",
   "cedricziel/ha-sunlit",
   "cem-ayyildiz/spraying-control",
