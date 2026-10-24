@@ -2299,6 +2299,7 @@
   "lizardsystems/hass-tnse",
   "ljbotero/hvac-vent-optimizer",
   "ljmerza/ac-infinity-airtap-ble",
+  "ljmerza/ha-nest-protect-plus",
   "ljmerza/irrigation_manager",
   "ljmerza/orbit-bhyve-ble",
   "ljmerza/tracking-numbers",
