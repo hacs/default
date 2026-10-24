@@ -3497,6 +3497,7 @@
   "ShowPilotFPP/ha-falcon-controller",
   "shuette42/ecoflow-energy-ha",
   "Shulyaka/telegram_bot_conversation",
+  "sibartlett/ha-bold",
   "sibest19/ha-onebyone-scale",
   "sibest19/hass-meteoam",
   "sibizaestruch/sunrise-alarm",
