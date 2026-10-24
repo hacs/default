@@ -495,6 +495,7 @@
   "bodyscape/cielo_home",
   "boiler4/ha-torrserver",
   "BoilerController/boiler-controller-ha",
+  "boonstraworks/ha-storingen-in-je-buurt",
   "boonstraworks/homeassistant-112hier",
   "boot-nyxpoint/prana-wifi",
   "Booyaka101/hass-breakage-radar",
