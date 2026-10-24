@@ -1512,6 +1512,7 @@
   "ha-parcel-integrations/ha-boxnow",
   "ha-parcel-integrations/ha-bpost",
   "ha-parcel-integrations/ha-budbee",
+  "ha-parcel-integrations/ha-canada-post",
   "ha-parcel-integrations/ha-canpar",
   "ha-parcel-integrations/ha-ceska-posta",
   "ha-parcel-integrations/ha-correos",
