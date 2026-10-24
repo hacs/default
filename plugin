@@ -63,6 +63,7 @@
   "BeGiBue/home-assistant-slzb-card",
   "BeGiBue/home-assistant-system-monitor-card",
   "BeGiBue/home-assistant-touchkio-card",
+  "BeGiBue/home-assistant-unifi-card",
   "ben8p/lovelace-auto-reload-card",
   "ben8p/lovelace-tab-redirect-card",
   "benct/lovelace-battery-entity-row",
