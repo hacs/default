@@ -1522,6 +1522,7 @@
   "ha-parcel-integrations/ha-fan-courier",
   "ha-parcel-integrations/ha-gls",
   "ha-parcel-integrations/ha-hermes",
+  "ha-parcel-integrations/ha-ics-courier",
   "ha-parcel-integrations/ha-inpost",
   "ha-parcel-integrations/ha-laposte",
   "ha-parcel-integrations/ha-nova-post",
