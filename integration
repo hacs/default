@@ -1643,6 +1643,7 @@
   "hebrru/baillclim",
   "hebrru/Hager-local",
   "hectorespert/som-energia-hass",
+  "heidrickla/ha-agent-harness-performance-tracker",
   "heidrickla/ha-att-router-reboot",
   "heidrickla/ha-culligan-azure",
   "heidrickla/ha-glkvm",
