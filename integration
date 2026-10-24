@@ -640,6 +640,7 @@
   "chrisns/hisense_vidaa",
   "christiaangoossens/hass-oidc-auth",
   "christianreiss/ha-silverline",
+  "christianvaes/homeassistant-apsystems_modbus",
   "christofpichler/ha-solar-load-controller",
   "ChristopherJacob/ha-countrymod-ac",
   "ChrisTracy/clickpi_garage_door",
