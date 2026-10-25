@@ -2995,6 +2995,7 @@
   "PacmanForever/simple_device_creator",
   "PacmanForever/switchflow_controller",
   "pacorola/Atmoce_battery_HA",
+  "pafernanr/homeassistant-4heatlite",
   "pail23/stiebel_eltron_isg_component",
   "pajew-ski/ha-speedport",
   "pallemannen/hass-calendar-admin",
