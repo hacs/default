@@ -124,6 +124,7 @@
   "aldweb/ha-lg-hombot",
   "aldweb/ha-openwrt-mqtt",
   "aldweb/ha-tasmota-mielhvac",
+  "aleho/ha-ovum-mira",
   "Aleks130699/ha-fpp",
   "alemuro/ha-cecotec-conga",
   "alengwenus/ha-sma-ev-charger",
