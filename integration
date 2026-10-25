@@ -2394,6 +2394,7 @@
   "lufton/ha_telegram_client",
   "luguina/arozen_eon_hass",
   "luguina/kirri-beacon-hass",
+  "luigibarretta/vistoda-blink",
   "luigibarretta/vistoda-home-assistant",
   "luis-garza/movistar_rft8115vw",
   "lukab-dev/ha-layers",
