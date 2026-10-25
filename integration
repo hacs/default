@@ -2595,6 +2595,7 @@
   "mb-software/homeassistant-powerbrain",
   "mbillow/ha-chargepoint",
   "mbillow/localthings",
+  "mbsintegrations/HomeAssistant-BarnaRecycling",
   "mbuchber/ha_heliotherm",
   "mcapmari/ha-djv_meter",
   "mcflypl/ha-pello",
