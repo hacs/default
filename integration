@@ -3313,6 +3313,7 @@
   "rhizomatics/autoarm",
   "rhizomatics/remote_logger",
   "rhizomatics/supernotify",
+  "rhshourav/hass-peekesp",
   "rhyskoedijk/ha-ecotricity-nz",
   "richardvinger/f1-25-telemetry-for-home-assistant",
   "rickertie/Poolsmart",
