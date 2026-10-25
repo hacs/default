@@ -1889,6 +1889,7 @@
   "jasonjhofmann/aranet-cloud-homeassistant",
   "jasonjhofmann/sensoredlife-homeassistant",
   "jasonjhofmann/visiblair-homeassistant",
+  "jasonmx/device-side",
   "jasonmx/hue-smooth-dimming",
   "jasonwragg/home-assistant-readynaslocal",
   "jasperslits/haithowifi",
