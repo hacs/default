@@ -550,6 +550,7 @@
   "bru-living/ha-nuvo-m3",
   "bru-living/ha-nuvo-t2fam",
   "Brunas/meteo_lt_by_brunas",
+  "brunoz78/generic_realtek_switch_ha",
   "bscholer/home-assistant-comma-ai",
   "bttfw/ha-dispatcharr",
   "buchuman/hisense_vrf",
