@@ -3317,6 +3317,7 @@
   "rhanekom/hass-qwikswitch-api",
   "rhizomatics/appliance_autonotify",
   "rhizomatics/autoarm",
+  "rhizomatics/camera_autonotify",
   "rhizomatics/remote_logger",
   "rhizomatics/supernotify",
   "rhyskoedijk/ha-ecotricity-nz",
