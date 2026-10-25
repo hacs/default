@@ -2423,6 +2423,7 @@
   "MacSiem/ha-sentence-manager",
   "MacSiem/ha-tools-email-integration",
   "MacSiem/ha-vacuum-water-monitor",
+  "MacSiem/ha-yaml-checker",
   "macxq/foxess-ha",
   "MadMatt34/ha-freebox-caller-id",
   "MadMatt34/ha-monitoring",
