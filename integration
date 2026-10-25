@@ -1296,6 +1296,7 @@
   "feiming/homeassistant-MyTNB",
   "felippepuhle/tholz-hass-integration",
   "felixblang/ha-cisco-meraki",
+  "felixvanoost/ha-carma-direct-consumption",
   "fenggewl/soyo-home-assistant",
   "Feramance/malta-met-office",
   "FernandoZueet/messages_store",
