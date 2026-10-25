@@ -2528,6 +2528,7 @@
   "martindell/ha-entity-notes",
   "MartinDybal/TapHome-HomeAssistant",
   "martinhoyer/ha-pre-hdo",
+  "martinjuhasz/ha-daytime-sc25",
   "martins-netizen/ha-meiertobler-smartguard",
   "martins-netizen/ha-meteoswiss",
   "martinstafford/daikin_d3net",
