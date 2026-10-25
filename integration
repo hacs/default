@@ -1752,6 +1752,7 @@
   "iamacarpet/homeassistant_orisec",
   "iamkarlson/grocy",
   "IAmTheMitchell/renogy-ha",
+  "IAsDoubleYou/ha_mysql",
   "IAsDoubleYou/homeassistant-mysql_query",
   "IATkachenko/HA-SleepAsAndroid",
   "IATkachenko/HA-YandexWeather",
