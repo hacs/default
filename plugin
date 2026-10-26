@@ -281,6 +281,7 @@
   "Frickeldave/homeassistant-airflow",
   "frozenwizard/onlylocklock",
   "Future-Surfer/ha-area-glance-card",
+  "g-force-be/ha-miele-appliance-card",
   "gaco79/gcclock-words",
   "gadgetchnnel/lovelace-card-preloader",
   "gadgetchnnel/lovelace-card-templater",
