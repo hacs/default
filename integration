@@ -2522,7 +2522,7 @@
   "marq24/ha-tibber-pulse-local",
   "marq24/ha-waterkotte",
   "marsh4200/mhub",
-  "MarstekEnergy/hacs_marstek",
+  "MarstekEnergy/homeassistant-marstek",
   "martijnvanonz/airwallet-ha",
   "martinandersen84/gui-recorder",
   "martinarva/dynamic_energy_cost",
