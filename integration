@@ -305,6 +305,7 @@
   "arkane-systems/ha-notify-to-persistent",
   "arkane-systems/notify_mqtt",
   "armellarcier/ha-chauffage",
+  "armellarcier/ha-volume-small-step",
   "arnoudkooi/ha-hid-usbrelay",
   "ArnyminerZ/ha-axpert-inverter",
   "ArnyminerZ/ha-nuki-web",
