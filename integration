@@ -4254,11 +4254,6 @@
   "ZacheryThomas/homeassistant-smartrent",
   "zachowj/hass-node-red",
   "zerolo/aguasgaiaHA",
-<<<<<<< HEAD
-  "zeronounours/HA-custom-component-energy-meter",
-  "zigul/HomeAssistant-CEZdistribuce",
-  "ZsBT/hass-w1000-portal"
-=======
   "zackwag/aeraforhome-ha",
   "zackwag/landbook-ha",
   "zacs/ha-energycalc",
@@ -4297,5 +4292,4 @@
   "zuyan9/ha-wallecube-ble",
   "Zwer2k/ha-pca301",
   "zzdota/ha-owon"
->>>>>>> 6072453f (fix rebase issues)
 ]
