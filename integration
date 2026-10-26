@@ -177,6 +177,7 @@
   "altfoxie/ha-sberdevices",
   "Altrec/remko_mqtt-ha",
   "alves-dev/ai-usage",
+  "alves-dev/ha-activity-tracker",
   "alves-dev/ha-organizer",
   "alves-dev/ha-reminder",
   "alwilton/ha-fanimation-bt-3speed",
