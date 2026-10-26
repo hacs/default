@@ -1755,6 +1755,7 @@
   "IAsDoubleYou/homeassistant-mysql_query",
   "IATkachenko/HA-SleepAsAndroid",
   "IATkachenko/HA-YandexWeather",
+  "ibasebcast/ha-alarmdotcom",
   "Ibepower/Ibepower-Homeassistant-Integration",
   "IceSlam/ha-anycubic-cloud-connect",
   "Idelmaeaen/HA-Universal-Modbus",
