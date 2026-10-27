@@ -1909,6 +1909,7 @@
   "jcgoette/baby_buddy_homeassistant",
   "jcwillox/hass-auto-backup",
   "jdejaegh/irm-kmi-ha",
+  "jdntortosa/fermax-wayfi-ha",
   "jdolieslager/ha-budget-thuis",
   "jdrozdnovak/ha_pagerduty",
   "jdu-acit/ACIT_HA_Integration",
