@@ -1731,6 +1731,7 @@
   "HrGaertner/HA-vent-optimization",
   "hsakoh/ha-switchbot-kvs-camera",
   "hsk-dk/home-assistant-thermex",
+  "hsolgaard/zha-bindings-manager-integration",
   "hstrohmaier/ha_comfoconnectpro",
   "htlemos/keeplink-homeassistant",
   "hudsonbrendon/ha-gbs-control",
