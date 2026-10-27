@@ -708,6 +708,7 @@
   "CMGeorge/homeassistant_sabiana_smart_energy",
   "cmgrayb/hass-dyson",
   "cmunozgar/ha-buffer",
+  "cnapagoda/ha-powerwall-tedapi",
   "cnc-lasercraft/device-saver",
   "cnc-lasercraft/haclaude",
   "cnc-lasercraft/honda-wn7-wican",
