@@ -3912,6 +3912,7 @@
   "tibuntu/homeassistant-kubernetes",
   "ticstyle/Day-Modes",
   "ticstyle/PostNord-Mail-Delivery",
+  "ticstyle/System-Hardware-Info",
   "ticstyle/Visitors",
   "ticstyle/WattWatcher",
   "tiehfood/ha-festool-connected",
