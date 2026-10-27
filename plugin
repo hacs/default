@@ -645,6 +645,7 @@
   "omachala/ha-treemap-card",
   "oneseventhree/template-entity-row",
   "openlamp/openlamp-beat-card",
+  "openlamp/wled-assets-card",
   "othorg/rv-level-ha-lovelace-card",
   "Otixa/autocomplete-text-row",
   "Otixa/searchable-select-row",
