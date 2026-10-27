@@ -2311,6 +2311,7 @@
   "lewei50/ha_iammeter_link",
   "lewei50/ha_iammeter_modbus",
   "lfavole/ha-algopattern",
+  "lg-heatpump/lg_heatpump",
   "lgladdy/ha-southglos-recycling",
   "lhw/cloudweatherproxy",
   "liampetti/fulloch",
