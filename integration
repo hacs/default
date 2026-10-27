@@ -3134,6 +3134,7 @@
   "Pjarbit/home-assistant-combined-notification-integration",
   "pjordanandrsn/ha-generac",
   "pkarimov/jukeaudio_ha",
+  "pkasarda/ha-brink-modbus",
   "pklinger/ha-plusportal",
   "plamish/xcomfort",
   "PlanetCitizen1829381/ha-nsw-beachwatch",
