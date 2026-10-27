@@ -2340,6 +2340,7 @@
   "lizardsystems/hass-taipit",
   "lizardsystems/hass-tnse",
   "ljbotero/hvac-vent-optimizer",
+  "ljlongwing/ha-flight-watch",
   "ljmerza/ac-infinity-airtap-ble",
   "ljmerza/irrigation_manager",
   "ljmerza/orbit-bhyve-ble",
