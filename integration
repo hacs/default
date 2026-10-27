@@ -1048,6 +1048,7 @@
   "dneprojects/ebus_bridge",
   "dneprojects/habitron",
   "dneprojects/mypv",
+  "doccodyblue/ha-pvstrings",
   "dolezsa/thermal_comfort",
   "DomCim/HA-Schoolday",
   "dominikamann/ha-machine-learning-based-pv-forecast",
