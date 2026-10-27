@@ -1157,6 +1157,7 @@
   "eigger/hass-vson",
   "eigger/hass-ws-bridge",
   "einFreak/ha-regensburg-transport",
+  "einspeisewacht/integration",
   "einToast/openai_stt_ha",
   "EiS94/db_info",
   "eklundjon/ha-haikubox",
