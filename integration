@@ -465,6 +465,7 @@
   "binarylogic/stewart-filmscreen-homeassistant",
   "binarylogic/trinnov-altitude-homeassistant",
   "binsentsu/home-assistant-solaredge-modbus",
+  "bisman-automations/ha-mdu",
   "BirknerAlex/ha-1komma5grad",
   "birniger/soundbox-home-assistant",
   "Bitf1ip/ha-hydros",
