@@ -566,6 +566,7 @@
   "bvweerd/dynamic_energy_contract_calculator",
   "bvweerd/simple_pid_controller",
   "bwcon/homeassistant-crestron-home",
+  "bwitosze/ha-ksef",
   "bxthomas/tesira_ttp",
   "bygadd/network-tracker-zones",
   "bytenik/ha-scoped-assist",
