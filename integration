@@ -3135,6 +3135,7 @@
   "pjordanandrsn/ha-generac",
   "pkarimov/jukeaudio_ha",
   "pklinger/ha-plusportal",
+  "PlainSeer/ha-alphaess-modbus-tcp",
   "plamish/xcomfort",
   "PlanetCitizen1829381/ha-nsw-beachwatch",
   "plantlab-ai/home-assistant-plantlab",
