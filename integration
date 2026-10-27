@@ -3314,6 +3314,7 @@
   "rgerbranda/rbfa",
   "rgerr/hass-whatsgps",
   "Rhaiderr/homeassistant-cloudflare-ip-sync",
+  "rhanekom/hass-ezviz-stream",
   "rhanekom/hass-qwikswitch-api",
   "rhizomatics/appliance_autonotify",
   "rhizomatics/autoarm",
