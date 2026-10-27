@@ -2598,6 +2598,7 @@
   "mb-software/homeassistant-powerbrain",
   "mbillow/ha-chargepoint",
   "mbillow/localthings",
+  "mbsintegrations/HomeAssistant-CalorGas",
   "mbuchber/ha_heliotherm",
   "mcapmari/ha-djv_meter",
   "mcflypl/ha-pello",
