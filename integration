@@ -746,6 +746,7 @@
   "CoreTex/homeassistant-eebus",
   "corgan2222/ha-better-presence2",
   "corgan2222/ha-clawdmeter",
+  "corgan2222/ha-milesight-gateway",
   "corporategoth/ha-powerpetdoor",
   "Corsw/homeassistant-generic-hygrostat",
   "cothal/ha-daikin-control",
