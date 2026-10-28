@@ -24,6 +24,7 @@
   "ADNPolymerase/ha-gate-card",
   "ADNPolymerase/ha-netatmo-card",
   "ADNPolymerase/ha-pluviometer-card",
+  "ADNPolymerase/ha-presence-sensor-card",
   "ADNPolymerase/ha-printer-card",
   "ADNPolymerase/oklyn-card",
   "ADNPolymerase/poollab-card",
