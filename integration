@@ -3144,6 +3144,7 @@
   "plmilord/Hass.io-custom-component-ikamand",
   "plmilord/Hass.io-custom-component-spaclient",
   "plmilord/Hass.io-custom-component-superior-propane",
+  "pmelendez2/ha-energy-usage",
   "pmoranga/ha-environment-monitor",
   "pmq/stiebel-eltron-http",
   "Pocke01/homeassistant-solamagic",
