@@ -1099,6 +1099,7 @@
   "DSorlov/RFLinkUI",
   "DSorlov/snmp_printer",
   "DSorlov/swemail",
+  "dstamen/myusage-ha",
   "DTekNO/ha-entur_sx",
   "DTekNO/mspa-homeassistant",
   "DTekNO/norway_alerts",
