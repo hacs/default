@@ -458,6 +458,7 @@
   "bigmoby/ialarm_controller",
   "BigNocciolino/CryptoTracker",
   "BigPiloto/ha-drugstore-stock",
+  "bigurka/ha-lan-power-manager",
   "bigurka/neopill",
   "billgeo/ha-daikin-airbase-hotwater",
   "binarydev/ha-generac",
