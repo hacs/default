@@ -661,6 +661,7 @@
   "chrisfore/anycubic_ha_local",
   "chrisns/ha-abacusmentalmath",
   "chrisns/hisense_vidaa",
+  "chrisns/pulse-eight-matrix",
   "christiaangoossens/hass-oidc-auth",
   "christianreiss/ha-silverline",
   "christianvaes/homeassistant-apsystems_modbus",
