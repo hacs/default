@@ -528,6 +528,7 @@
   "braytonstafford/grok_conversation",
   "Brazen00/victron-evse-homeassistant",
   "breed007/ha-fleetdm",
+  "breed007/ha-librenms",
   "Breina/idrac_power_monitor",
   "Breina/nad_controller",
   "Breina/PowerTagGateway",
