@@ -1935,6 +1935,7 @@
   "jeroenterheerdt/HADailySensor",
   "jeroenterheerdt/HAsmartirrigation",
   "jerrit/ha-base-power",
+  "jertech/verdi-ha",
   "jerzik/poda-data",
   "jesmak/fmi",
   "jesserockz/ha-leafspy",
