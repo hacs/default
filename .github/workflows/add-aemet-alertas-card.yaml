@@ -1,0 +1,42 @@
+name: Prepare AEMET Alertas Card HACS entry
+
+on:
+  push:
+    branches:
+      - add-aemet-alertas-card
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Add repository to plugin list
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path("plugin")
+          entries = json.loads(path.read_text())
+          entry = "jacumal/aemet-alertas-card"
+
+          if entry not in entries:
+              key = entry.casefold()
+              index = next((i for i, value in enumerate(entries) if value.casefold() > key), len(entries))
+              entries.insert(index, entry)
+              path.write_text(json.dumps(entries, indent=2, ensure_ascii=False) + "\n")
+          PY
+
+      - name: Commit plugin list and remove temporary workflow
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm .github/workflows/add-aemet-alertas-card.yaml
+          git add plugin
+          git diff --cached --quiet && exit 0 || true
+          git commit -m "Add jacumal/aemet-alertas-card to plugin list"
+          git push
