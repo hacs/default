@@ -2345,6 +2345,7 @@
   "ljmerza/orbit-bhyve-ble",
   "ljmerza/tracking-numbers",
   "ljmerza/utilities_email_tracker",
+  "ljmerza/zwave-multicast-group",
   "lloydw/hass-spanet",
   "lmt-lv/lmt-iot-ha-integration",
   "lnagel/hass-eaton-ups-mqtt",
