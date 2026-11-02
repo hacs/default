@@ -477,6 +477,7 @@
   "bisman-automations/ha-button-actions",
   "bisman-automations/ha-ford-assistant",
   "bisman-automations/ha-holiday-lighting",
+  "bisman-automations/ha-mdu",
   "bisman-automations/ha-media-mgmt",
   "bisman-automations/ha-tv-mgmt",
   "Bitf1ip/ha-hydros",
