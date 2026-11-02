@@ -1014,6 +1014,7 @@
   "dietrichmax/colota-home-assistant",
   "DigiMeld/pushmeld-home-assistant",
   "DigitalBites/LabelMateScene",
+  "DigitalIQ/ha-guestbook",
   "DigitalIQ/presence-planner",
   "DigitallyRefined/ha-cloudflare-speed-test",
   "DigitallyRefined/ha-hwmon_temp",
