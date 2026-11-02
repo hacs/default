@@ -4094,6 +4094,7 @@
   "tomer-w/ha-nmea2000",
   "tomer-w/ha-victron-mqtt",
   "tomereli/ha-mahlkoenig-sync",
+  "ToMeRhh/hass_broadcast",
   "tomislavherman/ha-window-state",
   "TomTuTHub/mitsubishi-outlander-phev-eu",
   "TomTuTHub/tomtut-pool-dosing-vigipool",
