@@ -105,6 +105,7 @@
   "akinin/ha_keenetic",
   "akinin/wirenboard-discovery",
   "akoonet-homeassistant/Calypshome-ha",
+  "akoonet-homeassistant/lights_simulator",
   "akoonet-homeassistant/volets_intelligents",
   "akshimassar/ha-fortum",
   "akustikrausch/gonzales-integration",
