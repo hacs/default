@@ -1195,6 +1195,7 @@
   "eigger/hass-ws-bridge",
   "eilwacht/integration",
   "einFreak/ha-regensburg-transport",
+  "einspeisewacht/integration",
   "einToast/openai_stt_ha",
   "EiS94/db_info",
   "eizedev/ha-synology-srm-router",
