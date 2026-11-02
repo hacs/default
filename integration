@@ -475,6 +475,7 @@
   "birniger/soundbox-home-assistant",
   "bisman-automations/ha-appliance-live-activity",
   "bisman-automations/ha-button-actions",
+  "bisman-automations/ha-daily-routine",
   "bisman-automations/ha-ford-assistant",
   "bisman-automations/ha-holiday-lighting",
   "bisman-automations/ha-mdu",
