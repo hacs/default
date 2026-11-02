@@ -3918,6 +3918,7 @@
   "SSmale/Duux-Home-Assistant",
   "stackia/ha-deye-dehumidifier",
   "stacknoise/haac-bridge",
+  "stacknoise/hass-test-data-creator",
   "stanus74/home-assistant-saj-h2-modbus",
   "starwarsfan/moving-colors",
   "starwarsfan/shadow-control",
