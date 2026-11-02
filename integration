@@ -2200,6 +2200,7 @@
   "kedube/ha-hellofresh",
   "kedube/ha-norman",
   "keesmod/ha-eufy-cam",
+  "kegelmeier/ha-opus-greennet",
   "keidischoi/ha-3ds-link",
   "KeldorDE/Home-Assistant-AV-Access",
   "kelvan/ha-nodeping-status",
