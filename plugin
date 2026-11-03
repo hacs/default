@@ -523,6 +523,7 @@
   "luigi-regolo/climate-control-card",
   "luigi-regolo/cover-flow-card",
   "luigi-regolo/energy-scope-card",
+  "luigi-regolo/entity-health-card",
   "luigi-regolo/glowfloor-card",
   "luigi-regolo/luma-control-card",
   "luigi-regolo/room-selector-card",
