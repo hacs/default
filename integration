@@ -1038,6 +1038,7 @@
   "denysdovhan/ha-yasno-outages",
   "der-pw/When-to-Ventilate",
   "derekclapham/ha-powerpool",
+  "derflerd/ha-mast-water-utility",
   "derliebemarcus/homeassistant_teltonika_rms",
   "dermotduffy/hass-web-proxy-integration",
   "derolli1976/enpal",
