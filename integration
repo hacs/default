@@ -4853,6 +4853,7 @@
   "zoic21/ha_alert_manager",
   "zollak/homeassistant-mikrotik_swos",
   "zollak/homeassistant-syslog-receiver",
+  "zomtec/hacs-kathrein-wallbox",
   "zqs1qiwan/ha-mihomo-ctrl",
   "zsaklak/slimmelezer-demasz",
   "zubir2k/homeassistant-dailyhadith",
