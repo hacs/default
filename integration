@@ -2289,6 +2289,7 @@
   "jrx-code/hassio-background-sun-cycle",
   "jrx-code/hassio-integration-aquilo-local",
   "jrx-code/hassio-integration-birdnet",
+  "jrx-code/hassio-integration-dreame-fan",
   "jrx-code/hassio-integration-unifi-sms",
   "jrx-code/hassio-integration-wanas",
   "jrx-code/hassio-integration-weber",
