@@ -1,4 +1,4 @@
-[
+
   "0Paul89/vienna-transport-card",
   "0xAHA/solar-bar-card",
   "0xwilko/skywatch-card",
@@ -880,6 +880,7 @@
   "T-o-n-i/sweet-spot-card",
   "t1gr0u/rain-gauge-card",
   "t1gr0u/uv-index-card",
+  "Takifighter/lovelace-solar-heatmap",
   "tcarlsen/lovelace-light-with-profiles",
   "tdvtdv/ha-tdv-bar",
   "tempi-marathon/vedurkort-weather-card",
