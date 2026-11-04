@@ -531,6 +531,7 @@
   "bisman-automations/ha-button-actions",
   "bisman-automations/ha-daily-routine",
   "bisman-automations/ha-device-info",
+  "bisman-automations/ha-device-linker",
   "bisman-automations/ha-ford-assistant",
   "bisman-automations/ha-holiday-lighting",
   "bisman-automations/ha-mdu",
