@@ -4774,6 +4774,7 @@
   "self-labs/controlart",
   "self-labs/tasmota-ir",
   "semichcsc-byte/broadlink-commands",
+  "semichcsc-byte/rfxcom-commands",
   "Semir333/meross_boiler_sync",
   "senalse/ha-alphaess-modbus",
   "SenMorgan/EX-HABridge",
