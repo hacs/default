@@ -21,6 +21,8 @@ jobs:
   preflight:
     runs-on: ubuntu-latest
     name: Preflight
+    permissions:
+      issues: read
     outputs:
       repository: ${{ steps.repository.outputs.repository }}
       category: ${{ steps.category.outputs.category }}
@@ -29,15 +31,20 @@ jobs:
       - name: Determine run type
         id: run_type
         env:
-          HAS_REMOVAL: ${{ contains(github.event.pull_request.labels.*.name, 'remove-repositories') }}
-          HAS_NEW_REPO: ${{ contains(github.event.pull_request.labels.*.name, 'New default repository') }}
-          HAS_RENAMED: ${{ contains(github.event.pull_request.labels.*.name, 'renamed-repositories') }}
+          GH_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
         run: |
-          if [ "$HAS_NEW_REPO" == "true" ]; then
+          # Read the current labels from the API, not from the event payload.
+          # The bot labels new PRs seconds after they open, and the run for
+          # that label event can get cancelled in favor of the "opened" run,
+          # whose payload has no labels yet. All checks would then skip.
+          labels=$(gh api "repos/${GITHUB_REPOSITORY}/issues/${PR_NUMBER}/labels" --jq '.[].name')
+
+          if grep -qx "New default repository" <<< "$labels"; then
             echo "run_type=new-repository" >> $GITHUB_OUTPUT
-          elif [ "$HAS_RENAMED" == "true" ]; then
+          elif grep -qx "renamed-repositories" <<< "$labels"; then
             echo "run_type=rename" >> $GITHUB_OUTPUT
-          elif [ "$HAS_REMOVAL" == "true" ]; then
+          elif grep -qx "remove-repositories" <<< "$labels"; then
             echo "run_type=removal" >> $GITHUB_OUTPUT
           else
             echo "run_type=unknown" >> $GITHUB_OUTPUT
@@ -198,6 +205,34 @@ jobs:
         env:
           REPOSITORY: ${{needs.preflight.outputs.repository}}
 
+  core_domain_conflict:
+    runs-on: ubuntu-latest
+    name: Core domain conflict
+    needs: preflight
+    if: needs.preflight.outputs.category == 'integration' && needs.preflight.outputs.run_type == 'new-repository'
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v7.0.0
+        with:
+          python-version-file: ".python-version"
+          cache: "pip"
+          cache-dependency-path: "requirements.txt"
+
+      - name: Clone new addition
+        run: |
+          git clone --depth 1 "https://github.com/${{needs.preflight.outputs.repository}}" /tmp/repositories/addition
+
+      - name: Install dependencies if needed
+        run: scripts/setup
+
+      - name: Run the check
+        run: python3 -m scripts.check.core_domain_conflict
+
   hassfest:
     runs-on: ubuntu-latest
     name: Hassfest
@@ -243,6 +278,7 @@ jobs:
       - releases
       - removed
       - existing
+      - core_domain_conflict
       - hassfest
       - hacs
     if: always()
