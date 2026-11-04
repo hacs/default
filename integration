@@ -2089,6 +2089,7 @@
   "jeroenterheerdt/grillbuddy",
   "jeroenterheerdt/HADailySensor",
   "jerrit/ha-base-power",
+  "jertech/verdi-ha",
   "jerzik/poda-data",
   "jesmak/fmi",
   "jesserockz/ha-leafspy",
