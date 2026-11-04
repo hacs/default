@@ -2105,6 +2105,7 @@
   "jdolieslager/ha-budget-thuis",
   "jdrozdnovak/ha_pagerduty",
   "jdu-acit/ACIT_HA_Integration",
+  "jebeke65/ha-context-engine",
   "jebeke65/ha-energy-balancer",
   "jebeke65/room-power-aggregator",
   "jeburks2/wallecube-bt-ha",
