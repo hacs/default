@@ -2207,6 +2207,7 @@
   "jertech/verdi-ha",
   "jerzik/poda-data",
   "jesmak/digitraffic_live",
+  "jesmak/digitransit_live",
   "jesmak/fmi",
   "jesmak/thl",
   "jesperhardyson/sopor-home-assistant",
