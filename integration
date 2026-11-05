@@ -782,6 +782,7 @@
   "christianreiss/ha-silverline",
   "christianvaes/homeassistant-apsystems_modbus",
   "christofpichler/ha-solar-load-controller",
+  "ChristophBellmann/ha-radar-occupancy",
   "ChristopherJacob/ha-countrymod-ac",
   "ChristophKomenda/pironman5-homeassistant-container",
   "ChrisTracy/clickpi_garage_door",
