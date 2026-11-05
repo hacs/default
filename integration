@@ -1325,6 +1325,7 @@
   "eigger/hass-ble-led-sign",
   "eigger/hass-esphome-ota",
   "eigger/hass-jaalee",
+  "eigger/hass-kibble",
   "eigger/hass-kma",
   "eigger/hass-lywsd02",
   "eigger/hass-magic-caster-wand",
