@@ -2200,6 +2200,7 @@
   "jebeke65/ha-context-engine",
   "jebeke65/ha-energy-balancer",
   "jebeke65/room-power-aggregator",
+  "jebentancour/ha-carlinko",
   "jeburks2/wallecube-bt-ha",
   "Jef-NL/trmnl-webhook-push",
   "JeffSteinbok/hass-dreo",
