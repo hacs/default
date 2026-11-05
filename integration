@@ -1330,6 +1330,7 @@
   "EHylands/ha-qolsys-panel",
   "eifinger/hass-foldingathomecontrol",
   "eifinger/hass-weenect",
+  "eigger/hass-atflee",
   "eigger/hass-ble-esl",
   "eigger/hass-ble-led-sign",
   "eigger/hass-esphome-ota",
