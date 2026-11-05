@@ -2223,6 +2223,7 @@
   "jerrit/ha-base-power",
   "jertech/verdi-ha",
   "jerzik/poda-data",
+  "jesmak/adsb_live",
   "jesmak/birds_nearby",
   "jesmak/digitraffic_live",
   "jesmak/digitransit_live",
