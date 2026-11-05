@@ -250,11 +250,16 @@ jobs:
 
       - name: Run hassfest
         run: |
+          set -o pipefail
           integration=$(python3 -m scripts.helpers.integration_path)
           domain=$(python3 -m scripts.helpers.domain)
           docker run --rm \
             -v "$integration":"/github/workspace/custom_components/$domain" \
-            ghcr.io/home-assistant/hassfest:latest
+            ghcr.io/home-assistant/hassfest:latest | tee /tmp/hassfest.log
+          # Hassfest only warns about brand images of custom integrations; fail new additions on them.
+          if grep -F "[WARNING] [BRAND_IMAGES]" /tmp/hassfest.log; then
+            exit 1
+          fi
 
   hacs:
     runs-on: ubuntu-latest
