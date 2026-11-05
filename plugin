@@ -550,6 +550,7 @@
   "luigi-regolo/entity-health-card",
   "luigi-regolo/glowfloor-card",
   "luigi-regolo/luma-control-card",
+  "luigi-regolo/media-fusion-card",
   "luigi-regolo/room-selector-card",
   "luigi-regolo/rooms-navigation-card",
   "luigi-regolo/security-panel-card",
