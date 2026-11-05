@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
-        uses: actions/checkout@v7.0.0
+        uses: actions/checkout@v7.0.1
         with:
           persist-credentials: false
 
@@ -31,24 +31,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
-        uses: actions/checkout@v7.0.0
+        uses: actions/checkout@v7.0.1
         with:
           persist-credentials: false
 
       - name: Critical
-        uses: cardinalby/schema-validator-action@3.1.1
+        uses: cardinalby/schema-validator-action@3.1.2
         with:
           file: "critical"
           schema: "tools/jsonschema/critical.schema.json"
 
       - name: Repositories
-        uses: cardinalby/schema-validator-action@3.1.1
+        uses: cardinalby/schema-validator-action@3.1.2
         with:
           file: "appdaemon|blacklist|integration|netdaemon|plugin|python_script|template|theme"
           schema: "tools/jsonschema/repositories.schema.json"
 
       - name: Removed
-        uses: cardinalby/schema-validator-action@3.1.1
+        uses: cardinalby/schema-validator-action@3.1.2
         with:
           file: "removed"
           schema: "tools/jsonschema/removed.schema.json"
@@ -58,12 +58,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
-        uses: actions/checkout@v7.0.0
+        uses: actions/checkout@v7.0.1
         with:
           persist-credentials: false
 
       - name: Set up Python
-        uses: actions/setup-python@v7.0.0
+        uses: actions/setup-python@v7.1.0
         with:
           python-version-file: ".python-version"
 
