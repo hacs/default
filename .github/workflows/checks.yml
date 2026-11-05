@@ -250,6 +250,7 @@ jobs:
 
       - name: Run hassfest
         run: |
+          set -o pipefail
           integration=$(python3 -m scripts.helpers.integration_path)
           domain=$(python3 -m scripts.helpers.domain)
           docker run --rm \
