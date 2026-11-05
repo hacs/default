@@ -1332,6 +1332,7 @@
   "eifinger/hass-weenect",
   "eigger/hass-ble-esl",
   "eigger/hass-ble-led-sign",
+  "eigger/hass-catprinter",
   "eigger/hass-esphome-ota",
   "eigger/hass-icscale",
   "eigger/hass-jaalee",
