@@ -25,7 +25,7 @@ jobs:
           persist-credentials: false
 
       - name: Validate with JSON schema
-        uses: cardinalby/schema-validator-action@3.1.1
+        uses: cardinalby/schema-validator-action@3.1.2
         with:
           file: 'removed'
           schema: 'tools/jsonschema/removed.schema.json'
