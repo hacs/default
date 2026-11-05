@@ -2210,6 +2210,7 @@
   "jeremyroe/HA-Iceco-Integration",
   "jeroenterheerdt/grillbuddy",
   "jeroenterheerdt/HADailySensor",
+  "jeromelefeuvre/ha-disk-usage-explorer",
   "jerrit/ha-base-power",
   "jertech/verdi-ha",
   "jerzik/poda-data",
