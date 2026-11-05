@@ -3435,6 +3435,7 @@
   "ollo69/ha-samsungtv-smart",
   "ollo69/ha-smartthinq-sensors",
   "olzeug/ha-vacation-mode",
+  "omcular/zigbee2mqtt-map-panel",
   "oMtQB4/HomeAssistant-Pracht-Alpha-Wallbox-Custom-Component",
   "oMtQB4/HomeAssistant-Tinkerforge-Warp-Wallbox-Custom-Component",
   "Onixarts/ha_hapcan",
