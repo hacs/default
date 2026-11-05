@@ -1327,6 +1327,7 @@
   "eigger/hass-ble-esl",
   "eigger/hass-ble-led-sign",
   "eigger/hass-esphome-ota",
+  "eigger/hass-icscale",
   "eigger/hass-jaalee",
   "eigger/hass-kma",
   "eigger/hass-lywsd02",
