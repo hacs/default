@@ -4228,6 +4228,7 @@
   "smartpricing/homeassistant-smartpms",
   "SmartServicePL/worx_vision_cloud_plus_github",
   "SmartyVan/hass-geolocator",
+  "smck83/ha-connectmypool",
   "smcneece/ha-esunpower",
   "Smengerl/ha-tibber-vehicle",
   "Smiley73/ha-scheduler",
