@@ -2813,6 +2813,7 @@
   "MacSiem/ha-sentence-manager",
   "MacSiem/ha-tools-email-integration",
   "MacSiem/ha-vacuum-water-monitor",
+  "MacSiem/ha-yaml-checker",
   "macxq/foxess-ha",
   "MadDinu93/ambilight-tv-hue-sync",
   "MadMatt34/ha-freebox-caller-id",
