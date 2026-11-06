@@ -4275,6 +4275,7 @@
   "SokolskyNikita/mysa-homeassistant",
   "SolarBuffer/solarbuffer-homeassistant",
   "solarcube-io/solar-cube-integration",
+  "solarssk/ha-linak",
   "solarssk/ztm_warsaw",
   "solentlabs/cable_modem_monitor",
   "solideus/Ingeteam-iss-homeassistant",
