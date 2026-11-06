@@ -3117,5 +3117,29 @@
     "reason": "Repository has been abandoned",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/12557"
+  },
+  {
+    "repository": "TomTuTHub/mitsubishi-outlander-phev-eu",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12743"
+  },
+  {
+    "repository": "TomTuTHub/tomtut-pool-dosing-vigipool",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12743"
+  },
+  {
+    "repository": "TomTuTHub/tomtut-pool-cards",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12743"
+  },
+  {
+    "repository": "TomTuTHub/tomtut-pool-dosing-vigipool-card",
+    "reason": "Repository no longer exists, the author's GitHub account has been removed",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12743"
   }
 ]
