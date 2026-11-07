@@ -3007,6 +3007,7 @@
   "mb-software/homeassistant-powerbrain",
   "mbillow/ha-chargepoint",
   "mbillow/localthings",
+  "mbriney/ha-evdance",
   "mbsintegrations/HomeAssistant-BarnaRecycling",
   "mbsintegrations/HomeAssistant-CalorGas",
   "mbuchber/ha_heliotherm",
