@@ -1902,6 +1902,7 @@
   "hardbyte/ha-evnex",
   "HarvsG/ha-glinet4-integration",
   "hasgp/hasgp",
+  "haskaan/ha-flydigi-cooler",
   "hasl-sensor/integration",
   "hass-cortex/assist-monitor",
   "hass-cortex/azure-speech-stt",
