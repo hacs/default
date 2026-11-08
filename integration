@@ -3715,6 +3715,7 @@
   "prusuino/ha_swiss_earthquakes",
   "prusuino/ha_swiss_electricity_price",
   "prusuino/ha_swiss_hail_protection",
+  "prusuino/ha_swiss_meteo",
   "prusuino/ha_swiss_public_alerts",
   "prusuino/ha_swiss_solar_reference_price",
   "prusuino/ha_swiss_transport",
