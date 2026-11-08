@@ -20,12 +20,12 @@
   "Catalina-Automation/sabino-ha",
   "catppuccin/home-assistant",
   "catthode/home-assistant",
-  "CPetrevski/ha-nerv-magi-theme",
   "CodeArcade-ctrl/ambient-atlas-theme",
   "CodeArcade-ctrl/ambient-worlds-theme",
   "CodeArcade-ctrl/quiet-horizon-theme",
   "coltondick/nordic-theme-main",
   "Cooper81/cyber-neon-themes",
+  "CPetrevski/ha-nerv-magi-theme",
   "DickSwart/swart_ninja_dark_theme",
   "Djelle/milcomarmy",
   "domodom30/ha-braise-glass-theme",
@@ -121,5 +121,5 @@
   "wowgamr/animated-weather-card",
   "Xitee1/ha-amoled-theme",
   "yakidd/NeumorphixHome",
-  "Yeelight/ha_yeelight_themes",
+  "Yeelight/ha_yeelight_themes"
 ]
