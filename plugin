@@ -564,6 +564,7 @@
   "luigi-regolo/rooms-navigation-card",
   "luigi-regolo/security-panel-card",
   "luigi-regolo/smart-plugs-card",
+  "luigi-regolo/water-leak-card",
   "luigi-regolo/weather-pulse-card",
   "luisanllo/ecowitt-hud-card",
   "luixal/lovelace-media-source-image-card",
