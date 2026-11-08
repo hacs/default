@@ -20,6 +20,7 @@
   "Catalina-Automation/sabino-ha",
   "catppuccin/home-assistant",
   "catthode/home-assistant",
+  "CPetrevski/ha-nerv-magi-theme",
   "CodeArcade-ctrl/ambient-atlas-theme",
   "CodeArcade-ctrl/ambient-worlds-theme",
   "CodeArcade-ctrl/quiet-horizon-theme",
@@ -121,5 +122,4 @@
   "Xitee1/ha-amoled-theme",
   "yakidd/NeumorphixHome",
   "Yeelight/ha_yeelight_themes",
-  "CPetrevski/ha-nerv-magi-theme"
 ]
