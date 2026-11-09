@@ -3327,6 +3327,7 @@
   "mullerdavid/hass_GreeExt",
   "Multigestern/Kostal-Piko-Solar-Monitor",
   "muradjabir/ha-ceb-electricity-bill",
+  "muradjabir/ha-dialog-bill",
   "muradjabir/ha-nwsdb-water-bill",
   "mutilator/Clockwork",
   "mutilator/homeassistant-iqua-softener",
