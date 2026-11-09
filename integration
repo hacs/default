@@ -865,6 +865,7 @@
   "cobryan05/ha-color-notify",
   "cobryan05/purrview_ha",
   "CodeArcade-ctrl/airing-advisor",
+  "CodeArcade-ctrl/battery-runtime-estimator",
   "CodeArcade-ctrl/tank-level-volume",
   "codebyant/esphome-rf-cloner",
   "codecrumb/vitrea-ha",
