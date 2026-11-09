@@ -456,6 +456,7 @@
   "barleybobs/homeassistant-ecowater-softener",
   "barneyonline/ha-enphase-energy",
   "barneyonline/ha-groq",
+  "barneyonline/ha-homepod-sensor-link",
   "barreeeiroo/Home-Assistant-Electric-Ireland",
   "barto95100/synology-download-station",
   "bartv2/kde_connect",
