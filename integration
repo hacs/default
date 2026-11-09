@@ -1355,6 +1355,7 @@
   "eigger/hass-ble-esl",
   "eigger/hass-ble-led-sign",
   "eigger/hass-esphome-ota",
+  "eigger/hass-garage",
   "eigger/hass-icscale",
   "eigger/hass-jaalee",
   "eigger/hass-kibble",
