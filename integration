@@ -4241,6 +4241,7 @@
   "sfstar/hass-victron",
   "sftgunner/edinplus-integration",
   "sftgunner/heatmiseredge-integration",
+  "sftsk/ha-boneco-smart",
   "sgielen/ha-ecohome",
   "sginestrini/home-assistant-tada-integration",
   "sh00t2kill/dolphin-robot",
