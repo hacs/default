@@ -1389,6 +1389,7 @@
   "eigger/hass-catprinter",
   "eigger/hass-chirp",
   "eigger/hass-esphome-ota",
+  "eigger/hass-garage",
   "eigger/hass-icscale",
   "eigger/hass-jaalee",
   "eigger/hass-kibble",
