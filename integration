@@ -1364,6 +1364,7 @@
   "eigger/hass-atflee",
   "eigger/hass-ble-esl",
   "eigger/hass-ble-led-sign",
+  "eigger/hass-catprinter",
   "eigger/hass-chirp",
   "eigger/hass-esphome-ota",
   "eigger/hass-icscale",
