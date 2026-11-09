@@ -3328,6 +3328,7 @@
   "Multigestern/Kostal-Piko-Solar-Monitor",
   "muradjabir/ha-ceb-electricity-bill",
   "muradjabir/ha-nwsdb-water-bill",
+  "muradjabir/ha-slt-bill",
   "mutilator/Clockwork",
   "mutilator/homeassistant-iqua-softener",
   "mutilator/homeassistant-zone-label-trigger",
