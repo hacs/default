@@ -1332,6 +1332,7 @@
   "DSorlov/snmp_printer",
   "DSorlov/swemail",
   "dstamen/myusage-ha",
+  "dtechterminal/ha-atomberg-water-purifier-local",
   "dtechterminal/ha-panasonic-miraie-local",
   "DTekNO/ha-entur_sx",
   "DTekNO/mspa-homeassistant",
