@@ -3141,5 +3141,47 @@
     "reason": "Repository no longer exists, the author's GitHub account has been removed",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/12743"
+  },
+  {
+    "repository": "cnecrea/erovinieta",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "colings/synology_virtual_album",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "prairiesnpr/hass-tdameritrade",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "PrimeAutomation/petnovations",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "rexxars/ha-smartyplants",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "sugoi-wada/acer-air-monitor-2018",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
+  },
+  {
+    "repository": "wielorzeczownik/ha-toya-decoder",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "N/A"
   }
 ]
