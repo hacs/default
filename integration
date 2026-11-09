@@ -1069,6 +1069,7 @@
   "Darkdragon14/ha-access-control-manager",
   "Darkdragon14/ha-aqara-devices",
   "Darkdragon14/ha-guest-mode",
+  "darkfoxs96/ha-telepool",
   "darksider4all/homelab-netatmo-integration",
   "DarwinsBuddy/WienerNetzeSmartmeter",
   "DasBasti/SmartHashtag",
