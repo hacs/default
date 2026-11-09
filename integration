@@ -866,6 +866,7 @@
   "cobryan05/purrview_ha",
   "CodeArcade-ctrl/airing-advisor",
   "CodeArcade-ctrl/battery-runtime-estimator",
+  "CodeArcade-ctrl/dewpoint-guard",
   "CodeArcade-ctrl/tank-level-volume",
   "CodeArcade-ctrl/water-pulse-meter",
   "codebyant/esphome-rf-cloner",
