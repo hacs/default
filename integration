@@ -1362,6 +1362,7 @@
   "eigger/hass-atflee",
   "eigger/hass-ble-esl",
   "eigger/hass-ble-led-sign",
+  "eigger/hass-chirp",
   "eigger/hass-esphome-ota",
   "eigger/hass-icscale",
   "eigger/hass-jaalee",
