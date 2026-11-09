@@ -1776,6 +1776,7 @@
   "gunkl/ClimateAdvisor",
   "gunnjr/ha-logger-manager",
   "guoxiatech/hanchu-ess-ha",
+  "gurrier/HA-Powerpal-direct",
   "gurrier/lifeblood",
   "gurrier/localvolts",
   "gurux13/hass-alarm",
