@@ -1397,6 +1397,7 @@
   "EiS94/db_info",
   "eizedev/ha-synology-srm-router",
   "eklundjon/ha-birdweather",
+  "eklundjon/ha-grandstream-phone",
   "eklundjon/ha-haikubox",
   "ekutner/home-connect-hass",
   "elad-bar/ha-blueiris",
