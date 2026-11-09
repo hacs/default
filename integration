@@ -126,6 +126,7 @@
   "akinin/ha_keenetic",
   "akinin/wirenboard-discovery",
   "akoonet-homeassistant/Calypshome-ha",
+  "akoonet-homeassistant/domogotchi",
   "akoonet-homeassistant/edilkamin_control",
   "akoonet-homeassistant/lights_simulator",
   "akoonet-homeassistant/volets_intelligents",
