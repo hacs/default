@@ -1718,6 +1718,7 @@
   "golles/ha-knmi",
   "golles/ha-tomtom-travel-time",
   "golles/Home-Assistant-Sensor-MC66C",
+  "gomble/enigma2-remote-hacs",
   "gorfo66/flashbird-homeassistant",
   "goruck/home-generative-agent",
   "gotwalt/kemper-homeassistant",
