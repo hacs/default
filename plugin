@@ -237,6 +237,7 @@
   "dropqube/pv-forecast-card",
   "DTekNO/ha-alert-card",
   "DTekNO/lovelace-meteogram-card",
+  "dulek/ha-mevo-card",
   "dvb6666/homed-zigbee-networkmap",
   "dwainscheeren/dwains-dashboard-next",
   "dylandoamaral/uptime-card",
