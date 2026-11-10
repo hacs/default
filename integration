@@ -823,6 +823,7 @@
   "ChristophKomenda/pironman5-homeassistant-container",
   "ChrisTracy/clickpi_garage_door",
   "Chuffnugget/volcano_integration",
+  "ciltocruz/monitor_docker",
   "CircuitSetup/CircuitSetup-Energy-Analyzer",
   "cjjagtenberg/naturela_smarthome",
   "CJNE/ha-myenergi",
