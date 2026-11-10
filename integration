@@ -2013,6 +2013,7 @@
   "hebrru/Hager-local",
   "hectorespert/som-energia-hass",
   "hehrstein/CTS-Viewer",
+  "hehrstein/strasbourg-piscines",
   "heidrickla/ha-att-router-reboot",
   "heidrickla/ha-culligan-azure",
   "heidrickla/ha-glkvm",
@@ -5171,4 +5172,4 @@
   "Zwer2k/ha-tigo-rs485",
   "Zwer2k/sunflow",
   "zzdota/ha-owon"
-]
+]\n
