@@ -3785,6 +3785,7 @@
   "placix/home-assistant-botslab360",
   "placix/home-assistant-buffalo-linkstation",
   "placix/home-assistant-discovery-monitor",
+  "PlainSeer/ha-alphaess-modbus-tcp",
   "plamish/xcomfort",
   "PlanetCitizen1829381/ha-nsw-beachwatch",
   "plantlab-ai/home-assistant-plantlab",
