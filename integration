@@ -4239,6 +4239,7 @@
   "Selectra-Dev/selectra-ha",
   "self-labs/controlart",
   "self-labs/tasmota-ir",
+  "SeloraHomes/ha-selora-ai",
   "semichcsc-byte/broadlink-commands",
   "Semir333/meross_boiler_sync",
   "senalse/ha-alphaess-modbus",
