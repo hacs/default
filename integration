@@ -23,6 +23,7 @@
   "404GamerNotFound/vserver-ssh-stats",
   "42bios/apc-rack-power",
   "42bios/ha-msn-weather",
+  "42bios/ha-rack-display",
   "42bios/homeassistant-kaschuetz",
   "42bios/unifi-network-plus",
   "5a2v0/HA-WiFi-Sensor-Tracker",
