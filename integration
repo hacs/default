@@ -1537,6 +1537,7 @@
   "EvotecIT/homeassistant-dreamelawnmower",
   "EvotecIT/homeassistant-kef",
   "EvotecIT/homeassistant-siegenia",
+  "evski/ha-lite-resources",
   "EVWorth/hass-adtpulse",
   "exavizco/ha-poe-plugin",
   "exciton/discrete-statistics",
