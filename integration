@@ -1311,6 +1311,7 @@
   "dougransom/fuzzy_system",
   "dougrathbone/2n-doorman",
   "dphae/bsh",
+  "dpolyakov/homeassistant-ac-broadlink-control",
   "dpoulson/woocommerce_integration",
   "drakarah/medisana-scale-ha-integration",
   "drakhart/ha-vmoto-super-soco",
