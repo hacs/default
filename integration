@@ -431,6 +431,7 @@
   "azimut-energy/azimut-ha-integration",
   "azogue/eventsensor",
   "azsaurr/ha_usms",
+  "b-uwe/HA-aliases-template-function",
   "b0bbywan/odio-ha",
   "b12e/flinx-garage-ha",
   "b12e/ha_lynkco_2025",
