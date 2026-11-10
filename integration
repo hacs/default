@@ -3124,6 +3124,7 @@
   "mbillow/localthings",
   "mbsintegrations/HomeAssistant-BarnaRecycling",
   "mbsintegrations/HomeAssistant-CalorGas",
+  "mbsintegrations/HomeAssistant-Sigenergy-TC",
   "mbuchber/ha_heliotherm",
   "mcapmari/ha-djv_meter",
   "mcflypl/ha-pello",
