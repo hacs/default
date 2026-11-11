@@ -4985,6 +4985,7 @@
   "wentzlau/ha-faroese-energy-production",
   "wernerhp/ha.integration.load_shedding",
   "werthdavid/homeassistant-pulsatrix-local-mqtt",
+  "WFLM/ha-fiio-btr5-usb-dac-remote",
   "wheeller123/Tineco-Integration",
   "Wheemer/lepro-cloud",
   "which-newton/ha-rpi5-fan",
