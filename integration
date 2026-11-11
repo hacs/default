@@ -1338,6 +1338,7 @@
   "dtechterminal/ha-atomberg-water-purifier-local",
   "dtechterminal/ha-panasonic-miraie-local",
   "dtechterminal/qubo-local-control",
+  "dtechterminal/vguard_ups_ha",
   "DTekNO/ha-entur_sx",
   "DTekNO/mspa-homeassistant",
   "DTekNO/norway_alerts",
