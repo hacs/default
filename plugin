@@ -583,6 +583,7 @@
   "luigi-regolo/security-panel-card",
   "luigi-regolo/smart-plugs-card",
   "luigi-regolo/weather-pulse-card",
+  "luisanllo/alpstuga-card",
   "luisanllo/ecowitt-hud-card",
   "luixal/lovelace-media-source-image-card",
   "lukevink/lovelace-buien-rain-card",
