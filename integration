@@ -3164,6 +3164,7 @@
   "mglaeser/home-messages",
   "mguyard/hass-diagral",
   "mguyard/hass-iopool",
+  "mheimlich/backdated_sensor",
   "mhndt/tvt-archive",
   "mholka/ev-charge-planner",
   "mholzi/beatify",
