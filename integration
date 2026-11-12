@@ -3861,6 +3861,7 @@
   "prusuino/ha_swiss_lottery",
   "prusuino/ha_swiss_meteo",
   "prusuino/ha_swiss_public_alerts",
+  "prusuino/ha_swiss_solar_forecast",
   "prusuino/ha_swiss_solar_reference_price",
   "prusuino/ha_swiss_transport",
   "prusuino/ha_swiss_waters",
