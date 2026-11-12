@@ -1287,6 +1287,7 @@
   "DomoticaFacile/battery_monitor",
   "DomoticaFacile/raccolta_rifiuti",
   "DomoticaFacile/smart_home_pantry",
+  "dontbug/ha-lubelogger-sync",
   "DonTranQuiL/ADSB-For-Home-assistant",
   "DonTranQuiL/Bekendmakingen",
   "DonTranQuiL/DOT-NL-Chargers-for-Home-Assistant",
