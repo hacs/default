@@ -1552,6 +1552,7 @@
   "f-zappa/ha-dwz",
   "F30onAir/ha-heating-prices",
   "faanskit/ha-esolar",
+  "fabian-rezende/xportpro-homeassistant",
   "FabianWeyerstall/ha-haushaltsbuch",
   "fabilau/hass_smart_offset_thermostat",
   "fabio-garavini/ha-openai-whisper-stt-api",
