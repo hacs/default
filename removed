@@ -3183,5 +3183,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/13765"
+  },
+  {
+    "repository": "mpopovych-thinkhome/ha-larnitech",
+    "reason": "Retired by its owner: superseded by the official Larnitech integration (larnitech/larnitech-ha)",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/13990"
   }
 ]
