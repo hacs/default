@@ -1806,6 +1806,7 @@
   "goruck/home-generative-agent",
   "gotwalt/kemper-homeassistant",
   "Gr33n93/ha-waveshare-relay",
+  "grahamfairbank/ha-instant-on",
   "GrandNagusQuark/weather-intelligence",
   "GrandstreamEngineering/grandstream_home",
   "Grandys/otel-exporter",
