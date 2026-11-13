@@ -580,6 +580,7 @@
   "bisman-automations/ha-matter-bridge",
   "bisman-automations/ha-mdu",
   "bisman-automations/ha-media-mgmt",
+  "bisman-automations/ha-move-device",
   "bisman-automations/ha-rainbird-extended",
   "bisman-automations/ha-tcl-android-tv-remote",
   "bisman-automations/ha-tv-mgmt",
