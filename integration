@@ -771,6 +771,7 @@
   "CervezaStallone/HA-Modbus-Slave",
   "CervezaStallone/Home-Assistant-BACnet-integration",
   "Ces1254/home_assistant_ebus_direct",
+  "cesbron-dev/ha-adguard-clients",
   "cgonfer/velair",
   "ChaconC/ha-levelgas",
   "chaimchaikin/molad-ha",
