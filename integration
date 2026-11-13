@@ -1204,6 +1204,7 @@
   "dgomes/ha_generic_water_heater",
   "dhover/ha-cumulusmx",
   "dhover/ha-iungo",
+  "diaznet/ha-zeptrionair",
   "dib0/ha-elro-connects-realtime",
   "dibi73/ha-bookstack-sync",
   "diego7marques/ha-aws-cost",
