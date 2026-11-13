@@ -1335,6 +1335,7 @@
   "DSorlov/snmp_printer",
   "DSorlov/swemail",
   "dstamen/myusage-ha",
+  "dsztykman/hydrolix_home_assistant",
   "dtechterminal/ha-atomberg-water-purifier-local",
   "dtechterminal/ha-panasonic-miraie-local",
   "dtechterminal/qubo-local-control",
