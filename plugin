@@ -438,6 +438,7 @@
   "jesmak/compact-rain-gauge-card",
   "jesmak/compact-uv-index-card",
   "jesmak/departures-card",
+  "jesmak/feeds-card",
   "jesmak/github-repos-card",
   "jesmak/map-feed-card",
   "jesmak/mower-status-card",
