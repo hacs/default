@@ -577,6 +577,7 @@
   "bisman-automations/ha-ford-assistant",
   "bisman-automations/ha-holiday-lighting",
   "bisman-automations/ha-homekit-extended",
+  "bisman-automations/ha-kiosk-mgmt",
   "bisman-automations/ha-matter-bridge",
   "bisman-automations/ha-mdu",
   "bisman-automations/ha-media-mgmt",
