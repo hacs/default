@@ -1417,6 +1417,7 @@
   "einspeisewacht/integration",
   "einToast/openai_stt_ha",
   "EiS94/db_info",
+  "eizedev/ha-managed-switch",
   "eizedev/ha-synology-srm-router",
   "eklundjon/ha-birdweather",
   "eklundjon/ha-grandstream-phone",
