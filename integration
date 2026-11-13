@@ -4388,6 +4388,7 @@
   "SmartyVan/hass-geolocator",
   "smck83/ha-connectmypool",
   "smcneece/ha-esunpower",
+  "smeee-again/HA-Yarbo",
   "Smengerl/ha-tibber-vehicle",
   "Smiley73/ha-scheduler",
   "SmilingSweetSwede/kilowattlas-homeassistant",
@@ -5163,6 +5164,5 @@
   "Zwer2k/ha-pca301",
   "Zwer2k/ha-tigo-rs485",
   "Zwer2k/sunflow",
-  "zzdota/ha-owon",
-  "smeee-again/HA-Yarbo"
+  "zzdota/ha-owon"
 ]
