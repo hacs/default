@@ -2693,6 +2693,7 @@
   "koying/mqtt_discoverystream_ha",
   "kpoppel/homeassistant-eforsyning",
   "kpoppel/homeassistant-novafos",
+  "Krafman/ha-homismart",
   "krahabb/meross_lan",
   "Kraken-Labz/octopus-media-card",
   "kramttocs/ha-blueiris",
