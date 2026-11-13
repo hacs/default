@@ -5163,5 +5163,6 @@
   "Zwer2k/ha-pca301",
   "Zwer2k/ha-tigo-rs485",
   "Zwer2k/sunflow",
-  "zzdota/ha-owon"
+  "zzdota/ha-owon",
+  "smeee-again/HA-Yarbo"
 ]
