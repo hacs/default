@@ -3183,5 +3183,23 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/13765"
+  },
+  {
+    "repository": "ciejer/metservice-weather",
+    "reason": "Repository has moved to nagelm/metservice-weather",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12528"
+  },
+  {
+    "repository": "jampez77/Evri",
+    "reason": "No activity in the repository since October 2024; replaced by ha-parcel-integrations/ha-evri",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12164"
+  },
+  {
+    "repository": "slaxor505/home-assistant-openplantbook",
+    "reason": "Fork of Olen/home-assistant-openplantbook; replaced by the upstream repository",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/13026"
   }
 ]
