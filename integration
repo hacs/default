@@ -568,7 +568,7 @@
   "binsentsu/home-assistant-solaredge-modbus",
   "BirknerAlex/ha-1komma5grad",
   "birniger/soundbox-home-assistant",
-  "bisman-automations/ha-appliance-live-activity",
+  "bisman-automations/ha-appliance-mgmt",
   "bisman-automations/ha-button-actions",
   "bisman-automations/ha-daily-routine",
   "bisman-automations/ha-device-info",
