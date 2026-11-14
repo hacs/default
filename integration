@@ -3119,6 +3119,7 @@
   "mayerwin/HA-Merge-Sensor-History",
   "mayerwin/HA-Real-Last-Changed-Reported-Seen-Sensors",
   "mb-software/homeassistant-powerbrain",
+  "mb26-dev/ha-ais-tanker-tracker",
   "mbaumannn/home-assistant-anova-local",
   "mbillow/ha-chargepoint",
   "mbillow/localthings",
