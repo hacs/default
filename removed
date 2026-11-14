@@ -3188,12 +3188,12 @@
     "repository": "jimmybonesde/Envertech_local",
     "reason": "Repository no longer exists",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/14142"
   },
   {
     "repository": "jimmybonesde/envertech_solar",
     "reason": "Repository no longer exists",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/14142"
   }
 ]
