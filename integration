@@ -3887,6 +3887,7 @@
   "prusuino/ha_swiss_solar_reference_price",
   "prusuino/ha_swiss_transport",
   "prusuino/ha_swiss_waters",
+  "prusuino/ha_venus_surplus_control",
   "Przemko92/chery-ha-integration",
   "Przemko92/home-assistant-allegro",
   "ptimatth/GeorideHA",
