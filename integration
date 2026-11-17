@@ -3868,6 +3868,7 @@
   "petretiandrea/home-assistant-tapo-p100",
   "Petro31/ha-integration-multizone-controller",
   "petrouv/ha-currentlink",
+  "petrouv/ha-frame-pulse",
   "petrouv/ha-speakeasy",
   "Pewidot/homeassistant-ufeeder-cloud",
   "peyton/homeassistant-anona-holo",
