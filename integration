@@ -1173,6 +1173,7 @@
   "DDA1010/hydroponic-control",
   "ddanssaert/home-assistant-ipcamlive",
   "ddebaets/belgium-energy-costs",
+  "ddrayne/openclaw-homeassistant",
   "ddrimus/ha-tper-tracker",
   "deadbeef3137/ha-cloudflare-tunnel-monitor",
   "DeadmaroZ-TLOTL/ha-renault-zoe-smart-charger",
