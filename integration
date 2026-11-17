@@ -782,6 +782,7 @@
   "cazeaux/ha-iracing",
   "cbetz/ratebook-homeassistant",
   "cbource/anker-solix-x1-modbus",
+  "cbrandlehner/marstek-power-meter",
   "ccpk1/AP_PoolSync",
   "ccpk1/controld-manager-ha",
   "ccpk1/firewalla-local-ha",
