@@ -1783,6 +1783,7 @@
   "ganhammar/hass-mcp-server",
   "ganhammar/hass-oidc-server",
   "garbled1/homeassistant_ecowitt",
+  "garethcheyne/ha-contact-energy",
   "GarthDB/ha-wattbox",
   "Garywoo/ha-northumbrian-water",
   "gaspareduard/ha-opcom",
