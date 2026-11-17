@@ -2925,6 +2925,7 @@
   "ljmerza/utilities_email_tracker",
   "ljmerza/zwave-multicast-group",
   "ljschmitt/hass-anycubic_cloud_v3",
+  "LJspice/PGE-Pricing-HASS",
   "lloydw/hass-spanet",
   "lmt-lv/lmt-iot-ha-integration",
   "lnagel/hass-eaton-ups-mqtt",
