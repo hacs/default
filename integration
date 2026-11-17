@@ -3093,6 +3093,7 @@
   "mannotfood/healthsync",
   "manos/HomeAssistant-Lippert-OneControl-Integration",
   "Manschitz/brunner-eas-integration",
+  "marc-schieferdecker/ev_charge_log",
   "marccatalano/ha-powerpanel-cloud",
   "marcelhoffs/ha-limburg-net",
   "marcelhoffs/ha-viessmann-vitoset-aqua",
