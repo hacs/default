@@ -99,6 +99,7 @@
   "bernikr/lovelace-notify-card",
   "bernikr/lovelace-webos-keyboard-card",
   "BigPiloto/ha-drugstore-stock-card",
+  "bilhert/split-gauge-card",
   "birkir/home-assistant-schematic-flow-card",
   "bkbilly/lnxlink-touchpad-card",
   "bkflatekvaal/ha-amina-s-card",
