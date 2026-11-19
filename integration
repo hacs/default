@@ -1006,6 +1006,7 @@
   "crnjan/regoheatpump-ha",
   "Croustipate/winnes_gps_ha_integration",
   "crryp/joulo-ha",
+  "cruzpazv/uahpet-homeassistant",
   "cryptotomte/ev-charging-manager",
   "cryptotomte/ev-load-balancer",
   "CRZTFR/bindicator",
