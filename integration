@@ -2401,6 +2401,7 @@
   "javand/ha-jw-library",
   "Javisen/proxmox_sensors",
   "JaviSoto/homeassistant-quilt",
+  "jay0x/solar-inverter-cloud-bridge",
   "JayBlackedOut/hass-nhlapi",
   "jaycollett/OpenIRBlaster",
   "jaydeethree/Home-Assistant-weatherdotcom",
