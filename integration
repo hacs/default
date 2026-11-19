@@ -1541,6 +1541,7 @@
   "Elwinmage/ha-reefbeat-component",
   "Elwinmage/ha-reeftank-component",
   "Elwinmage/ha-usr-r16-component",
+  "Elwinmage/ha-vson-component",
   "eman/ha_nwp500",
   "eman/homeassistant-quilt-hp",
   "eman/tariffkit",
