@@ -4613,6 +4613,7 @@
   "sirkro/hass-systemair-hvac",
   "SiteRelEnby/RGBroadcast",
   "Sivner/chargeu-homeassistant",
+  "sjoerdvanderhoorn/hassio_custom_integrations",
   "sjwright/zencontrol-homeassistant",
   "Skarbo/hass-scinan-thermostat",
   "SkeLLLa/hass-airmaster7plus",
