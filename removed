@@ -3183,5 +3183,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/13765"
+  },
+  {
+    "repository": "ikb42/homeassistant-lightwave2",
+    "reason": "Deprecated and archived by the owner; superseded by LightwaveSmartHome/homeassistant-lightwave-smart",
+    "removal_type": "remove",
+    "link": "https://github.com/LightwaveSmartHome/homeassistant-lightwave-smart/blob/master/docs/migrating-from-lightwave2.md"
   }
 ]
