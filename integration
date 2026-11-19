@@ -2760,6 +2760,7 @@
   "kedube/ha-sailcast",
   "kedube/ha-satellite-spotter",
   "keesmod/ha-eufy-cam",
+  "keesmod/ha-rad-hw",
   "kegelmeier/ha-opus-greennet",
   "keidischoi/ha-3ds-link",
   "KeldorDE/Home-Assistant-AV-Access",
