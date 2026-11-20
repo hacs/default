@@ -1485,6 +1485,7 @@
   "edwork/homeassistant-peloton-sensor",
   "EffortlessHome/EffortlessHome",
   "EffortlessHome/Oasira_B2B",
+  "EffortlessHome/Oasira_B2C",
   "egmen/moscow_transport",
   "egordanilenko/ha-voyah-ru",
   "EHoglid/hass-vasttrafik",
