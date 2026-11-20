@@ -3390,6 +3390,7 @@
   "MichelFR/ha-abrp",
   "MichelFR/ha-ecoflow-iot",
   "MichelFR/ha_ghostfolio",
+  "michelnet/ha-health-bridge",
   "michelnet/homeassistant-medisana-ble",
   "Michiellenselink/ha-onep1",
   "michis0806/ha_flic_buttons",
