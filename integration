@@ -2450,6 +2450,7 @@
   "jcgoette/baby_buddy_homeassistant",
   "jcortizronda/ebroAuto_homeAssistant",
   "jcwillox/hass-auto-backup",
+  "jdaleo23/ha-power-watchdog",
   "jdejaegh/irm-kmi-ha",
   "jdolieslager/ha-budget-thuis",
   "jdrozdnovak/ha_pagerduty",
