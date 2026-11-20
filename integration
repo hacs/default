@@ -4532,6 +4532,7 @@
   "seb5594/hass-car_tires_season-integration",
   "seb5594/hass-custom_integrations_translator-integration",
   "seb5594/hass-deepl_translator-integration",
+  "seb5594/hass-google_translator-integration",
   "seb5594/hass-ninebot_e_scooters-integration",
   "Seba101288/home-assistant-ever-ups",
   "sebakerckhof/aritech-ha",
