@@ -4878,6 +4878,7 @@
   "stockhausenj/ha-tts-parasail",
   "stoppegp/ha-dwd-precipitation-forecast",
   "StrausbergAutomationWorks/LiveTrackCommuterRail",
+  "StrausbergAutomationWorks/LiveTrackIntercityRail",
   "streckenwacht/integration",
   "strepto42/foobar2k_custom_component",
   "strepto42/homeassistant-esptimecast",
