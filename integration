@@ -3329,6 +3329,7 @@
   "mb26-dev/ha-ais-tanker-tracker",
   "mb26-dev/ha-magmarium",
   "mb26-dev/ha-orbitarium",
+  "mb26-dev/ha-powerbill-forecast",
   "mbaumannn/home-assistant-anova-local",
   "mbillow/ha-chargepoint",
   "mbillow/localthings",
