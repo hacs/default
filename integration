@@ -4505,6 +4505,7 @@
   "schmidtfx/koch-ag-hass",
   "schmidtfx/swisscom-internetbox-hass",
   "schmitzfabio/ha-ghn-maxlinear",
+  "Schnax3/mega2backup",
   "Schnax3/ui_proto_radio",
   "Schnuecks/ha-nine-lives",
   "Schnuecks/ha-unclouded",
@@ -4564,7 +4565,6 @@
   "sergeylysov/sst_cloud",
   "Serjlee/HA_hgsmart-pet-feeder",
   "sermayoral/ha-samsungtv-encrypted",
-  "Schnax3/mega2backup"
   "Sese-Schneider/ha-cover-time-based",
   "Sese-Schneider/ha-personio",
   "seven-io/home-assistant",
