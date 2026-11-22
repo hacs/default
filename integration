@@ -4384,6 +4384,7 @@
   "roquerodrigo/ha-midea-dishwasher",
   "roquerodrigo/ha-neakasa-litterbox",
   "roquerodrigo/ha-ttlock-ble",
+  "roquerodrigo/ha-tuya-ipc-p2p",
   "roquerodrigo/ha-xiaomi-vacuum",
   "rosch100/fritzbox-vpn",
   "rosenkolev/home-assistant-docker-integration",
