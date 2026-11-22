@@ -3335,6 +3335,7 @@
   "maybetaken/Solar_Manager",
   "mayerwin/HA-Merge-Sensor-History",
   "mayerwin/HA-Real-Last-Changed-Reported-Seen-Sensors",
+  "mazkagaz/meross-local-cloud",
   "mb-software/homeassistant-powerbrain",
   "mb26-dev/ha-ais-tanker-tracker",
   "mb26-dev/ha-magmarium",
