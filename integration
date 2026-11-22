@@ -1085,6 +1085,7 @@
   "cygnusb/ha-netze-bw",
   "cygnusb/ha-smart-battery-pilot",
   "cygnusb/ha-spot-forecast",
+  "cypherbits/ha-sonoff-local-cam-s2-slim",
   "Cyr-ius/hass-heatzy",
   "Cyr-ius/hass-livebox-component",
   "cyr-ius/hass-reolink-thumbs",
