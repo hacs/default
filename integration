@@ -525,6 +525,7 @@
   "bbckr/ha-synology-tasks",
   "bbr111/byd_hvs",
   "bcpearce/homeassistant-gtfs-realtime",
+  "bdecl/apsystems-storage-modbus",
   "bdlcalvin/ha-american-standard-comfortlink",
   "bdunn44/hass-jellyfish-lighting",
   "BeardedTech0o/ha-luxcloud",
