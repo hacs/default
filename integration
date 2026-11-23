@@ -4889,6 +4889,7 @@
   "StrausbergAutomationWorks/LiveTrackCommuterRail",
   "StrausbergAutomationWorks/LiveTrackIntercityRail",
   "StrausbergAutomationWorks/LiveTrackShips",
+  "StrausbergAutomationWorks/LiveTrackWeather",
   "streckenwacht/integration",
   "strepto42/foobar2k_custom_component",
   "strepto42/homeassistant-esptimecast",
