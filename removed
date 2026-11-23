@@ -3187,11 +3187,13 @@
   {
     "repository": "jimmybonesde/Envertech_local",
     "reason": "Repository no longer exists, the author's GitHub account has been removed",
-    "removal_type": "remove"
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/14779"
   },
   {
     "repository": "jimmybonesde/envertech_solar",
     "reason": "Repository no longer exists, the author's GitHub account has been removed",
-    "removal_type": "remove"
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/14779"
   }
 ]
