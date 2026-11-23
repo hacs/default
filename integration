@@ -2331,6 +2331,7 @@
   "InspireNXE/ha-comfort-schedule",
   "intelliThings-official/home-assistant-intellithings",
   "Internetrevizor/centrometal-cloud",
+  "Internetrevizor/centrometal-local-mqtt",
   "InTheDaylight14/nginx-proxy-manager-switches",
   "IonCojucari/homeassistant-xmrig",
   "IONTtech/ha-iont",
