@@ -4451,6 +4451,7 @@
   "roquerodrigo/ha-samsung-climate-ir",
   "roquerodrigo/ha-ttlock-ble",
   "roquerodrigo/ha-xiaomi-vacuum",
+  "rorygallagher2024/ha-powerni-ble",
   "rosch100/fritzbox-vpn",
   "rosenkolev/home-assistant-docker-integration",
   "rosenkolev/home-assistant-gpio-integration",
