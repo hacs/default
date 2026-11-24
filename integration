@@ -3697,6 +3697,7 @@
   "n-schilling/ha-ble-floorplan",
   "n-schilling/ha-guest-access",
   "n-schilling/ha-network-plus",
+  "n-schilling/ha-storybox-plus",
   "n-schilling/ha-wall-display-plus",
   "N0ciple/hass-kef-connector",
   "N4S4/homeassistant-automation-testkit",
