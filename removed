@@ -3195,5 +3195,11 @@
     "reason": "Repository no longer exists, the author's GitHub account has been removed",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/14779"
+  },
+  {
+    "repository": "fondberg/spotcast",
+    "reason": "Abandoned, maintained fork at Mincka/spotcast",
+    "removal_type": "replaced",
+    "link": "https://github.com/Mincka/spotcast"
   }
 ]
