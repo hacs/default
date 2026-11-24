@@ -144,6 +144,7 @@
   "akoonet-homeassistant/edilkamin_control",
   "akoonet-homeassistant/lights_simulator",
   "akoonet-homeassistant/volets_intelligents",
+  "akosin/airversa-ha",
   "akshimassar/ha-fortum",
   "akustikrausch/gonzales-integration",
   "al-one/hass-xiaomi-miot",
