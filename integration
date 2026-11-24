@@ -174,6 +174,7 @@
   "aldweb/ha-lg-hombot",
   "aldweb/ha-openwrt-mqtt",
   "aldweb/ha-tasmota-mielhvac",
+  "aled2305/ha-journiv",
   "aleho/ha-ovum-mira",
   "Aleks130699/ha-fpp",
   "alemuro/ha-cecotec-conga",
