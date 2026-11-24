@@ -220,6 +220,7 @@
   "alpha-uniform/thriftherm",
   "AlphaJack/homeassistant-sanremo-coffee-machines",
   "AlphaLima/ha-device-inventory",
+  "AlphaLima/ha-entity-inventory",
   "alray31/ACM-125C-1",
   "alray31/RAV311-Remote",
   "alryaz/hass-energosbyt-plus",
