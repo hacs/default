@@ -3687,6 +3687,7 @@
   "MysteriousWolf/southpool-hass",
   "n-IA-hane/esphome-intercom",
   "n-schilling/ha-ble-floorplan",
+  "n-schilling/ha-guest-access",
   "n-schilling/ha-network-plus",
   "n-schilling/ha-wall-display-plus",
   "N0ciple/hass-kef-connector",
