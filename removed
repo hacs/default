@@ -3201,5 +3201,11 @@
     "reason": "Abandoned, maintained fork at Mincka/spotcast",
     "removal_type": "replaced",
     "link": "https://github.com/Mincka/spotcast"
+  },
+  {
+    "repository": "redpomodoro/fronius_modbus",
+    "reason": "Abandoned, maintained fork at callifo/fronius_modbus",
+    "removal_type": "replaced",
+    "link": "https://github.com/callifo/fronius_modbus"
   }
 ]
