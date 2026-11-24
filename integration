@@ -3688,6 +3688,7 @@
   "n-IA-hane/esphome-intercom",
   "n-schilling/ha-ble-floorplan",
   "n-schilling/ha-network-plus",
+  "n-schilling/ha-wall-display-plus",
   "N0ciple/hass-kef-connector",
   "N4S4/homeassistant-automation-testkit",
   "N4S4/homeassistant-synology-pro",
