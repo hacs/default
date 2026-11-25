@@ -4654,6 +4654,7 @@
   "seb5594/hass-custom_integrations_translator-integration",
   "seb5594/hass-deepl_translator-integration",
   "seb5594/hass-ninebot_e_scooters-integration",
+  "seb5594/hass-ubpet_cat_litter_hub-integration",
   "Seba101288/home-assistant-ever-ups",
   "sebakerckhof/aritech-ha",
   "sebcaps/atmofrance",
