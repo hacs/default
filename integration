@@ -2153,6 +2153,7 @@
   "ha-securemtr/ha-securemtr",
   "ha-termoweb/ha-termoweb",
   "HA-Update-Manager/ha-update-manager",
+  "ha-vimar/ha-vimar-intercom",
   "ha-warmup/warmup",
   "ha-workshop/ha-photoframe",
   "habity-design/habity-bedside-clock-home-assistant",
