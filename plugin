@@ -602,6 +602,7 @@
   "KroFR/car-leasing-ha-card",
   "KroFR/event-spotlight-ha-card",
   "KroFR/freebox-ha-card",
+  "KroFR/ha-server-health-card",
   "KroFR/lg-refrigerator-ha-card",
   "KroFR/wine-cellar-ha-card",
   "Krystosterone/field-dashboard",
