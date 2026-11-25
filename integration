@@ -141,6 +141,7 @@
   "akentner/homeassistant-kroki-integration",
   "akinin/ha_keenetic",
   "akinin/wirenboard-discovery",
+  "akmarinov/toplofikacia-ha",
   "akoonet-homeassistant/Calypshome-ha",
   "akoonet-homeassistant/domogotchi",
   "akoonet-homeassistant/edilkamin_control",
