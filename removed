@@ -3207,5 +3207,11 @@
     "reason": "Abandoned, maintained fork at callifo/fronius_modbus",
     "removal_type": "replaced",
     "link": "https://github.com/callifo/fronius_modbus"
+  },
+  {
+    "repository": "ciejer/metservice-weather",
+    "reason": "Repository has moved to nagelm/metservice-weather",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/12528"
   }
 ]
