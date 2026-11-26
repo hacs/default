@@ -3535,6 +3535,7 @@
   "mazkagaz/meross-local-cloud",
   "mb-software/homeassistant-powerbrain",
   "mb26-dev/ha-ais-tanker-tracker",
+  "mb26-dev/ha-backplane",
   "mb26-dev/ha-kurir",
   "mb26-dev/ha-magmarium",
   "mb26-dev/ha-orbitarium",
