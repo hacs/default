@@ -3219,5 +3219,11 @@
     "reason": "Replaced by oOBenjaminOo/ha-seedboxes-cc (same domain, no release since 2021, login no longer works)",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/13034"
+  },
+  {
+    "repository": "ikb42/homeassistant-lightwave2",
+    "reason": "Deprecated and archived by the owner; superseded by LightwaveSmartHome/homeassistant-lightwave-smart",
+    "removal_type": "remove",
+    "link": "https://github.com/LightwaveSmartHome/homeassistant-lightwave-smart/blob/master/docs/migrating-from-lightwave2.md"
   }
 ]
