@@ -1047,6 +1047,7 @@
   "cryptotomte/ev-charging-manager",
   "cryptotomte/ev-load-balancer",
   "CRZTFR/bindicator",
+  "CRZTFR/pillpal-hacs",
   "Csontikka/ha-mikrotik-extended",
   "Csontikka/ha-syncthing-extended",
   "Csontikka/ha-telink-manager",
