@@ -5105,6 +5105,7 @@
   "StrausbergAutomationWorks/LiveTrackIntercityRail",
   "StrausbergAutomationWorks/LiveTrackShips",
   "StrausbergAutomationWorks/LiveTrackWeather",
+  "streamlinedbv/doorcy-ha-integration",
   "streckenwacht/integration",
   "strepto42/foobar2k_custom_component",
   "strepto42/homeassistant-esptimecast",
