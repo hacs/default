@@ -148,6 +148,7 @@
   "akoonet-homeassistant/domogotchi",
   "akoonet-homeassistant/edilkamin_control",
   "akoonet-homeassistant/lights_simulator",
+  "akoonet-homeassistant/protocole_alarme",
   "akoonet-homeassistant/volets_intelligents",
   "akosin/airversa-ha",
   "akshimassar/ha-fortum",
