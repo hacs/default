@@ -5021,6 +5021,7 @@
   "StrausbergAutomationWorks/LiveTrackAircraft",
   "StrausbergAutomationWorks/LiveTrackCommuterRail",
   "StrausbergAutomationWorks/LiveTrackIntercityRail",
+  "StrausbergAutomationWorks/LiveTrackInternet",
   "StrausbergAutomationWorks/LiveTrackShips",
   "StrausbergAutomationWorks/LiveTrackWeather",
   "streckenwacht/integration",
