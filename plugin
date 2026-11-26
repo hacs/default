@@ -813,6 +813,7 @@
   "MrSjodin/HomeAssistant_Trafiklab_DynamicTravelSearch_Card",
   "MrSjodin/HomeAssistant_Trafiklab_Timetable_Card",
   "MrSjodin/HomeAssistant_Trafiklab_TravelSearch_Card",
+  "mrtnbt/daily-energy-dashboard-card",
   "mrtncode/ha-fritzbox-call-card",
   "mrwogu/xiaomi-smart-fan-card",
   "msucimaker3112/energy-cockpit",
