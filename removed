@@ -3213,5 +3213,11 @@
     "reason": "Repository has moved to nagelm/metservice-weather",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/12528"
+  },
+  {
+    "repository": "swartjean/ha-seedboxes-cc",
+    "reason": "Replaced by oOBenjaminOo/ha-seedboxes-cc (same domain, no release since 2021, login no longer works)",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/13034"
   }
 ]
