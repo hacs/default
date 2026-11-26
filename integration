@@ -140,6 +140,7 @@
   "AkA57/liveboxtvuhd",
   "akasma74/Hass-Custom-Alarm",
   "akentner/homeassistant-kroki-integration",
+  "akentner/homeassistant-traefik-proxy-integration",
   "akinin/ha_keenetic",
   "akinin/wirenboard-discovery",
   "akoonet-homeassistant/Calypshome-ha",
