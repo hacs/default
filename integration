@@ -4532,6 +4532,7 @@
   "Roos-AID/janitza-homeassistant",
   "Rooterts/HA_supertronics_hat_ups_x120x",
   "roquerodrigo/ha-docker-monitor",
+  "roquerodrigo/ha-homekit-secure-video",
   "roquerodrigo/ha-metro-sp",
   "roquerodrigo/ha-midea-dishwasher",
   "roquerodrigo/ha-neakasa-litterbox",
