@@ -1001,6 +1001,7 @@
   "CodeArcade-ctrl/solar-self-use",
   "CodeArcade-ctrl/tank-level-volume",
   "CodeArcade-ctrl/water-pulse-meter",
+  "CodeBrauer/ha-urban-weather",
   "codebyant/esphome-rf-cloner",
   "codecrumb/vitrea-ha",
   "codemonkey2k5/stock-market-deluxe-card",
