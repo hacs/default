@@ -3031,6 +3031,7 @@
   "koenhendriks/ha-urban-arrow",
   "koenraadhaedens/BMW-Cardata",
   "koenraadhaedens/nuki-mqtt-events",
+  "koffuxu/ha-midea-cloud-v3",
   "kogeler/fmi-hass-custom",
   "Kogoro/ha-task",
   "kohai-ut/centralite-ha",
