@@ -4304,6 +4304,7 @@
   "r-renato/ha-climacell-weather",
   "r00tat/hassio_blaulichtsms",
   "r00tat/homeassistant-blaulichtsms-alarm",
+  "r00tat/smartmeter_homeassistant_burgenland",
   "r0mi/ha-peatus",
   "R91g/arotherm-genia-ebusd",
   "raaaimund/ha-unifi-switch-ports",
