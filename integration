@@ -5185,6 +5185,7 @@
   "StrausbergAutomationWorks/LiveTrackAircraft",
   "StrausbergAutomationWorks/LiveTrackCommuterRail",
   "StrausbergAutomationWorks/LiveTrackIntercityRail",
+  "StrausbergAutomationWorks/LiveTrackSALT",
   "StrausbergAutomationWorks/LiveTrackShips",
   "StrausbergAutomationWorks/LiveTrackWeather",
   "streamlinedbv/doorcy-ha-integration",
