@@ -3306,6 +3306,7 @@
   "MacSiem/ha-tools-email-integration",
   "MacSiem/ha-vacuum-water-monitor",
   "macuistin/ha-utility-tariffs",
+  "macuistin/ha-waterlevels",
   "macxq/foxess-ha",
   "MadDinu93/ambilight-tv-hue-sync",
   "MadMatt34/ha-freebox-caller-id",
