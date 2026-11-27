@@ -14,8 +14,13 @@ def get_integration_path():
         search_root = base
 
     files = []
-    for dir, _, _ in os.walk(search_root):
-        files.extend(glob(os.path.join(dir, "*manifest.json")))
+    if search_root != base:
+        # The integration's manifest sits directly in custom_components/<domain>;
+        # a deeper manifest.json (a bundled web app, a fixture) is not it.
+        files = glob(os.path.join(search_root, "*", "manifest.json"))
+    else:
+        for dir, _, _ in os.walk(search_root):
+            files.extend(glob(os.path.join(dir, "*manifest.json")))
 
     if len(files) != 1:
         print("No manifest")
