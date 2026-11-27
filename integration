@@ -3551,6 +3551,7 @@
   "MauroDruwel/SMA-ennexOS-cloud-HA",
   "MauroDruwel/SolarlogLegacyHA",
   "MauroDruwel/Weathercloud-HA",
+  "maurorosero/safe-store",
   "mawaqit/home-assistant",
   "mawinkler/astroweather",
   "Max-src/stream-dock-ha-integration",
