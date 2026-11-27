@@ -244,6 +244,7 @@
   "alpenfun/fems-diagnostics",
   "alpha-uniform/thriftherm",
   "AlphaJack/homeassistant-sanremo-coffee-machines",
+  "AlphaJack/homeassistant-zyxel",
   "AlphaLima/ha-device-inventory",
   "AlphaLima/ha-drive-energy-doc",
   "AlphaLima/ha-entity-inventory",
