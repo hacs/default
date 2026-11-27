@@ -5002,6 +5002,7 @@
   "sibartlett/ha-solar-illuminance",
   "sibest19/ha-onebyone-scale",
   "sibest19/hass-meteoam",
+  "sibest19/ollama-cloud",
   "sibizaestruch/sunrise-alarm",
   "sidprax/ha-lg-musicflow",
   "sidprax/ha-pseg",
