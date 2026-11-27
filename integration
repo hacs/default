@@ -3172,6 +3172,7 @@
   "lewei50/ha_iammeter",
   "lewei50/ha_iammeter_link",
   "lewei50/ha_iammeter_modbus",
+  "Lex-campbell/centsys_remote",
   "lfavole/ha-algopattern",
   "lg-heatpump/lg_heatpump",
   "lgladdy/ha-octopus-charge",
