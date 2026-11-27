@@ -4169,6 +4169,7 @@
   "pail23/stiebel_eltron_isg_component",
   "pajew-ski/ha-speedport",
   "pallemannen/hass-calendar-admin",
+  "pallemannen/hass-scrape-att-gateway",
   "pallemannen/hass-sharp-aquos",
   "PalmManiac/battery-smartflow-ai",
   "PalmManiac/statfusion",
