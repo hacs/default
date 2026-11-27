@@ -5287,6 +5287,7 @@
   "Styx85/ha-tenways",
   "subtlogic/ha-aromatech-ambience-public",
   "sudoconnor/ha-sequence",
+  "sudomax/ha-ovapi",
   "Suds-Lab/hass-daikin-dkn-na",
   "sugarsense/ha-sugarsense",
   "SukramJ/homematicip_local",
