@@ -726,6 +726,7 @@
   "bodyscape/cielo_home",
   "boiler4/ha-torrserver",
   "BoilerController/boiler-controller-ha",
+  "BookCatKid/home-assistant-flume-ng",
   "BookCatKid/popur-s7-ha",
   "boonstraworks/homeassistant-112hier",
   "boot-nyxpoint/prana-wifi",
