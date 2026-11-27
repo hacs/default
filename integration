@@ -1862,6 +1862,7 @@
   "flashg1/SolarCharger",
   "flatsheep/scheduling-manager",
   "flcdrg/flipped_energy_ha",
+  "flcdrg/sapowernetworks-meterdata-ha",
   "flexopus/flexopus-hass-sensor",
   "Flightguy0/sonnounce",
   "flimo44/ha-voice-label-sync",
