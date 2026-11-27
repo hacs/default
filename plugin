@@ -877,6 +877,7 @@
   "mutilator/homeassistant-solar-panel-preview",
   "mycrouch/manual-irrigation-zone-card",
   "mycrouch/sensibo-thermostat-card",
+  "mycrouch/weather-console-card",
   "n71154plus/universal-device-card",
   "naamah75/thermal-monitor-card",
   "nathan-gs/ha-map-card",
