@@ -3341,6 +3341,7 @@
   "MacSiem/ha-sentence-manager",
   "MacSiem/ha-tools-email-integration",
   "MacSiem/ha-vacuum-water-monitor",
+  "MacSiem/ha-yaml-checker",
   "macuistin/ha-utility-tariffs",
   "macuistin/ha-waterlevels",
   "macxq/foxess-ha",
