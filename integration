@@ -3405,6 +3405,7 @@
   "mannotfood/healthsync",
   "manos/HomeAssistant-Lippert-OneControl-Integration",
   "Manschitz/brunner-eas-integration",
+  "manuelkleinert/ha-domain-monitor",
   "marc-schieferdecker/ev_charge_log",
   "marccatalano/ha-powerpanel-cloud",
   "marcelhoffs/ha-limburg-net",
