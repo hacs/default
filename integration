@@ -780,6 +780,7 @@
   "brianegge/homeassistant-shure-wireless",
   "briis/pollen_dk",
   "briis/weatherflow_forecast",
+  "BRITONETO25/geely-telemetry-ha",
   "brmccrary/nuvo_simple",
   "brmccrary/nuvo_tuner",
   "brott8/ha-crowdsec",
