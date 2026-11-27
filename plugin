@@ -400,6 +400,7 @@
   "go-hass/go-hass-cards",
   "goggybox/compact-light-card",
   "gold01pt/ha-connectlife-fridge-card",
+  "gold01pt/ha-hon-dishwasher-card",
   "GpsM2/flightradar24-splitflap-card",
   "gratak/solar-flow-card",
   "grigorii-horos/ha-plugins",
