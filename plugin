@@ -571,6 +571,7 @@
   "jtubb/Pylontech-Battery-Card",
   "JUDESTRAHM/activity-feed-card",
   "JUDESTRAHM/lovelace-room-banner-card",
+  "JUDESTRAHM/lovelace-round-sensor-card",
   "JudewZA/lovelace-dehumidifier-card",
   "junalmeida/homeassistant-minimalistic-area-card",
   "junkfix/config-editor-card",
