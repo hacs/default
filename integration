@@ -4933,6 +4933,7 @@
   "seanmccabe/bgg-sync",
   "seanmoro/ha-chasing-pool",
   "seb5594/hass-car_tires_season-integration",
+  "seb5594/hass-cigarette_vending_finder-integration",
   "seb5594/hass-config_entry_panel-integration",
   "seb5594/hass-custom_integrations_translator-integration",
   "seb5594/hass-deepl_translator-integration",
