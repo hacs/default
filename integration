@@ -108,6 +108,7 @@
   "aderik/ha-automation-api",
   "Adil-MohammedK/bmtcapp-ntfy",
   "adkulik/ha-birdfy",
+  "adkulik/ha-weather-station-uploader",
   "ADNPolymerase/ha-landroid-vision",
   "ADNPolymerase/ha-oklyn",
   "ADNPolymerase/ha-oklyn-local",
