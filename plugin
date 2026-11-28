@@ -532,6 +532,7 @@
   "jesmak/github-repos-card",
   "jesmak/lists-card",
   "jesmak/map-feed-card",
+  "jesmak/map-timeline-card",
   "jesmak/mower-status-card",
   "jesmak/room-lights-card",
   "jesmak/steam-card-compact",
