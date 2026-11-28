@@ -1791,7 +1791,7 @@
   "FabianWeyerstall/ha-haushaltsbuch",
   "fabilau/hass_smart_offset_thermostat",
   "fabio-garavini/ha-openai-whisper-stt-api",
-  "fabiobrolo/intelbras_dvr",
+  "fabiobrolo/ha_intelbras_dvr",
   "fabiomatavelli/ha-felicity-solar-local",
   "fabioscarparo/ha-arpav-meteo",
   "fabioscarparo/ha-growatt-thor-cloud",
