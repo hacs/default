@@ -5183,6 +5183,7 @@
   "SolarBuffer/solarbuffer-beursprijzen",
   "SolarBuffer/solarbuffer-homeassistant",
   "solarcube-io/solar-cube-integration",
+  "solars-systems/tcl_heat_pump",
   "solarssk/ztm_warsaw",
   "solentlabs/cable_modem_monitor",
   "solentlabs/internet_health_monitor",
