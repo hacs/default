@@ -2825,6 +2825,7 @@
   "jonkristian/wasteplan_trv",
   "jonny190/ha-broadcast-body-scale",
   "jonnybergdahl/HomeAssistant_Dhcp_Monitor_Integration",
+  "jonnybergdahl/HomeAssistant_Krogoco_Integration",
   "jonnybergdahl/HomeAssistant_NewsbinPro_Integration",
   "jonnybergdahl/HomeAssistant_YT_Live_Integration",
   "jonnynch/ha-jemenaoutlook",
