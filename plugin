@@ -582,6 +582,7 @@
   "JUDESTRAHM/lovelace-glance-weather-card",
   "JUDESTRAHM/lovelace-room-banner-card",
   "JUDESTRAHM/lovelace-round-sensor-card",
+  "JUDESTRAHM/lovelace-zha-device-table-card",
   "JudewZA/lovelace-dehumidifier-card",
   "junalmeida/homeassistant-minimalistic-area-card",
   "junkfix/config-editor-card",
