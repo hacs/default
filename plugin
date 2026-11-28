@@ -580,6 +580,7 @@
   "JUDESTRAHM/activity-feed-card",
   "JUDESTRAHM/lovelace-board-monitor-card",
   "JUDESTRAHM/lovelace-camera-wall-card",
+  "JUDESTRAHM/lovelace-desk-height-card",
   "JUDESTRAHM/lovelace-entity-panel-card",
   "JUDESTRAHM/lovelace-glance-weather-card",
   "JUDESTRAHM/lovelace-room-banner-card",
