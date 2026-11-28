@@ -4939,6 +4939,7 @@
   "seb5594/hass-escpos-thermal-printing-designer-integration",
   "seb5594/hass-google_translator-integration",
   "seb5594/hass-ninebot_e_scooters-integration",
+  "seb5594/hass-perdis_roster-integration",
   "seb5594/hass-pwa_app_studio-integration",
   "seb5594/hass-ubpet_cat_litter_hub-integration",
   "seb5594/hass-vacuum_mapguard-integration",
