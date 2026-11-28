@@ -3230,60 +3230,60 @@
     "repository": "Beat-YT/hydropeak-ha",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/15130"
   },
   {
     "repository": "custom-components/gpodder",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/15130"
   },
   {
     "repository": "freakshock88/hass-populartimes",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/15130"
   },
   {
     "repository": "iluvdata/liebherr",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/15130"
   },
   {
     "repository": "kalanda/homeassistant-aemet-sensor",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/15130"
   },
   {
     "repository": "mpopovych-thinkhome/ha-larnitech",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/15130"
   },
   {
     "repository": "MrBearPresident/JBL_Soundbar",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/15130"
   },
   {
     "repository": "notf0und/hass-hume-ai-tts",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/15130"
   },
   {
     "repository": "robmarkcole/HASS-amazon-rekognition",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/15130"
   },
   {
     "repository": "samspade21/vacasa-ha",
     "reason": "Repository is archived",
     "removal_type": "remove",
-    "link": "N/A"
+    "link": "https://github.com/hacs/default/pull/15130"
   }
 ]
