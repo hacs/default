@@ -1474,6 +1474,7 @@
   "doccodyblue/ha-pvstrings",
   "dolezsa/thermal_comfort",
   "DomCim/HA-Schoolday",
+  "domdus/ha-ai-workspace",
   "Domenic1989/Haushaltshilfe",
   "DomiCreation/ble-string-lights-hacs",
   "dominikamann/ha-machine-learning-based-pv-forecast",
