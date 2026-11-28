@@ -5651,6 +5651,7 @@
   "tykovec/home-assistant-tritius",
   "Type7178/ha-kursometr",
   "TypQxQ/Sigenergy-Local-Modbus",
+  "TypQxQ/Sigenergy-Local-Modbus-mySigen",
   "ualex73/monitor_docker",
   "ufozone/ha-octopusnet",
   "ufozone/ha-unifi-voucher",
