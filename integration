@@ -884,6 +884,7 @@
   "cbource/anker-solix-x1-modbus",
   "cbrandlehner/marstek-power-meter",
   "cchip201/homeassistant-python-tuning",
+  "cchip201/pikvm-control-homeassistant",
   "ccpk1/AP_PoolSync",
   "ccpk1/controld-manager-ha",
   "ccpk1/firewalla-local-ha",
