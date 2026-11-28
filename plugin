@@ -575,6 +575,7 @@
   "jtubb/generator-hmi-card",
   "jtubb/Pylontech-Battery-Card",
   "JUDESTRAHM/activity-feed-card",
+  "JUDESTRAHM/lovelace-desk-height-card",
   "JUDESTRAHM/lovelace-glance-weather-card",
   "JUDESTRAHM/lovelace-room-banner-card",
   "JUDESTRAHM/lovelace-round-sensor-card",
