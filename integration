@@ -2095,6 +2095,7 @@
   "gornog/toque-companion-homeassistant",
   "goruck/home-generative-agent",
   "gotwalt/kemper-homeassistant",
+  "GpsM2/ha-hamster-fitness-integration",
   "Gr33n93/ha-waveshare-relay",
   "grablo/litmus-hass-integration",
   "grahamfairbank/ha-instant-on",
